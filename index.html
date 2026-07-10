@@ -90,21 +90,17 @@
     }
 
     .bottom-row {
-      height: 300px; -webkit-flex-shrink: 0; flex-shrink: 0; margin-bottom: 12px;
-      display: -webkit-box; display: -webkit-flex; display: flex;
-      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
-      -webkit-box-align: stretch; -webkit-align-items: stretch; align-items: stretch;
+      height: 150px; -webkit-flex-shrink: 0; flex-shrink: 0; margin-bottom: 12px;
     }
-    /* 日期两侧的按钮:左=时钟/刷新,右=AI日报 */
+    .bottom-row::after { content: ''; display: block; clear: both; }
+    /* 日期右侧的方形按钮 = AI日报 */
     .side-btn {
-      -webkit-flex-shrink: 0; flex-shrink: 0; width: 150px;
-      background: #fff; border-radius: 60px;
+      float: right; width: 150px; height: 150px;
+      background: #fff; border-radius: 44px;
       border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; border-right: 1px solid #DDDDDD; border-bottom: 3px solid #DDDDDD;
-      display: -webkit-box; display: -webkit-flex; display: flex;
-      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
-      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      text-align: center; line-height: 150px;
     }
-    .side-btn svg { width: 76px; height: 76px; }
+    .side-btn svg { width: 78px; height: 78px; vertical-align: middle; }
     /* 底部导航条整个隐藏(按钮已移到日期两侧,微信读书去掉) */
     #bottom-nav { display: none !important; }
 
@@ -114,11 +110,13 @@
       padding: 32px; width: 365px; height: 365px;
     }
     .date-card {
-      -webkit-box-flex: 1; -webkit-flex: 1 1 0%; flex: 1 1 0%; min-width: 0;
-      width: auto; height: auto; margin: 0 12px; text-align: center;
-      display: -webkit-box; display: -webkit-flex; display: flex;
-      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      float: left; width: 576px; height: 150px; margin-right: 12px; padding: 0 30px;
+      border-radius: 44px; text-align: center; line-height: 150px;
     }
+    .date-card .date-day { display: inline-block; vertical-align: middle; line-height: 1; font-size: 104px; font-weight: bold; color: #000; margin-right: 28px; }
+    .date-card .date-side { display: inline-block; vertical-align: middle; line-height: 1; text-align: left; }
+    .date-card .date-weekday { display: block; font-size: 30px; font-weight: 500; color: #000; margin-bottom: 12px; }
+    .date-card .date-lunar { display: block; font-size: 26px; color: #888; }
     .date-weekday { font-size: 32px; font-weight: 500; color: #000; margin-bottom: 16px; -webkit-flex-shrink: 0; flex-shrink: 0; }
     .date-rule { height: 1px; background: #e0e0e0; -webkit-flex-shrink: 0; flex-shrink: 0; }
     .date-day-wrap {
@@ -1100,20 +1098,6 @@
           <div class="clock-style-btn" onclick="openClockSettings()"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2291_432)"><rect x="12.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 12.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="19.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 19.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="5.01001" y="11.999" width="0.01" height="0.01" transform="rotate(90 5.01001 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/></g><defs><clipPath id="clip0_2291_432"><rect width="24" height="24" fill="white"/></clipPath></defs></svg></div>
         </div>
         <div class="bottom-row">
-          <div class="side-btn" onclick="switchTab(0)">
-            <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="28" cy="28" r="21" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
-              <path d="M25.667 18.6666V30.3333H37.3337" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </div>
-          <div class="date-card">
-            <div class="date-weekday" id="weekday-month">星期四 四月</div>
-            <div class="date-rule"></div>
-            <div class="date-day-wrap">
-              <div class="date-day" id="day-number">09</div>
-            </div>
-            <div class="date-lunar" id="lunar-date">二月廿二</div>
-          </div>
           <div class="side-btn" onclick="switchTab(4)">
             <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clipNews)">
@@ -1124,6 +1108,13 @@
               </g>
               <defs><clipPath id="clipNews"><rect width="56" height="56" fill="white"/></clipPath></defs>
             </svg>
+          </div>
+          <div class="date-card">
+            <span class="date-day" id="day-number">09</span>
+            <span class="date-side">
+              <span class="date-weekday" id="weekday-month">星期四 四月</span>
+              <span class="date-lunar" id="lunar-date">二月廿二</span>
+            </span>
           </div>
         </div>
       </div>
