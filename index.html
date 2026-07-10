@@ -1585,6 +1585,19 @@
     var elDay     = document.getElementById('day-number');
     var elLunar   = document.getElementById('lunar-date');
 
+    /* 局部墨水屏刷新:只在"时钟卡片"内黑白闪一下重绘,模拟翻牌,而不是整屏刷白 */
+    function refreshClockCard(apply) {
+      var card = document.querySelector('.clock-card');
+      if (!card) { apply(); return; }
+      var ov = document.createElement('div');
+      ov.style.cssText = 'position:absolute;top:0;left:0;right:0;bottom:0;z-index:50;background:#000;';
+      card.appendChild(ov);
+      setTimeout(function() {
+        ov.style.background = '#fff';
+        setTimeout(function() { apply(); if (ov.parentNode) card.removeChild(ov); }, 110);
+      }, 110);
+    }
+
     function updateClock() {
       var now = getLocalDate();
       function applyClock() {
@@ -1595,7 +1608,7 @@
         elLunar.textContent   = toLunarLabel(now);
       }
       /* 墨水屏:在时钟页时,走时要黑白闪一下强制重绘,否则屏幕卡在旧时间(不翻牌) */
-      if (currentTab === 0) { forceEinkRefresh(applyClock); }
+      if (currentTab === 0) { refreshClockCard(applyClock); }
       else { applyClock(); }
     }
 
@@ -1620,7 +1633,13 @@
 
     updateClock();
     fetchTimezone();
-    setInterval(updateClock, 60000);
+    /* 对齐整分:每次算到下一个 :00 秒再跳,翻牌卡在整分、不漂移 */
+    (function scheduleMinuteTick() {
+      var d = new Date();
+      var ms = (60 - d.getSeconds()) * 1000 - d.getMilliseconds();
+      if (ms < 250) ms += 60000; /* 太靠近整分就等下一分,避免连跳 */
+      setTimeout(function() { updateClock(); scheduleMinuteTick(); }, ms);
+    })();
 
     /* ── Noodle Timer ───────────────────────────────────── */
     var noodleState = 0;
