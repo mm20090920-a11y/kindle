@@ -2613,14 +2613,18 @@
         var w = window.innerWidth, h = window.innerHeight;
         if (w === lastW && h === lastH) return; /* 值没变就跳过，避免墨水屏重复刷新 */
         lastW = w; lastH = h;
-        var scale = w / 758;
+        /* 横版:把 758 宽的设计旋转 90°,让设计的「宽」铺满屏幕的「高」,设计的「高」铺满屏幕的「宽」 */
+        var scale = h / 758;
+        var bodyH = w / scale;                 /* 设计高度 = 旋转后铺满屏幕宽度 */
         document.documentElement.style.height = h + 'px';
         document.documentElement.style.overflow = 'hidden';
-        document.body.style.webkitTransform = 'scale(' + scale + ')';
-        document.body.style.transform = 'scale(' + scale + ')';
+        document.body.style.width = '758px';
+        document.body.style.height = bodyH + 'px';
         document.body.style.webkitTransformOrigin = '0 0';
         document.body.style.transformOrigin = '0 0';
-        document.body.style.height = (h / scale) + 'px';
+        var t = 'translate(' + w + 'px,0) rotate(90deg) scale(' + scale + ')';
+        document.body.style.webkitTransform = t;
+        document.body.style.transform = t;
       }
       function resizeObS1Image() {
         var illus = document.querySelector('#ob-s1 .ob-s1-illus');
