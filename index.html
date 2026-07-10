@@ -1,0 +1,2574 @@
+<!-- Kindle Noodle v1.0 -->
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="43200">
+  <meta name="version" content="1.0">
+  <title>Kindle Noodle</title>
+  <script>document.write('<style>#ob-overlay{display:none}</style>');</script><!-- 引导已禁用:直接进时钟 -->
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box; margin: 0; padding: 0;
+      -webkit-animation: none !important; animation: none !important;
+      -webkit-transition: none !important; transition: none !important;
+    }
+
+    html { height: 100%; overflow: hidden; }
+
+    body {
+      width: 758px; height: 100%;
+      background: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      overflow: hidden;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+
+    /* ── Page Wrapper ──────────────────────────────────── */
+    #page-wrapper {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0; overflow: hidden;
+    }
+
+    .page {
+      width: 758px; overflow: hidden;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0;
+    }
+
+    /* ── Clock Page ────────────────────────────────────── */
+    .content {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0; padding: 8px 8px 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+
+    .clock-card {
+      background: #fff; border-radius: 60px;
+      border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; border-right: 1px solid #DDDDDD; border-bottom: 3px solid #DDDDDD;
+      padding: 31px 31px;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0; margin-bottom: 12px; overflow: hidden;
+      position: relative;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+
+    .clock-digits {
+      width: 678px; overflow: hidden;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: stretch; -webkit-align-items: stretch; align-items: stretch;
+    }
+
+    .digit-card {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      background: #000; border-radius: 46px; overflow: hidden; position: relative;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .clock-colon + .digit-card { margin-left: 24px; }
+
+    .digit-number {
+      font-weight: bold; font-size: 260px; color: #fff;
+      line-height: 1; white-space: nowrap; position: relative; z-index: 1;
+    }
+
+    .digit-line {
+      position: absolute; top: 50%; left: 34px; right: 34px;
+      height: 6px; margin-top: -3px; background: rgba(0,0,0,.85); z-index: 2;
+    }
+
+    .bottom-row {
+      height: 300px; -webkit-flex-shrink: 0; flex-shrink: 0; margin-bottom: 12px;
+    }
+    .bottom-row::after { content: ''; display: block; clear: both; }
+
+    .date-card, .quote-card {
+      float: left; background: #fff; border-radius: 60px;
+      border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD; border-right: 1px solid #DDDDDD; border-bottom: 3px solid #DDDDDD;
+      padding: 32px; width: 365px; height: 365px;
+    }
+    .date-card {
+      margin-right: 0; width: 100%; height: 300px; text-align: center;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .date-weekday { font-size: 32px; font-weight: 500; color: #000; margin-bottom: 16px; -webkit-flex-shrink: 0; flex-shrink: 0; }
+    .date-rule { height: 1px; background: #e0e0e0; -webkit-flex-shrink: 0; flex-shrink: 0; }
+    .date-day-wrap {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .date-day { font-size: 120px; font-weight: bold; color: #000; line-height: 1; }
+    .date-lunar { font-size: 32px; color: #ababab; -webkit-flex-shrink: 0; flex-shrink: 0; }
+
+    .quote-card {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .quote-label {
+      background: #ededed; border-radius: 38px; height: 56px; line-height: 56px;
+      text-align: center; font-size: 24px; font-weight: 500; color: #000;
+      margin-bottom: 16px; -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .quote-body-wrap {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      overflow: hidden; padding-bottom: 16px;
+    }
+    .quote-body {
+      font-size: 30px; font-weight: 500; color: #000;
+      line-height: 1.4; overflow: hidden;
+    }
+    .quote-author { font-size: 22px; color: #ababab; text-align: right; -webkit-flex-shrink: 0; flex-shrink: 0; }
+
+    /* ── Nav Bar ───────────────────────────────────────── */
+    #bottom-nav, #daily-nav {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: start; -webkit-align-items: flex-start; align-items: flex-start;
+      height: 90px; -webkit-flex-shrink: 0; flex-shrink: 0;
+      margin: 0 8px 8px;
+    }
+    .nav-card {
+      background: #fff; border-radius: 60px;
+      border-top: 1px solid #DDDDDD; border-left: 1px solid #DDDDDD;
+      border-right: 1px solid #DDDDDD; border-bottom: 3px solid #DDDDDD;
+      height: 90px; position: relative; overflow: hidden;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .nav-card-flex { -webkit-box-flex: 1; -webkit-flex: 1 0 0; flex: 1 0 0; min-width: 0; }
+    .nav-card-main {
+      padding: 16px 64px 18px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-align: start; -webkit-align-items: flex-start; align-items: flex-start;
+    }
+    .nav-card-sm { padding: 16px 32px 18px; }
+    .nav-card-gap { margin-right: 12px; }
+    .nav-icons-row {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-pack: distribute; -webkit-justify-content: space-around; justify-content: space-around;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      width: 100%;
+    }
+    .nav-active-bar {
+      display: none;
+      position: absolute; bottom: 0; left: 49px;
+      width: 86px; height: 6px; background: #000;
+      border-radius: 58px 58px 0 0;
+    }
+    .nav-icon { width: 56px; height: 56px; cursor: pointer; -webkit-flex-shrink: 0; flex-shrink: 0; overflow: hidden; }
+    .nav-icon svg, .nav-icon img { width: 56px; height: 56px; display: block; }
+
+    /* ── Clock Colon (module style) ───────────────────── */
+    .clock-colon {
+      display: none;
+      font-size: 100px; font-weight: bold; color: #CDCDCD;
+      line-height: 1; text-align: center;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+
+    /* ── Clock Style Button ────────────────────────────── */
+    .clock-style-btn {
+      position: absolute; bottom: 4px; left: 50%; margin-left: -24px;
+      width: 48px; height: 48px; cursor: pointer;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: end; -webkit-justify-content: flex-end; justify-content: flex-end;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+
+    /* ── Module Clock Style ─────────────────────────────── */
+    body.clock-module .digit-card {
+      background: #fff;
+      border-top: 3px solid #000; border-left: 5px solid #000;
+      border-right: 5px solid #000; border-bottom: 10px solid #000;
+    }
+    body.clock-module .digit-number { color: #000; }
+    body.clock-module .digit-line { display: none; }
+    body.clock-module .clock-colon {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      margin-left: 8px;
+    }
+    body.clock-module .clock-colon + .digit-card { margin-left: 8px; }
+
+    /* ── Clock Settings Panel ───────────────────────────── */
+    #clock-settings-panel {
+      display: none; position: fixed;
+      bottom: 0; left: 0; right: 0; z-index: 5000;
+    }
+    .csp-sheet {
+      background: #fff;
+      border-top: 2px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000;
+      border-radius: 60px 60px 0 0;
+      padding: 32px;
+    }
+    .csp-title { font-size: 48px; font-weight: bold; color: #000; margin-bottom: 8px; }
+    .csp-subtitle { font-size: 24px; color: #555; margin-bottom: 32px; line-height: 1.4; }
+    .csp-cards {
+      margin-bottom: 32px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+    }
+    .csp-card {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      border: 2px solid #DDDDDD; border-radius: 60px;
+      padding: 28px; cursor: pointer; position: relative;
+    }
+    .csp-card + .csp-card { margin-left: 16px; }
+    .csp-card.is-selected { border-color: #000; border-width: 2px; }
+    .csp-preview {
+      height: 146px; border-radius: 16px; margin-bottom: 24px;
+      overflow: hidden;
+      -webkit-background-size: cover; background-size: cover;
+      background-position: center center; background-repeat: no-repeat;
+    }
+    .csp-preview-flip { background-image: url('img/preview-flip.png'); }
+    .csp-preview-module { background-image: url('img/preview-module.png'); }
+    .csp-card-title { font-size: 32px; font-weight: bold; color: #000; margin-bottom: 8px; }
+    .csp-card-subtitle { font-size: 24px; color: #ABABAB; }
+    .csp-indicator {
+      position: absolute; bottom: 24px; right: 24px;
+      width: 48px; height: 48px;
+      border: 2px solid #000; border-radius: 99px; background: #fff;
+    }
+    .csp-card.is-selected .csp-indicator { background: #000; }
+    .csp-check {
+      display: none; position: absolute;
+      top: 50%; left: 50%; margin-top: -14px; margin-left: -14px;
+      width: 28px; height: 28px; line-height: 28px;
+      text-align: center; font-size: 22px; color: #fff; font-weight: bold;
+    }
+    .csp-card.is-selected .csp-check { display: block; }
+    .csp-btns {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+    }
+    .csp-btn {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      height: 80px; border-radius: 45px; font-size: 32px; font-weight: bold;
+      cursor: pointer; text-align: center; line-height: 80px;
+    }
+    .csp-btn-cancel { border: 1px solid #000; background: #fff; color: #000; }
+    .csp-btn-confirm { margin-left: 16px; background: #030303; color: #fff; border: none; }
+
+    /* ── Noodle Page ───────────────────────────────────── */
+    .noodle-page {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .noodle-state {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .noodle-header { -webkit-flex-shrink: 0; flex-shrink: 0; padding: 31px 63px 0; text-align: center; }
+    .noodle-title { font-size: 48px; font-weight: bold; color: #000; line-height: 1.2; }
+    .noodle-subtitle { font-size: 24px; color: #555; margin-top: 8px; }
+    .noodle-img-wrap {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      overflow: hidden; position: relative;
+    }
+    .noodle-img-wrap img {
+      position: absolute; bottom: 0; left: 50%;
+      -webkit-transform: translateX(-50%); transform: translateX(-50%);
+      width: 564px; height: 564px;
+    }
+    .noodle-actions {
+      -webkit-flex-shrink: 0; flex-shrink: 0; padding: 0 56px 24px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .noodle-actions-center {
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+    }
+    .noodle-time-group {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; margin-right: 24px;
+    }
+    .ntg-btn {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      padding: 22px 32px; cursor: pointer; border: 2px solid #000; background: none;
+    }
+    .ntg-left { border-radius: 45px 0 0 45px; margin-right: -1px; }
+    .ntg-right { border-radius: 0 45px 45px 0; }
+    .ntg-btn.selected { background: #000; }
+    .ntg-val { font-size: 32px; font-weight: bold; line-height: 1; color: #000; }
+    .ntg-unit { font-size: 24px; line-height: 1; color: #000; margin-left: 4px; }
+    .ntg-btn.selected .ntg-val, .ntg-btn.selected .ntg-unit { color: #fff; }
+    .btn-noodle-start {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      background: #000; color: #fff; border-radius: 45px; border: 2px solid #000;
+      font-size: 32px; font-weight: bold; line-height: 1; padding: 22px 32px; cursor: pointer;
+    }
+    .btn-noodle-outline {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      border: 2px solid #000; border-radius: 45px; background: none;
+      font-size: 32px; font-weight: bold; line-height: 1; color: #000;
+      padding: 22px 32px; cursor: pointer; -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .btn-noodle-fill {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      background: #000; color: #fff; border-radius: 45px;
+      font-size: 32px; font-weight: bold; line-height: 1; padding: 22px 32px; cursor: pointer;
+    }
+
+    /* ── Reading Page ──────────────────────────────────── */
+    .reading-page {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      padding: 40px 56px 48px;
+    }
+    .reading-header {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-pack: justify; -webkit-justify-content: space-between; justify-content: space-between;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      margin-bottom: 40px;
+    }
+    .reading-header-text {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .reading-title { font-size: 48px; font-weight: bold; color: #000; line-height: 1.2; margin-bottom: 8px; }
+    .reading-subtitle { font-size: 24px; color: #555; }
+    .reading-icon { width: 160px; height: 160px; -webkit-flex-shrink: 0; flex-shrink: 0; }
+    .reading-icon svg { display: block; }
+
+    .reading-steps { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0; margin-bottom: 32px; }
+    .reading-step {
+      border: 2px solid #000; border-radius: 32px; padding: 24px; margin-bottom: 24px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .reading-step:last-child { margin-bottom: 0; }
+    .step-num {
+      width: 56px; height: 56px; -webkit-flex-shrink: 0; flex-shrink: 0;
+      background: #000; color: #fff; border-radius: 12px;
+      font-size: 40px; font-weight: bold; text-align: center; line-height: 56px;
+      margin-right: 18px;
+    }
+    .step-text { overflow: hidden; }
+    .step-main { font-size: 32px; font-weight: bold; color: #000; line-height: 1.3; }
+    .step-sub { font-size: 24px; color: #555; margin-top: 4px; }
+
+    .reading-cta-section {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .reading-cta {
+      background: #000; color: #fff; border-radius: 45px;
+      font-size: 32px; font-weight: bold; text-align: center;
+      padding: 22px 32px; cursor: pointer; margin-bottom: 24px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      width: 100%; -webkit-box-sizing: border-box; box-sizing: border-box;
+    }
+    .reading-footer { font-size: 24px; color: #000; text-align: center; -webkit-flex-shrink: 0; flex-shrink: 0; }
+
+    /* ── Pomodoro Page ────────────────────────────────── */
+    .pomo-page {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      position: relative;
+    }
+    .pomo-hint {
+      position: absolute; bottom: 20px; left: 0; right: 0;
+      text-align: center; font-size: 20px; color: #666666;
+      pointer-events: none;
+    }
+
+    .pomo-setup-header {
+      -webkit-flex-shrink: 0; flex-shrink: 0; padding: 32px 56px 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-pack: justify; -webkit-justify-content: space-between; justify-content: space-between;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pomo-header-text {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .pomo-header-img {
+      width: 192px; height: 192px; overflow: hidden;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .pomo-header-img img { display: block; width: 216px; height: 216px; margin-left: -12px; margin-top: -12px; }
+    .pomo-setup-spacer { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0; }
+    .pomo-title { font-size: 48px; font-weight: bold; color: #000; line-height: 1.2; margin-bottom: 8px; }
+    .pomo-subtitle { font-size: 24px; color: #555; }
+
+    .pomo-config { -webkit-flex-shrink: 0; flex-shrink: 0; padding: 0 56px; }
+    .pomo-config-row { margin-bottom: 24px; }
+    .pomo-config-row:last-child { margin-bottom: 0; }
+    .pomo-config-label { font-size: 24px; color: #555; margin-bottom: 16px; }
+
+    .pomo-seg3-wrap {
+      border: 2px solid #000; border-radius: 45px; overflow: hidden;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      width: 100%;
+    }
+    .pomo-seg3 {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+    }
+    .pseg-btn {
+      width: 33.333%; -webkit-box-flex: 1; -webkit-flex: 1 1 0%; flex: 1 1 0%;
+      min-width: 0; -webkit-box-sizing: border-box; box-sizing: border-box;
+      cursor: pointer; padding: 16px 8px; color: #000;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pseg-val { font-size: 32px; font-weight: bold; line-height: 1; }
+    .pseg-unit { font-size: 24px; line-height: 1; margin-left: 4px; }
+    .pseg-btn.selected { background: #000; border-radius: 45px; }
+    .pseg-btn.selected .pseg-val,
+    .pseg-btn.selected .pseg-unit { color: #fff; }
+
+    .pomo-start-btn {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      margin: 48px 56px 56px;
+      background: #000; color: #fff; border-radius: 45px;
+      font-size: 32px; font-weight: bold; line-height: 1; text-align: center;
+      padding: 22px 40px; cursor: pointer;
+    }
+
+    .pomo-timer-screen {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .pomo-top-section {
+      position: relative; -webkit-flex-shrink: 0; flex-shrink: 0;
+      height: 430px; overflow: hidden;
+    }
+    .pomo-illus {
+      position: absolute; top: 13px; left: 106px; width: 546px; height: 366px; overflow: hidden;
+    }
+    .pomo-illus img { width: 100%; height: 100%; display: block; }
+    .pomo-wave-container {
+      position: absolute; top: 300px; left: -27px; width: 812px; height: 140px;
+      overflow: visible;
+    }
+    .pomo-wave-gray, .pomo-wave-black {
+      position: absolute; top: 0; left: 0; height: 100%;
+    }
+    .pomo-wave-gray { width: 100%; overflow: visible; }
+    .pomo-wave-gray svg { display: block; width: 100%; height: 100%; overflow: visible; }
+    .pomo-wave-black { overflow: visible; width: 812px; }
+    .pomo-wave-black svg { display: block; width: 812px; height: 100%; overflow: visible; }
+    .pomo-mid-section {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pomo-timer-info { text-align: center; }
+    .pomo-info-row {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      margin-bottom: 8px;
+    }
+    .pomo-info-round, .pomo-info-phase { font-size: 32px; color: #555; line-height: 1; }
+    .pomo-info-sep { width: 2px; height: 33px; background: #ccc; margin: 0 16px; -webkit-flex-shrink: 0; flex-shrink: 0; }
+    .pomo-clock { font-size: 88px; font-weight: bold; color: #000; line-height: 1; }
+    .pomo-new-controls {
+      -webkit-flex-shrink: 0; flex-shrink: 0; padding: 16px 0;
+    }
+    .pomo-focus-mode .pomo-mid-section {
+      -webkit-box-pack: start; -webkit-justify-content: flex-start; justify-content: flex-start;
+      padding-top: 76px;
+    }
+    .pomo-focus-mode .pomo-new-controls {
+      padding: 0 0 80px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pomo-ctrl-side {
+      width: 76px; height: 76px; border-radius: 38px; border: 2px solid #000; cursor: pointer;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      margin: 0 24px;
+    }
+    .pomo-ctrl-side svg { width: 40px; height: 40px; display: block; }
+    .pomo-ctrl-center {
+      width: 100px; height: 100px; border-radius: 50px; background: #000; cursor: pointer;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pomo-ctrl-center svg { width: 56px; height: 56px; display: block; }
+
+    .pomo-done-wrap {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      text-align: center; padding: 0 40px;
+    }
+    .pomo-done-circle {
+      width: 300px; height: 300px; border-radius: 150px; border: 5px solid #000;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      margin-bottom: 40px;
+    }
+    .pomo-done-number { font-size: 120px; font-weight: bold; color: #000; line-height: 1; }
+    .pomo-done-sublabel { font-size: 24px; color: #555; }
+    .pomo-done-title { font-size: 48px; font-weight: bold; color: #000; line-height: 1.2; margin-bottom: 8px; }
+    .pomo-done-sub { font-size: 24px; color: #555; margin-bottom: 48px; }
+    .pomo-done-actions {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .pomo-btn-again {
+      border: 4px solid #000; border-radius: 45px; background: none;
+      font-size: 32px; font-weight: bold; line-height: 1; color: #000;
+      padding: 16px 32px; cursor: pointer; margin-right: 24px;
+    }
+    .pomo-btn-finish {
+      background: #000; color: #fff; border-radius: 45px;
+      border: 4px solid #000;
+      font-size: 32px; font-weight: bold; line-height: 1;
+      padding: 16px 32px; cursor: pointer;
+    }
+
+    /* ── Onboarding ──────────────────────────────────────── */
+    #ob-overlay {
+      display: none !important; /* 引导已禁用:直接进时钟 */
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+      background: #fff; z-index: 10000; overflow: hidden;
+    }
+    .ob-screen {
+      position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+      background: #fff;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    /* Vertical micro-label top-right */
+    .ob-vlabel {
+      position: absolute; top: 50px; right: 50px;
+      font-size: 14px; color: #666666; letter-spacing: 2px; font-weight: 500;
+      -webkit-writing-mode: vertical-rl; writing-mode: vertical-rl;
+      z-index: 2;
+    }
+    /* Shared dots */
+    .ob-dot {
+      display: inline-block; width: 10px; height: 10px; border-radius: 5px;
+      background: transparent; border: 1.5px solid #000; margin: 0 6px;
+    }
+    .ob-dot-active { background: #000; }
+    /* NavFooter: skip | dots | arrow (3-col) */
+    .ob-nav-footer { -webkit-flex-shrink: 0; flex-shrink: 0; padding: 16px 48px 36px; }
+    .ob-nav-row {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .ob-nav-skip {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      width: 88px; height: 88px; border-radius: 44px;
+      border: 2px solid #000; background: transparent;
+      font-size: 22px; color: #000; font-weight: 500; letter-spacing: 2px;
+      cursor: pointer; text-align: center; line-height: 88px;
+      font-family: inherit; display: block;
+    }
+    .ob-nav-dots { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; text-align: center; }
+    .ob-nav-arrow {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      width: 88px; height: 88px; border-radius: 44px;
+      background: #000; cursor: pointer; border: none;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+    }
+    /* ── Screen 1 · Brand Reveal (居中 + 设计感) ── */
+    .ob-s1-eyebrow {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      padding: 56px 56px 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      font-size: 22px; font-weight: 500; color: #666666; letter-spacing: 2px;
+    }
+    .ob-s1-eyebrow-line { display: inline-block; width: 36px; height: 1px; background: #c8c8c8; margin: 0 14px; }
+    .ob-s1-illus {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0; overflow: hidden;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      padding: 0 24px;
+    }
+    .ob-s1-illus img { width: 564px; height: 564px; max-width: 100%; max-height: 100%; }
+    .ob-s1-title { -webkit-flex-shrink: 0; flex-shrink: 0; text-align: center; padding: 0 56px 8px; }
+    .ob-s1-t1 { font-size: 76px; font-weight: 800; color: #000; line-height: 0.95; letter-spacing: -1px; }
+    .ob-s1-t2 {
+      margin-top: 10px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      font-size: 76px; font-weight: 800; color: #000; line-height: 0.95; letter-spacing: -1px;
+    }
+    .ob-t2-dash { display: inline-block; width: 56px; height: 2px; background: #000; margin: 0 18px; }
+    .ob-s1-sub { margin-top: 18px; font-size: 18px; color: #666666; font-style: italic; letter-spacing: 1px; }
+    /* ── Screen 2 · Five Roles (2×3 outline grid) ── */
+    .ob-s2-head { -webkit-flex-shrink: 0; flex-shrink: 0; padding: 36px 56px 12px; position: relative; }
+    .ob-s2-main { font-size: 60px; font-weight: 800; color: #000; letter-spacing: -1px; line-height: 1.02; }
+    .ob-s2-sub { margin: 10px 0 0; font-size: 24px; color: #666666; font-weight: 400; line-height: 1.4; }
+    /* ── Screen 2 · Bento Grid (02A · 大方块) ── */
+    .ob-bento {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      padding: 6px 48px 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .ob-bento-top {
+      -webkit-box-flex: 2; -webkit-flex: 2; flex: 2; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      margin-bottom: 12px;
+    }
+    .ob-bento-bot {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+    }
+    .ob-bento-rcol {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0; margin-left: 12px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .ob-tile {
+      position: relative; overflow: hidden;
+      border: 1.5px solid #e2e1dd; border-radius: 18px; padding: 15px 18px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .ob-tile-big {
+      -webkit-box-flex: 2; -webkit-flex: 2; flex: 2;
+      border-color: #111; border-radius: 22px; padding: 20px 22px; margin-right: 12px;
+    }
+    .ob-tile-sm { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; }
+    .ob-tile-sm + .ob-tile-sm { margin-top: 12px; }
+    .ob-tile-wide { -webkit-box-flex: 2; -webkit-flex: 2; flex: 2; margin-left: 12px; }
+    /* Bleed decorative icon (bottom-right, cropped by overflow:hidden) */
+    .ob-bleed { position: absolute; right: -26px; bottom: -30px; pointer-events: none; line-height: 0; }
+    /* Sequence number tag */
+    .ob-tno { position: absolute; top: 12px; right: 14px; font-size: 12px; font-weight: 600; letter-spacing: 1px; color: #c4c3bf; }
+    /* "默认待机" badge on clock tile */
+    .ob-tile-badge {
+      display: inline-block; border: 1px solid #ccc; border-radius: 20px;
+      padding: 5px 13px; font-size: 13px; color: #999; font-weight: 500;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    /* Tile text */
+    .ob-tn { font-size: 19px; font-weight: 700; color: #111; line-height: 1.15; margin-top: 10px; }
+    .ob-td { font-size: 13px; color: #666666; line-height: 1.4; margin-top: 5px; }
+    .ob-tile-big .ob-tn { font-size: 30px; font-weight: 800; letter-spacing: -0.5px; margin-top: 0; }
+    .ob-tile-big .ob-td { font-size: 15px; margin-top: 9px; max-width: 220px; }
+    /* Wide tile row layout */
+    .ob-wide-row {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    /* ── Screen 2 · List Layout (02C · 目录列表) ── */
+    .ob-s2-list {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      padding: 20px 48px 40px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+    }
+    .ob-s2-row {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      border-top: 1px solid #dddddd;
+    }
+    .ob-s2-row:first-child { border-top: none; }
+    .ob-s2-row-icon {
+      width: 64px; -webkit-flex-shrink: 0; flex-shrink: 0; margin-right: 22px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+    }
+    .ob-s2-row-text { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-width: 0; margin-right: 22px; }
+    .ob-s2-row-name { font-size: 28px; font-weight: 700; line-height: 1.18; color: #111; }
+    .ob-s2-row-desc { font-size: 20px; color: #666666; line-height: 1.4; margin-top: 5px; }
+    .ob-s2-row-num { font-size: 26px; font-weight: 600; color: #c4c3bf; -webkit-flex-shrink: 0; flex-shrink: 0; }
+    /* ── Screen 3 · Tips & Start ── */
+    .ob-s3-head { -webkit-flex-shrink: 0; flex-shrink: 0; padding: 40px 56px 16px; }
+    .ob-s3-eyebrow { font-size: 24px; font-weight: 400; color: #666666; letter-spacing: 1px; margin-bottom: 10px; }
+    .ob-s3-title { font-size: 60px; font-weight: 800; color: #000; line-height: 1.02; letter-spacing: -1px; }
+    .ob-tips {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-height: 0;
+      padding: 0 48px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+    }
+    .ob-tip-card {
+      border: 1.5px solid #d8d8d8; border-radius: 24px;
+      padding: 24px 30px; overflow: hidden; background: #fff; position: relative;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .ob-tip-card + .ob-tip-card { margin-top: 16px; }
+    .ob-tip-icon-bg { position: absolute; right: -34px; top: 50%; margin-top: -72px; pointer-events: none; line-height: 0; }
+    .ob-tip-num {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      width: 64px; height: 64px; border-radius: 16px;
+      background: #000; color: #fff; font-size: 32px; font-weight: 700;
+      text-align: center; line-height: 64px; margin-right: 24px;
+    }
+    .ob-tip-body { -webkit-box-flex: 1; -webkit-flex: 1; flex: 1; min-width: 0; padding-right: 90px; }
+    .ob-tip-title { font-size: 28px; font-weight: 700; color: #000; line-height: 1.2; }
+    .ob-tip-sub { font-size: 20px; color: #666666; margin-top: 7px; line-height: 1.4; }
+    .ob-tip-note { font-size: 20px; color: #666666; margin-top: 9px; line-height: 1.35; }
+    .ob-cta {
+      -webkit-flex-shrink: 0; flex-shrink: 0; padding: 16px 48px 0;
+    }
+    .ob-start-btn {
+      display: block; width: 100%;
+      height: 76px; border-radius: 38px;
+      background: #000; color: #fff; border: none;
+      font-size: 26px; font-weight: 600; letter-spacing: 1px;
+      cursor: pointer; margin-bottom: 24px; font-family: inherit;
+    }
+    .ob-tail { font-size: 24px; color: #666; text-align: center; }
+
+    /* ── Daily Report Page ────────────────────────────────── */
+    .daily-page {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      min-height: 0; overflow: hidden;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: vertical; -webkit-flex-direction: column; flex-direction: column;
+      padding: 40px 56px 32px;
+    }
+    .daily-status {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: center; -webkit-justify-content: center; justify-content: center;
+      font-size: 24px; color: #666; text-align: center;
+    }
+    .daily-header {
+      margin-bottom: 20px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-header-title {
+      font-size: 80px; font-weight: 900; color: #000;
+      line-height: 1; font-family: Georgia, serif;
+    }
+    .daily-header-hot { color: #666; }
+    .daily-header-meta {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      margin-top: 14px;
+    }
+    .daily-header-date { font-size: 22px; color: #666; white-space: nowrap; }
+    .daily-header-line {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      height: 1px; background: #ccc; margin: 0 20px;
+    }
+    .daily-header-label { font-size: 18px; color: #999; white-space: nowrap; letter-spacing: 3px; }
+    .daily-toc-section {
+      font-size: 32px; font-weight: bold; color: #000;
+      margin-top: 28px; margin-bottom: 16px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-toc-num { color: #aaa; font-weight: normal; }
+    .daily-toc-count { font-weight: normal; color: #aaa; }
+    .daily-toc-section .daily-toc-num { font-size: 64px; font-weight: bold; }
+    .daily-toc-item {
+      font-size: 28px; color: #000; line-height: 1.4;
+      min-height: 64px; padding: 8px 0;
+      overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+      text-decoration: underline; text-underline-offset: 6px; text-decoration-color: #ccc;
+      cursor: pointer; -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-toc-item.read { color: #bbb; text-decoration-color: #ddd; }
+    .daily-art-meta {
+      font-size: 24px; color: #999; margin-bottom: 10px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-art-divider {
+      height: 2px; background: #000; margin-bottom: 18px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-art-title {
+      font-size: 36px; font-weight: bold; color: #000;
+      line-height: 1.3; margin-bottom: 20px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-art-body {
+      font-size: 28px; color: #333; line-height: 1.7; margin-bottom: 12px;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-art-source {
+      font-size: 22px; color: #999;
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+    }
+    .daily-art-gap { height: 40px; -webkit-flex-shrink: 0; flex-shrink: 0; }
+
+    /* ── Daily Mode Nav (second card layout) ─────────────── */
+    .daily-right-row {
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      width: 100%;
+    }
+    .daily-right-row .nav-icon { margin-right: 40px; }
+    .daily-sep {
+      -webkit-flex-shrink: 0; flex-shrink: 0;
+      width: 1px; height: 56px; background: #ddd; margin-right: 40px;
+    }
+    .daily-page-btns {
+      -webkit-box-flex: 1; -webkit-flex: 1; flex: 1;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-orient: horizontal; -webkit-flex-direction: row; flex-direction: row;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+      -webkit-box-pack: justify; -webkit-justify-content: space-between; justify-content: space-between;
+    }
+    .daily-nav-btn {
+      font-size: 32px; font-weight: 500; color: #000; cursor: pointer; min-height: 44px;
+      display: -webkit-box; display: -webkit-flex; display: flex;
+      -webkit-box-align: center; -webkit-align-items: center; align-items: center;
+    }
+    .daily-nav-btn.disabled { color: #bbb; cursor: default; }
+    .daily-page-indicator { font-size: 28px; color: #999; text-align: center; }
+  </style>
+</head>
+<body>
+
+  <!-- ── Onboarding Overlay (first-run only) ──────────── -->
+  <div id="ob-overlay">
+
+    <!-- Screen 1: Brand Reveal (original layout) -->
+    <div id="ob-s1" class="ob-screen">
+      <div class="ob-s1-illus" style="padding-top:16px;">
+        <img src="img/kindle_noodle_2_v2.png" alt="Kindle Noodle">
+      </div>
+      <div style="-webkit-flex-shrink:0;flex-shrink:0;text-align:center;padding:0 48px;">
+        <div style="font-size:64px;font-weight:900;color:#000;letter-spacing:-1px;line-height:1.05;">Kindle Noodle</div>
+        <div style="margin-top:12px;font-size:22px;color:#666666;font-style:italic;letter-spacing:0.5px;">Much More Than A Soup</div>
+        <div style="margin-top:28px;font-size:26px;color:#666;line-height:1.5;">不只是泡面，是你 Kindle 的新生活</div>
+      </div>
+      <div class="ob-nav-footer">
+        <div class="ob-nav-row">
+          <div class="ob-nav-skip" onclick="obFinish()">跳过</div>
+          <div class="ob-nav-dots">
+            <span class="ob-dot ob-dot-active"></span>
+            <span class="ob-dot"></span>
+            <span class="ob-dot"></span>
+          </div>
+          <div class="ob-nav-arrow" onclick="obGo(2)">
+            <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+              <path d="M8 17 L26 17 M19 9 L27 17 L19 25" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Screen 2: Five Roles (2×3 outline grid, brand emblem centre) -->
+    <div id="ob-s2" class="ob-screen" style="display:none">
+
+      <div class="ob-s2-head">
+        <div class="ob-s2-main">你的桌面搭子</div>
+        <div class="ob-s2-sub">拍了拍身上的灰，我决定重新上岗</div>
+      </div>
+
+      <!-- List layout (02C · 目录列表) -->
+      <div class="ob-s2-list">
+        <!-- 01 桌面时钟 -->
+        <div class="ob-s2-row">
+          <div class="ob-s2-row-icon"><svg width="60" height="60" viewBox="0 0 56 56" fill="none"><circle cx="28" cy="28" r="21" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M25.667 18.6666V30.3333H37.3337" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <div class="ob-s2-row-text">
+            <div class="ob-s2-row-name">桌面时钟</div>
+            <div class="ob-s2-row-desc">多数时候我安静待着，沉在自然光里陪你</div>
+          </div>
+          <div class="ob-s2-row-num">01</div>
+        </div>
+        <!-- 02 极简番茄钟 -->
+        <div class="ob-s2-row">
+          <div class="ob-s2-row-icon"><svg width="60" height="60" viewBox="1.5 3.5 53 53" fill="none"><path d="M28.9242 39.6655L28.4841 39.2245L28.0431 39.6655C27.6905 39.9984 27.222 40.1807 26.7372 40.1738C26.2523 40.167 25.7892 39.9714 25.4462 39.6286C25.1032 39.2858 24.9073 38.8229 24.9001 38.338C24.8929 37.8532 25.0749 37.3846 25.4076 37.0318L27.1646 35.2748C27.3372 35.1018 27.5421 34.9647 27.7678 34.8711C27.9935 34.7776 28.2354 34.7295 28.4797 34.7296C28.7252 34.7286 28.9684 34.7762 29.1954 34.8698C29.4223 34.9634 29.6284 35.101 29.8018 35.2748L31.5597 37.0318C31.8924 37.3846 32.0744 37.8532 32.0672 38.338C32.06 38.8229 31.8641 39.2858 31.5211 39.6286C31.1781 39.9714 30.715 40.167 30.2301 40.1738C29.7453 40.1807 29.2768 39.9984 28.9242 39.6655Z" fill="#111"/><path d="M32.5281 10.0179C32.0881 10.265 31.7051 10.6073 31.4081 11.0205C36.8462 10.0554 41.3932 11.3071 44.7753 14.1295C48.7873 17.4775 50.8193 22.7527 50.9883 28.1109C51.1583 33.4883 49.4723 39.1969 45.7323 43.5921C41.9522 48.0338 36.1822 51 28.5001 51C20.817 51 15.0489 48.0348 11.2678 43.5921C7.5278 39.1969 5.84078 33.4863 6.01178 28.1109C6.18179 22.7537 8.21181 17.4775 12.2259 14.1285C15.6079 11.3071 20.154 10.0554 25.592 11.0195C25.2952 10.6067 24.913 10.2646 24.472 10.0169C23.39 9.39209 22.141 9.3131 21.758 9.3131C21.4729 9.32195 21.189 9.27273 20.923 9.16836C20.6571 9.06399 20.4146 8.9066 20.2098 8.70552C20.0051 8.50443 19.8423 8.26376 19.7311 7.99777C19.62 7.73178 19.5627 7.44589 19.5627 7.15706C19.5627 6.86823 19.62 6.58234 19.7311 6.31634C19.8423 6.05035 20.0051 5.80968 20.2098 5.6086C20.4146 5.40752 20.6571 5.25012 20.923 5.14575C21.189 5.04138 21.4729 4.99216 21.758 5.00101C22.439 5.00101 24.561 5.10228 26.584 6.27297C27.2985 6.68353 27.9451 7.20499 28.5001 7.81835C29.0552 7.20511 29.7017 6.68367 30.4161 6.27297C32.4401 5.10228 34.5611 5.00101 35.2421 5.00101C35.5272 4.99216 35.8112 5.04138 36.0771 5.14575C36.343 5.25012 36.5856 5.40752 36.7903 5.6086C36.9951 5.80968 37.1578 6.05035 37.269 6.31634C37.3802 6.58234 37.4374 6.86823 37.4374 7.15706C37.4374 7.44589 37.3802 7.73178 37.269 7.99777C37.1578 8.26376 36.9951 8.50443 36.7903 8.70552C36.5856 8.9066 36.343 9.06399 36.0771 9.16836C35.8112 9.27273 35.5272 9.32195 35.2421 9.3131C34.8591 9.3131 33.6101 9.39209 32.5281 10.0179ZM29.2101 16.0182C28.7501 16.1833 28.2481 16.1833 27.7891 16.0182C21.894 14.0688 17.6919 15.1554 14.9319 17.4573C12.0809 19.8371 10.4078 23.815 10.2668 28.2496C10.2538 28.6446 10.2538 29.0406 10.2668 29.4385H17.1439V28.0005C17.156 27.4366 17.3856 26.9 17.7837 26.5055C18.1817 26.1111 18.7165 25.8902 19.2734 25.8902C19.8304 25.8902 20.3651 26.1111 20.7632 26.5055C21.1612 26.9 21.3909 27.4366 21.403 28.0005V29.4385H26.371V25.1254C26.3623 24.8367 26.4109 24.5492 26.514 24.2799C26.617 24.0106 26.7724 23.765 26.971 23.5576C27.1696 23.3503 27.4072 23.1854 27.6699 23.0729C27.9325 22.9603 28.2149 22.9023 28.5001 22.9023C28.7853 22.9023 29.0676 22.9603 29.3302 23.0729C29.5929 23.1854 29.8306 23.3503 30.0291 23.5576C30.2277 23.765 30.3831 24.0106 30.4862 24.2799C30.5892 24.5492 30.6378 24.8367 30.6291 25.1254V29.4385H35.5972V28.0005C35.6092 27.4366 35.8389 26.9 36.2369 26.5055C36.635 26.1111 37.1698 25.8902 37.7267 25.8902C38.2836 25.8902 38.8184 26.1111 39.2164 26.5055C39.6145 26.9 39.8441 27.4366 39.8562 28.0005V29.4385H46.7333C46.7454 29.0423 46.7454 28.6458 46.7333 28.2496C46.5923 23.815 44.9193 19.8371 42.0672 17.4573C39.3072 15.1554 35.1051 14.0688 29.2101 16.0192V16.0182ZM10.8878 33.7516C11.5549 36.3037 12.7549 38.7341 14.4939 40.7778C17.4209 44.2189 21.988 46.6889 28.5001 46.6889C35.0121 46.6889 39.5782 44.2189 42.5062 40.7778C44.2463 38.7341 45.4453 36.3026 46.1123 33.7516H10.8878Z" fill="#111"/></svg></div>
+          <div class="ob-s2-row-text">
+            <div class="ob-s2-row-name">极简番茄钟</div>
+            <div class="ob-s2-row-desc">你要沉下来的时候，计时的事交给我</div>
+          </div>
+          <div class="ob-s2-row-num">02</div>
+        </div>
+        <!-- 03 盖泡面倒计时 -->
+        <div class="ob-s2-row">
+          <div class="ob-s2-row-icon"><svg width="60" height="60" viewBox="0.75 1.75 54.5 54.5" fill="none"><path d="M13 15L14.8215 43.5524C14.9811 46.0533 17.0559 48 19.5619 48H36.4381C38.944 48 41.0189 46.0533 41.1785 43.5524L43 15" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14L46 14" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 14C10 14 15.7229 14 19 13C23.7249 11.5582 35.4751 8.05242 41 4.5" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M16 22.6875H40" stroke="#111" stroke-width="4.66667" stroke-linecap="round"/><path d="M16 39.6875H40" stroke="#111" stroke-width="4.66667" stroke-linecap="round"/></svg></div>
+          <div class="ob-s2-row-text">
+            <div class="ob-s2-row-name">盖泡面倒计时</div>
+            <div class="ob-s2-row-desc">你饿了，我盖在面上——干回老本行</div>
+          </div>
+          <div class="ob-s2-row-num">03</div>
+        </div>
+        <!-- 04 微信读书网页版 -->
+        <div class="ob-s2-row">
+          <div class="ob-s2-row-icon"><svg width="60" height="60" viewBox="0 0 56 56" fill="none"><path d="M46.6666 28V39.6667C46.6666 44.0664 46.6666 46.2663 45.2998 47.6332C43.933 49 41.7331 49 37.3333 49H15.1666C11.945 49 9.33331 46.3883 9.33331 43.1667M46.6666 28V16.3333C46.6666 11.9336 46.6666 9.73367 45.2998 8.36684C43.933 7 41.7331 7 37.3333 7H18.6666C14.2669 7 12.067 7 10.7001 8.36684C9.33331 9.73367 9.33331 11.9336 9.33331 16.3333V43.1667M46.6666 28C46.6666 32.3998 46.6666 34.5997 45.2998 35.9665C43.933 37.3333 41.7331 37.3333 37.3333 37.3333H15.1666C11.945 37.3333 9.33331 39.945 9.33331 43.1667" stroke="#111" stroke-width="4.66667"/><path d="M21 18.6666L35 18.6666" stroke="#111" stroke-width="4.66667" stroke-linecap="round"/></svg></div>
+          <div class="ob-s2-row-text">
+            <div class="ob-s2-row-name">微信读书网页版</div>
+            <div class="ob-s2-row-desc">想读书？这其实才是我的正经主业</div>
+          </div>
+          <div class="ob-s2-row-num">04</div>
+        </div>
+        <!-- 05 AI 日报 -->
+        <div class="ob-s2-row">
+          <div class="ob-s2-row-icon"><svg width="60" height="60" viewBox="0 0 56 56" fill="none"><path d="M5.5 8V43C5.5 45.7614 7.73858 48 10.5 48H40.5H45.5C48.2614 48 50.5 45.7614 50.5 43V18H40.5" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.5 8H40.5V43C40.5 45.7614 42.7386 48 45.5 48" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M30.5 18L15.5 18" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/><path d="M30.5 28L20.5 28" stroke="#111" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+          <div class="ob-s2-row-text">
+            <div class="ob-s2-row-name">AI 日报 · 每天 8:15</div>
+            <div class="ob-s2-row-desc">每天一份 AI 晨报，我替你备着</div>
+          </div>
+          <div class="ob-s2-row-num">05</div>
+        </div>
+      </div>
+
+      <!-- Nav footer: skip | dots | next -->
+      <div class="ob-nav-footer">
+        <div class="ob-nav-row">
+          <div class="ob-nav-skip" onclick="obFinish()">跳过</div>
+          <div class="ob-nav-dots">
+            <span class="ob-dot"></span>
+            <span class="ob-dot ob-dot-active"></span>
+            <span class="ob-dot"></span>
+          </div>
+          <div class="ob-nav-arrow" onclick="obGo(3)">
+            <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+              <path d="M8 17 L26 17 M19 9 L27 17 L19 25" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Screen 3: Tips & Start -->
+    <div id="ob-s3" class="ob-screen" style="display:none">
+
+      <div class="ob-s3-head">
+        <div class="ob-s3-eyebrow">开始之前</div>
+        <div class="ob-s3-title">三个小提示</div>
+      </div>
+
+      <div class="ob-tips">
+        <!-- Tip 1: Keep screen awake -->
+        <div class="ob-tip-card">
+          <div class="ob-tip-icon-bg">
+            <svg width="144" height="144" viewBox="0 0 118 118" fill="none"><rect x="22" y="26" width="74" height="54" rx="8" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M48 92 H70 M59 80 V92" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M59 40 V58 M59 58 L71 58" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <div class="ob-tip-num">1</div>
+          <div class="ob-tip-body">
+            <div class="ob-tip-title">先别让屏幕睡着</div>
+            <div class="ob-tip-sub">在 Kindle 主页搜索框输入 ~ds，开启屏幕常亮</div>
+            <div class="ob-tip-note">· 退出常亮？长按电源键重启即可</div>
+          </div>
+        </div>
+        <!-- Tip 2: Bookmark -->
+        <div class="ob-tip-card">
+          <div class="ob-tip-icon-bg">
+            <svg width="144" height="144" viewBox="0 0 118 118" fill="none"><path d="M59 24 L69 48 L95 50 L75 67 L81 93 L59 79 L37 93 L43 67 L23 50 L49 48 Z" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <div class="ob-tip-num">2</div>
+          <div class="ob-tip-body">
+            <div class="ob-tip-title">建议先收藏到书签</div>
+            <div class="ob-tip-sub">这是你下次一秒复活它的最快路径</div>
+          </div>
+        </div>
+        <!-- Tip 3: Back button -->
+        <div class="ob-tip-card">
+          <div class="ob-tip-icon-bg">
+            <svg width="144" height="144" viewBox="0 0 118 118" fill="none"><rect x="20" y="32" width="78" height="54" rx="12" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M62 47 L49 59 L62 71 M49 59 H74" stroke="#ededed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </div>
+          <div class="ob-tip-num">3</div>
+          <div class="ob-tip-body">
+            <div class="ob-tip-title">从微信读书返回</div>
+            <div class="ob-tip-sub">点浏览器顶部的 ← 返回键或从书签返回</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA block -->
+      <div class="ob-cta">
+        <button class="ob-start-btn" onclick="obFinish()">开始我的 Kindle 新生活</button>
+        <div class="ob-tail">不要说我不务正业，看书才是我的主业</div>
+      </div>
+      <!-- Nav footer: dots centered, same position as screens 1 & 2 -->
+      <div class="ob-nav-footer">
+        <div class="ob-nav-row" style="height:88px;">
+          <div style="width:88px;"></div>
+          <div class="ob-nav-dots">
+            <span class="ob-dot"></span>
+            <span class="ob-dot"></span>
+            <span class="ob-dot ob-dot-active"></span>
+          </div>
+          <div style="width:88px;"></div>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- #ob-overlay -->
+
+  <div id="page-wrapper">
+
+    <!-- Page 0: Clock -->
+    <div id="page-0" class="page">
+      <div class="content">
+        <div class="clock-card">
+          <div class="clock-digits">
+            <div class="digit-card">
+              <span class="digit-number" id="hour">00</span>
+              <div class="digit-line"></div>
+            </div>
+            <div class="clock-colon">:</div>
+            <div class="digit-card">
+              <span class="digit-number" id="minute">00</span>
+              <div class="digit-line"></div>
+            </div>
+          </div>
+          <div class="clock-style-btn" onclick="openClockSettings()"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2291_432)"><rect x="12.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 12.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="19.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 19.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="5.01001" y="11.999" width="0.01" height="0.01" transform="rotate(90 5.01001 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/></g><defs><clipPath id="clip0_2291_432"><rect width="24" height="24" fill="white"/></clipPath></defs></svg></div>
+        </div>
+        <div class="bottom-row">
+          <div class="date-card">
+            <div class="date-weekday" id="weekday-month">星期四 四月</div>
+            <div class="date-rule"></div>
+            <div class="date-day-wrap">
+              <div class="date-day" id="day-number">09</div>
+            </div>
+            <div class="date-lunar" id="lunar-date">二月廿二</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Page 1: Pomodoro Timer -->
+    <div id="page-1" class="page" style="display:none">
+
+      <!-- State 0: Setup -->
+      <div id="pomo-s0" class="pomo-page">
+        <div class="pomo-setup-header">
+          <div class="pomo-header-text">
+            <div class="pomo-title">保持专注</div>
+            <div class="pomo-subtitle">选择一个节奏，然后开始专注</div>
+          </div>
+          <div class="pomo-header-img">
+            <img src="img/pomo-tomato.png" alt="">
+          </div>
+        </div>
+        <div class="pomo-setup-spacer"></div>
+        <div class="pomo-config">
+          <div class="pomo-config-row">
+            <div class="pomo-config-label">专注时长</div>
+            <div class="pomo-seg3-wrap"><div class="pomo-seg3">
+              <div class="pseg-btn" id="pomo-f15" onclick="setPomoFocus(15)"><span class="pseg-val">15</span><span class="pseg-unit">分钟</span></div>
+              <div class="pseg-btn selected" id="pomo-f25" onclick="setPomoFocus(25)"><span class="pseg-val">25</span><span class="pseg-unit">分钟</span></div>
+              <div class="pseg-btn" id="pomo-f45" onclick="setPomoFocus(45)"><span class="pseg-val">45</span><span class="pseg-unit">分钟</span></div>
+            </div></div>
+          </div>
+          <div class="pomo-config-row">
+            <div class="pomo-config-label">休息时长</div>
+            <div class="pomo-seg3-wrap"><div class="pomo-seg3">
+              <div class="pseg-btn" id="pomo-b3" onclick="setPomoBreak(3)"><span class="pseg-val">3</span><span class="pseg-unit">分钟</span></div>
+              <div class="pseg-btn selected" id="pomo-b5" onclick="setPomoBreak(5)"><span class="pseg-val">5</span><span class="pseg-unit">分钟</span></div>
+              <div class="pseg-btn" id="pomo-b10" onclick="setPomoBreak(10)"><span class="pseg-val">10</span><span class="pseg-unit">分钟</span></div>
+            </div></div>
+          </div>
+          <div class="pomo-config-row">
+            <div class="pomo-config-label">循环次数</div>
+            <div class="pomo-seg3-wrap"><div class="pomo-seg3">
+              <div class="pseg-btn" id="pomo-r2" onclick="setPomoRounds(2)"><span class="pseg-val">2</span><span class="pseg-unit">轮</span></div>
+              <div class="pseg-btn selected" id="pomo-r4" onclick="setPomoRounds(4)"><span class="pseg-val">4</span><span class="pseg-unit">轮</span></div>
+              <div class="pseg-btn" id="pomo-r6" onclick="setPomoRounds(6)"><span class="pseg-val">6</span><span class="pseg-unit">轮</span></div>
+            </div></div>
+          </div>
+        </div>
+        <div class="pomo-start-btn" onclick="startPomo()">开始专注</div>
+        <div class="pomo-hint">*今天的记录我都记着呢，但关了浏览器我就失忆了</div>
+      </div>
+
+      <!-- State 1: Timer -->
+      <div id="pomo-s1" class="pomo-page pomo-timer-screen pomo-focus-mode" style="display:none">
+        <div class="pomo-top-section">
+          <div class="pomo-illus">
+            <img id="pomo-illus-focus" src="img/pomo-focus.png" alt="">
+            <img id="pomo-illus-break" src="img/pomo-break.png" alt="" style="display:none">
+          </div>
+          <div class="pomo-wave-container">
+            <div class="pomo-wave-gray">
+              <svg width="812" height="172" viewBox="0 0 812 140" xmlns="http://www.w3.org/2000/svg" style="display:block;overflow:visible">
+                <path d="M -200,-50 C 200,160 612,160 1012,-50" fill="none" stroke="#D8D8D8" stroke-width="40" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <div class="pomo-wave-black">
+              <svg width="812" height="172" viewBox="0 0 812 140" xmlns="http://www.w3.org/2000/svg" style="display:block;overflow:visible">
+                <path id="pomo-black-path" d="" fill="none" stroke="#000" stroke-width="40" stroke-linecap="round" style="display:none"/>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="pomo-mid-section">
+          <div class="pomo-timer-info">
+            <div class="pomo-info-row">
+              <span class="pomo-info-round" id="pomo-round-label">第1/4轮</span>
+              <div class="pomo-info-sep"></div>
+              <span class="pomo-info-phase" id="pomo-phase-title">专注中</span>
+            </div>
+            <div class="pomo-clock" id="pomo-circle-time">25:00</div>
+          </div>
+        </div>
+        <div class="pomo-new-controls">
+          <div class="pomo-ctrl-side" onclick="restartPomo()">
+            <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#clip0_2316_779)">
+                <path d="M20 4.99976C28.2843 4.99976 35 11.7155 35 19.9998C35 28.284 28.2843 34.9998 20 34.9998C11.7157 34.9998 5 28.284 5 19.9998C5 15.2876 7.17278 11.083 10.5711 8.33309" stroke="black" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M5 7.49976H11.6667V14.1664" stroke="black" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <defs><clipPath id="clip0_2316_779"><rect width="40" height="40" fill="white"/></clipPath></defs>
+            </svg>
+          </div>
+          <div class="pomo-ctrl-center" onclick="togglePomo()">
+            <svg id="pomo-icon-pause" width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#clip0_2316_777)">
+                <path d="M11.6667 16.3333C11.6667 13.756 13.756 11.6666 16.3334 11.6666H18.6667C21.244 11.6666 23.3334 13.756 23.3334 16.3333V39.6666C23.3334 42.244 21.244 44.3333 18.6667 44.3333H16.3334C13.756 44.3333 11.6667 42.244 11.6667 39.6666V16.3333Z" stroke="white" stroke-width="5.83333" stroke-linejoin="round"/>
+                <path d="M32.6667 16.3333C32.6667 13.756 34.756 11.6666 37.3334 11.6666H39.6667C42.244 11.6666 44.3334 13.756 44.3334 16.3333V39.6666C44.3334 42.244 42.244 44.3333 39.6667 44.3333H37.3334C34.756 44.3333 32.6667 42.244 32.6667 39.6666V16.3333Z" stroke="white" stroke-width="5.83333" stroke-linejoin="round"/>
+              </g>
+              <defs><clipPath id="clip0_2316_777"><rect width="56" height="56" fill="white"/></clipPath></defs>
+            </svg>
+            <svg id="pomo-icon-play" width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:none">
+              <g clip-path="url(#clip0_2317_1046)">
+                <path d="M44.3334 23.9585C47.4445 25.7547 47.4445 30.2452 44.3334 32.0414L23.3334 44.1658C20.2223 45.962 16.3334 43.7167 16.3334 40.1243L16.3334 15.8756C16.3334 12.2832 20.2223 10.0379 23.3334 11.8341L44.3334 23.9585Z" stroke="white" stroke-width="5.83333" stroke-linejoin="round"/>
+              </g>
+              <defs><clipPath id="clip0_2317_1046"><rect width="56" height="56" fill="white"/></clipPath></defs>
+            </svg>
+          </div>
+          <div class="pomo-ctrl-side" onclick="pomoRightAction()">
+            <svg id="pomo-icon-close" width="40" height="40" viewBox="4 4 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#clip0_2316_781)">
+                <path d="M11.6667 11.6666L28.3334 28.3333M11.6667 28.3333L28.3334 11.6666" stroke="black" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <defs><clipPath id="clip0_2316_781"><rect width="40" height="40" fill="white"/></clipPath></defs>
+            </svg>
+            <svg id="pomo-icon-skip" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:none">
+              <g clip-path="url(#clip0_2317_1097)">
+                <path d="M28.3332 17.1133C30.5555 18.3963 30.5555 21.6038 28.3333 22.8868L13.3333 31.547C11.111 32.83 8.33325 31.2263 8.33325 28.6603L8.33325 11.3398C8.33325 8.77379 11.111 7.17003 13.3333 8.45303L28.3332 17.1133Z" stroke="black" stroke-width="4.16667" stroke-linejoin="round"/>
+                <path d="M33.3333 8.33337V31.6667" stroke="black" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round"/>
+              </g>
+              <defs><clipPath id="clip0_2317_1097"><rect width="40" height="40" fill="white"/></clipPath></defs>
+            </svg>
+          </div>
+        </div>
+        <div class="pomo-hint">*今天的记录我都记着呢，但关了浏览器我就失忆了</div>
+      </div>
+
+      <!-- State 2: Done -->
+      <div id="pomo-s2" class="pomo-page" style="display:none">
+        <div class="pomo-done-wrap">
+          <div class="pomo-done-circle">
+            <div class="pomo-done-number" id="pomo-done-rounds">4</div>
+            <div class="pomo-done-sublabel">轮专注已完成</div>
+          </div>
+          <div class="pomo-done-title" id="pomo-done-title">今天已沉下心100分钟</div>
+          <div class="pomo-done-sub">保持这个节奏，日积月累会是很可观的一段路</div>
+          <div class="pomo-done-actions">
+            <div class="pomo-btn-again" onclick="resetPomo()">再来一组</div>
+            <div class="pomo-btn-finish" onclick="switchTab(0)">完成</div>
+          </div>
+        </div>
+        <div class="pomo-hint">*今天的记录我都记着呢，但关了浏览器我就失忆了</div>
+      </div>
+
+    </div>
+
+    <!-- Page 2: Noodle Timer -->
+    <div id="page-2" class="page" style="display:none">
+      <div class="noodle-page">
+
+        <!-- State 0: Waiting -->
+        <div id="noodle-s0" class="noodle-state">
+          <div class="noodle-header">
+            <div class="noodle-title">听说用Kindle盖泡面会更香～</div>
+            <div class="noodle-subtitle">倒入热水，选好时间，把 Kindle 盖上去</div>
+          </div>
+          <div class="noodle-img-wrap">
+            <img src="img/kindle_noodle_1_v2.png" alt="">
+          </div>
+          <div class="noodle-actions">
+            <div class="noodle-time-group">
+              <div class="ntg-btn ntg-left selected" id="btn-3min" onclick="selectTime(3)">
+                <span class="ntg-val">3</span><span class="ntg-unit">分钟</span>
+              </div>
+              <div class="ntg-btn ntg-right" id="btn-5min" onclick="selectTime(5)">
+                <span class="ntg-val">5</span><span class="ntg-unit">分钟</span>
+              </div>
+            </div>
+            <div class="btn-noodle-start" onclick="startNoodle()">开始，盖上去</div>
+          </div>
+        </div>
+
+        <!-- State 1: Counting -->
+        <div id="noodle-s1" class="noodle-state" style="display:none">
+          <div class="noodle-header">
+            <div class="noodle-title" id="noodle-countdown">泡面焖煮中...剩余 03:00</div>
+            <div class="noodle-subtitle">Kindle 正在发挥它最大的价值</div>
+          </div>
+          <div class="noodle-img-wrap">
+            <img src="img/kindle_noodle_2_v2.png" alt="">
+          </div>
+          <div class="noodle-actions noodle-actions-center">
+            <div class="btn-noodle-outline" style="margin-right:24px" onclick="cancelNoodle()">取消</div>
+            <div class="btn-noodle-outline" onclick="finishNoodle()">提前结束</div>
+          </div>
+        </div>
+
+        <!-- State 2: Done -->
+        <div id="noodle-s2" class="noodle-state" style="display:none">
+          <div class="noodle-header">
+            <div class="noodle-title">面好了，趁热吃吧～</div>
+            <div class="noodle-subtitle">泡面到位，精神食粮也不能少</div>
+          </div>
+          <div class="noodle-img-wrap">
+            <img src="img/kindle_noodle_3_v2.png" alt="">
+          </div>
+          <div class="noodle-actions">
+            <div class="btn-noodle-outline" style="margin-right:24px" onclick="resetNoodle()">再来一碗</div>
+            <div class="btn-noodle-fill" onclick="switchTab(3)">去读书 →</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Page 3: Reading Redirect -->
+    <div id="page-3" class="page" style="display:none">
+      <div class="reading-page">
+        <div class="reading-header">
+          <div class="reading-header-text">
+            <div class="reading-title">准备去微信读书</div>
+            <div class="reading-subtitle">读完想回到Kindle Noodle的两种方式：</div>
+          </div>
+          <div class="reading-icon">
+            <svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <clipPath id="wxIconClip">
+                  <rect x="2" y="2" width="156" height="156" rx="38"/>
+                </clipPath>
+              </defs>
+              <rect x="2" y="2" width="156" height="156" rx="38" fill="black"/>
+              <path d="M96.2638 135.824C92.6337 135.824 89.103 137.01 86.2082 139.2C83.3134 141.39 81.2129 144.466 80.2261 147.959C79.2393 144.466 77.1389 141.39 74.2441 139.2C71.3493 137.01 67.8185 135.824 64.1885 135.824H1.19238C2.85397 142.714 6.78465 148.844 12.3521 153.229C17.9196 157.614 24.8003 159.999 31.8872 160H128.113C135.2 159.999 142.081 157.614 147.648 153.229C153.216 148.844 157.146 142.714 158.808 135.824H96.2638ZM136.176 115.802C129.199 122.704 120.703 124.386 111.517 121.305C108.493 120.289 106.008 120.05 103.36 121.807C102.787 122.051 102.196 122.249 101.591 122.397C104.006 118.199 102.218 115.577 100.179 112.602C95.6488 105.995 96.5711 97.487 101.961 91.3444C110.745 81.3051 128.013 81.3051 136.822 91.3444C143.222 98.6353 143.084 108.945 136.176 115.802Z" fill="white"/>
+              <path d="M127.963 95.498C127.551 95.4811 127.139 95.5457 126.752 95.688C126.365 95.8303 126.01 96.0475 125.707 96.3273C125.404 96.607 125.159 96.9438 124.986 97.3183C124.813 97.6928 124.716 98.0977 124.7 98.5099C124.658 98.9215 124.701 99.3373 124.826 99.7318C124.95 100.126 125.153 100.491 125.423 100.805C125.693 101.118 126.024 101.374 126.396 101.555C126.768 101.737 127.173 101.84 127.586 101.86C127.997 101.902 128.412 101.862 128.807 101.743C129.203 101.624 129.571 101.428 129.89 101.166C130.21 100.904 130.474 100.582 130.669 100.218C130.864 99.8534 130.984 99.4543 131.024 99.0433C131.068 98.6072 131.022 98.167 130.889 97.7492C130.757 97.3315 130.541 96.9451 130.254 96.6135C129.968 96.2819 129.617 96.012 129.223 95.8202C128.829 95.6284 128.4 95.5188 127.962 95.498H127.963ZM110.946 95.498C110.505 95.4955 110.067 95.5862 109.663 95.7642C109.259 95.9422 108.897 96.2036 108.601 96.5311C108.305 96.8586 108.081 97.245 107.945 97.6649C107.808 98.0848 107.762 98.5288 107.809 98.9678C107.83 99.3802 107.934 99.784 108.115 100.155C108.297 100.526 108.551 100.856 108.864 101.126C109.177 101.396 109.541 101.599 109.934 101.724C110.327 101.849 110.742 101.894 111.153 101.854C111.566 101.838 111.971 101.74 112.346 101.567C112.721 101.394 113.058 101.149 113.338 100.845C113.618 100.541 113.835 100.185 113.977 99.7975C114.118 99.4097 114.182 98.9977 114.165 98.5852C114.119 97.7587 113.761 96.9804 113.164 96.4074C112.566 95.8345 111.774 95.5094 110.946 95.498Z" fill="black"/>
+              <rect x="2" y="2" width="156" height="156" rx="38" fill="none" stroke="black" stroke-width="8" clip-path="url(#wxIconClip)"/>
+            </svg>
+          </div>
+        </div>
+        <div class="reading-steps">
+          <div class="reading-step">
+            <div class="step-num">1</div>
+            <div class="step-text">
+              <div class="step-main">点击浏览器「返回」键</div>
+              <div class="step-sub">顶部工具栏的←箭头</div>
+            </div>
+          </div>
+          <div class="reading-step">
+            <div class="step-num">2</div>
+            <div class="step-text">
+              <div class="step-main">打开浏览器书签栏</div>
+              <div class="step-sub">找到之前收藏的「Kindle Noodle」即可返回</div>
+            </div>
+          </div>
+        </div>
+        <div class="reading-cta-section">
+          <div class="reading-cta" onclick="window.location.href='https://weread.qq.com'">知道了，去读书</div>
+          <div class="reading-footer">不要说我不务正业，看书才是我的主业</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Page 4: AI Daily Report -->
+    <div id="page-4" class="page" style="display:none">
+      <div class="daily-page" id="daily-content">
+        <div class="daily-status">点击下方图标进入日报</div>
+      </div>
+    </div>
+
+  </div><!-- #page-wrapper -->
+
+  <!-- Daily Mode Nav Bar -->
+  <div id="daily-nav" style="display:none">
+    <!-- Left small card: previous tab icon -->
+    <div class="nav-card nav-card-sm nav-card-gap">
+      <div class="nav-icon" id="daily-prev-tab-icon" onclick="exitDailyMode()"></div>
+    </div>
+    <!-- Right main card: news icon + separator + prev/next -->
+    <div class="nav-card nav-card-flex nav-card-main">
+      <div class="nav-active-bar"></div>
+      <div class="daily-right-row">
+        <div class="nav-icon" onclick="dailyGoHome()">
+          <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_2397_685b)">
+              <path d="M5.5 8V43C5.5 45.7614 7.73858 48 10.5 48H40.5H45.5C48.2614 48 50.5 45.7614 50.5 43V18H40.5" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M5.5 8H40.5V43C40.5 45.7614 42.7386 48 45.5 48" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M30.5 18L15.5 18" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M30.5 28L20.5 28" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <defs><clipPath id="clip0_2397_685b"><rect width="56" height="56" fill="white"/></clipPath></defs>
+          </svg>
+        </div>
+        <div class="daily-sep"></div>
+        <div class="daily-page-btns">
+          <div class="daily-nav-btn disabled" id="daily-prev-btn" onclick="dailyPrevPage()">上一页</div>
+          <div class="daily-page-indicator" id="daily-page-indicator">1/1</div>
+          <div class="daily-nav-btn" id="daily-next-btn" onclick="dailyNextPage()">下一页</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Clock Style Settings Panel -->
+  <img src="img/preview-flip.png" style="display:none">
+  <img src="img/preview-module.png" style="display:none">
+  <div id="clock-settings-panel">
+    <div class="csp-sheet">
+      <div class="csp-title">时钟样式设置</div>
+      <div class="csp-subtitle">老款Kindle深色时钟可能有残影，介意可切换浅色版</div>
+      <div class="csp-cards">
+        <div class="csp-card" id="csp-flip" onclick="csSelect('flip')">
+          <div class="csp-preview csp-preview-flip"></div>
+          <div class="csp-card-title">翻页时钟</div>
+          <div class="csp-card-subtitle">经典黑底大数字</div>
+          <div class="csp-indicator"><div class="csp-check">✓</div></div>
+        </div>
+        <div class="csp-card" id="csp-module" onclick="csSelect('module')">
+          <div class="csp-preview csp-preview-module"></div>
+          <div class="csp-card-title">模块时钟</div>
+          <div class="csp-card-subtitle">简洁白底大数字</div>
+          <div class="csp-indicator"><div class="csp-check">✓</div></div>
+        </div>
+      </div>
+      <div class="csp-btns">
+        <div class="csp-btn csp-btn-cancel" onclick="csCancelSettings()">返回</div>
+        <div class="csp-btn csp-btn-confirm" onclick="csConfirmSettings()">完成</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Shared Nav Bar -->
+  <div id="bottom-nav">
+    <!-- Left card: 4 main icons -->
+    <div class="nav-card nav-card-flex nav-card-main nav-card-gap">
+      <div class="nav-active-bar" id="nav-bar"></div>
+      <div class="nav-icons-row">
+
+        <div class="nav-icon" onclick="switchTab(0)">
+          <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="28" cy="28" r="21" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M25.667 18.6666V30.3333H37.3337" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+
+        <div class="nav-icon" onclick="switchTab(3)">
+          <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M46.6666 28V39.6667C46.6666 44.0664 46.6666 46.2663 45.2998 47.6332C43.933 49 41.7331 49 37.3333 49H15.1666C11.945 49 9.33331 46.3883 9.33331 43.1667M46.6666 28V16.3333C46.6666 11.9336 46.6666 9.73367 45.2998 8.36684C43.933 7 41.7331 7 37.3333 7H18.6666C14.2669 7 12.067 7 10.7001 8.36684C9.33331 9.73367 9.33331 11.9336 9.33331 16.3333V43.1667M46.6666 28C46.6666 32.3998 46.6666 34.5997 45.2998 35.9665C43.933 37.3333 41.7331 37.3333 37.3333 37.3333H15.1666C11.945 37.3333 9.33331 39.945 9.33331 43.1667" stroke="black" stroke-width="4.66667"/>
+            <path d="M21 18.6666L35 18.6666" stroke="black" stroke-width="4.66667" stroke-linecap="round"/>
+          </svg>
+        </div>
+
+      </div>
+    </div>
+    <!-- Right card: news icon -->
+    <div class="nav-card nav-card-sm">
+      <div class="nav-icon" onclick="switchTab(4)">
+        <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g clip-path="url(#clip0_2397_685)">
+            <path d="M5.5 8V43C5.5 45.7614 7.73858 48 10.5 48H40.5H45.5C48.2614 48 50.5 45.7614 50.5 43V18H40.5" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M5.5 8H40.5V43C40.5 45.7614 42.7386 48 45.5 48" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M30.5 18L15.5 18" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M30.5 28L20.5 28" stroke="black" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
+          </g>
+          <defs><clipPath id="clip0_2397_685"><rect width="56" height="56" fill="white"/></clipPath></defs>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var APP_VERSION = '1.0';
+
+    /* ── Tab Switching ──────────────────────────────────── */
+    var currentTab = 0;
+    var NAV_LEFT = [49, 191, 333, 475];
+
+    var DAILY_READ_KEY = 'ai_daily_read_';
+
+    var dailyState = {
+      previousTab: 0,
+      currentPage: 0,
+      totalPages: 0,
+      tocPageCount: 0,
+      pages: [],
+      articlePageMap: {},
+      articleTocPageMap: {},
+      data: null,
+      loaded: false,
+      loading: false,
+      active: false
+    };
+
+    function forceEinkRefresh(callback) {
+      var base = 'position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;';
+      var black = document.createElement('div');
+      black.style.cssText = base + 'background:#000;';
+      var white = document.createElement('div');
+      white.style.cssText = base + 'background:#fff;';
+      document.body.appendChild(black);
+      setTimeout(function() {
+        document.body.removeChild(black);
+        document.body.appendChild(white);
+        setTimeout(function() {
+          callback();
+          document.body.removeChild(white);
+        }, 150);
+      }, 150);
+    }
+
+    function switchTab(tab) {
+      if (tab === 4) { enterDailyMode(); return; }
+      if (dailyState.active) {
+        dailyState.active = false;
+        dailyState.currentPage = 0;
+      }
+      if (currentTab === 2 && tab !== 2) { pauseNoodleTimer(); }
+      if (currentTab === 1 && tab !== 1) { pausePomoTimer(); }
+      if (tab === 2 && noodleState === 1) { resumeNoodleTimer(); }
+      forceEinkRefresh(function() {
+        for (var i = 0; i <= 4; i++) {
+          document.getElementById('page-' + i).style.display = (i === tab) ? '' : 'none';
+        }
+        document.getElementById('daily-nav').style.display = 'none';
+        document.getElementById('bottom-nav').style.display = '';
+        document.getElementById('nav-bar').style.left = NAV_LEFT[tab] + 'px';
+        currentTab = tab;
+      });
+    }
+
+    /* ── Clock ──────────────────────────────────────────── */
+    var WEEKDAYS = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+    var MONTHS   = ['一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'];
+    var LUNAR_MONTHS = ['正月','二月','三月','四月','五月','六月','七月','八月','九月','十月','冬月','腊月'];
+    var LUNAR_DAYS = ['初一','初二','初三','初四','初五','初六','初七','初八','初九','初十',
+      '十一','十二','十三','十四','十五','十六','十七','十八','十九','二十',
+      '廿一','廿二','廿三','廿四','廿五','廿六','廿七','廿八','廿九','三十'];
+
+    var MS_PER_DAY = 86400000;
+    /* 农历查表：1900–2100 标准数据，每年一个十六进制（高位月份大小 + 低4位闰月）。
+       纯本地位运算，正确处理闰月，2100 年前无需维护。基准日 1900-01-31 = 农历正月初一。 */
+    var LUNAR_INFO = [
+      0x04bd8,0x04ae0,0x0a570,0x054d5,0x0d260,0x0d950,0x16554,0x056a0,0x09ad0,0x055d2,
+      0x04ae0,0x0a5b6,0x0a4d0,0x0d250,0x1d255,0x0b540,0x0d6a0,0x0ada2,0x095b0,0x14977,
+      0x04970,0x0a4b0,0x0b4b5,0x06a50,0x06d40,0x1ab54,0x02b60,0x09570,0x052f2,0x04970,
+      0x06566,0x0d4a0,0x0ea50,0x06e95,0x05ad0,0x02b60,0x186e3,0x092e0,0x1c8d7,0x0c950,
+      0x0d4a0,0x1d8a6,0x0b550,0x056a0,0x1a5b4,0x025d0,0x092d0,0x0d2b2,0x0a950,0x0b557,
+      0x06ca0,0x0b550,0x15355,0x04da0,0x0a5d0,0x14573,0x052d0,0x0a9a8,0x0e950,0x06aa0,
+      0x0aea6,0x0ab50,0x04b60,0x0aae4,0x0a570,0x05260,0x0f263,0x0d950,0x05b57,0x056a0,
+      0x096d0,0x04dd5,0x04ad0,0x0a4d0,0x0d4d4,0x0d250,0x0d558,0x0b540,0x0b6a0,0x195a6,
+      0x095b0,0x049b0,0x0a974,0x0a4b0,0x0b27a,0x06a50,0x06d40,0x0af46,0x0ab60,0x09570,
+      0x04af5,0x04970,0x064b0,0x074a3,0x0ea50,0x06b58,0x055c0,0x0ab60,0x096d5,0x092e0,
+      0x0c960,0x0d954,0x0d4a0,0x0da50,0x07552,0x056a0,0x0abb7,0x025d0,0x092d0,0x0cab5,
+      0x0a950,0x0b4a0,0x0baa4,0x0ad50,0x055d9,0x04ba0,0x0a5b0,0x15176,0x052b0,0x0a930,
+      0x07954,0x06aa0,0x0ad50,0x05b52,0x04b60,0x0a6e6,0x0a4e0,0x0d260,0x0ea65,0x0d530,
+      0x05aa0,0x076a3,0x096d0,0x04bd7,0x04ad0,0x0a4d0,0x1d0b6,0x0d250,0x0d520,0x0dd45,
+      0x0b5a0,0x056d0,0x055b2,0x049b0,0x0a577,0x0a4b0,0x0aa50,0x1b255,0x06d20,0x0ada0,
+      0x14b63,0x09370,0x049f8,0x04970,0x064b0,0x168a6,0x0ea50,0x06b20,0x1a6c4,0x0aae0,
+      0x0a2e0,0x0d2e3,0x0c960,0x0d557,0x0d4a0,0x0da50,0x05d55,0x056a0,0x0a6d0,0x055d4,
+      0x052d0,0x0a9b8,0x0a950,0x0b4a0,0x0b6a6,0x0ad50,0x055a0,0x0aba4,0x0a5b0,0x052b0,
+      0x0b273,0x06930,0x07337,0x06aa0,0x0ad50,0x14b55,0x04b60,0x0a570,0x054e4,0x0d160,
+      0x0e968,0x0d520,0x0daa0,0x16aa6,0x056d0,0x04ae0,0x0a9d4,0x0a2d0,0x0d150,0x0f252,
+      0x0d520
+    ];
+    function lLeapMonth(y) { return LUNAR_INFO[y - 1900] & 0xf; }
+    function lLeapDays(y) { return lLeapMonth(y) ? ((LUNAR_INFO[y - 1900] & 0x10000) ? 30 : 29) : 0; }
+    function lMonthDays(y, m) { return (LUNAR_INFO[y - 1900] & (0x10000 >> m)) ? 30 : 29; }
+    function lYearDays(y) {
+      var sum = 348;
+      for (var i = 0x8000; i > 0x8; i >>= 1) { sum += (LUNAR_INFO[y - 1900] & i) ? 1 : 0; }
+      return sum + lLeapDays(y);
+    }
+    var tzOffsetMs = 8 * 3600000;
+    var _lunarCache = { day: -1, label: '' };
+
+    function getLocalDate() { return new Date(Date.now() + tzOffsetMs); }
+
+    function toLunarLabel(date) {
+      var y = date.getUTCFullYear(), mo = date.getUTCMonth(), d = date.getUTCDate();
+      var key = d + mo * 31 + y * 372;
+      if (_lunarCache.day === key) { return _lunarCache.label; }
+      var offset = Math.round((Date.UTC(y, mo, d) - Date.UTC(1900, 0, 31)) / MS_PER_DAY);
+      var temp = 0, ly;
+      for (ly = 1900; ly < 2101 && offset > 0; ly++) { temp = lYearDays(ly); offset -= temp; }
+      if (offset < 0) { offset += temp; ly--; }
+      var leap = lLeapMonth(ly), isLeap = false, lm;
+      for (lm = 1; lm < 13 && offset > 0; lm++) {
+        if (leap > 0 && lm === leap + 1 && isLeap === false) { --lm; isLeap = true; temp = lLeapDays(ly); }
+        else { temp = lMonthDays(ly, lm); }
+        if (isLeap === true && lm === leap + 1) { isLeap = false; }
+        offset -= temp;
+      }
+      if (offset === 0 && leap > 0 && lm === leap + 1) {
+        if (isLeap) { isLeap = false; } else { isLeap = true; --lm; }
+      }
+      if (offset < 0) { offset += temp; --lm; }
+      _lunarCache.day = key;
+      _lunarCache.label = (isLeap ? '闰' : '') + LUNAR_MONTHS[lm - 1] + LUNAR_DAYS[offset];
+      return _lunarCache.label;
+    }
+
+    function pad(n) { return (n < 10 ? '0' : '') + n; }
+
+    var elHour    = document.getElementById('hour');
+    var elMinute  = document.getElementById('minute');
+    var elWeekday = document.getElementById('weekday-month');
+    var elDay     = document.getElementById('day-number');
+    var elLunar   = document.getElementById('lunar-date');
+
+    function updateClock() {
+      var now = getLocalDate();
+      elHour.textContent    = pad(now.getUTCHours());
+      elMinute.textContent  = pad(now.getUTCMinutes());
+      elWeekday.textContent = WEEKDAYS[now.getUTCDay()] + ' ' + MONTHS[now.getUTCMonth()];
+      elDay.textContent     = pad(now.getUTCDate());
+      elLunar.textContent   = toLunarLabel(now);
+    }
+
+    function fetchTimezone() {
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'http://ip-api.com/json?fields=offset,city,lat,lon', true);
+      xhr.timeout = 5000;
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            if (typeof data.offset === 'number') {
+              tzOffsetMs = data.offset * 1000;
+              _lunarCache.day = -1;
+              updateClock();
+            }
+          } catch(e) {}
+        }
+      };
+      xhr.send();
+    }
+
+    updateClock();
+    fetchTimezone();
+    setInterval(updateClock, 60000);
+
+    /* ── Noodle Timer ───────────────────────────────────── */
+    var noodleState = 0;
+    var noodleMins = 3;
+    var noodleSecsLeft = 0;
+    var noodleTimer = null;
+
+    function selectTime(m) {
+      noodleMins = m;
+      document.getElementById('btn-3min').className = 'ntg-btn ntg-left' + (m === 3 ? ' selected' : '');
+      document.getElementById('btn-5min').className = 'ntg-btn ntg-right' + (m === 5 ? ' selected' : '');
+    }
+
+    function showNoodleState(s) {
+      for (var i = 0; i < 3; i++) {
+        document.getElementById('noodle-s' + i).style.display = (i === s) ? '' : 'none';
+      }
+      noodleState = s;
+    }
+
+    function updateCountdown() {
+      document.getElementById('noodle-countdown').textContent =
+        '泡面焖煮中...剩余 ' + pad(Math.floor(noodleSecsLeft / 60)) + ':' + pad(noodleSecsLeft % 60);
+    }
+
+    function noodleTick() {
+      noodleSecsLeft--;
+      updateCountdown();
+      if (noodleSecsLeft <= 0) { finishNoodle(); }
+    }
+
+    function startNoodle() {
+      noodleSecsLeft = noodleMins * 60;
+      showNoodleState(1);
+      updateCountdown();
+      noodleTimer = setInterval(noodleTick, 1000);
+    }
+
+    function cancelNoodle() {
+      if (noodleTimer) { clearInterval(noodleTimer); noodleTimer = null; }
+      showNoodleState(0);
+    }
+
+    function finishNoodle() {
+      if (noodleTimer) { clearInterval(noodleTimer); noodleTimer = null; }
+      showNoodleState(2);
+    }
+
+    function resetNoodle() { showNoodleState(0); }
+
+    function pauseNoodleTimer() {
+      if (noodleTimer) { clearInterval(noodleTimer); noodleTimer = null; }
+    }
+
+    function resumeNoodleTimer() {
+      if (noodleState === 1 && !noodleTimer) {
+        noodleTimer = setInterval(noodleTick, 1000);
+      }
+    }
+
+    /* ── Pomodoro Timer ─────────────────────────────────── */
+    var pomo = {
+      phase: 'focus', running: false, waitingToStart: false,
+      focusMins: 25, breakMins: 5, totalRounds: 4,
+      currentRound: 1, secsLeft: 0, totalFocusSecs: 0, timer: null
+    };
+    var POMO_CIRC = 1162.4;
+
+    function pomoTodayKey() {
+      var d = getLocalDate();
+      return d.getUTCFullYear() + '-' + (d.getUTCMonth() + 1) + '-' + d.getUTCDate();
+    }
+    function pomoLoadTodayMins() {
+      try {
+        var data = JSON.parse(localStorage.getItem('pomo_daily') || '{}');
+        return (data.date === pomoTodayKey()) ? (data.mins || 0) : 0;
+      } catch(e) { return 0; }
+    }
+    function pomoSaveSessionMins(sessionMins) {
+      try {
+        var key = pomoTodayKey();
+        var data = JSON.parse(localStorage.getItem('pomo_daily') || '{}');
+        var prev = (data.date === key) ? (data.mins || 0) : 0;
+        localStorage.setItem('pomo_daily', JSON.stringify({ date: key, mins: prev + sessionMins }));
+      } catch(e) {}
+    }
+
+    function showPomoState(s) {
+      forceEinkRefresh(function() {
+        for (var i = 0; i < 3; i++) {
+          document.getElementById('pomo-s' + i).style.display = (i === s) ? '' : 'none';
+        }
+        var navEl = document.getElementById('bottom-nav');
+        if (navEl) { navEl.style.display = (s === 1) ? 'none' : ''; }
+      });
+    }
+
+    function setPomoFocus(m) {
+      pomo.focusMins = m;
+      var ids = ['pomo-f15','pomo-f25','pomo-f45'], vals = [15,25,45];
+      for (var i = 0; i < 3; i++) {
+        document.getElementById(ids[i]).className = 'pseg-btn' + (vals[i] === m ? ' selected' : '');
+      }
+    }
+
+    function setPomoBreak(m) {
+      pomo.breakMins = m;
+      var ids = ['pomo-b3','pomo-b5','pomo-b10'], vals = [3,5,10];
+      for (var i = 0; i < 3; i++) {
+        document.getElementById(ids[i]).className = 'pseg-btn' + (vals[i] === m ? ' selected' : '');
+      }
+    }
+
+    function setPomoRounds(n) {
+      pomo.totalRounds = n;
+      var ids = ['pomo-r2','pomo-r4','pomo-r6'], vals = [2,4,6];
+      for (var i = 0; i < 3; i++) {
+        document.getElementById(ids[i]).className = 'pseg-btn' + (vals[i] === n ? ' selected' : '');
+      }
+    }
+
+    function startPomo() {
+      pomo.currentRound = 1;
+      pomo.totalFocusSecs = 0;
+      pomo.phase = 'focus';
+      pomo.secsLeft = pomo.focusMins * 60;
+      pomo.waitingToStart = false;
+      pomo.running = true;
+      showPomoState(1);
+      updatePomoDisplay();
+      pomo.timer = setInterval(pomoTick, 1000);
+    }
+
+    function pomoTick() {
+      pomo.secsLeft--;
+      if (pomo.phase === 'focus') { pomo.totalFocusSecs++; }
+      if (pomo.secsLeft <= 0) { pomoPhaseEnd(); } else { updatePomoDisplay(); }
+    }
+
+    function pomoPhaseEnd() {
+      if (pomo.timer) { clearInterval(pomo.timer); pomo.timer = null; }
+      if (pomo.phase === 'focus') {
+        if (pomo.currentRound >= pomo.totalRounds) {
+          pomo.running = false;
+          showPomoDone();
+        } else {
+          pomo.phase = 'break';
+          pomo.secsLeft = pomo.breakMins * 60;
+          pomo.running = false;
+          pomo.waitingToStart = true;
+          updatePomoDisplay();
+          forceEinkRefresh(function() {});
+        }
+      } else {
+        pomo.currentRound++;
+        pomo.phase = 'focus';
+        pomo.secsLeft = pomo.focusMins * 60;
+        pomo.running = false;
+        pomo.waitingToStart = true;
+        updatePomoDisplay();
+      }
+    }
+
+    function togglePomo() {
+      if (pomo.running) {
+        if (pomo.timer) { clearInterval(pomo.timer); pomo.timer = null; }
+        pomo.running = false;
+        updatePomoDisplay();
+      } else {
+        var switchingToFocus = pomo.phase === 'focus' && pomo.waitingToStart;
+        pomo.running = true;
+        pomo.waitingToStart = false;
+        pomo.timer = setInterval(pomoTick, 1000);
+        if (switchingToFocus) {
+          updatePomoDisplay();
+          forceEinkRefresh(function() {});
+        } else {
+          updatePomoDisplay();
+        }
+      }
+    }
+
+    function restartPomo() {
+      if (pomo.timer) { clearInterval(pomo.timer); pomo.timer = null; }
+      pomo.secsLeft = (pomo.phase === 'focus' ? pomo.focusMins : pomo.breakMins) * 60;
+      pomo.running = false;
+      updatePomoDisplay();
+    }
+
+    function pomoRightAction() {
+      if (pomo.phase === 'focus') {
+        if (pomo.timer) { clearInterval(pomo.timer); pomo.timer = null; }
+        pomo.running = false;
+        if (pomo.totalFocusSecs > 0) {
+          var sessionMins = Math.floor(pomo.totalFocusSecs / 60);
+          pomoSaveSessionMins(sessionMins);
+          var todayMins = pomoLoadTodayMins();
+          document.getElementById('pomo-done-rounds').textContent = pomo.currentRound - 1;
+          document.getElementById('pomo-done-title').textContent = '今天已沉下心' + todayMins + '分钟';
+          showPomoState(2);
+        } else {
+          showPomoState(0);
+        }
+      } else {
+        if (pomo.timer) { clearInterval(pomo.timer); pomo.timer = null; }
+        pomo.currentRound++;
+        pomo.phase = 'focus';
+        pomo.secsLeft = pomo.focusMins * 60;
+        pomo.running = false;
+        pomo.waitingToStart = true;
+        updatePomoDisplay();
+      }
+    }
+
+    function showPomoDone() {
+      var sessionMins = Math.floor(pomo.totalFocusSecs / 60);
+      pomoSaveSessionMins(sessionMins);
+      var todayMins = pomoLoadTodayMins();
+      document.getElementById('pomo-done-rounds').textContent = pomo.totalRounds;
+      document.getElementById('pomo-done-title').textContent = '今天已沉下心' + todayMins + '分钟';
+      showPomoState(2);
+    }
+
+    function resetPomo() { showPomoState(0); }
+
+    function pausePomoTimer() {
+      if (pomo.timer) {
+        clearInterval(pomo.timer);
+        pomo.timer = null;
+        pomo.running = false;
+        updatePomoDisplay();
+      }
+    }
+
+    function updatePomoDisplay() {
+      var phaseText;
+      if (pomo.phase === 'focus') {
+        phaseText = pomo.running ? '专注中' : (pomo.waitingToStart ? '等你开始' : '暂停中');
+      } else {
+        phaseText = (pomo.running || pomo.waitingToStart) ? '歇一会儿 · 看看远处' : '暂停中';
+      }
+      document.getElementById('pomo-round-label').textContent = '第' + pomo.currentRound + '/' + pomo.totalRounds + '轮';
+      document.getElementById('pomo-phase-title').textContent = phaseText;
+      document.getElementById('pomo-circle-time').textContent =
+        pad(Math.floor(pomo.secsLeft / 60)) + ':' + pad(pomo.secsLeft % 60);
+      document.getElementById('pomo-icon-pause').style.display = pomo.running ? '' : 'none';
+      document.getElementById('pomo-icon-play').style.display = pomo.running ? 'none' : '';
+      document.getElementById('pomo-icon-close').style.display = pomo.phase === 'focus' ? '' : 'none';
+      document.getElementById('pomo-icon-skip').style.display = pomo.phase === 'break' ? '' : 'none';
+      var showBreak = (pomo.phase === 'break' || (pomo.phase === 'focus' && pomo.waitingToStart));
+      var focusEl = document.getElementById('pomo-illus-focus');
+      var breakEl = document.getElementById('pomo-illus-break');
+      if (focusEl) { focusEl.style.display = showBreak ? 'none' : ''; }
+      if (breakEl) { breakEl.style.display = showBreak ? '' : 'none'; }
+      var blackPath = document.getElementById('pomo-black-path');
+      if (blackPath) {
+        var totalSecs = (pomo.phase === 'focus' ? pomo.focusMins : pomo.breakMins) * 60;
+        var elapsed = totalSecs - pomo.secsLeft;
+        var progress = totalSecs > 0 ? elapsed / totalSecs : 0;
+        if (progress <= 0) {
+          blackPath.style.display = 'none';
+        } else {
+          blackPath.style.display = '';
+          if (progress >= 1) {
+            blackPath.setAttribute('d', 'M -200,-50 C 200,160 612,160 1012,-50');
+          } else {
+            // Find bezier parameter bt for x(bt) = progress*812
+            // Bezier: P0=(-200,-50) P1=(200,160) P2=(612,160) P3=(1012,-50)
+            // x(t) = -200 + 1200t + 36t² - 24t³
+            var cx = progress * 812;
+            var bt = (cx + 200) / 1212;
+            for (var i = 0; i < 8; i++) {
+              var xt = -200 + bt * (1200 + bt * (36 - 24 * bt));
+              var dxt = 1200 + bt * (72 - 72 * bt);
+              bt -= (xt - cx) / dxt;
+            }
+            // Sub-bezier from t=0 to t=bt via de Casteljau
+            var cy = -50 + 630 * bt * (1 - bt);
+            var q1x = -200 + 400 * bt;
+            var q1y = -50 + 210 * bt;
+            var q2x = -200 + 800 * bt + 12 * bt * bt;
+            var q2y = -50 + 420 * bt - 210 * bt * bt;
+            blackPath.setAttribute('d', 'M -200,-50 C ' + q1x.toFixed(2) + ',' + q1y.toFixed(2) + ' ' + q2x.toFixed(2) + ',' + q2y.toFixed(2) + ' ' + cx.toFixed(2) + ',' + cy.toFixed(2));
+          }
+        }
+      }
+    }
+
+    /* ── Hitokoto Quote ──────────────────────────────────── */
+    var FALLBACK_QUOTES = [
+      { text: 'Get busy living, or get busy dying.', author: 'The Shawshank Redemption' },
+      { text: '虽千万人，吾往矣。', author: '孟子' },
+      { text: '人生就像一盒巧克力，你永远不知道下一颗是什么味道。', author: '《阿甘正传》' },
+      { text: '大道至简。', author: '老子' },
+      { text: '当某件事足够重要，即使所有人都不看好，你也要去做。', author: '埃隆·马斯克' },
+      { text: '凡事不能杀死我的，终将使我更强。', author: '尼采' },
+      { text: 'Good artists copy, great artists steal.', author: 'Pablo Picasso' },
+      { text: '长风破浪会有时，直挂云帆济沧海。', author: '李白' },
+      { text: '在别人贪婪时恐惧，在别人恐惧时贪婪。', author: '巴菲特' },
+      { text: '真正的发现之旅，不在于寻找新风景，而在于拥有新眼光。', author: '普鲁斯特' },
+      { text: '千里之行，始于足下。', author: '老子' },
+      { text: '博观而约取，厚积而薄发。', author: '苏轼' },
+      { text: '成为你自己，其他角色都已经有人演了。', author: '王尔德' },
+      { text: '世上本没有路，走的人多了，也便成了路。', author: '鲁迅' },
+      { text: '你的时间有限，别浪费在过别人的生活上。', author: '乔布斯' }
+    ];
+
+    function setQuote(text, author) {
+      var bodyEl = document.getElementById('quote-body');
+      if (!bodyEl) return; /* 语录卡已移除 */
+      var wrapEl = bodyEl.parentNode;
+      var authorEl = document.getElementById('quote-author');
+      bodyEl.style.fontSize = '30px';
+      bodyEl.textContent = text;
+      var size = 30;
+      while (bodyEl.offsetHeight > wrapEl.offsetHeight && size > 18) {
+        size -= 2;
+        bodyEl.style.fontSize = size + 'px';
+      }
+      authorEl.textContent = author ? '- ' + author : '';
+    }
+
+    function useFallbackQuote() {
+      var q = FALLBACK_QUOTES[Math.floor(Math.random() * FALLBACK_QUOTES.length)];
+      setQuote(q.text, q.author);
+    }
+
+    function fetchQuote() {
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'https://v1.hitokoto.cn/', true);
+      xhr.timeout = 5000;
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+          if (xhr.status === 200) {
+            try {
+              var data = JSON.parse(xhr.responseText);
+              var author = data.from_who || data.from || '';
+              setQuote(data.hitokoto, author);
+            } catch(e) { useFallbackQuote(); }
+          } else { useFallbackQuote(); }
+        }
+      };
+      xhr.ontimeout = function() { useFallbackQuote(); };
+      xhr.onerror = function() { useFallbackQuote(); };
+      xhr.send();
+    }
+
+    /* fetchQuote(); 语录已移除,不再请求 */
+
+    (function scheduleDailyEinkRefresh() {
+      var REFRESH_TIMES = [[6, 55], [12, 0], [17, 55]];
+      function msUntilNext() {
+        var now = new Date();
+        var nowMins = now.getHours() * 60 + now.getMinutes();
+        for (var i = 0; i < REFRESH_TIMES.length; i++) {
+          var t = REFRESH_TIMES[i];
+          var tMins = t[0] * 60 + t[1];
+          if (tMins > nowMins) {
+            return (tMins - nowMins) * 60000 - now.getSeconds() * 1000 - now.getMilliseconds();
+          }
+        }
+        var first = REFRESH_TIMES[0];
+        return (24 * 60 - nowMins + first[0] * 60 + first[1]) * 60000 - now.getSeconds() * 1000 - now.getMilliseconds();
+      }
+      function scheduleNext() {
+        setTimeout(function() {
+          if (currentTab === 0) { forceEinkRefresh(function() {}); }
+          scheduleNext();
+        }, msUntilNext());
+      }
+      scheduleNext();
+    })();
+
+    /* ── Clock Style ────────────────────────────────────── */
+    var CS_KEY = 'kindle_noodle_clock_style';
+    var csDraft = 'flip';
+
+    function applyClockStyle(style) {
+      if (style === 'module') {
+        document.body.className = (document.body.className || '').replace(/\bclock-module\b/, '') + ' clock-module';
+      } else {
+        document.body.className = (document.body.className || '').replace(/\bclock-module\b/, '');
+      }
+    }
+
+    function openClockSettings() {
+      var saved;
+      try { saved = localStorage.getItem(CS_KEY) || 'flip'; } catch(e) { saved = 'flip'; }
+      csDraft = saved;
+      csUpdatePanel();
+      document.getElementById('clock-settings-panel').style.display = 'block';
+    }
+
+    function csSelect(style) {
+      csDraft = style;
+      csUpdatePanel();
+    }
+
+    function csUpdatePanel() {
+      var flipCard = document.getElementById('csp-flip');
+      var modCard = document.getElementById('csp-module');
+      if (csDraft === 'module') {
+        flipCard.className = 'csp-card';
+        modCard.className = 'csp-card is-selected';
+      } else {
+        flipCard.className = 'csp-card is-selected';
+        modCard.className = 'csp-card';
+      }
+    }
+
+    function csConfirmSettings() {
+      try { localStorage.setItem(CS_KEY, csDraft); } catch(e) {}
+      applyClockStyle(csDraft);
+      document.getElementById('clock-settings-panel').style.display = 'none';
+      forceEinkRefresh(function() {});
+    }
+
+    function csCancelSettings() {
+      document.getElementById('clock-settings-panel').style.display = 'none';
+    }
+
+    (function() {
+      var saved;
+      try { saved = localStorage.getItem(CS_KEY) || 'flip'; } catch(e) { saved = 'flip'; }
+      applyClockStyle(saved);
+    })();
+
+    /* ── AI Daily Report ─────────────────────────────────── */
+    var DAILY_WEEKDAYS = ['星期日','星期一','星期二','星期三','星期四','星期五','星期六'];
+
+    function formatDailyDate(dateStr) {
+      if (!dateStr) return '';
+      var parts = dateStr.split('-');
+      if (parts.length !== 3) return dateStr;
+      var y = parseInt(parts[0],10), m = parseInt(parts[1],10), d = parseInt(parts[2],10);
+      return y+'年'+m+'月'+d+'日 '+DAILY_WEEKDAYS[new Date(Date.UTC(y,m-1,d)).getUTCDay()];
+    }
+
+    function formatDateChinese(dateStr) {
+      if (!dateStr) return '';
+      var parts = dateStr.split('-');
+      if (parts.length !== 3) return dateStr;
+      var y = parseInt(parts[0],10), m = parseInt(parts[1],10), d = parseInt(parts[2],10);
+      var dg = ['〇','一','二','三','四','五','六','七','八','九'];
+      var yearStr = String(y).split('').map(function(c){return dg[+c];}).join('');
+      function cnNum(n) {
+        if (n < 10) return dg[n];
+        if (n === 10) return '十';
+        if (n < 20) return '十'+dg[n-10];
+        if (n % 10 === 0) return dg[Math.floor(n/10)]+'十';
+        return dg[Math.floor(n/10)]+'十'+dg[n%10];
+      }
+      var dow = new Date(Date.UTC(y,m-1,d)).getUTCDay();
+      return yearStr+'年'+cnNum(m)+'月'+cnNum(d)+'日　'+DAILY_WEEKDAYS[dow];
+    }
+
+    function isDailyRead(articleId) {
+      try {
+        var key = DAILY_READ_KEY + (dailyState.data ? dailyState.data.date : '');
+        return JSON.parse(localStorage.getItem(key)||'[]').indexOf(articleId) >= 0;
+      } catch(e) { return false; }
+    }
+
+    function markDailyRead(articleId) {
+      try {
+        var key = DAILY_READ_KEY + (dailyState.data ? dailyState.data.date : '');
+        var readSet = JSON.parse(localStorage.getItem(key)||'[]');
+        if (readSet.indexOf(articleId) < 0) { readSet.push(articleId); localStorage.setItem(key,JSON.stringify(readSet)); }
+      } catch(e) {}
+    }
+
+    function packTocIntoPages(items, availH) {
+      var pages = [], cur = [], curH = 0;
+      for (var i = 0; i < items.length; i++) {
+        var item = items[i];
+        var isSection = item.el.className === 'daily-toc-section';
+        var nextIsNonSection = isSection && i + 1 < items.length && items[i+1].el.className !== 'daily-toc-section';
+        /* Check if adding this item would overflow */
+        if (curH + item.h > availH && cur.length > 0) {
+          pages.push(cur.slice()); cur = [item.el]; curH = item.h;
+        } else {
+          /* If this is a section header and it would be the last item on the page (no next item fits), push it to next page */
+          var nextH = nextIsNonSection ? items[i+1].h : 0;
+          if (isSection && cur.length > 0 && nextH > 0 && curH + item.h + nextH > availH) {
+            pages.push(cur.slice()); cur = [item.el]; curH = item.h;
+          } else {
+            cur.push(item.el); curH += item.h;
+          }
+        }
+      }
+      if (cur.length > 0) pages.push(cur);
+      return pages;
+    }
+
+    function buildDailyPages() {
+      var data = dailyState.data;
+      var contentEl = document.getElementById('daily-content');
+      var availH = contentEl.getBoundingClientRect().height - 72; /* subtract top(40)+bottom(32) padding */
+      if (availH <= 0) availH = 780;
+      var GAP = 12;
+
+      var mEl = document.createElement('div');
+      mEl.style.cssText = 'position:absolute;top:-9999px;left:0;width:646px;visibility:hidden;font-family:Arial,Helvetica,sans-serif;';
+      document.body.appendChild(mEl);
+
+      /* Collect articles */
+      var allArticles = [];
+      if (data.sections) {
+        for (var si = 0; si < data.sections.length; si++) {
+          var sec = data.sections[si];
+          if (sec.items) {
+            for (var ai = 0; ai < sec.items.length; ai++) {
+              allArticles.push({ id:'s'+si+'_'+ai, sectionLabel:sec.label,
+                artIndex:ai+1, artTotal:sec.items.length,
+                title:sec.items[ai].title||'', summary:sec.items[ai].summary||'',
+                sourceName:sec.items[ai].sourceName||'', sourceUrl:sec.items[ai].sourceUrl||'' });
+            }
+          }
+        }
+      }
+      if (data.flashes) {
+        for (var fi = 0; fi < data.flashes.length; fi++) {
+          allArticles.push({ id:'f_'+fi, sectionLabel:'今日快讯',
+            artIndex:fi+1, artTotal:data.flashes.length,
+            title:data.flashes[fi].title||'', summary:'',
+            sourceName:data.flashes[fi].sourceName||'', sourceUrl:data.flashes[fi].sourceUrl||'' });
+        }
+      }
+
+      if (allArticles.length === 0) {
+        document.body.removeChild(mEl);
+        showDailyStatus('日报内容为空，请明天再来');
+        return;
+      }
+
+      /* Build & measure TOC elements */
+      var tocItems = [];
+      var dateEl = document.createElement('div');
+      dateEl.className = 'daily-header';
+      dateEl.innerHTML =
+        '<div class="daily-header-title">AI <span class="daily-header-hot">HOT</span> 日报</div>' +
+        '<div class="daily-header-meta">' +
+          '<span class="daily-header-date">' + formatDateChinese(data.date) + '</span>' +
+          '<div class="daily-header-line"></div>' +
+          '<span class="daily-header-label">DAILY &middot; 每早八时十五</span>' +
+        '</div>';
+      mEl.appendChild(dateEl);
+      tocItems.push({ el:dateEl, h:dateEl.getBoundingClientRect().height+GAP });
+
+      var tocSections = {}, tocSectionOrder = [];
+      for (var a = 0; a < allArticles.length; a++) {
+        if (!tocSections[allArticles[a].sectionLabel]) {
+          tocSections[allArticles[a].sectionLabel] = [];
+          tocSectionOrder.push(allArticles[a].sectionLabel);
+        }
+        tocSections[allArticles[a].sectionLabel].push(allArticles[a]);
+      }
+      for (var s = 0; s < tocSectionOrder.length; s++) {
+        var secLabel = tocSectionOrder[s];
+        var secEl = document.createElement('div');
+        secEl.className = 'daily-toc-section';
+        var numSpan = document.createElement('span');
+        numSpan.className = 'daily-toc-num';
+        numSpan.textContent = (s + 1 < 10 ? '0' : '') + (s + 1) + '  ';
+        secEl.appendChild(numSpan);
+        var secArtsCount = tocSections[secLabel].length;
+        secEl.appendChild(document.createTextNode(secLabel));
+        var countSpan = document.createElement('span');
+        countSpan.className = 'daily-toc-count';
+        countSpan.textContent = ' · ' + secArtsCount + '篇';
+        secEl.appendChild(countSpan);
+        mEl.appendChild(secEl);
+        tocItems.push({ el:secEl, h:secEl.getBoundingClientRect().height+GAP });
+        var secArts = tocSections[secLabel];
+        for (var t = 0; t < secArts.length; t++) {
+          var tArt = secArts[t];
+          var itemEl = document.createElement('div');
+          itemEl.className = 'daily-toc-item'+(isDailyRead(tArt.id)?' read':'');
+          itemEl.textContent = tArt.title;
+          itemEl.setAttribute('data-article-id', tArt.id);
+          mEl.appendChild(itemEl);
+          tocItems.push({ el:itemEl, h:itemEl.getBoundingClientRect().height+GAP });
+        }
+      }
+
+      /* Build section number lookup */
+      var sectionNumMap = {};
+      for (var sn = 0; sn < tocSectionOrder.length; sn++) {
+        sectionNumMap[tocSectionOrder[sn]] = (sn + 1 < 10 ? '0' : '') + (sn + 1);
+      }
+
+      /* Build & measure article elements */
+      var artGroups = [];
+      for (var ar = 0; ar < allArticles.length; ar++) {
+        var art = allArticles[ar];
+        var els = [], totalH = 0;
+
+        var metaEl = document.createElement('div');
+        metaEl.className = 'daily-art-meta';
+        var artNum = sectionNumMap[art.sectionLabel] || '';
+        var artNumSpan = document.createElement('span');
+        artNumSpan.className = 'daily-toc-num';
+        artNumSpan.textContent = artNum + '  ';
+        metaEl.appendChild(artNumSpan);
+        metaEl.appendChild(document.createTextNode(art.sectionLabel));
+        var artCountSpan = document.createElement('span');
+        artCountSpan.className = 'daily-toc-count';
+        artCountSpan.textContent = ' · ' + art.artIndex + '/' + art.artTotal + '篇';
+        metaEl.appendChild(artCountSpan);
+        mEl.appendChild(metaEl);
+        totalH += metaEl.getBoundingClientRect().height+GAP; els.push(metaEl);
+
+        var divEl = document.createElement('div');
+        divEl.className = 'daily-art-divider';
+        mEl.appendChild(divEl);
+        totalH += divEl.getBoundingClientRect().height+GAP; els.push(divEl);
+
+        var titleEl = document.createElement('div');
+        titleEl.className = 'daily-art-title';
+        titleEl.textContent = art.title;
+        mEl.appendChild(titleEl);
+        totalH += titleEl.getBoundingClientRect().height+GAP; els.push(titleEl);
+
+        if (art.summary) {
+          var bodyEl = document.createElement('div');
+          bodyEl.className = 'daily-art-body';
+          bodyEl.textContent = art.summary;
+          mEl.appendChild(bodyEl);
+          totalH += bodyEl.getBoundingClientRect().height+GAP; els.push(bodyEl);
+        }
+        if (art.sourceName) {
+          var srcEl = document.createElement('div');
+          srcEl.className = 'daily-art-source';
+          srcEl.textContent = art.sourceName;
+          mEl.appendChild(srcEl);
+          totalH += srcEl.getBoundingClientRect().height+GAP; els.push(srcEl);
+        }
+        var gapEl = document.createElement('div');
+        gapEl.className = 'daily-art-gap';
+        mEl.appendChild(gapEl);
+        totalH += 40+GAP; els.push(gapEl);
+
+        artGroups.push({ id:art.id, els:els, h:totalH });
+      }
+
+      document.body.removeChild(mEl);
+
+      /* Pack TOC pages */
+      var tocPages = packTocIntoPages(tocItems, availH);
+
+      /* Pack article pages (each article is atomic) */
+      var artPages = [], curPage = [], curH = 0;
+      for (var ap = 0; ap < artGroups.length; ap++) {
+        var grp = artGroups[ap];
+        if (curH + grp.h > availH && curPage.length > 0) {
+          artPages.push(curPage.slice()); curPage = [grp]; curH = grp.h;
+        } else { curPage.push(grp); curH += grp.h; }
+      }
+      if (curPage.length > 0) artPages.push(curPage);
+
+      /* Build articlePageMap */
+      var tocPageCount = tocPages.length;
+      var articlePageMap = {};
+      for (var pg = 0; pg < artPages.length; pg++) {
+        for (var ag = 0; ag < artPages[pg].length; ag++) {
+          articlePageMap[artPages[pg][ag].id] = tocPageCount + pg;
+        }
+      }
+
+      /* Wire TOC item clicks */
+      for (var ti = 0; ti < tocItems.length; ti++) {
+        var tocEl = tocItems[ti].el;
+        if (tocEl.hasAttribute && tocEl.hasAttribute('data-article-id')) {
+          (function(aid) {
+            tocEl.onclick = function() { jumpToArticle(aid); };
+          })(tocEl.getAttribute('data-article-id'));
+        }
+      }
+
+      /* Assemble pages */
+      var pages = [];
+      for (var tp = 0; tp < tocPages.length; tp++) pages.push(tocPages[tp]);
+      for (var artp = 0; artp < artPages.length; artp++) {
+        var flatEls = [];
+        for (var ag2 = 0; ag2 < artPages[artp].length; ag2++) flatEls = flatEls.concat(artPages[artp][ag2].els);
+        pages.push(flatEls);
+      }
+
+      var articleTocPageMap = {};
+      for (var tp = 0; tp < tocPages.length; tp++) {
+        for (var ti = 0; ti < tocPages[tp].length; ti++) {
+          var el = tocPages[tp][ti];
+          if (el.getAttribute && el.getAttribute('data-article-id')) {
+            articleTocPageMap[el.getAttribute('data-article-id')] = tp;
+          }
+        }
+      }
+
+      dailyState.pages = pages;
+      dailyState.totalPages = pages.length;
+      dailyState.tocPageCount = tocPageCount;
+      dailyState.articlePageMap = articlePageMap;
+      dailyState.articleTocPageMap = articleTocPageMap;
+      dailyState.currentPage = 0;
+      renderDailyCurrentPage();
+    }
+
+    function renderDailyCurrentPage() {
+      var contentEl = document.getElementById('daily-content');
+      while (contentEl.firstChild) contentEl.removeChild(contentEl.firstChild);
+      var page = dailyState.pages[dailyState.currentPage];
+      if (!page) return;
+      for (var i = 0; i < page.length; i++) contentEl.appendChild(page[i]);
+      if (dailyState.currentPage >= dailyState.tocPageCount) {
+        for (var aid in dailyState.articlePageMap) {
+          if (dailyState.articlePageMap[aid] === dailyState.currentPage) markDailyRead(aid);
+        }
+      } else {
+        for (var j = 0; j < page.length; j++) {
+          var el = page[j];
+          if (el.getAttribute && el.getAttribute('data-article-id')) {
+            var aid2 = el.getAttribute('data-article-id');
+            el.className = 'daily-toc-item' + (isDailyRead(aid2) ? ' read' : '');
+          }
+        }
+      }
+      updateDailyNavBtns();
+    }
+
+    function jumpToArticle(articleId) {
+      var pageIndex = dailyState.articlePageMap[articleId];
+      if (pageIndex === undefined) return;
+      markDailyRead(articleId);
+      dailyState.currentPage = pageIndex;
+      renderDailyCurrentPage();
+    }
+
+    function enterDailyMode() {
+      if (!dailyState.active) { dailyState.previousTab = currentTab; }
+      dailyState.active = true;
+      if (currentTab === 2) { pauseNoodleTimer(); }
+      if (currentTab === 1) { pausePomoTimer(); }
+
+      var navIcons = document.querySelectorAll('#bottom-nav .nav-icon');
+      var prevEl = document.getElementById('daily-prev-tab-icon');
+      if (navIcons[dailyState.previousTab]) {
+        prevEl.innerHTML = navIcons[dailyState.previousTab].innerHTML;
+      }
+
+      forceEinkRefresh(function() {
+        for (var i = 0; i <= 3; i++) {
+          document.getElementById('page-' + i).style.display = 'none';
+        }
+        document.getElementById('page-4').style.display = '';
+        document.getElementById('bottom-nav').style.display = 'none';
+        document.getElementById('daily-nav').style.display = '';
+        currentTab = 4;
+
+        var todayStr = (function() {
+          var d = new Date();
+          var m = d.getMonth() + 1;
+          var day = d.getDate();
+          return d.getFullYear() + '-' + (m < 10 ? '0' : '') + m + '-' + (day < 10 ? '0' : '') + day;
+        })();
+        var dataIsToday = dailyState.loaded && dailyState.data && dailyState.data.date === todayStr;
+        var now = new Date();
+        var pastNine = now.getHours() > 8 || (now.getHours() === 8 && now.getMinutes() >= 15);
+
+        if (dataIsToday || (!pastNine && dailyState.loaded)) {
+          renderDailyCurrentPage();
+        } else if (pastNine && !dailyState.loading) {
+          dailyState.loaded = false;
+          fetchDailyData();
+        } else if (!dailyState.loading) {
+          fetchDailyData();
+        }
+      });
+    }
+
+    function exitDailyMode() {
+      dailyState.active = false;
+      var prevTab = dailyState.previousTab;
+      forceEinkRefresh(function() {
+        for (var i = 0; i <= 4; i++) {
+          document.getElementById('page-' + i).style.display = (i === prevTab) ? '' : 'none';
+        }
+        document.getElementById('daily-nav').style.display = 'none';
+        document.getElementById('bottom-nav').style.display = '';
+        document.getElementById('nav-bar').style.left = NAV_LEFT[prevTab] + 'px';
+        currentTab = prevTab;
+        if (prevTab === 2 && noodleState === 1) { resumeNoodleTimer(); }
+      });
+    }
+
+    function dailyGoHome() {
+      var onArticle = dailyState.tocPageCount > 0 && dailyState.currentPage >= dailyState.tocPageCount;
+      var onTocNotHome = !onArticle && dailyState.currentPage > 0;
+      var onTocHome = !onArticle && dailyState.currentPage === 0;
+
+      if (onArticle) {
+        // 找当前页上第一篇文章，反查它在哪个目录页
+        var tocTarget = 0;
+        for (var aid in dailyState.articlePageMap) {
+          if (dailyState.articlePageMap[aid] === dailyState.currentPage) {
+            if (dailyState.articleTocPageMap[aid] !== undefined) {
+              tocTarget = dailyState.articleTocPageMap[aid];
+            }
+            break;
+          }
+        }
+        dailyState.currentPage = tocTarget;
+        renderDailyCurrentPage();
+      } else if (onTocNotHome) {
+        dailyState.currentPage = 0;
+        renderDailyCurrentPage();
+      } else if (onTocHome) {
+        forceEinkRefresh(function() { renderDailyCurrentPage(); });
+      }
+    }
+
+    function dailyPrevPage() {
+      if (dailyState.currentPage <= 0) return;
+      dailyState.currentPage--;
+      renderDailyCurrentPage();
+    }
+
+    function dailyNextPage() {
+      if (dailyState.currentPage >= dailyState.totalPages - 1) return;
+      dailyState.currentPage++;
+      renderDailyCurrentPage();
+    }
+
+    function fetchDailyData() {
+      dailyState.loading = true;
+      showDailyStatus('正在加载日报...');
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', './data/daily.json?t=' + Date.now(), true);
+      xhr.timeout = 10000;
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState !== 4) return;
+        dailyState.loading = false;
+        if (xhr.status === 200) {
+          try {
+            dailyState.data = JSON.parse(xhr.responseText);
+            dailyState.loaded = true;
+            buildDailyPages();
+          } catch(e) { showDailyStatus('日报数据格式错误，请明天再来'); }
+        } else if (xhr.status === 0 || xhr.status === 404) {
+          showDailyStatus('今日日报暂未生成，请明天再来');
+        } else {
+          showDailyStatus('加载失败，请检查网络连接');
+        }
+      };
+      xhr.ontimeout = function() { dailyState.loading = false; showDailyStatus('加载超时，请检查网络', true); };
+      xhr.onerror  = function() { dailyState.loading = false; showDailyStatus('网络连接失败，请检查网络后重试', true); };
+      xhr.send();
+    }
+
+    function showDailyStatus(msg, showRetry) {
+      var contentEl = document.getElementById('daily-content');
+      while (contentEl.firstChild) contentEl.removeChild(contentEl.firstChild);
+      var div = document.createElement('div');
+      div.className = 'daily-status';
+      div.textContent = msg;
+      contentEl.appendChild(div);
+      if (showRetry) {
+        var btn = document.createElement('div');
+        btn.className = 'daily-nav-btn';
+        btn.style.cssText = 'margin-top:24px;text-align:center;';
+        btn.textContent = '重试';
+        btn.onclick = function() { dailyState.loaded = false; fetchDailyData(); };
+        contentEl.appendChild(btn);
+      }
+      dailyState.totalPages = 0;
+      updateDailyNavBtns();
+    }
+
+    function updateDailyNavBtns() {
+      var p = dailyState.currentPage, total = dailyState.totalPages;
+      var prev = document.getElementById('daily-prev-btn');
+      var next = document.getElementById('daily-next-btn');
+      var indicator = document.getElementById('daily-page-indicator');
+      if (prev) prev.className = 'daily-nav-btn' + (p <= 0 ? ' disabled' : '');
+      if (next) next.className = 'daily-nav-btn' + (p >= total - 1 || total === 0 ? ' disabled' : '');
+      if (indicator) indicator.textContent = total > 0 ? (p + 1) + '/' + total : '';
+    }
+
+    /* ── Onboarding (first-run) ─────────────────────────── */
+    (function() {
+      var KEY = 'kindle_ob_done';
+      var overlay = document.getElementById('ob-overlay');
+      try {
+        if (localStorage.getItem(KEY)) {
+          overlay.style.display = 'none';
+          return;
+        }
+      } catch(e) {}
+
+      window.obGo = function(n) {
+        forceEinkRefresh(function() {
+          document.getElementById('ob-s1').style.display = (n === 1) ? '' : 'none';
+          document.getElementById('ob-s2').style.display = (n === 2) ? '' : 'none';
+          document.getElementById('ob-s3').style.display = (n === 3) ? '' : 'none';
+        });
+      };
+
+      window.obFinish = function() {
+        try { localStorage.setItem(KEY, '1'); } catch(e) {}
+        forceEinkRefresh(function() { overlay.style.display = 'none'; });
+      };
+    })();
+
+    /* ── Viewport Scale ──────────────────────────────────── */
+    (function() {
+      var lastW = -1, lastH = -1;
+      function applyScale() {
+        var w = window.innerWidth, h = window.innerHeight;
+        if (w === lastW && h === lastH) return; /* 值没变就跳过，避免墨水屏重复刷新 */
+        lastW = w; lastH = h;
+        var scale = w / 758;
+        document.documentElement.style.height = h + 'px';
+        document.documentElement.style.overflow = 'hidden';
+        document.body.style.webkitTransform = 'scale(' + scale + ')';
+        document.body.style.transform = 'scale(' + scale + ')';
+        document.body.style.webkitTransformOrigin = '0 0';
+        document.body.style.transformOrigin = '0 0';
+        document.body.style.height = (h / scale) + 'px';
+      }
+      function resizeObS1Image() {
+        var illus = document.querySelector('#ob-s1 .ob-s1-illus');
+        if (!illus) return;
+        var img = illus.querySelector('img');
+        if (!img) return;
+        var h = illus.offsetHeight;
+        var w = illus.offsetWidth;
+        if (h <= 0 || w <= 0) return;
+        var size = Math.min(h, w, 564);
+        img.style.width = size + 'px';
+        img.style.height = size + 'px';
+      }
+      function applyAll() {
+        applyScale();
+        setTimeout(resizeObS1Image, 0);
+      }
+      applyAll();
+      window.addEventListener('load', applyAll);            /* 资源加载完后再量一次 */
+      window.addEventListener('resize', applyAll);
+      window.addEventListener('orientationchange', applyAll);
+      /* 兜底：慢速 e-ink 浏览器工具栏定型后重新测量，纠正首次量早导致的压缩/留白 */
+      setTimeout(applyAll, 150);
+      setTimeout(applyAll, 500);
+      setTimeout(applyAll, 1200);
+    })();
+  </script>
+</body>
+</html>
