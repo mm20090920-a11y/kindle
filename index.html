@@ -2609,24 +2609,26 @@
     /* ── Viewport Scale ──────────────────────────────────── */
     (function() {
       var lastW = -1, lastH = -1;
+      function measureVisibleHeight() {
+        /* 用 position:fixed 探针量「真实可视高度」——排除 Kindle 浏览器把工具栏也算进 innerHeight 的误差 */
+        var probe = document.createElement('div');
+        probe.style.cssText = 'position:fixed;top:0;bottom:0;left:0;width:0;padding:0;margin:0;border:0;visibility:hidden;';
+        (document.body || document.documentElement).appendChild(probe);
+        var vh = probe.offsetHeight;
+        if (probe.parentNode) probe.parentNode.removeChild(probe);
+        if (!(vh > 0)) vh = window.innerHeight;
+        return vh;
+      }
       function applyScale() {
-        var w = window.innerWidth, h = window.innerHeight;
+        var w = window.innerWidth;
+        var h = measureVisibleHeight();
         if (w === lastW && h === lastH) return; /* 值没变就跳过，避免墨水屏重复刷新 */
         lastW = w; lastH = h;
-        /* 先撤销缩放，按 758 宽量出内容的自然高度 */
-        document.body.style.webkitTransform = 'none';
-        document.body.style.transform = 'none';
-        document.body.style.width = '758px';
-        document.body.style.height = 'auto';
-        var contentH = document.body.scrollHeight || 1024;
-        /* 同时满足「宽度铺满」与「高度不溢出」，取较小的缩放比 —— 数学上保证不出滚动条 */
-        var scaleW = w / 758;
-        var scaleH = h / contentH;
-        var scale = (scaleW < scaleH) ? scaleW : scaleH;
-        if (!(scale > 0)) scale = scaleW;
+        var scale = w / 758;                 /* 满宽缩放 */
         document.documentElement.style.height = h + 'px';
         document.documentElement.style.overflow = 'hidden';
-        document.body.style.height = (h / scale) + 'px';
+        document.body.style.overflow = 'hidden';
+        document.body.style.height = ((h / scale) - 2) + 'px';  /* -2 防止亚像素溢出 */
         document.body.style.webkitTransformOrigin = '0 0';
         document.body.style.transformOrigin = '0 0';
         document.body.style.webkitTransform = 'scale(' + scale + ')';
