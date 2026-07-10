@@ -1587,11 +1587,16 @@
 
     function updateClock() {
       var now = getLocalDate();
-      elHour.textContent    = pad(now.getUTCHours());
-      elMinute.textContent  = pad(now.getUTCMinutes());
-      elWeekday.textContent = WEEKDAYS[now.getUTCDay()] + ' ' + MONTHS[now.getUTCMonth()];
-      elDay.textContent     = pad(now.getUTCDate());
-      elLunar.textContent   = toLunarLabel(now);
+      function applyClock() {
+        elHour.textContent    = pad(now.getUTCHours());
+        elMinute.textContent  = pad(now.getUTCMinutes());
+        elWeekday.textContent = WEEKDAYS[now.getUTCDay()] + ' ' + MONTHS[now.getUTCMonth()];
+        elDay.textContent     = pad(now.getUTCDate());
+        elLunar.textContent   = toLunarLabel(now);
+      }
+      /* 墨水屏:在时钟页时,走时要黑白闪一下强制重绘,否则屏幕卡在旧时间(不翻牌) */
+      if (currentTab === 0) { forceEinkRefresh(applyClock); }
+      else { applyClock(); }
     }
 
     function fetchTimezone() {
