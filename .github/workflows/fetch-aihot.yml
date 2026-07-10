@@ -72,8 +72,26 @@ jobs:
             echo "Fetched dailies-index.json"
           fi
 
+      - name: Fetch 60s daily news
+        if: always()
+        run: |
+          UA="kindle-clock/1.0 (+https://github.com/${{ github.repository }})"
+          HTTP_STATUS=$(curl -s -o data/60s.json.tmp -w "%{http_code}" \
+            --connect-timeout 10 --max-time 20 \
+            --speed-time 8 --speed-limit 100 \
+            --retry 5 --retry-delay 3 --retry-all-errors \
+            -H "User-Agent: $UA" \
+            https://60s.viki.moe/v2/60s) || HTTP_STATUS="000"
+          if [ "$HTTP_STATUS" = "200" ]; then
+            mv data/60s.json.tmp data/60s.json
+            echo "Fetched 60s.json"
+          else
+            echo "60s API returned $HTTP_STATUS, skipping"
+            rm -f data/60s.json.tmp
+          fi
+
       - name: Commit if changed
-        if: steps.fetch.outputs.success == 'true'
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

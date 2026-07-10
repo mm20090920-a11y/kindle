@@ -101,6 +101,7 @@
       text-align: center; line-height: 150px;
     }
     .side-btn svg { width: 78px; height: 78px; vertical-align: middle; }
+    .side-btn-left { float: left; margin-right: 12px; }
     /* 底部导航条整个隐藏(按钮已移到日期两侧,微信读书去掉) */
     #bottom-nav { display: none !important; }
 
@@ -110,7 +111,7 @@
       padding: 32px; width: 365px; height: 365px;
     }
     .date-card {
-      float: left; width: 576px; height: 150px; margin-right: 12px; padding: 0 30px;
+      float: left; width: 412px; height: 150px; margin-right: 12px; padding: 0 24px;
       border-radius: 44px; text-align: center; line-height: 150px;
     }
     .date-card .date-day { display: inline-block; vertical-align: middle; line-height: 1; font-size: 104px; font-weight: bold; color: #000; margin-right: 28px; }
@@ -1098,6 +1099,15 @@
           <div class="clock-style-btn" onclick="openClockSettings()"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2291_432)"><rect x="12.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 12.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="19.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 19.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="5.01001" y="11.999" width="0.01" height="0.01" transform="rotate(90 5.01001 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/></g><defs><clipPath id="clip0_2291_432"><rect width="24" height="24" fill="white"/></clipPath></defs></svg></div>
         </div>
         <div class="bottom-row">
+          <div class="side-btn side-btn-left" onclick="enterDailyMode('60s')">
+            <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="28" cy="28" r="21" stroke="black" stroke-width="4.4"/>
+              <path d="M7 28H49" stroke="black" stroke-width="4.4"/>
+              <path d="M28 7V49" stroke="black" stroke-width="4.4"/>
+              <path d="M28 7C16.5 16 16.5 40 28 49" stroke="black" stroke-width="4.4" fill="none"/>
+              <path d="M28 7C39.5 16 39.5 40 28 49" stroke="black" stroke-width="4.4" fill="none"/>
+            </svg>
+          </div>
           <div class="side-btn" onclick="switchTab(4)">
             <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g clip-path="url(#clipNews)">
@@ -1479,6 +1489,7 @@
     var DAILY_READ_KEY = 'ai_daily_read_';
 
     var dailyState = {
+      source: 'ai',
       previousTab: 0,
       currentPage: 0,
       totalPages: 0,
@@ -2400,7 +2411,14 @@
       renderDailyCurrentPage();
     }
 
-    function enterDailyMode() {
+    function enterDailyMode(source) {
+      source = source || 'ai';
+      if (dailyState.source !== source) { /* 切换数据源(AI日报/60秒)时重新加载 */
+        dailyState.source = source;
+        dailyState.loaded = false;
+        dailyState.data = null;
+        dailyState.currentPage = 0;
+      }
       if (!dailyState.active) { dailyState.previousTab = currentTab; }
       dailyState.active = true;
       if (currentTab === 2) { pauseNoodleTimer(); }
@@ -2495,23 +2513,36 @@
       renderDailyCurrentPage();
     }
 
+    /* 把 60秒 原始数据转成日报页能吃的「分区+条目」结构 */
+    function transformSixty(raw) {
+      var d = (raw && raw.data) ? raw.data : (raw || {});
+      var news = d.news || [];
+      var items = [];
+      for (var i = 0; i < news.length; i++) { items.push({ title: news[i], summary: '' }); }
+      var sections = [{ label: '每天60秒读懂世界', items: items }];
+      if (d.tip) { sections.push({ label: '今日金句', items: [{ title: d.tip, summary: '' }] }); }
+      return { date: d.date || '', sections: sections };
+    }
+
     function fetchDailyData() {
       dailyState.loading = true;
-      showDailyStatus('正在加载日报...');
+      var isSixty = dailyState.source === '60s';
+      showDailyStatus(isSixty ? '正在加载60秒...' : '正在加载日报...');
       var xhr = new XMLHttpRequest();
-      xhr.open('GET', './data/daily.json?t=' + Date.now(), true);
+      xhr.open('GET', (isSixty ? './data/60s.json' : './data/daily.json') + '?t=' + Date.now(), true);
       xhr.timeout = 10000;
       xhr.onreadystatechange = function() {
         if (xhr.readyState !== 4) return;
         dailyState.loading = false;
         if (xhr.status === 200) {
           try {
-            dailyState.data = JSON.parse(xhr.responseText);
+            var raw = JSON.parse(xhr.responseText);
+            dailyState.data = isSixty ? transformSixty(raw) : raw;
             dailyState.loaded = true;
             buildDailyPages();
-          } catch(e) { showDailyStatus('日报数据格式错误，请明天再来'); }
+          } catch(e) { showDailyStatus('数据格式错误，请明天再来'); }
         } else if (xhr.status === 0 || xhr.status === 404) {
-          showDailyStatus('今日日报暂未生成，请明天再来');
+          showDailyStatus(isSixty ? '今日60秒暂未生成，请明天再来' : '今日日报暂未生成，请明天再来');
         } else {
           showDailyStatus('加载失败，请检查网络连接');
         }
