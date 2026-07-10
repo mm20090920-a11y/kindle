@@ -2613,14 +2613,24 @@
         var w = window.innerWidth, h = window.innerHeight;
         if (w === lastW && h === lastH) return; /* 值没变就跳过，避免墨水屏重复刷新 */
         lastW = w; lastH = h;
-        var scale = w / 758;
+        /* 先撤销缩放，按 758 宽量出内容的自然高度 */
+        document.body.style.webkitTransform = 'none';
+        document.body.style.transform = 'none';
+        document.body.style.width = '758px';
+        document.body.style.height = 'auto';
+        var contentH = document.body.scrollHeight || 1024;
+        /* 同时满足「宽度铺满」与「高度不溢出」，取较小的缩放比 —— 数学上保证不出滚动条 */
+        var scaleW = w / 758;
+        var scaleH = h / contentH;
+        var scale = (scaleW < scaleH) ? scaleW : scaleH;
+        if (!(scale > 0)) scale = scaleW;
         document.documentElement.style.height = h + 'px';
         document.documentElement.style.overflow = 'hidden';
-        document.body.style.webkitTransform = 'scale(' + scale + ')';
-        document.body.style.transform = 'scale(' + scale + ')';
+        document.body.style.height = (h / scale) + 'px';
         document.body.style.webkitTransformOrigin = '0 0';
         document.body.style.transformOrigin = '0 0';
-        document.body.style.height = (h / scale) + 'px';
+        document.body.style.webkitTransform = 'scale(' + scale + ')';
+        document.body.style.transform = 'scale(' + scale + ')';
       }
       function resizeObS1Image() {
         var illus = document.querySelector('#ob-s1 .ob-s1-illus');
