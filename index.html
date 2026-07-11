@@ -1622,7 +1622,7 @@
     function updateClock() {
       var now = getLocalDate();
       function applyClock() {
-        elHour.textContent    = pad(now.getUTCHours());
+        elHour.textContent    = pad(((now.getUTCHours() + 11) % 12) + 1); /* 12小时制:0→12,13→1 */
         elMinute.textContent  = pad(now.getUTCMinutes());
         elWeekday.textContent = WEEKDAYS[now.getUTCDay()] + ' ' + MONTHS[now.getUTCMonth()];
         elDay.textContent     = pad(now.getUTCDate());
