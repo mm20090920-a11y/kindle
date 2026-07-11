@@ -88,6 +88,11 @@
       position: absolute; top: 50%; left: 34px; right: 34px;
       height: 6px; margin-top: -3px; background: rgba(0,0,0,.85); z-index: 2;
     }
+    /* 上午/下午,放分针卡片右下角 */
+    .ampm {
+      position: absolute; right: 26px; bottom: 20px;
+      font-size: 40px; font-weight: normal; color: #fff; z-index: 4; line-height: 1;
+    }
 
     .bottom-row {
       height: 150px; -webkit-flex-shrink: 0; flex-shrink: 0; margin-bottom: 8px;
@@ -1095,6 +1100,7 @@
             <div class="digit-card">
               <span class="digit-number" id="minute">00</span>
               <div class="digit-line"></div>
+              <span class="ampm" id="ampm">上午</span>
             </div>
           </div>
           <div class="clock-style-btn" onclick="openClockSettings()"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_2291_432)"><rect x="12.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 12.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="19.01" y="11.999" width="0.01" height="0.01" transform="rotate(90 19.01 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/><rect x="5.01001" y="11.999" width="0.01" height="0.01" transform="rotate(90 5.01001 11.999)" stroke="#666666" stroke-width="3.75" stroke-linejoin="round"/></g><defs><clipPath id="clip0_2291_432"><rect width="24" height="24" fill="white"/></clipPath></defs></svg></div>
@@ -1605,6 +1611,7 @@
     var elWeekday = document.getElementById('weekday-month');
     var elDay     = document.getElementById('day-number');
     var elLunar   = document.getElementById('lunar-date');
+    var elAmpm    = document.getElementById('ampm');
 
     /* 局部墨水屏刷新:只在"时钟卡片"内黑白闪一下重绘,模拟翻牌,而不是整屏刷白 */
     function refreshClockCard(apply) {
@@ -1623,6 +1630,7 @@
       var now = getLocalDate();
       function applyClock() {
         elHour.textContent    = pad(((now.getUTCHours() + 11) % 12) + 1); /* 12小时制:0→12,13→1 */
+        if (elAmpm) elAmpm.textContent = (now.getUTCHours() < 12) ? '上午' : '下午';
         elMinute.textContent  = pad(now.getUTCMinutes());
         elWeekday.textContent = WEEKDAYS[now.getUTCDay()] + ' ' + MONTHS[now.getUTCMonth()];
         elDay.textContent     = pad(now.getUTCDate());
