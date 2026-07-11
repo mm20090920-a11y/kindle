@@ -2171,7 +2171,7 @@
     function buildDailyPages() {
       var data = dailyState.data;
       var contentEl = document.getElementById('daily-content');
-      var availH = contentEl.getBoundingClientRect().height - 72; /* subtract top(40)+bottom(32) padding */
+      var availH = contentEl.offsetHeight - 72; /* subtract top(40)+bottom(32) padding */
       if (availH <= 0) availH = 780;
       var GAP = 12;
 
@@ -2221,7 +2221,7 @@
           '<span class="daily-header-label">DAILY &middot; 每早八时十五</span>' +
         '</div>';
       mEl.appendChild(dateEl);
-      tocItems.push({ el:dateEl, h:dateEl.getBoundingClientRect().height+GAP });
+      tocItems.push({ el:dateEl, h:dateEl.offsetHeight+GAP });
 
       var tocSections = {}, tocSectionOrder = [];
       for (var a = 0; a < allArticles.length; a++) {
@@ -2246,7 +2246,7 @@
         countSpan.textContent = ' · ' + secArtsCount + '篇';
         secEl.appendChild(countSpan);
         mEl.appendChild(secEl);
-        tocItems.push({ el:secEl, h:secEl.getBoundingClientRect().height+GAP });
+        tocItems.push({ el:secEl, h:secEl.offsetHeight+GAP });
         var secArts = tocSections[secLabel];
         for (var t = 0; t < secArts.length; t++) {
           var tArt = secArts[t];
@@ -2255,7 +2255,7 @@
           itemEl.textContent = tArt.title;
           itemEl.setAttribute('data-article-id', tArt.id);
           mEl.appendChild(itemEl);
-          tocItems.push({ el:itemEl, h:itemEl.getBoundingClientRect().height+GAP });
+          tocItems.push({ el:itemEl, h:itemEl.offsetHeight+GAP });
         }
       }
 
@@ -2284,32 +2284,32 @@
         artCountSpan.textContent = ' · ' + art.artIndex + '/' + art.artTotal + '篇';
         metaEl.appendChild(artCountSpan);
         mEl.appendChild(metaEl);
-        totalH += metaEl.getBoundingClientRect().height+GAP; els.push(metaEl);
+        totalH += metaEl.offsetHeight+GAP; els.push(metaEl);
 
         var divEl = document.createElement('div');
         divEl.className = 'daily-art-divider';
         mEl.appendChild(divEl);
-        totalH += divEl.getBoundingClientRect().height+GAP; els.push(divEl);
+        totalH += divEl.offsetHeight+GAP; els.push(divEl);
 
         var titleEl = document.createElement('div');
         titleEl.className = 'daily-art-title';
         titleEl.textContent = art.title;
         mEl.appendChild(titleEl);
-        totalH += titleEl.getBoundingClientRect().height+GAP; els.push(titleEl);
+        totalH += titleEl.offsetHeight+GAP; els.push(titleEl);
 
         if (art.summary) {
           var bodyEl = document.createElement('div');
           bodyEl.className = 'daily-art-body';
           bodyEl.textContent = art.summary;
           mEl.appendChild(bodyEl);
-          totalH += bodyEl.getBoundingClientRect().height+GAP; els.push(bodyEl);
+          totalH += bodyEl.offsetHeight+GAP; els.push(bodyEl);
         }
         if (art.sourceName) {
           var srcEl = document.createElement('div');
           srcEl.className = 'daily-art-source';
           srcEl.textContent = art.sourceName;
           mEl.appendChild(srcEl);
-          totalH += srcEl.getBoundingClientRect().height+GAP; els.push(srcEl);
+          totalH += srcEl.offsetHeight+GAP; els.push(srcEl);
         }
         var gapEl = document.createElement('div');
         gapEl.className = 'daily-art-gap';
