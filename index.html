@@ -1,4 +1,4 @@
-<!-- Kindle Noodle v1.0 -->
+<!-- selina的时钟 (based on KindleNoodle) -->
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="refresh" content="43200">
   <meta name="version" content="1.0">
-  <title>Kindle Noodle</title>
+  <title>selina的时钟</title>
   <script>document.write('<style>#ob-overlay{display:none}</style>');</script><!-- 引导已禁用:直接进时钟 -->
   <style>
     *, *::before, *::after {
@@ -2209,12 +2209,15 @@
       var tocItems = [];
       var dateEl = document.createElement('div');
       dateEl.className = 'daily-header';
+      var _isSixty = dailyState.source === '60s';
+      var _title = _isSixty ? '60秒读懂世界' : 'AI <span class="daily-header-hot">HOT</span> 日报';
+      var _label = _isSixty ? '每天一分钟 · 读懂世界' : 'DAILY &middot; 每早八时十五';
       dateEl.innerHTML =
-        '<div class="daily-header-title">AI <span class="daily-header-hot">HOT</span> 日报</div>' +
+        '<div class="daily-header-title">' + _title + '</div>' +
         '<div class="daily-header-meta">' +
           '<span class="daily-header-date">' + formatDateChinese(data.date) + '</span>' +
           '<div class="daily-header-line"></div>' +
-          '<span class="daily-header-label">DAILY &middot; 每早八时十五</span>' +
+          '<span class="daily-header-label">' + _label + '</span>' +
         '</div>';
       mEl.appendChild(dateEl);
       tocItems.push({ el:dateEl, h:dateEl.offsetHeight+GAP });
