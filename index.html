@@ -101,7 +101,7 @@
       text-align: center; line-height: 150px;
     }
     .side-btn svg { width: 78px; height: 78px; vertical-align: middle; }
-    .side-char { font-size: 92px; font-weight: bold; color: #000; vertical-align: middle; }
+    .side-char { font-size: 88px; font-weight: normal; color: #000; vertical-align: middle; }
     .side-btn-left { float: left; margin-right: 12px; }
     /* 底部导航条整个隐藏(按钮已移到日期两侧,微信读书去掉) */
     #bottom-nav { display: none !important; }
@@ -2601,7 +2601,9 @@
         if (w === lastW && h === lastH) return; /* 值没变就跳过，避免墨水屏重复刷新 */
         lastW = w; lastH = h;
         /* 横版:把 758 宽的设计旋转 90°,让设计的「宽」铺满屏幕的「高」,设计的「高」铺满屏幕的「宽」 */
-        var scale = h / 758;
+        /* 底部留安全余量:浏览器报的 innerHeight 常比真实可视区大(工具栏),减掉才不会溢出出滚动条 */
+        var SAFE = 40;
+        var scale = (h - SAFE) / 758;
         var bodyH = w / scale;                 /* 设计高度 = 旋转后铺满屏幕宽度 */
         document.documentElement.style.height = h + 'px';
         document.documentElement.style.overflow = 'hidden';
