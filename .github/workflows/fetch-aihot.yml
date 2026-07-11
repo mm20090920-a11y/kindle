@@ -98,3 +98,16 @@ jobs:
           git add data/
           git diff --cached --quiet && echo "No changes" || \
             (git commit -m "chore: update AI HOT daily $(date -u +%Y-%m-%d)" && git push)
+
+      - name: Deploy to Surge
+        if: always()
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: |
+          npm install -g surge
+          mkdir -p _site
+          cp index.html _site/index.html
+          cp index.html _site/200.html
+          cp -r data _site/data
+          surge _site selina-clock.surge.sh --token "$SURGE_TOKEN"
