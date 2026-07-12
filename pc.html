@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日看板 · selina</title>
+<style>
+  :root{
+    --bg:#eef1f5; --card:#ffffff; --ink:#1a1d24; --sub:#8a909c;
+    --line:#eceef2; --up:#e23b3b; --down:#1aa053; --accent:#2b6cff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",Segoe UI,Roboto,sans-serif;
+    background:var(--bg); color:var(--ink); line-height:1.5;
+    padding:28px 20px 60px;
+  }
+  .wrap{max-width:1200px;margin:0 auto}
+  header{display:flex;align-items:baseline;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+  h1{font-size:30px;font-weight:800;letter-spacing:1px}
+  h1 .dot{color:var(--accent)}
+  .meta{color:var(--sub);font-size:14px}
+  .sec-title{font-size:16px;font-weight:700;color:var(--sub);letter-spacing:2px;margin:26px 4px 12px;text-transform:uppercase}
+
+  /* 财经卡片网格 */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+  .card{background:var(--card);border-radius:16px;padding:18px 20px;box-shadow:0 1px 3px rgba(20,30,60,.06),0 8px 24px rgba(20,30,60,.04)}
+  .card .name{font-size:14px;color:var(--sub);font-weight:600;margin-bottom:8px}
+  .card .val{font-size:30px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:.5px}
+  .card .chg{font-size:15px;font-weight:700;margin-top:6px;font-variant-numeric:tabular-nums}
+  .card .unit{font-size:13px;color:var(--sub);margin-top:6px}
+  .up{color:var(--up)} .down{color:var(--down)}
+
+  /* 热榜两栏 */
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:760px){.cols{grid-template-columns:1fr}}
+  .list-card{background:var(--card);border-radius:16px;padding:8px 8px 12px;box-shadow:0 1px 3px rgba(20,30,60,.06),0 8px 24px rgba(20,30,60,.04)}
+  .list-head{display:flex;align-items:center;gap:8px;padding:12px 14px 10px;font-weight:800;font-size:17px}
+  .list-head .badge{font-size:13px;font-weight:700;color:#fff;background:var(--accent);border-radius:8px;padding:2px 8px}
+  .row{display:flex;gap:12px;align-items:flex-start;padding:10px 14px;border-top:1px solid var(--line)}
+  .row .rank{flex:0 0 26px;text-align:center;font-weight:800;color:var(--sub);font-size:15px}
+  .row.top .rank{color:var(--up)}
+  .row .txt{font-size:15px}
+  .row a{color:inherit;text-decoration:none}
+  .empty{padding:16px 14px;color:var(--sub)}
+  footer{margin-top:30px;text-align:center;color:var(--sub);font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>每日看板<span class="dot">.</span></h1>
+    <div class="meta" id="meta">加载中…</div>
+  </header>
+
+  <div class="sec-title">股市 · 金价 · 汇率 · 币</div>
+  <div class="grid" id="fin"></div>
+
+  <div class="cols">
+    <div>
+      <div class="sec-title">微博热搜</div>
+      <div class="list-card"><div class="list-head"><span class="badge">微博</span> 实时热搜</div><div id="weibo"></div></div>
+    </div>
+    <div>
+      <div class="sec-title">知乎热榜</div>
+      <div class="list-card"><div class="list-head"><span class="badge">知乎</span> 热榜</div><div id="zhihu"></div></div>
+    </div>
+  </div>
+
+  <footer>数据每天自动更新 · 同步自 selina 的 Kindle 看板 · 页面每 5 分钟自动刷新</footer>
+</div>
+
+<script>
+function chgClass(pct){ return (pct && pct.indexOf('-')===0) ? 'down' : 'up'; } /* 红涨绿跌 */
+function el(tag,cls,html){var e=document.createElement(tag);if(cls)e.className=cls;if(html!=null)e.innerHTML=html;return e;}
+
+function render(d){
+  document.getElementById('meta').textContent = '更新于 ' + (d.updatedAt||d.date||'');
+  var fin=document.getElementById('fin'); fin.innerHTML='';
+
+  (d.stocks||[]).forEach(function(s){
+    var c=el('div','card');
+    c.appendChild(el('div','name',s.name));
+    c.appendChild(el('div','val',s.value));
+    c.appendChild(el('div','chg '+chgClass(s.pct), (s.change||'')+'　'+(s.pct||'')));
+    fin.appendChild(c);
+  });
+  if(d.gold){
+    var c=el('div','card');
+    c.appendChild(el('div','name',d.gold.name));
+    c.appendChild(el('div','val',d.gold.value));
+    c.appendChild(el('div','unit',d.gold.unit||''));
+    fin.appendChild(c);
+  }
+  (d.forex||[]).forEach(function(f){
+    var c=el('div','card');
+    c.appendChild(el('div','name',f.name+' / 人民币'));
+    c.appendChild(el('div','val',f.value));
+    fin.appendChild(c);
+  });
+  if(d.btc){
+    var c=el('div','card');
+    c.appendChild(el('div','name','比特币 BTC'));
+    c.appendChild(el('div','val','$'+d.btc.usd));
+    c.appendChild(el('div','chg '+chgClass(d.btc.pct), '¥'+d.btc.cny+'　'+(d.btc.pct||'')));
+    fin.appendChild(c);
+  }
+
+  ['weibo','zhihu'].forEach(function(key){
+    var box=document.getElementById(key); box.innerHTML='';
+    var arr=d[key]||[];
+    if(!arr.length){ box.appendChild(el('div','empty','暂无数据')); return; }
+    arr.forEach(function(t,i){
+      var r=el('div','row'+(i<3?' top':''));
+      r.appendChild(el('div','rank',(i+1)));
+      r.appendChild(el('div','txt',t));
+      box.appendChild(r);
+    });
+  });
+}
+
+function load(){
+  var xhr=new XMLHttpRequest();
+  xhr.open('GET','./data/dashboard.json?t='+Date.now(),true);
+  xhr.onreadystatechange=function(){
+    if(xhr.readyState===4 && xhr.status===200){
+      try{ render(JSON.parse(xhr.responseText)); }
+      catch(e){ document.getElementById('meta').textContent='数据解析失败'; }
+    }
+  };
+  xhr.send();
+}
+load();
+setInterval(load, 5*60*1000); /* 每5分钟自动刷新 */
+</script>
+</body>
+</html>
