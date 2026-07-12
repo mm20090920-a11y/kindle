@@ -114,4 +114,5 @@ jobs:
           cp index.html _site/index.html
           cp index.html _site/200.html
           cp -r data _site/data
+          cp *.jpg *.png _site/ 2>/dev/null || true
           surge _site selina-clock.surge.sh --token "$SURGE_TOKEN"
