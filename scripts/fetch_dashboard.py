@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 抓取财经看板数据 -> data/dashboard.json (纯标准库,GitHub Actions 免装依赖)
+# 财经看板数据 -> data/dashboard.json (纯标准库)
 import urllib.request, json, time, sys
 
 def get(url, headers=None, decode='utf-8', timeout=20, retries=3):
@@ -13,20 +13,41 @@ def get(url, headers=None, decode='utf-8', timeout=20, retries=3):
             last=e; time.sleep(2)
     raise last
 
+def get_trend(code, n=32):
+    try:
+        d = json.loads(get('https://web.ifzq.gtimg.cn/appstock/app/minute/query?code='+code, timeout=15, retries=2))
+        mins = d['data'][code]['data']['data']
+        prices=[]
+        for m in mins:
+            p=m.split()
+            if len(p)>=2:
+                try: prices.append(float(p[1]))
+                except: pass
+        if len(prices)<=n: return prices
+        step=len(prices)/float(n)
+        return [round(prices[int(i*step)],2) for i in range(n)]
+    except Exception as e:
+        sys.stderr.write('trend %s fail: %s\n'%(code,e)); return []
+
 out = {'date': time.strftime('%Y-%m-%d'), 'updatedAt': time.strftime('%Y-%m-%d %H:%M')}
 
+# 股指(腾讯)+ 日内走势
 try:
-    txt = get('https://qt.gtimg.cn/q=sh000001,sz399001,sz399006', decode='gbk')
+    codes=['sh000001','sz399001','sz399006']
+    txt = get('https://qt.gtimg.cn/q='+','.join(codes), decode='gbk')
+    lines=[l for l in txt.strip().split('\n') if '="' in l]
     stocks=[]
-    for line in txt.strip().split('\n'):
-        if '="' not in line: continue
+    for idx,line in enumerate(lines):
         f = line.split('="',1)[1].rstrip('";').split('~')
         name=f[1]; cur=float(f[3]); prev=float(f[4]); chg=cur-prev; pct=(chg/prev*100) if prev else 0
-        stocks.append({'name':name,'value':f'{cur:.2f}','change':f'{chg:+.2f}','pct':f'{pct:+.2f}%'})
+        code=codes[idx] if idx<len(codes) else None
+        stocks.append({'name':name,'value':f'{cur:.2f}','change':f'{chg:+.2f}','pct':f'{pct:+.2f}%',
+                       'up': chg>=0, 'trend': get_trend(code) if code else []})
     out['stocks']=stocks
 except Exception as e:
     out['stocks']=[]; sys.stderr.write(f'stocks fail: {e}\n')
 
+# 黄金
 try:
     txt = get('https://hq.sinajs.cn/list=hf_XAU', headers={'User-Agent':'kc','Referer':'https://finance.sina.com.cn'}, decode='gbk')
     f = txt.split('="',1)[1].rstrip('";').split(',')
@@ -34,6 +55,7 @@ try:
 except Exception as e:
     out['gold']=None; sys.stderr.write(f'gold fail: {e}\n')
 
+# 汇率
 try:
     d = json.loads(get('https://60s.viki.moe/v2/exchange_rate')).get('data',{})
     rates = {r['currency']:r['rate'] for r in d.get('rates',[])}
@@ -46,12 +68,14 @@ try:
 except Exception as e:
     out['forex']=[]; sys.stderr.write(f'forex fail: {e}\n')
 
+# 比特币
 try:
     b = json.loads(get('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd,cny&include_24hr_change=true'))['bitcoin']
-    out['btc']={'usd':f"{b['usd']:,.0f}",'cny':f"{b['cny']:,.0f}",'pct':f"{b.get('usd_24h_change',0):+.2f}%"}
+    out['btc']={'usd':f"{b['usd']:,.0f}",'cny':f"{b['cny']:,.0f}",'pct':f"{b.get('usd_24h_change',0):+.2f}%",'up': b.get('usd_24h_change',0)>=0}
 except Exception as e:
     out['btc']=None; sys.stderr.write(f'btc fail: {e}\n')
 
+# 微博/知乎(带链接)
 for key,url in [('weibo','https://60s.viki.moe/v2/weibo'),('zhihu','https://60s.viki.moe/v2/zhihu')]:
     try:
         d = json.loads(get(url)).get('data',[])
@@ -61,3 +85,4 @@ for key,url in [('weibo','https://60s.viki.moe/v2/weibo'),('zhihu','https://60s.
 
 json.dump(out, open('data/dashboard.json','w'), ensure_ascii=False, indent=1)
 print('OK:', {k:(len(v) if isinstance(v,list) else ('有' if v else '无')) for k,v in out.items() if k not in ('date','updatedAt')})
+print('trend点数:', [len(s.get('trend',[])) for s in out.get('stocks',[])])
