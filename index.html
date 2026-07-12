@@ -1110,8 +1110,8 @@
           <div class="side-btn side-btn-left" onclick="enterDailyMode('60s')">
             <img class="side-img" src="gua.jpg" alt="60秒">
           </div>
-          <div class="side-btn" onclick="switchTab(4)">
-            <img class="side-img" src="avatar.jpg" alt="AI日报">
+          <div class="side-btn" onclick="enterDailyMode('finance')">
+            <img class="side-img" src="avatar.jpg" alt="每日看板">
           </div>
           <div class="date-card">
             <span class="date-day" id="day-number">09</span>
@@ -2209,9 +2209,9 @@
       var tocItems = [];
       var dateEl = document.createElement('div');
       dateEl.className = 'daily-header';
-      var _isSixty = dailyState.source === '60s';
-      var _title = _isSixty ? '60秒读懂世界' : 'AI <span class="daily-header-hot">HOT</span> 日报';
-      var _label = _isSixty ? '每天一分钟 · 读懂世界' : 'DAILY &middot; 每早八时十五';
+      var _src = dailyState.source;
+      var _title = _src === '60s' ? '60秒读懂世界' : (_src === 'finance' ? '每日看板' : 'AI <span class="daily-header-hot">HOT</span> 日报');
+      var _label = _src === '60s' ? '每天一分钟 · 读懂世界' : (_src === 'finance' ? ('更新 ' + (data.date || '')) : 'DAILY &middot; 每早八时十五');
       dateEl.innerHTML =
         '<div class="daily-header-title">' + _title + '</div>' +
         '<div class="daily-header-meta">' +
@@ -2523,12 +2523,29 @@
       return { date: d.date || '', sections: sections };
     }
 
+    /* 财经看板数据 -> 日报页结构 */
+    function transformFinance(raw) {
+      var d = (raw && raw.data) ? raw.data : (raw || {});
+      var fin = [];
+      (d.stocks || []).forEach(function(s){ fin.push({ title: s.name + '　' + s.value + '　' + (s.pct || ''), summary: '' }); });
+      if (d.gold) fin.push({ title: d.gold.name + '　' + d.gold.value + '　' + (d.gold.unit || ''), summary: '' });
+      (d.forex || []).forEach(function(f){ fin.push({ title: f.name + '/人民币　' + f.value, summary: '' }); });
+      if (d.btc) fin.push({ title: '比特币　$' + d.btc.usd + '　¥' + d.btc.cny + '　' + (d.btc.pct || ''), summary: '' });
+      var sections = [];
+      if (fin.length) sections.push({ label: '📈 股市 · 金价 · 汇率 · 币', items: fin });
+      if (d.weibo && d.weibo.length) sections.push({ label: '🔥 微博热搜', items: d.weibo.map(function(t,i){ return { title:(i+1)+'. '+t, summary:'' }; }) });
+      if (d.zhihu && d.zhihu.length) sections.push({ label: '🔥 知乎热榜', items: d.zhihu.map(function(t,i){ return { title:(i+1)+'. '+t, summary:'' }; }) });
+      return { date: d.date || '', sections: sections };
+    }
+
     function fetchDailyData() {
       dailyState.loading = true;
-      var isSixty = dailyState.source === '60s';
-      showDailyStatus(isSixty ? '正在加载60秒...' : '正在加载日报...');
+      var src = dailyState.source;
+      var _url = src === '60s' ? './data/60s.json' : (src === 'finance' ? './data/dashboard.json' : './data/daily.json');
+      var _loadMsg = src === '60s' ? '正在加载60秒...' : (src === 'finance' ? '正在加载看板...' : '正在加载日报...');
+      showDailyStatus(_loadMsg);
       var xhr = new XMLHttpRequest();
-      xhr.open('GET', (isSixty ? './data/60s.json' : './data/daily.json') + '?t=' + Date.now(), true);
+      xhr.open('GET', _url + '?t=' + Date.now(), true);
       xhr.timeout = 10000;
       xhr.onreadystatechange = function() {
         if (xhr.readyState !== 4) return;
@@ -2536,12 +2553,12 @@
         if (xhr.status === 200) {
           try {
             var raw = JSON.parse(xhr.responseText);
-            dailyState.data = isSixty ? transformSixty(raw) : raw;
+            dailyState.data = src === '60s' ? transformSixty(raw) : (src === 'finance' ? transformFinance(raw) : raw);
             dailyState.loaded = true;
             buildDailyPages();
           } catch(e) { showDailyStatus('数据格式错误，请明天再来'); }
         } else if (xhr.status === 0 || xhr.status === 404) {
-          showDailyStatus(isSixty ? '今日60秒暂未生成，请明天再来' : '今日日报暂未生成，请明天再来');
+          showDailyStatus(src === 'finance' ? '看板数据暂未生成，稍后再来' : (src === '60s' ? '今日60秒暂未生成，请明天再来' : '今日日报暂未生成，请明天再来'));
         } else {
           showDailyStatus('加载失败，请检查网络连接');
         }

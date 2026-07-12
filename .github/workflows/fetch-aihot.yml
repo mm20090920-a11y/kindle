@@ -90,6 +90,10 @@ jobs:
             rm -f data/60s.json.tmp
           fi
 
+      - name: Fetch dashboard (股市/金价/汇率/币/热搜)
+        if: always()
+        run: python3 scripts/fetch_dashboard.py || echo "dashboard fetch failed, skipping"
+
       - name: Commit if changed
         if: always()
         run: |
