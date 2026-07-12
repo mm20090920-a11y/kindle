@@ -2533,8 +2533,9 @@
       if (d.btc) fin.push({ title: '比特币　$' + d.btc.usd + '　¥' + d.btc.cny + '　' + (d.btc.pct || ''), summary: '' });
       var sections = [];
       if (fin.length) sections.push({ label: '📈 股市 · 金价 · 汇率 · 币', items: fin });
-      if (d.weibo && d.weibo.length) sections.push({ label: '🔥 微博热搜', items: d.weibo.map(function(t,i){ return { title:(i+1)+'. '+t, summary:'' }; }) });
-      if (d.zhihu && d.zhihu.length) sections.push({ label: '🔥 知乎热榜', items: d.zhihu.map(function(t,i){ return { title:(i+1)+'. '+t, summary:'' }; }) });
+      function hotTitle(t,i){ var s=(t&&t.title!=null)?t.title:t; return { title:(i+1)+'. '+s, summary:'' }; }
+      if (d.weibo && d.weibo.length) sections.push({ label: '🔥 微博热搜', items: d.weibo.map(hotTitle) });
+      if (d.zhihu && d.zhihu.length) sections.push({ label: '🔥 知乎热榜', items: d.zhihu.map(hotTitle) });
       return { date: d.date || '', sections: sections };
     }
 

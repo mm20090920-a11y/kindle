@@ -111,9 +111,11 @@ function render(d){
     var arr=d[key]||[];
     if(!arr.length){ box.appendChild(el('div','empty','暂无数据')); return; }
     arr.forEach(function(t,i){
+      var title=(t && t.title!=null)?t.title:t;
+      var link=(t && t.link)?t.link:'';
       var r=el('div','row'+(i<3?' top':''));
       r.appendChild(el('div','rank',(i+1)));
-      r.appendChild(el('div','txt',t));
+      r.appendChild(el('div','txt', link?('<a href="'+link+'" target="_blank" rel="noopener">'+title+'</a>'):title));
       box.appendChild(r);
     });
   });

@@ -55,7 +55,7 @@ except Exception as e:
 for key,url in [('weibo','https://60s.viki.moe/v2/weibo'),('zhihu','https://60s.viki.moe/v2/zhihu')]:
     try:
         d = json.loads(get(url)).get('data',[])
-        out[key]=[it.get('title','') for it in d[:12] if it.get('title')]
+        out[key]=[{'title':it.get('title',''),'link':it.get('link','')} for it in d[:12] if it.get('title')]
     except Exception as e:
         out[key]=[]; sys.stderr.write(f'{key} fail: {e}\n')
 
