@@ -1,6 +1,6 @@
 {
  "date": "2026-07-12",
- "updatedAt": "2026-07-12 13:29",
+ "updatedAt": "2026-07-12 13:42",
  "stocks": [
   {
    "name": "上证指数",
@@ -45,9 +45,9 @@
   }
  ],
  "btc": {
-  "usd": "63,999",
-  "cny": "433,753",
-  "pct": "-0.24%"
+  "usd": "64,009",
+  "cny": "433,819",
+  "pct": "-0.26%"
  },
  "weibo": [
   {
@@ -95,8 +95,8 @@
    "link": "https://s.weibo.com/weibo?q=%E5%AD%A3%E8%8A%82%E8%AF%B4%E8%AA%93%E7%BA%A6%E6%89%93%E8%83%8E"
   },
   {
-   "title": "Bin 团队意识",
-   "link": "https://s.weibo.com/weibo?q=Bin%20%E5%9B%A2%E9%98%9F%E6%84%8F%E8%AF%86"
+   "title": "山东也要迎战台风了",
+   "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E4%B9%9F%E8%A6%81%E8%BF%8E%E6%88%98%E5%8F%B0%E9%A3%8E%E4%BA%86"
   }
  ],
  "zhihu": [
@@ -121,6 +121,10 @@
    "link": "https://www.zhihu.com/question/2058623048639689021"
   },
   {
+   "title": "如何看待中华人民共和国外交部发布关于有关国家炒作「南海仲裁案裁决」出台十年的声明？释放了哪些信号？",
+   "link": "https://www.zhihu.com/question/2059717066660303002"
+  },
+  {
    "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
    "link": "https://www.zhihu.com/question/2059566718733776028"
   },
@@ -133,10 +137,6 @@
    "link": "https://www.zhihu.com/question/2059021609504186485"
   },
   {
-   "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-   "link": "https://www.zhihu.com/question/2059608160646555311"
-  },
-  {
    "title": "孙悟空打死六耳猕猴后变得顺从乖巧，再也没被念紧箍咒，原因是什么？",
    "link": "https://www.zhihu.com/question/2055315080015828549"
   },
@@ -145,8 +145,8 @@
    "link": "https://www.zhihu.com/question/2059612028357063761"
   },
   {
-   "title": "如何看待中华人民共和国外交部发布关于有关国家炒作「南海仲裁案裁决」出台十年的声明？释放了哪些信号？",
-   "link": "https://www.zhihu.com/question/2059717066660303002"
+   "title": "盛唐时期大部分唐朝人真的能每天以肉饼为食吗？",
+   "link": "https://www.zhihu.com/question/1920148899752023682"
   }
  ]
 }
