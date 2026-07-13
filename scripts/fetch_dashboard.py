@@ -38,7 +38,7 @@ out = {'date': time.strftime('%Y-%m-%d'), 'updatedAt': time.strftime('%Y-%m-%d %
 
 # 股指 + 走势
 try:
-    codes=['sh000001','sz399001','sz399006']
+    codes=['sh000001','sz399001','sz399006','hkHSI']
     txt = get('https://qt.gtimg.cn/q='+','.join(codes), decode='gbk')
     lines=[l for l in txt.strip().split('\n') if '="' in l]; stocks=[]
     for idx,line in enumerate(lines):
