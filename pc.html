@@ -119,9 +119,16 @@ function render(d){
     if(s.trend && s.trend.length) c.insertAdjacentHTML('beforeend', sparkline(s.trend, _up));
     fin.appendChild(c);
   });
-  if(d.gold){ var c=el('div','card'); c.appendChild(el('div','name',d.gold.name)); c.appendChild(el('div','val',d.gold.value)); c.appendChild(el('div','unit',d.gold.unit||'')); fin.appendChild(c); }
-  (d.forex||[]).forEach(function(f){ var c=el('div','card'); c.appendChild(el('div','name',f.name+' / 人民币')); c.appendChild(el('div','val',f.value)); fin.appendChild(c); });
-  if(d.btc){ var c=el('div','card'); c.appendChild(el('div','name','比特币 BTC')); c.appendChild(el('div','val','$'+d.btc.usd)); c.appendChild(el('div','chg '+chgClass(d.btc.pct), '¥'+d.btc.cny+'　'+(d.btc.pct||''))); fin.appendChild(c); }
+  if(d.gold){ var c=el('div','card'); c.appendChild(el('div','name',d.gold.name)); c.appendChild(el('div','val',d.gold.value));
+    if(d.gold.pct) c.appendChild(el('div','chg '+chgClass(d.gold.pct),(d.gold.change||'')+'　'+d.gold.pct));
+    c.appendChild(el('div','unit',d.gold.unit||'')); fin.appendChild(c); }
+  (d.forex||[]).forEach(function(f){ var c=el('div','card'); c.appendChild(el('div','name',f.name+' / 人民币')); c.appendChild(el('div','val',f.value));
+    if(f.pct) c.appendChild(el('div','chg '+chgClass(f.pct), f.pct));
+    fin.appendChild(c); });
+  if(d.btc){ var c=el('div','card'); c.appendChild(el('div','name','比特币 BTC')); c.appendChild(el('div','val','$'+d.btc.usd));
+    c.appendChild(el('div','chg '+chgClass(d.btc.pct), '¥'+d.btc.cny+'　'+(d.btc.pct||'')));
+    if(d.btc.trend&&d.btc.trend.length) c.insertAdjacentHTML('beforeend', sparkline(d.btc.trend, d.btc.up!==false));
+    fin.appendChild(c); }
 
   ['weibo','zhihu'].forEach(function(key){
     var box=document.getElementById(key); box.innerHTML='';
