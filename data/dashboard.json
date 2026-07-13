@@ -1,6 +1,6 @@
 {
  "date": "2026-07-13",
- "updatedAt": "2026-07-13 11:44",
+ "updatedAt": "2026-07-13 12:46",
  "stocks": [
   {
    "name": "上证指数",
@@ -128,88 +128,133 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4064.73",
-  "unit": "美元/盎司"
+  "value": "4063.52",
+  "unit": "美元/盎司",
+  "change": "-55.49",
+  "pct": "-1.35%",
+  "up": false
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.780"
+   "value": "6.780",
+   "change": "-0.0001",
+   "pct": "-0.00%",
+   "up": false
   },
   {
    "name": "欧元",
-   "value": "7.728"
+   "value": "7.728",
+   "change": "+0.0002",
+   "pct": "+0.00%",
+   "up": true
   },
   {
    "name": "港币",
-   "value": "0.865"
+   "value": "0.865",
+   "change": "-0.0004",
+   "pct": "-0.04%",
+   "up": false
   },
   {
    "name": "100日元",
-   "value": "4.184"
+   "value": "4.184",
+   "change": "+0.0002",
+   "pct": "+0.00%",
+   "up": true
   }
  ],
  "btc": {
-  "usd": "62,906",
-  "cny": "426,343",
-  "pct": "-1.64%",
-  "up": false
+  "usd": "62,576",
+  "cny": "424,106",
+  "pct": "-2.24%",
+  "up": false,
+  "trend": [
+   64006.41,
+   63998.34,
+   63954.21,
+   64138.96,
+   64124.61,
+   64085.61,
+   64117.97,
+   64048.22,
+   64093.68,
+   64134.59,
+   64161.46,
+   64184.51,
+   63909.12,
+   63775.85,
+   63768.24,
+   63839.13,
+   63913.49,
+   63561.77,
+   63463.72,
+   63254.7,
+   62813.29,
+   62691.17,
+   62767.96,
+   62797.45,
+   62793.83,
+   62954.05,
+   62964.71,
+   63112.71,
+   63034.33,
+   63049.33,
+   62961.24,
+   62837.9
+  ]
  },
  "weibo": [
   {
-   "title": "中国首个禁售燃油车省份确认",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9C%81%E4%BB%BD%E7%A1%AE%E8%AE%A4"
+   "title": "蒋方舟道歉",
+   "link": "https://s.weibo.com/weibo?q=%E8%92%8B%E6%96%B9%E8%88%9F%E9%81%93%E6%AD%89"
   },
   {
-   "title": "东北特大暴雨",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8"
+   "title": "人大撤销蒋方舟硕士学位",
+   "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D"
   },
   {
-   "title": "暴雨内涝避险教程",
-   "link": "https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%A8%E5%86%85%E6%B6%9D%E9%81%BF%E9%99%A9%E6%95%99%E7%A8%8B"
+   "title": "这份防汛安全指南快收好",
+   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BB%BD%E9%98%B2%E6%B1%9B%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%E5%BF%AB%E6%94%B6%E5%A5%BD"
   },
   {
-   "title": "DYG对战WST",
-   "link": "https://s.weibo.com/weibo?q=DYG%E5%AF%B9%E6%88%98WST"
-  },
-  {
-   "title": "佛得角门将涨粉断层第一",
-   "link": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%B6%A8%E7%B2%89%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80"
+   "title": "曝张雅琪五次法考没过",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BC%A0%E9%9B%85%E7%90%AA%E4%BA%94%E6%AC%A1%E6%B3%95%E8%80%83%E6%B2%A1%E8%BF%87"
   },
   {
    "title": "原来已读不回的人是这样想的",
    "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%E7%9A%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E6%83%B3%E7%9A%84"
   },
   {
+   "title": "美人鱼2",
+   "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BA%BA%E9%B1%BC2"
+  },
+  {
    "title": "长期大量阅读的好处",
    "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E5%A4%A7%E9%87%8F%E9%98%85%E8%AF%BB%E7%9A%84%E5%A5%BD%E5%A4%84"
+  },
+  {
+   "title": "艾米看热巴的眼神不对劲",
+   "link": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E7%9C%8B%E7%83%AD%E5%B7%B4%E7%9A%84%E7%9C%BC%E7%A5%9E%E4%B8%8D%E5%AF%B9%E5%8A%B2"
   },
   {
    "title": "说一个减肥的冷知识",
    "link": "https://s.weibo.com/weibo?q=%E8%AF%B4%E4%B8%80%E4%B8%AA%E5%87%8F%E8%82%A5%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86"
   },
   {
-   "title": "网传TF家族运动会分组",
-   "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0TF%E5%AE%B6%E6%97%8F%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%88%86%E7%BB%84"
-  },
-  {
-   "title": "中餐厅 蛋糕",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85%20%E8%9B%8B%E7%B3%95"
-  },
-  {
-   "title": "我们为什么要背木兰的购买记录",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%83%8C%E6%9C%A8%E5%85%B0%E7%9A%84%E8%B4%AD%E4%B9%B0%E8%AE%B0%E5%BD%95"
+   "title": "无畏晒出粉丝的拼豆作品",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E6%99%92%E5%87%BA%E7%B2%89%E4%B8%9D%E7%9A%84%E6%8B%BC%E8%B1%86%E4%BD%9C%E5%93%81"
   },
   {
    "title": "中餐厅 张雅琪",
    "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85%20%E5%BC%A0%E9%9B%85%E7%90%AA"
+  },
+  {
+   "title": "郭敬明让艾米记得减肥",
+   "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E8%AE%A9%E8%89%BE%E7%B1%B3%E8%AE%B0%E5%BE%97%E5%87%8F%E8%82%A5"
   }
  ],
  "zhihu": [
-  {
-   "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
-   "link": "https://www.zhihu.com/question/2059917780845946766"
-  },
   {
    "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
    "link": "https://www.zhihu.com/question/2059697862565536691"
@@ -219,32 +264,36 @@
    "link": "https://www.zhihu.com/question/2058849524249015749"
   },
   {
+   "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
+   "link": "https://www.zhihu.com/question/2059917780845946766"
+  },
+  {
    "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
    "link": "https://www.zhihu.com/question/2059729316993131464"
   },
   {
-   "title": "我想问一下-1的平方根怎么就是i了，那反过来验算，一个数的平方怎么可能是负数呢？",
-   "link": "https://www.zhihu.com/question/1905421726298411719"
-  },
-  {
-   "title": "售价1.25万的YSL男士PVC透明皮鞋遭吐槽「脚臭可视化」，如何看待这一设计？这种材料会加重脚臭吗？",
-   "link": "https://www.zhihu.com/question/2056072763509564144"
+   "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+   "link": "https://www.zhihu.com/question/2058981135892461058"
   },
   {
    "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
    "link": "https://www.zhihu.com/question/2059961230907946867"
   },
   {
+   "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
+   "link": "https://www.zhihu.com/question/2058628068630175892"
+  },
+  {
    "title": "公司说全员降薪20%，不接受就走人。第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
    "link": "https://www.zhihu.com/question/2059237272705316521"
   },
   {
-   "title": "台风「巴威」深入内陆，江苏、山东、东北遭遇暴雨，沈阳等地内涝，这轮降雨会持续多久？你那里情况怎么样？",
-   "link": "https://www.zhihu.com/question/2059572234985763779"
+   "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
+   "link": "https://www.zhihu.com/question/2060002703879533053"
   },
   {
-   "title": "看完《功夫女足》后，你最大的感受是什么？",
-   "link": "https://www.zhihu.com/question/2059212073247184041"
+   "title": "《八仙！》开点映了，看完的朋友来说说，如何评价这部电影？",
+   "link": "https://www.zhihu.com/question/2058505696463812158"
   },
   {
    "title": "曝具俊晔拟推翻放弃遗产声明，准备争夺大S儿女继承的2/3遗产，如何看待这一消息？从法律上看他能如愿吗？",
