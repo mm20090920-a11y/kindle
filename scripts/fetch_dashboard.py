@@ -96,5 +96,25 @@ for key,url in [('weibo','https://60s.viki.moe/v2/weibo'),('zhihu','https://60s.
     except Exception as e:
         out[key]=[]; sys.stderr.write(f'{key}: {e}\n')
 
+# 百度热搜(官方接口)
+try:
+    d = json.loads(get('https://top.baidu.com/api/board?platform=wise&tab=realtime', headers={'User-Agent':'Mozilla/5.0'}))
+    cont = d['data']['cards'][0]['content']
+    lst = cont[0]['content'] if (cont and isinstance(cont[0],dict) and isinstance(cont[0].get('content'),list)) else cont
+    out['baidu']=[{'title':(it.get('word') or it.get('query') or ''),'link':it.get('url','')} for it in lst[:15] if (it.get('word') or it.get('query'))]
+except Exception as e:
+    out['baidu']=[]; sys.stderr.write(f'baidu: {e}\n')
+
+# AI 热榜:复用已抓好的 AI日报 data/daily.json
+try:
+    dd = json.load(open('data/daily.json'))
+    ai=[]
+    for sec in dd.get('sections',[]):
+        for it in sec.get('items',[]):
+            if it.get('title'): ai.append({'title':it['title'],'link':it.get('sourceUrl') or it.get('url') or ''})
+    out['ai']=ai[:12]
+except Exception as e:
+    out['ai']=[]; sys.stderr.write(f'ai: {e}\n')
+
 json.dump(out, open('data/dashboard.json','w'), ensure_ascii=False, indent=1)
 print('OK stocks_trend:',[len(s.get('trend',[])) for s in out.get('stocks',[])],'| gold_chg:',out.get('gold',{}).get('pct') if out.get('gold') else None,'| fx:',[(f['name'],f.get('pct')) for f in out.get('forex',[])])

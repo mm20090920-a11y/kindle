@@ -37,7 +37,7 @@
   .spark{display:block;width:100%;height:42px;margin-top:10px}
   .spark-base{stroke:var(--line);stroke-width:1;stroke-dasharray:3 3}
 
-  .cols{display:grid;grid-template-columns:32fr 68fr;gap:16px}
+  .cols{display:grid;grid-template-columns:28fr 72fr;gap:16px}
   @media(max-width:760px){.cols{grid-template-columns:1fr}}
   .list-card{background:var(--card);border-radius:16px;padding:6px 8px 12px;box-shadow:var(--shadow);border:1px solid var(--line)}
   .list-head{display:flex;align-items:center;gap:8px;padding:12px 14px 10px;font-weight:800;font-size:16px}
@@ -72,6 +72,14 @@
     <div>
       <div class="sec-title">知乎热榜</div>
       <div class="list-card"><div class="list-head"><span class="badge">知乎</span> 热榜</div><div id="zhihu"></div></div>
+    </div>
+    <div>
+      <div class="sec-title">百度热搜</div>
+      <div class="list-card"><div class="list-head"><span class="badge">百度</span> 实时热搜</div><div id="baidu"></div></div>
+    </div>
+    <div>
+      <div class="sec-title">AI 热榜</div>
+      <div class="list-card"><div class="list-head"><span class="badge">AI</span> 今日AI热点</div><div id="ai"></div></div>
     </div>
   </div>
 
@@ -130,7 +138,7 @@ function render(d){
     if(d.btc.trend&&d.btc.trend.length) c.insertAdjacentHTML('beforeend', sparkline(d.btc.trend, d.btc.up!==false));
     fin.appendChild(c); }
 
-  ['weibo','zhihu'].forEach(function(key){
+  ['weibo','zhihu','baidu','ai'].forEach(function(key){
     var box=document.getElementById(key); box.innerHTML='';
     var arr=d[key]||[];
     if(!arr.length){ box.appendChild(el('div','empty','暂无数据')); return; }

@@ -2536,6 +2536,8 @@
       function hotTitle(t,i){ var s=(t&&t.title!=null)?t.title:t; return { title:(i+1)+'. '+s, summary:'' }; }
       if (d.weibo && d.weibo.length) sections.push({ label: '🔥 微博热搜', items: d.weibo.map(hotTitle) });
       if (d.zhihu && d.zhihu.length) sections.push({ label: '🔥 知乎热榜', items: d.zhihu.map(hotTitle) });
+      if (d.baidu && d.baidu.length) sections.push({ label: '🔥 百度热搜', items: d.baidu.map(hotTitle) });
+      if (d.ai && d.ai.length) sections.push({ label: '🔥 AI 热榜', items: d.ai.map(hotTitle) });
       return { date: d.date || '', sections: sections };
     }
 
