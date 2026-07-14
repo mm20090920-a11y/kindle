@@ -1,456 +1,460 @@
 {
- "date": "2026-07-13",
- "updatedAt": "2026-07-13 14:54",
+ "date": "2026-07-14",
+ "updatedAt": "2026-07-14 07:26",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3913.79",
-   "change": "-82.37",
-   "pct": "-2.06%",
-   "up": false,
+   "value": "3967.13",
+   "change": "+53.34",
+   "pct": "+1.36%",
+   "up": true,
    "trend": [
-    3966.02,
-    3967.67,
-    3974.68,
-    3963.88,
-    3954.31,
-    3960.48,
-    3966.03,
-    3962.68,
-    3970.98,
-    3958.44,
-    3949.61,
-    3944.8,
-    3943.66,
-    3932.78,
-    3929.89,
-    3939.31,
-    3934.74,
-    3934.34,
-    3923.86,
-    3910.19,
-    3906.07,
-    3934.4,
-    3933.12,
-    3928.43,
-    3927.41,
-    3916.21,
-    3909.83,
-    3909.09,
-    3909.83,
-    3909.95,
-    3910.02,
-    3912.5
+    3909.27,
+    3904.88,
+    3899.46,
+    3901.27,
+    3908.9,
+    3905.46,
+    3910.96,
+    3919.78,
+    3910.58,
+    3904.01,
+    3904.66,
+    3898.28,
+    3892.72,
+    3885.46,
+    3877.47,
+    3869.71,
+    3887.92,
+    3922.66,
+    3928.54,
+    3930.17,
+    3938.54,
+    3934.97,
+    3935.85,
+    3924.9,
+    3928.62,
+    3938.02,
+    3943.61,
+    3936.71,
+    3945.11,
+    3957.93,
+    3955.26,
+    3963.96
    ]
   },
   {
    "name": "深证成指",
-   "value": "14522.85",
-   "change": "-523.82",
-   "pct": "-3.48%",
-   "up": false,
+   "value": "14924.87",
+   "change": "+402.02",
+   "pct": "+2.77%",
+   "up": true,
    "trend": [
-    14908.98,
-    14901.58,
-    14944.85,
-    14813.98,
-    14763.67,
-    14800.84,
-    14865.6,
-    14805.07,
-    14890.62,
-    14819.76,
-    14750.53,
-    14746.42,
-    14735.33,
-    14664.21,
-    14640.27,
-    14678.48,
-    14654.49,
-    14659.98,
-    14592.52,
-    14539.09,
-    14522.57,
-    14667.64,
-    14661.44,
-    14638.49,
-    14619.04,
-    14554.37,
-    14515.79,
-    14501.4,
-    14503.05,
-    14496.03,
-    14498.58,
-    14502.88
+    14532.36,
+    14521.86,
+    14465.56,
+    14499.68,
+    14553.39,
+    14531.08,
+    14605.45,
+    14694.14,
+    14612.31,
+    14546.72,
+    14551.37,
+    14513.3,
+    14469.51,
+    14426.99,
+    14391.8,
+    14339.78,
+    14461.2,
+    14729.71,
+    14773.72,
+    14778.56,
+    14835.07,
+    14825.96,
+    14817.61,
+    14735.49,
+    14759.87,
+    14819.07,
+    14844.11,
+    14785.41,
+    14822.93,
+    14884.14,
+    14881.41,
+    14905.25
    ]
   },
   {
    "name": "创业板指",
-   "value": "3723.52",
-   "change": "-119.21",
-   "pct": "-3.10%",
-   "up": false,
+   "value": "3851.14",
+   "change": "+127.62",
+   "pct": "+3.43%",
+   "up": true,
    "trend": [
-    3809.86,
-    3828.41,
-    3842.59,
-    3796.29,
-    3777.36,
-    3792.71,
-    3816.59,
-    3795.15,
-    3824.65,
-    3805.82,
-    3784.78,
-    3783.65,
-    3783.04,
-    3755.4,
-    3748.44,
-    3761.04,
-    3751.33,
-    3756.55,
-    3737.41,
-    3722.65,
-    3717.95,
-    3761.95,
-    3763.6,
-    3760.24,
-    3752.54,
-    3734.64,
-    3720.67,
-    3714.45,
-    3713.48,
-    3712.39,
-    3715.41,
-    3716.01
+    3729.61,
+    3733.38,
+    3716.97,
+    3731.57,
+    3746.39,
+    3745.65,
+    3762.98,
+    3795.22,
+    3764.65,
+    3739.9,
+    3742.33,
+    3730.69,
+    3712.6,
+    3697.63,
+    3691.69,
+    3674.76,
+    3712.74,
+    3800.18,
+    3821.73,
+    3821.74,
+    3835.03,
+    3834.64,
+    3833.15,
+    3802.36,
+    3809.66,
+    3825.79,
+    3832.43,
+    3810.01,
+    3820.66,
+    3841.3,
+    3841.93,
+    3846.76
    ]
   },
   {
    "name": "恒生指数",
-   "value": "24213.72",
-   "change": "+38.60",
-   "pct": "+0.16%",
+   "value": "24384.58",
+   "change": "+170.86",
+   "pct": "+0.71%",
    "up": true,
    "trend": [
-    24157.65,
-    24321.37,
-    24382.63,
-    24382.04,
-    24395.52,
-    24334.14,
-    24297.68,
-    24263.74,
-    24198.57,
-    24158.42,
-    24119.37,
-    24123.4,
-    24135.6,
-    24158.22,
-    24142.29,
-    24173.25,
-    24226.64,
-    24136.14,
-    24190.88,
-    24218.91,
-    24224.74,
-    24169.43,
-    24120.36,
-    24116.67,
-    24176.01,
-    24214.13,
-    24173.2,
-    24210.33,
-    24221.13,
-    24211.36,
-    24184.72,
-    24193.28
+    24181.52,
+    23976.26,
+    23976.61,
+    23954.56,
+    24157.59,
+    24194.68,
+    24215.06,
+    24190.31,
+    24202.94,
+    24084.14,
+    24051.78,
+    24052.29,
+    24008.53,
+    24039.65,
+    24012.15,
+    24041.66,
+    24091.85,
+    24227.31,
+    24257.48,
+    24266.43,
+    24294.76,
+    24307.33,
+    24308.04,
+    24390.91,
+    24356.23,
+    24392.42,
+    24426.13,
+    24400.56,
+    24383.51,
+    24382.45,
+    24413.47,
+    24382.28
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4010.46",
+  "value": "4027.89",
   "unit": "美元/盎司",
-  "change": "-108.55",
-  "pct": "-2.64%",
-  "up": false
+  "change": "+27.09",
+  "pct": "+0.68%",
+  "up": true
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.780",
-   "change": "-0.0001",
-   "pct": "-0.00%",
-   "up": false
+   "value": "6.788",
+   "change": "+0.0083",
+   "pct": "+0.12%",
+   "up": true
   },
   {
    "name": "欧元",
-   "value": "7.728",
-   "change": "+0.0002",
-   "pct": "+0.00%",
+   "value": "7.733",
+   "change": "+0.0054",
+   "pct": "+0.07%",
    "up": true
   },
   {
    "name": "港币",
-   "value": "0.865",
-   "change": "-0.0004",
-   "pct": "-0.04%",
-   "up": false
+   "value": "0.866",
+   "change": "+0.0010",
+   "pct": "+0.12%",
+   "up": true
   },
   {
    "name": "100日元",
-   "value": "4.184",
-   "change": "+0.0002",
-   "pct": "+0.00%",
-   "up": true
+   "value": "4.182",
+   "change": "-0.0020",
+   "pct": "-0.05%",
+   "up": false
   }
  ],
  "btc": {
-  "usd": "62,609",
-  "cny": "424,445",
-  "pct": "-2.41%",
+  "usd": "62,538",
+  "cny": "424,001",
+  "pct": "-0.62%",
   "up": false,
   "trend": [
-   64158.21,
-   64105.8,
-   64068.05,
-   64099.07,
-   64025.95,
-   64083.9,
-   64159.0,
-   64170.61,
-   64174.43,
-   64031.1,
-   63780.28,
-   63763.0,
-   63749.33,
-   63875.01,
-   63726.11,
-   63244.16,
-   63354.72,
-   62804.16,
-   62831.1,
-   62743.26,
-   62747.18,
-   62753.13,
-   62844.57,
-   62948.0,
-   63148.83,
-   63056.37,
-   63036.41,
-   63050.73,
-   62874.95,
-   62561.03,
-   62461.85,
-   62260.62
+   62930.7,
+   62975.05,
+   63140.68,
+   63043.45,
+   63019.12,
+   63042.86,
+   62843.21,
+   62559.06,
+   62508.63,
+   62334.48,
+   62705.62,
+   62566.64,
+   62263.77,
+   62255.31,
+   61911.94,
+   61923.19,
+   61960.29,
+   62166.0,
+   62128.65,
+   61890.58,
+   62112.8,
+   61984.97,
+   62242.25,
+   62250.3,
+   62458.44,
+   62441.46,
+   62476.09,
+   62395.81,
+   62567.33,
+   62760.48,
+   62638.25,
+   62607.9
   ]
  },
  "weibo": [
   {
-   "title": "美人鱼2",
-   "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BA%BA%E9%B1%BC2"
+   "title": "阿根廷主帅回击请愿逐出阿根廷",
+   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%87%BB%E8%AF%B7%E6%84%BF%E9%80%90%E5%87%BA%E9%98%BF%E6%A0%B9%E5%BB%B7"
   },
   {
-   "title": "姆巴佩或无缘打破世界杯单届13球纪录",
-   "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%88%96%E6%97%A0%E7%BC%98%E6%89%93%E7%A0%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%95%E5%B1%8A13%E7%90%83%E7%BA%AA%E5%BD%95"
+   "title": "沈阳暴雨",
+   "link": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8"
   },
   {
-   "title": "这份防汛安全指南快收好",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BB%BD%E9%98%B2%E6%B1%9B%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%E5%BF%AB%E6%94%B6%E5%A5%BD"
+   "title": "青春主场踏歌而行",
+   "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E8%B8%8F%E6%AD%8C%E8%80%8C%E8%A1%8C"
   },
   {
-   "title": "发现妈妈变老是从东西无法共用开始",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%91%E7%8E%B0%E5%A6%88%E5%A6%88%E5%8F%98%E8%80%81%E6%98%AF%E4%BB%8E%E4%B8%9C%E8%A5%BF%E6%97%A0%E6%B3%95%E5%85%B1%E7%94%A8%E5%BC%80%E5%A7%8B"
+   "title": "被长期主义的消费观震惊到了",
+   "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86"
   },
   {
-   "title": "中餐厅 张雅琪",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85%20%E5%BC%A0%E9%9B%85%E7%90%AA"
+   "title": "20岁伴娘遭婚闹致伤残获赔23万",
+   "link": "https://s.weibo.com/weibo?q=20%E5%B2%81%E4%BC%B4%E5%A8%98%E9%81%AD%E5%A9%9A%E9%97%B9%E8%87%B4%E4%BC%A4%E6%AE%8B%E8%8E%B7%E8%B5%9423%E4%B8%87"
   },
   {
-   "title": "原来已读不回的人是这样想的",
-   "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%E7%9A%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E6%83%B3%E7%9A%84"
+   "title": "张碧晨弃赛声明",
+   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%BC%83%E8%B5%9B%E5%A3%B0%E6%98%8E"
   },
   {
-   "title": "这一秒过火",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB"
+   "title": "哈兰德买买买",
+   "link": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E4%B9%B0%E4%B9%B0%E4%B9%B0"
   },
   {
-   "title": "迪丽热巴穿钰珑队服走机场",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A9%BF%E9%92%B0%E7%8F%91%E9%98%9F%E6%9C%8D%E8%B5%B0%E6%9C%BA%E5%9C%BA"
+   "title": "乐事回应薯片中被曝出现蓝色异物",
+   "link": "https://s.weibo.com/weibo?q=%E4%B9%90%E4%BA%8B%E5%9B%9E%E5%BA%94%E8%96%AF%E7%89%87%E4%B8%AD%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E5%BC%82%E7%89%A9"
   },
   {
-   "title": "尚界汽车已启动法律维权",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%9A%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%B7%B2%E5%90%AF%E5%8A%A8%E6%B3%95%E5%BE%8B%E7%BB%B4%E6%9D%83"
+   "title": "AI杀死时尚行业",
+   "link": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A"
   },
   {
-   "title": "台风天在海边救了一条小狗取名巴威",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%A4%A9%E5%9C%A8%E6%B5%B7%E8%BE%B9%E6%95%91%E4%BA%86%E4%B8%80%E6%9D%A1%E5%B0%8F%E7%8B%97%E5%8F%96%E5%90%8D%E5%B7%B4%E5%A8%81"
+   "title": "灿如繁星剧粉把超话吵爆了",
+   "link": "https://s.weibo.com/weibo?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F%E5%89%A7%E7%B2%89%E6%8A%8A%E8%B6%85%E8%AF%9D%E5%90%B5%E7%88%86%E4%BA%86"
   },
   {
-   "title": "曝张雅琪五次法考没过",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BC%A0%E9%9B%85%E7%90%AA%E4%BA%94%E6%AC%A1%E6%B3%95%E8%80%83%E6%B2%A1%E8%BF%87"
+   "title": "邹市明2亿理财亏损始末",
+   "link": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E2%E4%BA%BF%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F%E5%A7%8B%E6%9C%AB"
   },
   {
-   "title": "峰哥清仓",
-   "link": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E6%B8%85%E4%BB%93"
+   "title": "美国25岁女子性侵男童并录像",
+   "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD25%E5%B2%81%E5%A5%B3%E5%AD%90%E6%80%A7%E4%BE%B5%E7%94%B7%E7%AB%A5%E5%B9%B6%E5%BD%95%E5%83%8F"
   }
  ],
  "zhihu": [
   {
-   "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
-   "link": "https://www.zhihu.com/question/2059729316993131464"
+   "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
+   "link": "https://www.zhihu.com/question/2060133066643879544"
   },
   {
-   "title": "如何评价赛力斯 2026 年上半年预计亏损 15-18 亿？为什么销量不低却依然巨亏？",
-   "link": "https://www.zhihu.com/question/2059697862565536691"
+   "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
+   "link": "https://www.zhihu.com/question/2060062676676503140"
+  },
+  {
+   "title": "超 250 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+   "link": "https://www.zhihu.com/question/2060314752786457046"
+  },
+  {
+   "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
+   "link": "https://www.zhihu.com/question/2059433390227583285"
+  },
+  {
+   "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
+   "link": "https://www.zhihu.com/question/2059947688074949425"
+  },
+  {
+   "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+   "link": "https://www.zhihu.com/question/2060208521594017084"
+  },
+  {
+   "title": "邹市明冉莹颖，谁该为之前的投资失败乃至当前的婚姻状态付更大的责？",
+   "link": "https://www.zhihu.com/question/2059355663353099483"
+  },
+  {
+   "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+   "link": "https://www.zhihu.com/question/2059349642496710015"
+  },
+  {
+   "title": "今年的台风「巴威」对你那边有啥影响？",
+   "link": "https://www.zhihu.com/question/2059565116740341884"
+  },
+  {
+   "title": "长沙女干部占车位通报被指有「拉偏架」嫌疑，体育局称还在核实，怎样看待此前通报的措辞？哪些事实待厘清？",
+   "link": "https://www.zhihu.com/question/2060269141576233184"
+  },
+  {
+   "title": "如何看待「一副局长自购 10 亿 token 月费 20 多，手搓防汛小程序」？",
+   "link": "https://www.zhihu.com/question/2059978972042092807"
   },
   {
    "title": "浙江一住户为防台风用「米」字胶带加固窗户，却成为全楼唯一一户碎玻璃的，为啥会这样？「米」字封窗有用吗？",
    "link": "https://www.zhihu.com/question/2060049184527480687"
-  },
-  {
-   "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
-   "link": "https://www.zhihu.com/question/2058981135892461058"
-  },
-  {
-   "title": "受「巴威」影响沈阳突降暴雨，全市实行紧急避险措施，你那里情况怎么样？雨大吗？",
-   "link": "https://www.zhihu.com/question/2059917780845946766"
-  },
-  {
-   "title": "阿根廷向国际足联申请，半决赛想穿客场深蓝色队服，这种配色的球衣什么典故，对球队能有什么影响么？",
-   "link": "https://www.zhihu.com/question/2060002703879533053"
-  },
-  {
-   "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
-   "link": "https://www.zhihu.com/question/2059961230907946867"
-  },
-  {
-   "title": "公司说全员降薪20%，不接受就走人。第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
-   "link": "https://www.zhihu.com/question/2059237272705316521"
-  },
-  {
-   "title": "为什么江苏本科提前批投档线，中国人民公安大学只比清华大学低三分？",
-   "link": "https://www.zhihu.com/question/2058628068630175892"
-  },
-  {
-   "title": "阿根廷有机会夺冠吗？",
-   "link": "https://www.zhihu.com/question/2059639111040999429"
-  },
-  {
-   "title": "曝具俊晔拟推翻放弃遗产声明，准备争夺大S儿女继承的2/3遗产，如何看待这一消息？从法律上看他能如愿吗？",
-   "link": "https://www.zhihu.com/question/2059706549161944571"
-  },
-  {
-   "title": "以业内人视角评价一下《凡人修仙传》 177-182集问题出在哪里？",
-   "link": "https://www.zhihu.com/question/2059735577881269182"
   }
  ],
  "baidu": [
   {
-   "title": "习近平将出席世界人工智能大会开幕式",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
+   "title": "锻造高质量发展新引擎",
+   "link": "https://m.baidu.com/s?word=%E9%94%BB%E9%80%A0%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%96%B0%E5%BC%95%E6%93%8E&sa=fyb_news"
   },
   {
-   "title": "台风巴威远程发威",
-   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%BF%9C%E7%A8%8B%E5%8F%91%E5%A8%81&sa=fyb_news"
+   "title": "马兴瑞被双开",
+   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news"
   },
   {
-   "title": "日本民众集会举牌“中国对不起”",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E4%B8%BE%E7%89%8C%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%B8%8D%E8%B5%B7%E2%80%9D&sa=fyb_news"
+   "title": "存100万5.25%利息？四大行紧急提示",
+   "link": "https://m.baidu.com/s?word=%E5%AD%98100%E4%B8%875.25%25%E5%88%A9%E6%81%AF%EF%BC%9F%E5%9B%9B%E5%A4%A7%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&sa=fyb_news"
   },
   {
-   "title": "未来五年 这样提高国民健康水平",
-   "link": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4+%E8%BF%99%E6%A0%B7%E6%8F%90%E9%AB%98%E5%9B%BD%E6%B0%91%E5%81%A5%E5%BA%B7%E6%B0%B4%E5%B9%B3&sa=fyb_news"
+   "title": "暑期游“热”起来",
+   "link": "https://m.baidu.com/s?word=%E6%9A%91%E6%9C%9F%E6%B8%B8%E2%80%9C%E7%83%AD%E2%80%9D%E8%B5%B7%E6%9D%A5&sa=fyb_news"
   },
   {
-   "title": "人均日通话降至8.7分钟",
-   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E6%97%A5%E9%80%9A%E8%AF%9D%E9%99%8D%E8%87%B38.7%E5%88%86%E9%92%9F&sa=fyb_news"
+   "title": "多所高校宣布停招学硕",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%AE%A3%E5%B8%83%E5%81%9C%E6%8B%9B%E5%AD%A6%E7%A1%95&sa=fyb_news"
   },
   {
-   "title": "《功夫女足》爆了 但周星驰有点偷懒",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%88%86%E4%BA%86+%E4%BD%86%E5%91%A8%E6%98%9F%E9%A9%B0%E6%9C%89%E7%82%B9%E5%81%B7%E6%87%92&sa=fyb_news"
+   "title": "法国男子上海出差背了一台空调回国",
+   "link": "https://m.baidu.com/s?word=%E6%B3%95%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%8A%E6%B5%B7%E5%87%BA%E5%B7%AE%E8%83%8C%E4%BA%86%E4%B8%80%E5%8F%B0%E7%A9%BA%E8%B0%83%E5%9B%9E%E5%9B%BD&sa=fyb_news"
   },
   {
-   "title": "净网：严打编造传播涉汛等涉灾谣言",
-   "link": "https://m.baidu.com/s?word=%E5%87%80%E7%BD%91%EF%BC%9A%E4%B8%A5%E6%89%93%E7%BC%96%E9%80%A0%E4%BC%A0%E6%92%AD%E6%B6%89%E6%B1%9B%E7%AD%89%E6%B6%89%E7%81%BE%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "被高铁“逼退”的大巴车换了个活法",
+   "link": "https://m.baidu.com/s?word=%E8%A2%AB%E9%AB%98%E9%93%81%E2%80%9C%E9%80%BC%E9%80%80%E2%80%9D%E7%9A%84%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%8D%A2%E4%BA%86%E4%B8%AA%E6%B4%BB%E6%B3%95&sa=fyb_news"
   },
   {
-   "title": "中山大学：222人取消录取资格",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%EF%BC%9A222%E4%BA%BA%E5%8F%96%E6%B6%88%E5%BD%95%E5%8F%96%E8%B5%84%E6%A0%BC&sa=fyb_news"
+   "title": "新车先在国外上市 售价是国内3倍",
+   "link": "https://m.baidu.com/s?word=%E6%96%B0%E8%BD%A6%E5%85%88%E5%9C%A8%E5%9B%BD%E5%A4%96%E4%B8%8A%E5%B8%82+%E5%94%AE%E4%BB%B7%E6%98%AF%E5%9B%BD%E5%86%853%E5%80%8D&sa=fyb_news"
   },
   {
-   "title": "长鑫近2万员工每人或可分超百万",
-   "link": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E8%BF%912%E4%B8%87%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E6%88%96%E5%8F%AF%E5%88%86%E8%B6%85%E7%99%BE%E4%B8%87&sa=fyb_news"
+   "title": "机票突现“1”字头 比坐高铁还便宜",
+   "link": "https://m.baidu.com/s?word=%E6%9C%BA%E7%A5%A8%E7%AA%81%E7%8E%B0%E2%80%9C1%E2%80%9D%E5%AD%97%E5%A4%B4+%E6%AF%94%E5%9D%90%E9%AB%98%E9%93%81%E8%BF%98%E4%BE%BF%E5%AE%9C&sa=fyb_news"
   },
   {
-   "title": "游客忘拉手刹轿车溜进赛里木湖",
-   "link": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E5%BF%98%E6%8B%89%E6%89%8B%E5%88%B9%E8%BD%BF%E8%BD%A6%E6%BA%9C%E8%BF%9B%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96&sa=fyb_news"
+   "title": "大理百元豪车租赁乱象调查",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E7%90%86%E7%99%BE%E5%85%83%E8%B1%AA%E8%BD%A6%E7%A7%9F%E8%B5%81%E4%B9%B1%E8%B1%A1%E8%B0%83%E6%9F%A5&sa=fyb_news"
   },
   {
-   "title": "深圳一小区给业主发288万现金",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%BB%99%E4%B8%9A%E4%B8%BB%E5%8F%91288%E4%B8%87%E7%8E%B0%E9%87%91&sa=fyb_news"
+   "title": "燃油车的世界正在崩塌 电车也不好过",
+   "link": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%B8%96%E7%95%8C%E6%AD%A3%E5%9C%A8%E5%B4%A9%E5%A1%8C+%E7%94%B5%E8%BD%A6%E4%B9%9F%E4%B8%8D%E5%A5%BD%E8%BF%87&sa=fyb_news"
   },
   {
-   "title": "关于台风天的几个误区",
-   "link": "https://m.baidu.com/s?word=%E5%85%B3%E4%BA%8E%E5%8F%B0%E9%A3%8E%E5%A4%A9%E7%9A%84%E5%87%A0%E4%B8%AA%E8%AF%AF%E5%8C%BA&sa=fyb_news"
+   "title": "台风淹水致商铺狼藉图片为AI合成",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E6%B7%B9%E6%B0%B4%E8%87%B4%E5%95%86%E9%93%BA%E7%8B%BC%E8%97%89%E5%9B%BE%E7%89%87%E4%B8%BAAI%E5%90%88%E6%88%90&sa=fyb_news"
   },
   {
-   "title": "美国将恢复“针对伊朗的封锁”",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D&sa=fyb_news"
+   "title": "女子把绿豆汤当水喝致脑出血",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%8A%8A%E7%BB%BF%E8%B1%86%E6%B1%A4%E5%BD%93%E6%B0%B4%E5%96%9D%E8%87%B4%E8%84%91%E5%87%BA%E8%A1%80&sa=fyb_news"
   },
   {
-   "title": "30岁女子嘴角长水疱未重视竟脑死亡",
-   "link": "https://m.baidu.com/s?word=30%E5%B2%81%E5%A5%B3%E5%AD%90%E5%98%B4%E8%A7%92%E9%95%BF%E6%B0%B4%E7%96%B1%E6%9C%AA%E9%87%8D%E8%A7%86%E7%AB%9F%E8%84%91%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+   "title": "“美丽明天”会是下一个与辉同行吗",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%BE%8E%E4%B8%BD%E6%98%8E%E5%A4%A9%E2%80%9D%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "女子睡觉时被虫咬断一大把头发",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%9D%A1%E8%A7%89%E6%97%B6%E8%A2%AB%E8%99%AB%E5%92%AC%E6%96%AD%E4%B8%80%E5%A4%A7%E6%8A%8A%E5%A4%B4%E5%8F%91&sa=fyb_news"
+   "title": "直击沈阳局地特大暴雨",
+   "link": "https://m.baidu.com/s?word=%E7%9B%B4%E5%87%BB%E6%B2%88%E9%98%B3%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-   "link": "https://x.com/AYi_AInotes/status/2076341952023310580"
+   "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+   "link": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag"
   },
   {
-   "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
-   "link": "https://www.iroh.computer/blog/mesh-llm"
+   "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+   "link": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german"
   },
   {
-   "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-   "link": "https://x.com/thsottiaux/status/2076365965915467978"
+   "title": "Cloudflare 推出 Precursor：通过持续客户端信号检测 AI 智能体行为",
+   "link": "https://blog.cloudflare.com/introducing-precursor"
   },
   {
-   "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-   "link": "https://github.com/cosmtrek/mindwalk"
+   "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+   "link": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg"
   },
   {
-   "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
-   "link": "https://www.ithome.com/0/975/666.htm"
+   "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+   "link": "https://www.ithome.com/0/976/149.htm"
   },
   {
-   "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-   "link": "https://www.ithome.com/0/975/646.htm"
+   "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+   "link": "https://www.ithome.com/0/975/865.htm"
   },
   {
-   "title": "纳德拉提出“反向信息悖论”：企业使用AI时需保护自身知识",
-   "link": "https://x.com/satyanadella/status/2076323181154230284"
+   "title": "Hebbia 测试 Claude Fable 5：金融专用基准测试中准确率提升约 20%",
+   "link": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail"
   },
   {
-   "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-   "link": "https://x.com/thsottiaux/status/2076119366647894371"
+   "title": "Anthropic 研究：Claude 在不同模型与语言中的价值观表达",
+   "link": "https://www.anthropic.com/research/claude-values-models-languages"
   },
   {
-   "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-   "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"
+   "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+   "link": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result"
   },
   {
-   "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-   "link": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs"
+   "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+   "link": "https://playcode.io/blog/real-price-of-frontier-models"
   },
   {
-   "title": "开源模型面临未来6个月的生存考验",
-   "link": "https://www.interconnects.ai/p/6-months-to-live-for-open-models"
+   "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+   "link": "https://x.com/op7418/status/2076604797202161800"
+  },
+  {
+   "title": "AI 客户留存率介于手游与社交网络之间：前沿模型“王座”仅维持约 41 天，同等智能价格每年下降约 10 倍",
+   "link": "https://www.tomtunguz.com/the-ai-colander"
   }
  ]
 }
