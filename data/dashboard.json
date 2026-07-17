@@ -1,460 +1,460 @@
 {
- "date": "2026-07-16",
- "updatedAt": "2026-07-16 16:52",
+ "date": "2026-07-17",
+ "updatedAt": "2026-07-17 07:36",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3882.41",
-   "change": "-73.17",
-   "pct": "-1.85%",
+   "value": "3764.15",
+   "change": "-118.26",
+   "pct": "-3.05%",
    "up": false,
    "trend": [
-    3912.38,
-    3913.29,
-    3920.81,
-    3924.16,
-    3931.03,
-    3925.53,
-    3927.93,
-    3931.97,
-    3934.61,
-    3931.29,
-    3935.6,
-    3932.7,
-    3930.67,
-    3925.91,
-    3923.4,
-    3918.92,
-    3923.2,
-    3921.21,
-    3919.87,
-    3922.82,
-    3916.81,
-    3905.76,
-    3905.67,
-    3903.49,
-    3897.5,
-    3898.44,
-    3889.04,
-    3885.09,
-    3885.24,
-    3871.25,
-    3875.05,
-    3873.57
+    3865.32,
+    3847.4,
+    3849.65,
+    3849.75,
+    3850.92,
+    3851.44,
+    3843.13,
+    3837.91,
+    3831.76,
+    3818.8,
+    3818.5,
+    3808.99,
+    3815.43,
+    3835.02,
+    3827.46,
+    3820.53,
+    3818.59,
+    3803.13,
+    3797.81,
+    3786.47,
+    3789.36,
+    3770.32,
+    3751.18,
+    3757.39,
+    3779.66,
+    3797.54,
+    3819.11,
+    3810.75,
+    3800.6,
+    3797.89,
+    3781.5,
+    3768.05
    ]
   },
   {
    "name": "深证成指",
-   "value": "14488.65",
-   "change": "-290.75",
-   "pct": "-1.97%",
+   "value": "13706.88",
+   "change": "-781.77",
+   "pct": "-5.40%",
    "up": false,
    "trend": [
-    14497.43,
-    14466.65,
-    14598.68,
-    14652.76,
-    14714.69,
-    14704.28,
-    14727.77,
-    14750.94,
-    14729.47,
-    14702.38,
-    14753.74,
-    14745.65,
-    14733.35,
-    14685.38,
-    14660.89,
-    14618.71,
-    14657.07,
-    14665.79,
-    14659.84,
-    14668.32,
-    14607.73,
-    14552.46,
-    14569.31,
-    14569.17,
-    14536.44,
-    14559.73,
-    14504.45,
-    14489.67,
-    14481.82,
-    14424.02,
-    14426.46,
-    14426.01
+    14348.22,
+    14058.95,
+    14131.64,
+    14158.41,
+    14157.67,
+    14156.8,
+    14091.51,
+    14053.44,
+    14023.13,
+    13953.05,
+    13924.32,
+    13881.83,
+    13965.71,
+    14064.33,
+    14001.02,
+    13958.76,
+    13953.26,
+    13855.93,
+    13827.18,
+    13773.3,
+    13797.34,
+    13686.49,
+    13607.36,
+    13675.3,
+    13814.99,
+    13880.08,
+    14017.04,
+    13965.38,
+    13920.35,
+    13886.13,
+    13810.8,
+    13732.18
    ]
   },
   {
    "name": "创业板指",
-   "value": "3692.46",
-   "change": "-112.24",
-   "pct": "-2.95%",
+   "value": "3428.63",
+   "change": "-263.83",
+   "pct": "-7.15%",
    "up": false,
    "trend": [
-    3710.51,
-    3694.61,
-    3738.89,
-    3760.39,
-    3777.93,
-    3768.79,
-    3776.03,
-    3783.75,
-    3774.86,
-    3765.13,
-    3780.81,
-    3774.15,
-    3770.48,
-    3752.72,
-    3742.06,
-    3726.28,
-    3738.96,
-    3747.11,
-    3743.03,
-    3747.39,
-    3723.4,
-    3708.24,
-    3716.5,
-    3717.31,
-    3705.4,
-    3715.54,
-    3696.05,
-    3691.13,
-    3688.19,
-    3673.62,
-    3672.01,
-    3671.04
+    3642.06,
+    3541.6,
+    3572.59,
+    3586.94,
+    3585.94,
+    3583.57,
+    3560.2,
+    3548.7,
+    3536.48,
+    3517.42,
+    3505.27,
+    3491.61,
+    3526.9,
+    3556.16,
+    3535.66,
+    3519.28,
+    3518.65,
+    3483.89,
+    3472.64,
+    3454.76,
+    3469.56,
+    3421.68,
+    3392.83,
+    3424.6,
+    3480.0,
+    3499.68,
+    3548.35,
+    3525.49,
+    3511.05,
+    3494.91,
+    3470.36,
+    3439.58
    ]
   },
   {
    "name": "恒生指数",
-   "value": "25008.60",
-   "change": "+327.50",
-   "pct": "+1.33%",
-   "up": true,
+   "value": "24498.12",
+   "change": "-510.48",
+   "pct": "-2.04%",
+   "up": false,
    "trend": [
-    24825.02,
-    25089.43,
-    25100.82,
-    24989.67,
-    24959.29,
-    24983.54,
-    25095.43,
-    25110.72,
-    25081.25,
-    25089.88,
-    25159.72,
-    25167.32,
-    25146.08,
-    25130.56,
-    25162.08,
-    25129.75,
-    25177.84,
-    25194.9,
-    25206.81,
-    25191.4,
-    25121.67,
-    25078.87,
-    25029.15,
-    25015.67,
-    24919.48,
-    24994.26,
-    25015.52,
-    25034.37,
-    25017.31,
-    25043.69,
-    25025.92,
-    25013.79
+    25022.54,
+    24964.83,
+    24815.41,
+    24817.93,
+    24742.74,
+    24734.14,
+    24665.25,
+    24636.59,
+    24619.84,
+    24589.04,
+    24658.07,
+    24596.74,
+    24535.97,
+    24524.72,
+    24530.62,
+    24517.66,
+    24454.68,
+    24436.78,
+    24413.54,
+    24394.56,
+    24381.47,
+    24399.05,
+    24449.73,
+    24476.18,
+    24527.85,
+    24543.37,
+    24547.73,
+    24514.66,
+    24516.73,
+    24479.46,
+    24505.67,
+    24475.97
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3994.94",
+  "value": "3996.09",
   "unit": "美元/盎司",
-  "change": "-65.34",
-  "pct": "-1.61%",
-  "up": false
+  "change": "+19.83",
+  "pct": "+0.50%",
+  "up": true
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.778",
-   "change": "+0.0003",
-   "pct": "+0.00%",
+   "value": "6.780",
+   "change": "+0.0024",
+   "pct": "+0.03%",
    "up": true
   },
   {
    "name": "欧元",
-   "value": "7.756",
-   "change": "-0.0003",
-   "pct": "-0.00%",
-   "up": false
+   "value": "7.760",
+   "change": "+0.0042",
+   "pct": "+0.05%",
+   "up": true
   },
   {
    "name": "港币",
    "value": "0.865",
-   "change": "-0.0002",
-   "pct": "-0.03%",
+   "change": "-0.0001",
+   "pct": "-0.01%",
    "up": false
   },
   {
    "name": "100日元",
-   "value": "4.179",
-   "change": "-0.0000",
-   "pct": "-0.00%",
+   "value": "4.176",
+   "change": "-0.0029",
+   "pct": "-0.07%",
    "up": false
   }
  ],
  "btc": {
-  "usd": "64,415",
-  "cny": "436,021",
-  "pct": "-0.91%",
+  "usd": "62,871",
+  "cny": "425,930",
+  "pct": "-2.12%",
   "up": false,
   "trend": [
-   65010.01,
-   64978.68,
-   65053.85,
-   64865.28,
-   64924.4,
-   64954.52,
-   64877.95,
-   64780.15,
-   64867.24,
-   64793.6,
-   64640.59,
-   64594.73,
-   64722.65,
-   64589.95,
-   64573.11,
-   64561.33,
-   64568.55,
-   64860.42,
-   64797.07,
-   64634.92,
-   64073.32,
-   64271.98,
-   64031.17,
-   64112.58,
-   64142.44,
-   64137.15,
-   64107.97,
-   63975.81,
-   64296.37,
-   64661.37,
-   64527.65,
-   64529.82
+   64230.08,
+   63997.18,
+   64061.86,
+   64018.52,
+   64144.39,
+   64183.74,
+   64102.52,
+   63965.72,
+   64289.95,
+   64590.69,
+   64371.16,
+   64705.54,
+   64450.29,
+   64178.6,
+   64113.33,
+   64218.28,
+   64198.15,
+   64160.57,
+   64120.84,
+   64145.34,
+   64090.16,
+   63727.93,
+   63723.53,
+   63787.52,
+   63819.14,
+   63500.78,
+   63586.27,
+   63502.49,
+   63327.08,
+   63313.15,
+   62853.91,
+   62824.94
   ]
  },
  "weibo": [
   {
-   "title": "法国队对季军赛毫无动力",
-   "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%98%9F%E5%AF%B9%E5%AD%A3%E5%86%9B%E8%B5%9B%E6%AF%AB%E6%97%A0%E5%8A%A8%E5%8A%9B"
+   "title": "两只老虎的歌词终于解密了",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E%E7%9A%84%E6%AD%8C%E8%AF%8D%E7%BB%88%E4%BA%8E%E8%A7%A3%E5%AF%86%E4%BA%86"
   },
   {
-   "title": "realme手机退出中国市场",
-   "link": "https://s.weibo.com/weibo?q=realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA"
+   "title": "ofo小黄车账号停更5年突然发文",
+   "link": "https://s.weibo.com/weibo?q=ofo%E5%B0%8F%E9%BB%84%E8%BD%A6%E8%B4%A6%E5%8F%B7%E5%81%9C%E6%9B%B45%E5%B9%B4%E7%AA%81%E7%84%B6%E5%8F%91%E6%96%87"
   },
   {
-   "title": "超300款全球首发AI产品即将亮相",
-   "link": "https://s.weibo.com/weibo?q=%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8"
+   "title": "人工智能合作发展行动计划发布",
+   "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E5%8F%91%E5%B1%95%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92%E5%8F%91%E5%B8%83"
   },
   {
-   "title": "以后快递地址只写到小区",
-   "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%BF%AB%E9%80%92%E5%9C%B0%E5%9D%80%E5%8F%AA%E5%86%99%E5%88%B0%E5%B0%8F%E5%8C%BA"
+   "title": "以后大家拼的就是身体了",
+   "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E5%A4%A7%E5%AE%B6%E6%8B%BC%E7%9A%84%E5%B0%B1%E6%98%AF%E8%BA%AB%E4%BD%93%E4%BA%86"
   },
   {
-   "title": "长沙人是瞒着我们进化了吗",
-   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E4%BA%BA%E6%98%AF%E7%9E%92%E7%9D%80%E6%88%91%E4%BB%AC%E8%BF%9B%E5%8C%96%E4%BA%86%E5%90%97"
+   "title": "建议大家少喝肉汤",
+   "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%96%9D%E8%82%89%E6%B1%A4"
   },
   {
-   "title": "周星驰3个问号回应被偷票房",
-   "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B03%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF"
+   "title": "爸爸换泳衣6岁女儿在泳池溺亡",
+   "link": "https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E6%8D%A2%E6%B3%B3%E8%A1%A36%E5%B2%81%E5%A5%B3%E5%84%BF%E5%9C%A8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A1"
   },
   {
-   "title": "肖战 演唱会",
-   "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%BC%94%E5%94%B1%E4%BC%9A"
+   "title": "虞书欣给十个勤天送礼物",
+   "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E9%80%81%E7%A4%BC%E7%89%A9"
   },
   {
-   "title": "过了很多年才突然明白的事",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%87%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E6%89%8D%E7%AA%81%E7%84%B6%E6%98%8E%E7%99%BD%E7%9A%84%E4%BA%8B"
+   "title": "峰哥称不再点评A股",
+   "link": "https://s.weibo.com/weibo?q=%E5%B3%B0%E5%93%A5%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%82%B9%E8%AF%84A%E8%82%A1"
   },
   {
-   "title": "上班后没了叔叔阿姨",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E5%90%8E%E6%B2%A1%E4%BA%86%E5%8F%94%E5%8F%94%E9%98%BF%E5%A7%A8"
+   "title": "重庆彭水山体垮塌",
+   "link": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C"
   },
   {
-   "title": "第1次见女主怀孕相亲",
-   "link": "https://s.weibo.com/weibo?q=%E7%AC%AC1%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%80%80%E5%AD%95%E7%9B%B8%E4%BA%B2"
+   "title": "BLG申请世一上商标",
+   "link": "https://s.weibo.com/weibo?q=BLG%E7%94%B3%E8%AF%B7%E4%B8%96%E4%B8%80%E4%B8%8A%E5%95%86%E6%A0%87"
   },
   {
-   "title": "薛之谦",
-   "link": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6"
+   "title": "A股跌至3790点",
+   "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%8C%E8%87%B33790%E7%82%B9"
   },
   {
-   "title": "小鹏MONAL03价格杀疯了",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%B9%8FMONAL03%E4%BB%B7%E6%A0%BC%E6%9D%80%E7%96%AF%E4%BA%86"
+   "title": "对虞书欣的身高有了实感",
+   "link": "https://s.weibo.com/weibo?q=%E5%AF%B9%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9A%84%E8%BA%AB%E9%AB%98%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F"
   }
  ],
  "zhihu": [
   {
-   "title": "2026世界杯决赛，西班牙vs阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
-   "link": "https://www.zhihu.com/question/2060979028366988938"
+   "title": "重庆彭水发生山体垮塌 ，有人员被埋，具体情况如何？",
+   "link": "https://www.zhihu.com/question/2061395641595426688"
   },
   {
-   "title": "河南多家NFC果汁生产车间被曝无水果，产品却标注「100%鲜榨果汁」，标注是否合规？消费者该如何辨别？",
-   "link": "https://www.zhihu.com/question/2060999608738608921"
+   "title": "如何评价 7 月 16 日Kimi 发布的 2.8 万亿级开源模型 K3？",
+   "link": "https://www.zhihu.com/question/2061204677446964906"
   },
   {
-   "title": "曝《功夫女足》被偷票房，大量观众称电影票为纸质手写，这是普遍现象吗？对电影有哪些影响？制片方如何维权？",
-   "link": "https://www.zhihu.com/question/2060808065167746714"
+   "title": "高校岗位收缩，每年超十万博士涌入仅3.5万岗位的市场，如何看待「博士过剩」问题？读博还是一个好选择吗？",
+   "link": "https://www.zhihu.com/question/2061024906939310932"
   },
   {
-   "title": "深圳文和友招牌拆除，CEO 确认撤场，为什么文和友难以走出长沙？",
-   "link": "https://www.zhihu.com/question/2060496768580718879"
+   "title": "南派三叔、江南、刘慈欣，他们是从哪里知道那么多的知识的，如何构建整个故事体系和跌宕起伏的剧情?",
+   "link": "https://www.zhihu.com/question/35435432"
   },
   {
-   "title": "网传张雪摩托车驾驶员摔车后，无人驾驶开出几公里，平衡性这么好吗？",
-   "link": "https://www.zhihu.com/question/2060758431435158135"
+   "title": "男子酒驾后购置棺材「假死」潜逃，家人配合「下葬」，这会面临哪些法律责任？",
+   "link": "https://www.zhihu.com/question/2060530186634933996"
   },
   {
-   "title": "如果我的目标是当公务员，那么上985、211与上一本有什么区别？",
-   "link": "https://www.zhihu.com/question/1931818975265789556"
+   "title": "为什么米村拌饭各个门店都那么火？",
+   "link": "https://www.zhihu.com/question/2043613736666232393"
   },
   {
-   "title": "《八仙！》预售突破 6000 万，点映口碑上佳，你预测影片最终票房能到多少？",
-   "link": "https://www.zhihu.com/question/2059956129291919389"
+   "title": "如何看待匈牙利前外长辞去国会议员职务转投比亚迪？",
+   "link": "https://www.zhihu.com/question/2061038899145728825"
   },
   {
-   "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
-   "link": "https://www.zhihu.com/question/2060635206651065501"
+   "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+   "link": "https://www.zhihu.com/question/2061057694832620856"
   },
   {
-   "title": "武汉最高温真的只有 39 度么？是怎么测量出来的？",
-   "link": "https://www.zhihu.com/question/2060683386755232040"
+   "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
+   "link": "https://www.zhihu.com/question/2060754085637271982"
   },
   {
-   "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
-   "link": "https://www.zhihu.com/question/1993136934327960099"
+   "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
+   "link": "https://www.zhihu.com/question/2061107208805414314"
   },
   {
-   "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-   "link": "https://www.zhihu.com/question/2059993412737283983"
+   "title": "阿根廷三场世界杯比赛都在即将终场前逆转赛局，这是啥战术安排吗？他们是怎么做到稳住心态逆风翻盘的？",
+   "link": "https://www.zhihu.com/question/2061173953381361461"
   },
   {
-   "title": "SpaceX上市仅一个月跌破135美元发行价，市值缩水三分之一，星舰第13次试飞将至，能否挽救股价？",
-   "link": "https://www.zhihu.com/question/2061111911014470002"
+   "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+   "link": "https://www.zhihu.com/question/2060791514276615811"
   }
  ],
  "baidu": [
   {
-   "title": "人民的小事就是我们的大事",
-   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E7%9A%84%E5%B0%8F%E4%BA%8B%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E4%BA%8B&sa=fyb_news"
+   "title": "把老百姓关切的事一件一件办好",
+   "link": "https://m.baidu.com/s?word=%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E5%85%B3%E5%88%87%E7%9A%84%E4%BA%8B%E4%B8%80%E4%BB%B6%E4%B8%80%E4%BB%B6%E5%8A%9E%E5%A5%BD&sa=fyb_news"
   },
   {
-   "title": "我说这俩队这么难踢 原来是冠亚军",
-   "link": "https://m.baidu.com/s?word=%E6%88%91%E8%AF%B4%E8%BF%99%E4%BF%A9%E9%98%9F%E8%BF%99%E4%B9%88%E9%9A%BE%E8%B8%A2+%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%86%A0%E4%BA%9A%E5%86%9B&sa=fyb_news"
+   "title": "重庆发生山体垮塌 有人员被埋",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C+%E6%9C%89%E4%BA%BA%E5%91%98%E8%A2%AB%E5%9F%8B&sa=fyb_news"
   },
   {
-   "title": "气象台不敢报40℃？权威回应",
-   "link": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E5%8F%B0%E4%B8%8D%E6%95%A2%E6%8A%A540%E2%84%83%EF%BC%9F%E6%9D%83%E5%A8%81%E5%9B%9E%E5%BA%94&sa=fyb_news"
-  },
-  {
-   "title": "前一秒石库门 下一秒进未来",
-   "link": "https://m.baidu.com/s?word=%E5%89%8D%E4%B8%80%E7%A7%92%E7%9F%B3%E5%BA%93%E9%97%A8+%E4%B8%8B%E4%B8%80%E7%A7%92%E8%BF%9B%E6%9C%AA%E6%9D%A5&sa=fyb_news"
-  },
-  {
-   "title": "又一名《西游记》演员离世",
-   "link": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E5%90%8D%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E6%BC%94%E5%91%98%E7%A6%BB%E4%B8%96&sa=fyb_news"
-  },
-  {
-   "title": "桂林山野外一废弃牛棚意外走红",
-   "link": "https://m.baidu.com/s?word=%E6%A1%82%E6%9E%97%E5%B1%B1%E9%87%8E%E5%A4%96%E4%B8%80%E5%BA%9F%E5%BC%83%E7%89%9B%E6%A3%9A%E6%84%8F%E5%A4%96%E8%B5%B0%E7%BA%A2&sa=fyb_news"
-  },
-  {
-   "title": "男子做胃肠镜突发心脏骤停成植物人",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%81%9A%E8%83%83%E8%82%A0%E9%95%9C%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA&sa=fyb_news"
+   "title": "福建省委书记：鞋厂火灾代价极为惨痛",
+   "link": "https://m.baidu.com/s?word=%E7%A6%8F%E5%BB%BA%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%EF%BC%9A%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E4%BB%A3%E4%BB%B7%E6%9E%81%E4%B8%BA%E6%83%A8%E7%97%9B&sa=fyb_news"
   },
   {
    "title": "日产芯片超15亿块 什么概念",
    "link": "https://m.baidu.com/s?word=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
   },
   {
-   "title": "格斗赛机器人头被打飞 甄子丹看呆",
-   "link": "https://m.baidu.com/s?word=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86&sa=fyb_news"
+   "title": "男子帮台湾游客拍照 竟是失联大伯",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7+%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E5%A4%A7%E4%BC%AF&sa=fyb_news"
   },
   {
-   "title": "外露式、半隐藏门把手“集体回归”",
-   "link": "https://m.baidu.com/s?word=%E5%A4%96%E9%9C%B2%E5%BC%8F%E3%80%81%E5%8D%8A%E9%9A%90%E8%97%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E2%80%9C%E9%9B%86%E4%BD%93%E5%9B%9E%E5%BD%92%E2%80%9D&sa=fyb_news"
+   "title": "伊朗：造成大量美军人员死亡",
+   "link": "https://m.baidu.com/s?word=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1&sa=fyb_news"
   },
   {
-   "title": "世界杯冠军奖金5000万美元 历史最高",
-   "link": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E5%A5%96%E9%87%915000%E4%B8%87%E7%BE%8E%E5%85%83+%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&sa=fyb_news"
+   "title": "双创指数均跌超7% 近200股跌停",
+   "link": "https://m.baidu.com/s?word=%E5%8F%8C%E5%88%9B%E6%8C%87%E6%95%B0%E5%9D%87%E8%B7%8C%E8%B6%857%25+%E8%BF%91200%E8%82%A1%E8%B7%8C%E5%81%9C&sa=fyb_news"
   },
   {
-   "title": "天文台辟谣新疆惊现不明飞行物",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A9%E6%96%87%E5%8F%B0%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%96%86%E6%83%8A%E7%8E%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9&sa=fyb_news"
+   "title": "《八仙！》会是下一个《哪吒》吗",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E3%80%8A%E5%93%AA%E5%90%92%E3%80%8B%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "巴菲特发出警告：市场已成“赌场”",
-   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%EF%BC%9A%E5%B8%82%E5%9C%BA%E5%B7%B2%E6%88%90%E2%80%9C%E8%B5%8C%E5%9C%BA%E2%80%9D&sa=fyb_news"
+   "title": "油价今晚上调 加满一箱油多花12元",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83+%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%A4%9A%E8%8A%B112%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "蜜雪冰城新公司部分岗月薪可达2万5",
-   "link": "https://m.baidu.com/s?word=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%96%B0%E5%85%AC%E5%8F%B8%E9%83%A8%E5%88%86%E5%B2%97%E6%9C%88%E8%96%AA%E5%8F%AF%E8%BE%BE2%E4%B8%875&sa=fyb_news"
+   "title": "《功夫女足》背后的“资本阳谋”",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%83%8C%E5%90%8E%E7%9A%84%E2%80%9C%E8%B5%84%E6%9C%AC%E9%98%B3%E8%B0%8B%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "韩国股市暴涨暴跌 散户快疯了",
-   "link": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C+%E6%95%A3%E6%88%B7%E5%BF%AB%E7%96%AF%E4%BA%86&sa=fyb_news"
+   "title": "A股",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1&sa=fyb_news"
+  },
+  {
+   "title": "“成都青龙湖放生3000条蛇”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%90%E9%83%BD%E9%9D%92%E9%BE%99%E6%B9%96%E6%94%BE%E7%94%9F3000%E6%9D%A1%E8%9B%87%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+  },
+  {
+   "title": "曲婉婷患癌",
+   "link": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%82%A3%E7%99%8C&sa=fyb_news"
+  },
+  {
+   "title": "小龙虾为何降价了",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BD%95%E9%99%8D%E4%BB%B7%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "周星驰连发3个问号回应疑被偷票房",
+   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%BF%9E%E5%8F%913%E4%B8%AA%E9%97%AE%E5%8F%B7%E5%9B%9E%E5%BA%94%E7%96%91%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-   "link": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A"
+   "title": "Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
+   "link": "https://www.kimi.com/blog/kimi-k3"
   },
   {
-   "title": "Thinking Machines 发布多模态模型 Inkling",
-   "link": "https://x.com/thinkymachines/status/2077454609551921208"
+   "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+   "link": "https://x.ai/news/grok-automations"
   },
   {
-   "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-   "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+   "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+   "link": "https://www.mixfont.com/experiments/decoy-font"
   },
   {
-   "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-   "link": "https://x.ai/news/grok-build-open-source"
+   "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
+   "link": "https://x.com/ChatGPTapp/status/2077826846373380535"
   },
   {
-   "title": "Telegram 无服务器架构",
-   "link": "https://core.telegram.org/bots/serverless"
+   "title": "天工短剧工作台发布“Agent智能分镜+无限画布”双轨创作模式",
+   "link": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ"
   },
   {
-   "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-   "link": "https://github.com/vshulcz/deja-vu"
+   "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+   "link": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg"
   },
   {
-   "title": "Grok Build 现已开源",
-   "link": "https://x.com/elonmusk/status/2077495635687723408"
+   "title": "面壁智能开源企业AI数字员工平台StaffDeck",
+   "link": "https://x.com/OpenBMB/status/2077741814799548451"
   },
   {
-   "title": "金山办公推出 WPS Comate AI 办公客户端",
-   "link": "https://www.ithome.com/0/977/105.htm"
+   "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
+   "link": "https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg"
   },
   {
-   "title": "Claude Code 新增 MCP 连接器调用功能",
-   "link": "https://x.com/ClaudeDevs/status/2077489907350856038"
+   "title": "在 Claude Cowork 中使用 Claude Fable 5",
+   "link": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork"
   },
   {
-   "title": "SGLang 与 Miles 为前沿多模态模型 Inkling 提供 Day-0 支持，推理吞吐达 71.7k tok/s",
-   "link": "https://www.lmsys.org/blog/2026-07-15-inkling-day0-support"
+   "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+   "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users"
   },
   {
-   "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-   "link": "https://www.ithome.com/0/977/109.htm"
+   "title": "欧盟裁定 Google 必须向竞争对手开放 Android 和 Search，影响 Gemini 等 AI 服务",
+   "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma"
   },
   {
-   "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
-   "link": "https://x.com/thexpin/status/2077346752219521469"
+   "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
+   "link": "https://www.ithome.com/0/977/544.htm"
   }
  ]
 }
