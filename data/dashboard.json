@@ -1,6 +1,6 @@
 {
  "date": "2026-07-17",
- "updatedAt": "2026-07-17 12:44",
+ "updatedAt": "2026-07-17 16:40",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,11 +169,11 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3969.93",
+  "value": "4013.80",
   "unit": "美元/盎司",
-  "change": "-6.33",
-  "pct": "-0.16%",
-  "up": false
+  "change": "+37.54",
+  "pct": "+0.94%",
+  "up": true
  },
  "forex": [
   {
@@ -206,189 +206,189 @@
   }
  ],
  "btc": {
-  "usd": "63,051",
-  "cny": "427,265",
-  "pct": "-1.28%",
+  "usd": "63,412",
+  "cny": "429,672",
+  "pct": "-1.47%",
   "up": false,
   "trend": [
-   63865.71,
-   64161.44,
-   64568.32,
-   64489.14,
-   64674.27,
-   64503.8,
-   64205.39,
-   63991.16,
-   64093.09,
-   64201.92,
-   64142.1,
-   64086.9,
-   64147.91,
-   63985.78,
-   63874.46,
-   63788.93,
-   63700.29,
-   63898.21,
-   63547.68,
-   63438.31,
-   63574.12,
-   63317.41,
-   63361.89,
-   62779.35,
-   62824.0,
-   62872.94,
-   62824.91,
-   62850.99,
-   62992.48,
-   63040.35,
-   63046.24,
-   63273.0
+   64450.29,
+   64178.6,
+   64113.33,
+   64218.28,
+   64198.15,
+   64160.57,
+   64120.84,
+   64145.34,
+   64090.16,
+   63727.93,
+   63723.53,
+   63787.52,
+   63819.14,
+   63500.78,
+   63586.27,
+   63502.49,
+   63327.08,
+   63313.15,
+   62853.91,
+   62824.94,
+   62868.36,
+   62785.65,
+   62852.85,
+   62937.44,
+   63089.62,
+   63047.72,
+   63229.87,
+   63081.14,
+   62559.18,
+   63226.95,
+   62974.13,
+   63191.23
   ]
  },
  "weibo": [
   {
-   "title": "曲婉婷母亲贪污3.5亿元职工安置费",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9"
+   "title": "功夫女足让韩国人破防了",
+   "link": "https://s.weibo.com/weibo?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%AE%A9%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A0%B4%E9%98%B2%E4%BA%86"
   },
   {
-   "title": "这一秒过火",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB"
+   "title": "歌手排名",
+   "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
   },
   {
-   "title": "2026世界人工智能大会何以圈粉",
-   "link": "https://s.weibo.com/weibo?q=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89"
+   "title": "智能体互信互联互操作全球合作倡议",
+   "link": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%92%E4%BF%A1%E4%BA%92%E8%81%94%E4%BA%92%E6%93%8D%E4%BD%9C%E5%85%A8%E7%90%83%E5%90%88%E4%BD%9C%E5%80%A1%E8%AE%AE"
   },
   {
-   "title": "21岁女孩家中遇害凶手竟是亲生父亲",
-   "link": "https://s.weibo.com/weibo?q=21%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%AE%B6%E4%B8%AD%E9%81%87%E5%AE%B3%E5%87%B6%E6%89%8B%E7%AB%9F%E6%98%AF%E4%BA%B2%E7%94%9F%E7%88%B6%E4%BA%B2"
+   "title": "年轻人一定要对钱有概念",
+   "link": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AF%B9%E9%92%B1%E6%9C%89%E6%A6%82%E5%BF%B5"
   },
   {
-   "title": "马龙许昕晋级八强",
-   "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA"
+   "title": "Bin连续被单杀",
+   "link": "https://s.weibo.com/weibo?q=Bin%E8%BF%9E%E7%BB%AD%E8%A2%AB%E5%8D%95%E6%9D%80"
   },
   {
-   "title": "投放伟哥 不予立案",
-   "link": "https://s.weibo.com/weibo?q=%E6%8A%95%E6%94%BE%E4%BC%9F%E5%93%A5%20%E4%B8%8D%E4%BA%88%E7%AB%8B%E6%A1%88"
+   "title": "西班牙晒大力神杯",
+   "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%99%92%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF"
   },
   {
-   "title": "清吧伟哥事件",
-   "link": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%90%A7%E4%BC%9F%E5%93%A5%E4%BA%8B%E4%BB%B6"
+   "title": "百花杀热度",
+   "link": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E6%9D%80%E7%83%AD%E5%BA%A6"
   },
   {
-   "title": "王源易烊千玺给王俊凯送了花篮",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%81%E4%BA%86%E8%8A%B1%E7%AF%AE"
+   "title": "BLG对战DK",
+   "link": "https://s.weibo.com/weibo?q=BLG%E5%AF%B9%E6%88%98DK"
   },
   {
-   "title": "歌手直播",
-   "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD"
+   "title": "刘惜君 芒果台",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E6%83%9C%E5%90%9B%20%E8%8A%92%E6%9E%9C%E5%8F%B0"
   },
   {
-   "title": "阿根廷总统缺席世界杯决赛原因",
-   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E7%BC%BA%E5%B8%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%8E%9F%E5%9B%A0"
+   "title": "重庆彭水山体崩塌已致8死",
+   "link": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E6%AD%BB"
   },
   {
    "title": "JYP女团成员Angelababy",
    "link": "https://s.weibo.com/weibo?q=JYP%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98Angelababy"
   },
   {
-   "title": "时代少年团公告 丁程鑫受伤",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%AC%E5%91%8A%20%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8F%97%E4%BC%A4"
+   "title": "苏新皓发视频向粉丝道歉",
+   "link": "https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E8%A7%86%E9%A2%91%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89"
   }
  ],
  "zhihu": [
-  {
-   "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-   "link": "https://www.zhihu.com/question/2061057694832620856"
-  },
-  {
-   "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
-   "link": "https://www.zhihu.com/question/2061107208805414314"
-  },
   {
    "title": "超市老板称「往年夏天卖断货的碳酸饮料，今年送都送不出去」，碳酸饮料为什么卖不动？是暂时还是大势所趋？",
    "link": "https://www.zhihu.com/question/2061198817991418630"
   },
   {
-   "title": "阿根廷球员赛后发现英格兰战术小抄，如何评价英格兰准备的小抄战术？比赛场上可以偷看对手小抄吗？",
-   "link": "https://www.zhihu.com/question/2061110573723378273"
+   "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+   "link": "https://www.zhihu.com/question/2061057694832620856"
+  },
+  {
+   "title": "《食神·百厨大战》开播，广东选手做了一盘没带酱料的白切鸡被评委淘汰，淘汰得对吗？",
+   "link": "https://www.zhihu.com/question/2060129175554594141"
+  },
+  {
+   "title": "法国被曝将全替补阵容出战季军战，让老将和年轻球员登场，如何看待这一选择？",
+   "link": "https://www.zhihu.com/question/2061482689165619531"
   },
   {
    "title": "7月17日，A股跌至3790点，沪指创2025年9月以来新低，发生了什么？",
    "link": "https://www.zhihu.com/question/2061116752398962968"
   },
   {
-   "title": "为什么“锄禾日当午”，除草要在中午呢？",
-   "link": "https://www.zhihu.com/question/2057344841936265609"
-  },
-  {
-   "title": "为什么会有钢琴老师讲不带成人学生？",
-   "link": "https://www.zhihu.com/question/2042257207627179809"
+   "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
+   "link": "https://www.zhihu.com/question/2061095985552663651"
   },
   {
    "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
    "link": "https://www.zhihu.com/question/2061463583091959064"
   },
   {
-   "title": "NBA总裁希望詹姆斯尽快决定下家，这将影响新赛程的安排，为什么一名球员的去向会影响整个联盟的赛程安排？",
-   "link": "https://www.zhihu.com/question/2061375923639646082"
-  },
-  {
-   "title": "如何看待 C 罗或将推迟原定 7 月 20 日与乔治娜的婚礼？推迟婚期的背后可能有啥原因？",
-   "link": "https://www.zhihu.com/question/2061095985552663651"
-  },
-  {
    "title": "诺兰史诗新作《奥德赛》首波媒体口碑出炉，大量评价用「惊人」「令人屏息」「杰作」形容，你看好这部电影吗？",
    "link": "https://www.zhihu.com/question/2058197753138602590"
   },
   {
-   "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-   "link": "https://www.zhihu.com/question/2060791514276615811"
+   "title": "为什么会有钢琴老师讲不带成人学生？",
+   "link": "https://www.zhihu.com/question/2042257207627179809"
+  },
+  {
+   "title": "《功夫女足》上映 7 天票房突破 10 亿大关，登顶2026年暑期票房榜，你认为还有其他影片能赶超吗？",
+   "link": "https://www.zhihu.com/question/2060038001975976897"
+  },
+  {
+   "title": "阿根廷球员赛后发现英格兰战术小抄，如何评价英格兰准备的小抄战术？比赛场上可以偷看对手小抄吗？",
+   "link": "https://www.zhihu.com/question/2061110573723378273"
+  },
+  {
+   "title": "光伏板挡住了阳光，下面的草为啥长得更茂盛了？",
+   "link": "https://www.zhihu.com/question/2061107208805414314"
   }
  ],
  "baidu": [
   {
-   "title": "习近平主旨讲话全文",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E6%97%A8%E8%AE%B2%E8%AF%9D%E5%85%A8%E6%96%87&sa=fyb_news"
+   "title": "直面时代之问 习近平提出4点意见",
+   "link": "https://m.baidu.com/s?word=%E7%9B%B4%E9%9D%A2%E6%97%B6%E4%BB%A3%E4%B9%8B%E9%97%AE+%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E5%87%BA4%E7%82%B9%E6%84%8F%E8%A7%81&sa=fyb_news"
   },
   {
-   "title": "重庆彭水山体垮塌已救出10人",
-   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E5%B7%B2%E6%95%91%E5%87%BA10%E4%BA%BA&sa=fyb_news"
+   "title": "重庆彭水山体崩塌已致8人遇难",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
   },
   {
-   "title": "微信又出新功能：已经玩嗨了",
-   "link": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E5%8F%88%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E5%B7%B2%E7%BB%8F%E7%8E%A9%E5%97%A8%E4%BA%86&sa=fyb_news"
+   "title": "山体崩塌现场还有34人失联",
+   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E8%BF%98%E6%9C%8934%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
   },
   {
-   "title": "日产芯片超15亿块 什么概念",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&sa=fyb_news"
+   "title": "这场大会让上海变成“未来城”",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E5%9C%BA%E5%A4%A7%E4%BC%9A%E8%AE%A9%E4%B8%8A%E6%B5%B7%E5%8F%98%E6%88%90%E2%80%9C%E6%9C%AA%E6%9D%A5%E5%9F%8E%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "于东来加价2倍下单5000斤甜瓜",
-   "link": "https://m.baidu.com/s?word=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%8A%A0%E4%BB%B72%E5%80%8D%E4%B8%8B%E5%8D%955000%E6%96%A4%E7%94%9C%E7%93%9C&sa=fyb_news"
+   "title": "美取消涉港国家紧急状态 中方赞赏",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8F%96%E6%B6%88%E6%B6%89%E6%B8%AF%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81+%E4%B8%AD%E6%96%B9%E8%B5%9E%E8%B5%8F&sa=fyb_news"
   },
   {
-   "title": "韩媒称《功夫女足》贬低韩足",
-   "link": "https://m.baidu.com/s?word=%E9%9F%A9%E5%AA%92%E7%A7%B0%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%B4%AC%E4%BD%8E%E9%9F%A9%E8%B6%B3&sa=fyb_news"
+   "title": "12306购票有新变化",
+   "link": "https://m.baidu.com/s?word=12306%E8%B4%AD%E7%A5%A8%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "一文看懂国家网络身份认证使用场景",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF&sa=fyb_news"
+   "title": "夏天这些病都是省出来的",
+   "link": "https://m.baidu.com/s?word=%E5%A4%8F%E5%A4%A9%E8%BF%99%E4%BA%9B%E7%97%85%E9%83%BD%E6%98%AF%E7%9C%81%E5%87%BA%E6%9D%A5%E7%9A%84&sa=fyb_news"
   },
   {
-   "title": "“拼豆”被点名",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%8B%BC%E8%B1%86%E2%80%9D%E8%A2%AB%E7%82%B9%E5%90%8D&sa=fyb_news"
+   "title": "周星驰回应《功夫女足》给达叔留位置",
+   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%9B%9E%E5%BA%94%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%BB%99%E8%BE%BE%E5%8F%94%E7%95%99%E4%BD%8D%E7%BD%AE&sa=fyb_news"
   },
   {
-   "title": "大学生花50元起诉海航称“赢麻了”",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%8A%B150%E5%85%83%E8%B5%B7%E8%AF%89%E6%B5%B7%E8%88%AA%E7%A7%B0%E2%80%9C%E8%B5%A2%E9%BA%BB%E4%BA%86%E2%80%9D&sa=fyb_news"
+   "title": "批发商感慨买雪糕的人明显少了",
+   "link": "https://m.baidu.com/s?word=%E6%89%B9%E5%8F%91%E5%95%86%E6%84%9F%E6%85%A8%E4%B9%B0%E9%9B%AA%E7%B3%95%E7%9A%84%E4%BA%BA%E6%98%8E%E6%98%BE%E5%B0%91%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "曲婉婷母亲曾贪污3.5亿元职工安置费",
-   "link": "https://m.baidu.com/s?word=%E6%9B%B2%E5%A9%89%E5%A9%B7%E6%AF%8D%E4%BA%B2%E6%9B%BE%E8%B4%AA%E6%B1%A13.5%E4%BA%BF%E5%85%83%E8%81%8C%E5%B7%A5%E5%AE%89%E7%BD%AE%E8%B4%B9&sa=fyb_news"
+   "title": "全球首款机器人手机亮相引老外围观",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82&sa=fyb_news"
   },
   {
-   "title": "月薪6万云海观察员被质疑是萝卜岗",
-   "link": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA6%E4%B8%87%E4%BA%91%E6%B5%B7%E8%A7%82%E5%AF%9F%E5%91%98%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E8%90%9D%E5%8D%9C%E5%B2%97&sa=fyb_news"
+   "title": "“洗衣机”发威一击“烧死”无人机",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B4%97%E8%A1%A3%E6%9C%BA%E2%80%9D%E5%8F%91%E5%A8%81%E4%B8%80%E5%87%BB%E2%80%9C%E7%83%A7%E6%AD%BB%E2%80%9D%E6%97%A0%E4%BA%BA%E6%9C%BA&sa=fyb_news"
   },
   {
    "title": "气象台不敢报40℃？真相来了",
@@ -399,12 +399,12 @@
    "link": "https://m.baidu.com/s?word=5%E5%8F%AA%E5%B0%8F%E7%8B%97%E7%83%A4%E9%B8%AD%E5%BA%97%E6%8E%92%E9%98%9F%E7%AD%89%E5%90%83%E9%B8%AD%E5%B1%81%E8%82%A1&sa=fyb_news"
   },
   {
-   "title": "南方变“烧烤” 东北穿棉袄",
-   "link": "https://m.baidu.com/s?word=%E5%8D%97%E6%96%B9%E5%8F%98%E2%80%9C%E7%83%A7%E7%83%A4%E2%80%9D+%E4%B8%9C%E5%8C%97%E7%A9%BF%E6%A3%89%E8%A2%84&sa=fyb_news"
+   "title": "何炅5G冲浪：哦买噶 你吓到我了",
+   "link": "https://m.baidu.com/s?word=%E4%BD%95%E7%82%855G%E5%86%B2%E6%B5%AA%EF%BC%9A%E5%93%A6%E4%B9%B0%E5%99%B6+%E4%BD%A0%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "男子帮台湾游客拍照 竟是失联大伯",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%B8%AE%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7+%E7%AB%9F%E6%98%AF%E5%A4%B1%E8%81%94%E5%A4%A7%E4%BC%AF&sa=fyb_news"
+   "title": "重庆山体崩塌救援面临三大困难",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E6%95%91%E6%8F%B4%E9%9D%A2%E4%B8%B4%E4%B8%89%E5%A4%A7%E5%9B%B0%E9%9A%BE&sa=fyb_news"
   }
  ],
  "ai": [
