@@ -1,6 +1,6 @@
 {
  "date": "2026-07-20",
- "updatedAt": "2026-07-20 12:27",
+ "updatedAt": "2026-07-20 15:31",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4010.94",
+  "value": "4015.27",
   "unit": "美元/盎司",
-  "change": "-5.42",
-  "pct": "-0.13%",
+  "change": "-1.09",
+  "pct": "-0.03%",
   "up": false
  },
  "forex": [
@@ -206,89 +206,89 @@
   }
  ],
  "btc": {
-  "usd": "64,633",
-  "cny": "437,744",
-  "pct": "+0.56%",
+  "usd": "64,911",
+  "cny": "439,637",
+  "pct": "+0.71%",
   "up": true,
   "trend": [
-   64274.69,
-   64309.57,
-   64438.22,
-   64449.71,
-   64468.03,
-   64500.39,
-   64487.43,
-   64581.7,
-   64383.97,
-   64390.33,
-   64393.02,
-   64447.07,
-   64421.21,
-   64583.79,
-   64637.03,
-   64664.29,
-   64853.01,
-   64776.29,
-   64554.35,
-   64803.66,
-   64632.52,
-   64668.1,
-   64512.24,
-   64175.62,
-   64083.46,
-   63922.09,
-   64192.59,
-   63907.49,
-   64129.11,
-   64211.86,
-   64240.89,
-   64810.8
+   64456.68,
+   64518.87,
+   64434.12,
+   64551.13,
+   64375.68,
+   64389.76,
+   64457.69,
+   64448.09,
+   64386.95,
+   64751.74,
+   64552.33,
+   64669.22,
+   64776.15,
+   64719.99,
+   64789.53,
+   64869.8,
+   64691.77,
+   64613.88,
+   64428.98,
+   64115.99,
+   63968.25,
+   63869.0,
+   64254.88,
+   63970.37,
+   64178.61,
+   64204.59,
+   64234.0,
+   64847.44,
+   64584.46,
+   64645.68,
+   64367.22,
+   64331.49
   ]
  },
  "weibo": [
+  {
+   "title": "导演这段是要毁了长剧吗",
+   "link": "https://s.weibo.com/weibo?q=%E5%AF%BC%E6%BC%94%E8%BF%99%E6%AE%B5%E6%98%AF%E8%A6%81%E6%AF%81%E4%BA%86%E9%95%BF%E5%89%A7%E5%90%97"
+  },
+  {
+   "title": "崇左地震",
+   "link": "https://s.weibo.com/weibo?q=%E5%B4%87%E5%B7%A6%E5%9C%B0%E9%9C%87"
+  },
+  {
+   "title": "数读上半年工业和信息化经济成绩单",
+   "link": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%BB%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B7%A5%E4%B8%9A%E5%92%8C%E4%BF%A1%E6%81%AF%E5%8C%96%E7%BB%8F%E6%B5%8E%E6%88%90%E7%BB%A9%E5%8D%95"
+  },
+  {
+   "title": "小时候吃的很多水果都慢慢消失了",
+   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%83%E7%9A%84%E5%BE%88%E5%A4%9A%E6%B0%B4%E6%9E%9C%E9%83%BD%E6%85%A2%E6%85%A2%E6%B6%88%E5%A4%B1%E4%BA%86"
+  },
   {
    "title": "清华姚班 全球AI半壁江山",
    "link": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1"
   },
   {
-   "title": "情侣采10斤菌子被本地小孩扔到2斤",
-   "link": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E9%87%8710%E6%96%A4%E8%8F%8C%E5%AD%90%E8%A2%AB%E6%9C%AC%E5%9C%B0%E5%B0%8F%E5%AD%A9%E6%89%94%E5%88%B02%E6%96%A4"
-  },
-  {
-   "title": "我国人形机器人整机产品超全球半数",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B4%E6%9C%BA%E4%BA%A7%E5%93%81%E8%B6%85%E5%85%A8%E7%90%83%E5%8D%8A%E6%95%B0"
+   "title": "复联5新预告",
+   "link": "https://s.weibo.com/weibo?q=%E5%A4%8D%E8%81%945%E6%96%B0%E9%A2%84%E5%91%8A"
   },
   {
    "title": "驾照考得早的好处还在提升",
    "link": "https://s.weibo.com/weibo?q=%E9%A9%BE%E7%85%A7%E8%80%83%E5%BE%97%E6%97%A9%E7%9A%84%E5%A5%BD%E5%A4%84%E8%BF%98%E5%9C%A8%E6%8F%90%E5%8D%87"
   },
   {
-   "title": "妹妹在日薪差距2元的工作中纠结",
-   "link": "https://s.weibo.com/weibo?q=%E5%A6%B9%E5%A6%B9%E5%9C%A8%E6%97%A5%E8%96%AA%E5%B7%AE%E8%B7%9D2%E5%85%83%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%BA%A0%E7%BB%93"
+   "title": "Zara阔腿裤存安全隐患",
+   "link": "https://s.weibo.com/weibo?q=Zara%E9%98%94%E8%85%BF%E8%A3%A4%E5%AD%98%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3"
   },
   {
-   "title": "千万不要在网上买低价饮料",
-   "link": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E4%B9%B0%E4%BD%8E%E4%BB%B7%E9%A5%AE%E6%96%99"
+   "title": "王曼昱 乒超",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E4%B9%92%E8%B6%85"
   },
   {
-   "title": "张小斐晒周星驰签名球衣",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E6%99%92%E5%91%A8%E6%98%9F%E9%A9%B0%E7%AD%BE%E5%90%8D%E7%90%83%E8%A1%A3"
+   "title": "王玉雯别说了刘宇宁害羞了",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%88%AB%E8%AF%B4%E4%BA%86%E5%88%98%E5%AE%87%E5%AE%81%E5%AE%B3%E7%BE%9E%E4%BA%86"
   },
   {
-   "title": "姆巴佩没去领奖原来在游艇上看决赛",
-   "link": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B2%A1%E5%8E%BB%E9%A2%86%E5%A5%96%E5%8E%9F%E6%9D%A5%E5%9C%A8%E6%B8%B8%E8%89%87%E4%B8%8A%E7%9C%8B%E5%86%B3%E8%B5%9B"
-  },
-  {
-   "title": "八仙 一吒之下",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99%20%E4%B8%80%E5%90%92%E4%B9%8B%E4%B8%8B"
-  },
-  {
-   "title": "芒果台重播来不及说我爱你",
-   "link": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E5%8F%B0%E9%87%8D%E6%92%AD%E6%9D%A5%E4%B8%8D%E5%8F%8A%E8%AF%B4%E6%88%91%E7%88%B1%E4%BD%A0"
-  },
-  {
-   "title": "性交易发现避孕套脱落勒索8万",
-   "link": "https://s.weibo.com/weibo?q=%E6%80%A7%E4%BA%A4%E6%98%93%E5%8F%91%E7%8E%B0%E9%81%BF%E5%AD%95%E5%A5%97%E8%84%B1%E8%90%BD%E5%8B%92%E7%B4%A28%E4%B8%87"
+   "title": "胡塞武装宣布海上封锁沙特",
+   "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%AE%A3%E5%B8%83%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E6%B2%99%E7%89%B9"
   },
   {
    "title": "张柏芝头像变黑",
@@ -301,8 +301,24 @@
    "link": "https://www.zhihu.com/question/2062518030224061737"
   },
   {
-   "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
-   "link": "https://www.zhihu.com/question/2062096553184120966"
+   "title": "姆巴佩 10 球夺世界杯金靴，并以 22 球登顶世界杯历史总射手榜，想超越他有多难？",
+   "link": "https://www.zhihu.com/question/2062431941387710588"
+  },
+  {
+   "title": "山姆朝日全开盖啤酒上架十分钟即售罄，大批年轻人专程驱车蹲货抢购，如何看待啤酒「稀缺式消费」的热潮？",
+   "link": "https://www.zhihu.com/question/2061761575296546408"
+  },
+  {
+   "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
+   "link": "https://www.zhihu.com/question/2062331320521450737"
+  },
+  {
+   "title": "为什么我开始不害怕领导了，说什么都不反驳，只淡淡一笑，看到主要领导也就这样？",
+   "link": "https://www.zhihu.com/question/4714962638"
+  },
+  {
+   "title": "香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
+   "link": "https://www.zhihu.com/question/2062563035739156529"
   },
   {
    "title": "中国肯德基「炸鸡配西瓜」促销引发美国网友热议，品牌本土化营销需要考虑其他国家的文化禁忌吗？",
@@ -313,82 +329,66 @@
    "link": "https://www.zhihu.com/question/2062428579145540871"
   },
   {
-   "title": "随着中国降水线北移，南水北调工程还有必要吗？",
-   "link": "https://www.zhihu.com/question/1965460526583777091"
-  },
-  {
-   "title": "香港演员、谢霆锋父亲谢贤去世，他在影坛留下了哪些经典作品？你对他有哪些记忆？",
-   "link": "https://www.zhihu.com/question/2062563035739156529"
-  },
-  {
-   "title": "姆巴佩 10 球夺世界杯金靴，并以 22 球登顶世界杯历史总射手榜，想超越他有多难？",
-   "link": "https://www.zhihu.com/question/2062431941387710588"
-  },
-  {
    "title": "如何看待最近网传的DeepSeek v4正式版灰测？",
    "link": "https://www.zhihu.com/question/2059057378591613636"
   },
   {
-   "title": "中国国新、中国诚通深夜发声，增持中国股票资产，释放什么信号？",
-   "link": "https://www.zhihu.com/question/2062331320521450737"
-  },
-  {
-   "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
-   "link": "https://www.zhihu.com/question/2062293737414160723"
+   "title": "沪指、创业板指收红，电力、煤炭板块走强，如何看待 2026 年 7 月 20 日 A 股市场行情？",
+   "link": "https://www.zhihu.com/question/2062469292113891730"
   },
   {
    "title": "谢贤遗嘱将 90% 遗产留给两个孙子，剩下 10% 由其儿女平均分配，如何看这一分配？",
    "link": "https://www.zhihu.com/question/2062582137845278413"
   },
   {
-   "title": "山姆朝日全开盖啤酒上架十分钟即售罄，大批年轻人专程驱车蹲货抢购，如何看待啤酒「稀缺式消费」的热潮？",
-   "link": "https://www.zhihu.com/question/2061761575296546408"
+   "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
+   "link": "https://www.zhihu.com/question/2061405940272960418"
   }
  ],
  "baidu": [
   {
-   "title": "建设现代化人民城市",
-   "link": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%BE%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82&sa=fyb_news"
+   "title": "“党的作风正 人民的心气顺”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%9A%E7%9A%84%E4%BD%9C%E9%A3%8E%E6%AD%A3+%E4%BA%BA%E6%B0%91%E7%9A%84%E5%BF%83%E6%B0%94%E9%A1%BA%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "中国人保中国太保中国平安集体发声",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E4%B8%AD%E5%9B%BD%E5%A4%AA%E4%BF%9D%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0&sa=fyb_news"
   },
   {
    "title": "穿拖鞋离场 用塑料袋装“大力神杯”",
    "link": "https://m.baidu.com/s?word=%E7%A9%BF%E6%8B%96%E9%9E%8B%E7%A6%BB%E5%9C%BA+%E7%94%A8%E5%A1%91%E6%96%99%E8%A2%8B%E8%A3%85%E2%80%9C%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "美加墨世界杯收入创惊天纪录",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E6%94%B6%E5%85%A5%E5%88%9B%E6%83%8A%E5%A4%A9%E7%BA%AA%E5%BD%95&sa=fyb_news"
-  },
-  {
-   "title": "到中国买买买 新国货圈粉外国游客",
-   "link": "https://m.baidu.com/s?word=%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%B9%B0%E4%B9%B0%E4%B9%B0+%E6%96%B0%E5%9B%BD%E8%B4%A7%E5%9C%88%E7%B2%89%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2&sa=fyb_news"
-  },
-  {
-   "title": "中方警告日方：将付出沉重代价",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%EF%BC%9A%E5%B0%86%E4%BB%98%E5%87%BA%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7&sa=fyb_news"
-  },
-  {
-   "title": "请3天假休13天 “拼假公式”火了",
-   "link": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E4%BC%9113%E5%A4%A9+%E2%80%9C%E6%8B%BC%E5%81%87%E5%85%AC%E5%BC%8F%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "谢贤遗嘱",
-   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E9%81%97%E5%98%B1&sa=fyb_news"
-  },
-  {
-   "title": "伯纳姆就任英国首相",
-   "link": "https://m.baidu.com/s?word=%E4%BC%AF%E7%BA%B3%E5%A7%86%E5%B0%B1%E4%BB%BB%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8&sa=fyb_news"
+   "title": "今天为什么需要世界人工智能大会",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A&sa=fyb_news"
   },
   {
    "title": "西班牙世界杯夺冠 义乌人忙晕了",
    "link": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%BA%E5%86%A0+%E4%B9%89%E4%B9%8C%E4%BA%BA%E5%BF%99%E6%99%95%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "西班牙公主时隔16年再捧大力神杯",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%AC%E4%B8%BB%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%86%8D%E6%8D%A7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&sa=fyb_news"
+   "title": "“冥界之花”现身四川盐源",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1%E2%80%9D%E7%8E%B0%E8%BA%AB%E5%9B%9B%E5%B7%9D%E7%9B%90%E6%BA%90&sa=fyb_news"
   },
   {
-   "title": "周星驰悼念谢贤：一路走好",
-   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%82%BC%E5%BF%B5%E8%B0%A2%E8%B4%A4%EF%BC%9A%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD&sa=fyb_news"
+   "title": "谢贤遗嘱",
+   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E9%81%97%E5%98%B1&sa=fyb_news"
+  },
+  {
+   "title": "谢贤曾昏迷进ICU强撑到谢霆锋回港",
+   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E6%9B%BE%E6%98%8F%E8%BF%B7%E8%BF%9BICU%E5%BC%BA%E6%92%91%E5%88%B0%E8%B0%A2%E9%9C%86%E9%94%8B%E5%9B%9E%E6%B8%AF&sa=fyb_news"
+  },
+  {
+   "title": "中方警告日方：将付出沉重代价",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E8%AD%A6%E5%91%8A%E6%97%A5%E6%96%B9%EF%BC%9A%E5%B0%86%E4%BB%98%E5%87%BA%E6%B2%89%E9%87%8D%E4%BB%A3%E4%BB%B7&sa=fyb_news"
+  },
+  {
+   "title": "成龙：我还做武行时谢贤已是大明星",
+   "link": "https://m.baidu.com/s?word=%E6%88%90%E9%BE%99%EF%BC%9A%E6%88%91%E8%BF%98%E5%81%9A%E6%AD%A6%E8%A1%8C%E6%97%B6%E8%B0%A2%E8%B4%A4%E5%B7%B2%E6%98%AF%E5%A4%A7%E6%98%8E%E6%98%9F&sa=fyb_news"
+  },
+  {
+   "title": "西班牙夺冠庆典喷泉坍塌13岁男孩身亡",
+   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E5%BA%86%E5%85%B8%E5%96%B7%E6%B3%89%E5%9D%8D%E5%A1%8C13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BA%AB%E4%BA%A1&sa=fyb_news"
   },
   {
    "title": "公交车从南沙大桥上冲出系假视频",
@@ -399,12 +399,12 @@
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%9B%9B%E5%93%A5%E2%80%9D%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "众星悼念谢贤",
-   "link": "https://m.baidu.com/s?word=%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E8%B0%A2%E8%B4%A4&sa=fyb_news"
+   "title": "周星驰悼念谢贤：一路好走",
+   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%82%BC%E5%BF%B5%E8%B0%A2%E8%B4%A4%EF%BC%9A%E4%B8%80%E8%B7%AF%E5%A5%BD%E8%B5%B0&sa=fyb_news"
   },
   {
-   "title": "张柏芝多平台账号头像变全黑",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E5%A4%B4%E5%83%8F%E5%8F%98%E5%85%A8%E9%BB%91&sa=fyb_news"
+   "title": "谢贤李小龙是同月同日离世",
+   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E8%B4%A4%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%98%AF%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%A6%BB%E4%B8%96&sa=fyb_news"
   }
  ],
  "ai": [
