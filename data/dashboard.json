@@ -1,6 +1,6 @@
 {
  "date": "2026-07-21",
- "updatedAt": "2026-07-21 11:25",
+ "updatedAt": "2026-07-21 13:05",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4057.68",
+  "value": "4058.53",
   "unit": "美元/盎司",
-  "change": "+50.36",
-  "pct": "+1.26%",
+  "change": "+51.21",
+  "pct": "+1.28%",
   "up": true
  },
  "forex": [
@@ -206,104 +206,96 @@
   }
  ],
  "btc": {
-  "usd": "66,162",
-  "cny": "447,786",
-  "pct": "+2.92%",
+  "usd": "66,481",
+  "cny": "450,248",
+  "pct": "+2.95%",
   "up": true,
   "trend": [
-   64269.97,
-   64780.11,
-   64609.5,
-   64625.7,
-   64186.92,
-   64634.1,
-   65427.42,
-   65393.24,
-   65422.99,
-   65536.28,
-   65232.85,
-   65045.54,
-   65255.89,
-   65272.87,
-   65259.72,
-   65091.86,
-   65182.18,
-   65141.08,
-   65464.53,
-   65401.32,
-   65215.82,
-   65421.26,
-   65476.44,
-   65508.51,
-   65506.86,
-   65657.12,
-   65844.04,
-   65979.65,
-   66274.01,
-   66149.13,
-   66277.96,
-   66339.76
+   64578.38,
+   64557.9,
+   64387.68,
+   64899.63,
+   65521.55,
+   65384.59,
+   65394.35,
+   65636.24,
+   65136.26,
+   65066.76,
+   65347.01,
+   65277.48,
+   65146.17,
+   65096.18,
+   65203.68,
+   65207.23,
+   65469.15,
+   65271.46,
+   65278.63,
+   65410.87,
+   65579.79,
+   65480.68,
+   65527.87,
+   65645.61,
+   65877.46,
+   66082.58,
+   66177.34,
+   66193.35,
+   66236.98,
+   66288.37,
+   66197.83,
+   66378.4
   ]
  },
  "weibo": [
   {
-   "title": "哪个App偷听最严重",
-   "link": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AAApp%E5%81%B7%E5%90%AC%E6%9C%80%E4%B8%A5%E9%87%8D"
+   "title": "阿根廷队多人面临禁赛",
+   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%9A%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%A6%81%E8%B5%9B"
   },
   {
    "title": "怡颗莓 致癌物",
    "link": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9"
   },
   {
-   "title": "一图读懂新一代通信网",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91"
+   "title": "9图看我国新兴产业积厚成势",
+   "link": "https://s.weibo.com/weibo?q=9%E5%9B%BE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%96%B0%E5%85%B4%E4%BA%A7%E4%B8%9A%E7%A7%AF%E5%8E%9A%E6%88%90%E5%8A%BF"
   },
   {
-   "title": "Bin暂别赛场",
-   "link": "https://s.weibo.com/weibo?q=Bin%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA"
-  },
-  {
-   "title": "台风",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E"
+   "title": "中国球迷遭西班牙球迷种族歧视",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E9%81%AD%E8%A5%BF%E7%8F%AD%E7%89%99%E7%90%83%E8%BF%B7%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86"
   },
   {
    "title": "谁来救救瘦子在夏天的食欲",
    "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E7%98%A6%E5%AD%90%E5%9C%A8%E5%A4%8F%E5%A4%A9%E7%9A%84%E9%A3%9F%E6%AC%B2"
   },
   {
-   "title": "阿根廷队多人面临禁赛",
-   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%9A%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%A6%81%E8%B5%9B"
+   "title": "哪个App偷听最严重",
+   "link": "https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AAApp%E5%81%B7%E5%90%AC%E6%9C%80%E4%B8%A5%E9%87%8D"
   },
   {
-   "title": "外卖员被3烈犬吓尖叫主人说不咬人",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB3%E7%83%88%E7%8A%AC%E5%90%93%E5%B0%96%E5%8F%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E4%B8%8D%E5%92%AC%E4%BA%BA"
+   "title": "陈妍希疯狂安利这一秒过火",
+   "link": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E7%96%AF%E7%8B%82%E5%AE%89%E5%88%A9%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB"
   },
   {
    "title": "蛋糕师笑了半天才决定把蛋糕送走",
    "link": "https://s.weibo.com/weibo?q=%E8%9B%8B%E7%B3%95%E5%B8%88%E7%AC%91%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%89%8D%E5%86%B3%E5%AE%9A%E6%8A%8A%E8%9B%8B%E7%B3%95%E9%80%81%E8%B5%B0"
   },
   {
-   "title": "BLG新上单",
-   "link": "https://s.weibo.com/weibo?q=BLG%E6%96%B0%E4%B8%8A%E5%8D%95"
+   "title": "33岁外卖员脑梗倒地多日才被发现",
+   "link": "https://s.weibo.com/weibo?q=33%E5%B2%81%E5%A4%96%E5%8D%96%E5%91%98%E8%84%91%E6%A2%97%E5%80%92%E5%9C%B0%E5%A4%9A%E6%97%A5%E6%89%8D%E8%A2%AB%E5%8F%91%E7%8E%B0"
+  },
+  {
+   "title": "王源提到了TFBOYS演唱会",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%8F%90%E5%88%B0%E4%BA%86TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A"
   },
   {
    "title": "曝张雅琪已婚",
    "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BC%A0%E9%9B%85%E7%90%AA%E5%B7%B2%E5%A9%9A"
   },
   {
-   "title": "张柏芝月中火速安排大儿子回香港",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%9C%88%E4%B8%AD%E7%81%AB%E9%80%9F%E5%AE%89%E6%8E%92%E5%A4%A7%E5%84%BF%E5%AD%90%E5%9B%9E%E9%A6%99%E6%B8%AF"
+   "title": "Bin暂别赛场",
+   "link": "https://s.weibo.com/weibo?q=Bin%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA"
   }
  ],
  "zhihu": [
-  {
-   "title": "女生高考684分花3000元咨询进双非，原计划上央财、上财，为什么会出现这种情况？高报师能赔偿吗？",
-   "link": "https://www.zhihu.com/question/2062830801440306762"
-  },
-  {
-   "title": "西班牙最后夺冠，会改变各国接下来几年的踢法吗？",
-   "link": "https://www.zhihu.com/question/2062436664497246459"
-  },
   {
    "title": "如何看待旭旭宝宝回应网暴风波，称「一句一地鸡毛被黑切片利用，自己绝不向造谣者妥协」？",
    "link": "https://www.zhihu.com/question/2062763580878071282"
@@ -313,24 +305,32 @@
    "link": "https://www.zhihu.com/question/2058243911978690417"
   },
   {
-   "title": "西安中考满分 640，600 分以上超 10500 人，599 分基本无好学校可选，如何看待？",
-   "link": "https://www.zhihu.com/question/2062545131677528566"
+   "title": "西班牙最后夺冠，会改变各国接下来几年的踢法吗？",
+   "link": "https://www.zhihu.com/question/2062436664497246459"
   },
   {
-   "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-   "link": "https://www.zhihu.com/question/2062579631564093084"
+   "title": "7 月 21 日科创50指数大涨10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+   "link": "https://www.zhihu.com/question/2062838747457131203"
+  },
+  {
+   "title": "如何看待 26 年 7 月DDR5内存价格再次暴涨，出现「一天两变、提货被拒、商家劝退用户」的怪象？",
+   "link": "https://www.zhihu.com/question/2061301718021886552"
   },
   {
    "title": "从《八仙！》上映来说，八仙有八个人，为何多数影视剧中八仙的故事，总是以吕洞宾当第一主角？",
    "link": "https://www.zhihu.com/question/2062307341001926171"
   },
   {
-   "title": "深圳地铁「逢包必检、逢人必查」，将对市民出行带来哪些影响？",
-   "link": "https://www.zhihu.com/question/2062519287487714974"
+   "title": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
+   "link": "https://www.zhihu.com/question/2062659274120098235"
   },
   {
    "title": "马宁首次回应无缘主哨淘汰赛，称到现在都不知道为什么，配置问题不是核心原因，那问题可能出在哪里？",
    "link": "https://www.zhihu.com/question/2062863345573803605"
+  },
+  {
+   "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+   "link": "https://www.zhihu.com/question/2062579631564093084"
   },
   {
    "title": "听说日本自行车拥有量亚洲第一，日本人真的这么喜欢骑自行车吗？",
@@ -341,8 +341,8 @@
    "link": "https://www.zhihu.com/question/2062642099518795923"
   },
   {
-   "title": "男子买彩票中了 692 万只告诉老伴没告诉儿子，称孩子还太小，不能让他因此躺平，如何看待这一做法？",
-   "link": "https://www.zhihu.com/question/2057487320488613098"
+   "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+   "link": "https://www.zhihu.com/question/2061915732447687216"
   }
  ],
  "baidu": [
@@ -355,56 +355,56 @@
    "link": "https://m.baidu.com/s?word=3%E4%BA%BF%E4%B8%8A%E7%8F%AD%E6%97%8F%E8%BF%8E%E5%88%A9%E5%A5%BD&sa=fyb_news"
   },
   {
+   "title": "长鑫科技：网上投资者放弃认购658万股",
+   "link": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E7%BD%91%E4%B8%8A%E6%8A%95%E8%B5%84%E8%80%85%E6%94%BE%E5%BC%83%E8%AE%A4%E8%B4%AD658%E4%B8%87%E8%82%A1&sa=fyb_news"
+  },
+  {
+   "title": "中国科技这3组数字真提气",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94&sa=fyb_news"
+  },
+  {
    "title": "台风“红霞”要来了",
    "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E2%80%9C%E7%BA%A2%E9%9C%9E%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "看懂中国制造的竞争力",
-   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E6%87%82%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8A%9B&sa=fyb_news"
-  },
-  {
-   "title": "五分之一的孩子正在让渡思考",
-   "link": "https://m.baidu.com/s?word=%E4%BA%94%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E5%AD%A9%E5%AD%90%E6%AD%A3%E5%9C%A8%E8%AE%A9%E6%B8%A1%E6%80%9D%E8%80%83&sa=fyb_news"
-  },
-  {
-   "title": "中方紧急召见菲驻华大使",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E7%B4%A7%E6%80%A5%E5%8F%AC%E8%A7%81%E8%8F%B2%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF&sa=fyb_news"
-  },
-  {
-   "title": "90后清华天才 干崩了美股",
-   "link": "https://m.baidu.com/s?word=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&sa=fyb_news"
-  },
-  {
-   "title": "个人养老金缴费水平将提高",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E7%BC%B4%E8%B4%B9%E6%B0%B4%E5%B9%B3%E5%B0%86%E6%8F%90%E9%AB%98&sa=fyb_news"
-  },
-  {
-   "title": "菲方恶意攻击致使中方人员受伤",
-   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E6%96%B9%E6%81%B6%E6%84%8F%E6%94%BB%E5%87%BB%E8%87%B4%E4%BD%BF%E4%B8%AD%E6%96%B9%E4%BA%BA%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
+   "title": "“我无法拒绝他们读书 您有权离开”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%91%E6%97%A0%E6%B3%95%E6%8B%92%E7%BB%9D%E4%BB%96%E4%BB%AC%E8%AF%BB%E4%B9%A6+%E6%82%A8%E6%9C%89%E6%9D%83%E7%A6%BB%E5%BC%80%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "总开空调和不开空调的人谁更健康",
    "link": "https://m.baidu.com/s?word=%E6%80%BB%E5%BC%80%E7%A9%BA%E8%B0%83%E5%92%8C%E4%B8%8D%E5%BC%80%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BA%BA%E8%B0%81%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
   },
   {
+   "title": "云南普洱5.0级地震",
+   "link": "https://m.baidu.com/s?word=%E4%BA%91%E5%8D%97%E6%99%AE%E6%B4%B15.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+  },
+  {
+   "title": "儿子681分选中本贯通 母亲含泪嘱咐",
+   "link": "https://m.baidu.com/s?word=%E5%84%BF%E5%AD%90681%E5%88%86%E9%80%89%E4%B8%AD%E6%9C%AC%E8%B4%AF%E9%80%9A+%E6%AF%8D%E4%BA%B2%E5%90%AB%E6%B3%AA%E5%98%B1%E5%92%90&sa=fyb_news"
+  },
+  {
    "title": "阿根廷队多人面临禁赛",
    "link": "https://m.baidu.com/s?word=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%9A%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%A6%81%E8%B5%9B&sa=fyb_news"
+  },
+  {
+   "title": "伴娘婚礼后遇车祸 新郎方索要垫付款",
+   "link": "https://m.baidu.com/s?word=%E4%BC%B4%E5%A8%98%E5%A9%9A%E7%A4%BC%E5%90%8E%E9%81%87%E8%BD%A6%E7%A5%B8+%E6%96%B0%E9%83%8E%E6%96%B9%E7%B4%A2%E8%A6%81%E5%9E%AB%E4%BB%98%E6%AC%BE&sa=fyb_news"
   },
   {
    "title": "“养老服务师考试10月开考”不实",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%9510%E6%9C%88%E5%BC%80%E8%80%83%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "曝张柏芝安排大儿子提前返港陪谢贤",
-   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%AE%89%E6%8E%92%E5%A4%A7%E5%84%BF%E5%AD%90%E6%8F%90%E5%89%8D%E8%BF%94%E6%B8%AF%E9%99%AA%E8%B0%A2%E8%B4%A4&sa=fyb_news"
+   "title": "90后清华天才 干崩了美股",
+   "link": "https://m.baidu.com/s?word=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&sa=fyb_news"
   },
   {
-   "title": "月嫂看护时睡着致26天婴儿摔落",
-   "link": "https://m.baidu.com/s?word=%E6%9C%88%E5%AB%82%E7%9C%8B%E6%8A%A4%E6%97%B6%E7%9D%A1%E7%9D%80%E8%87%B426%E5%A4%A9%E5%A9%B4%E5%84%BF%E6%91%94%E8%90%BD&sa=fyb_news"
+   "title": "菲方恶意攻击致使中方人员受伤",
+   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E6%96%B9%E6%81%B6%E6%84%8F%E6%94%BB%E5%87%BB%E8%87%B4%E4%BD%BF%E4%B8%AD%E6%96%B9%E4%BA%BA%E5%91%98%E5%8F%97%E4%BC%A4&sa=fyb_news"
   },
   {
-   "title": "伊媒称美国海军第五舰队司令部爆炸",
-   "link": "https://m.baidu.com/s?word=%E4%BC%8A%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8%E7%88%86%E7%82%B8&sa=fyb_news"
+   "title": "证监会：将主动回应市场关切",
+   "link": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%EF%BC%9A%E5%B0%86%E4%B8%BB%E5%8A%A8%E5%9B%9E%E5%BA%94%E5%B8%82%E5%9C%BA%E5%85%B3%E5%88%87&sa=fyb_news"
   }
  ],
  "ai": [
