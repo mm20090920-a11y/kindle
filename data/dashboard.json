@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "updatedAt": "2026-07-23 15:35",
+ "updatedAt": "2026-07-23 17:05",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4045.23",
+  "value": "4052.32",
   "unit": "美元/盎司",
-  "change": "-84.56",
-  "pct": "-2.05%",
+  "change": "-77.47",
+  "pct": "-1.88%",
   "up": false
  },
  "forex": [
@@ -206,43 +206,43 @@
   }
  ],
  "btc": {
-  "usd": "64,875",
-  "cny": "439,421",
-  "pct": "-1.66%",
+  "usd": "64,743",
+  "cny": "438,501",
+  "pct": "-2.22%",
   "up": false,
   "trend": [
-   65972.07,
-   66019.46,
-   66193.17,
-   66123.44,
-   65728.63,
-   65800.86,
-   65846.38,
-   65880.8,
-   65919.79,
-   65968.14,
-   65998.97,
-   65992.12,
-   66226.29,
-   65886.92,
-   65774.63,
-   65759.01,
-   65641.35,
-   65605.64,
-   65562.84,
-   65676.4,
-   65684.68,
-   65412.63,
-   65425.28,
-   65613.95,
-   65669.52,
-   65670.24,
-   65663.44,
-   65537.59,
-   65248.75,
-   64980.52,
-   64895.78,
-   64903.05
+   66175.52,
+   66028.75,
+   65718.4,
+   65846.46,
+   65797.37,
+   65887.06,
+   66026.16,
+   65969.12,
+   66029.0,
+   66021.59,
+   66168.94,
+   65901.6,
+   65780.45,
+   65762.17,
+   65667.91,
+   65660.34,
+   65588.62,
+   65628.24,
+   65708.51,
+   65400.44,
+   65466.42,
+   65584.51,
+   65675.39,
+   65671.0,
+   65631.82,
+   65552.7,
+   65127.37,
+   65027.07,
+   64837.45,
+   64821.46,
+   64908.62,
+   64783.42
   ]
  },
  "weibo": [
@@ -251,48 +251,48 @@
    "link": "https://s.weibo.com/weibo?q=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96"
   },
   {
-   "title": "王虹",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9"
+   "title": "左眼跳财右眼跳相信科学",
+   "link": "https://s.weibo.com/weibo?q=%E5%B7%A6%E7%9C%BC%E8%B7%B3%E8%B4%A2%E5%8F%B3%E7%9C%BC%E8%B7%B3%E7%9B%B8%E4%BF%A1%E7%A7%91%E5%AD%A6"
   },
   {
-   "title": "这份山洪避险口诀请收好",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BB%BD%E5%B1%B1%E6%B4%AA%E9%81%BF%E9%99%A9%E5%8F%A3%E8%AF%80%E8%AF%B7%E6%94%B6%E5%A5%BD"
-  },
-  {
-   "title": "北京大学祝贺邓煜王虹",
-   "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%A5%9D%E8%B4%BA%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9"
-  },
-  {
-   "title": "重庆山体崩塌11死50失联",
-   "link": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C11%E6%AD%BB50%E5%A4%B1%E8%81%94"
-  },
-  {
-   "title": "中国籍数学家首获菲尔兹奖",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E6%95%B0%E5%AD%A6%E5%AE%B6%E9%A6%96%E8%8E%B7%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96"
-  },
-  {
-   "title": "十个勤天",
-   "link": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9"
+   "title": "中国汽车加速全球化布局",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%85%A8%E7%90%83%E5%8C%96%E5%B8%83%E5%B1%80"
   },
   {
    "title": "邓煜 知乎",
    "link": "https://s.weibo.com/weibo?q=%E9%82%93%E7%85%9C%20%E7%9F%A5%E4%B9%8E"
   },
   {
-   "title": "鹿晗把共享充电宝价格打下来了",
-   "link": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%8A%8A%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86"
+   "title": "十个勤天",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9"
   },
   {
-   "title": "不要随意把照片和视频发给AI",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI"
+   "title": "丘成桐希望王虹邓煜回国任教",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%B8%8C%E6%9C%9B%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E5%9B%9E%E5%9B%BD%E4%BB%BB%E6%95%99"
+  },
+  {
+   "title": "重庆山体崩塌11死50失联",
+   "link": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C11%E6%AD%BB50%E5%A4%B1%E8%81%94"
+  },
+  {
+   "title": "王虹",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9"
+  },
+  {
+   "title": "美股",
+   "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1"
+  },
+  {
+   "title": "邓煜 不请我吃星期四的",
+   "link": "https://s.weibo.com/weibo?q=%E9%82%93%E7%85%9C%20%E4%B8%8D%E8%AF%B7%E6%88%91%E5%90%83%E6%98%9F%E6%9C%9F%E5%9B%9B%E7%9A%84"
   },
   {
    "title": "张凌赫王楚然床戏",
    "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%BA%8A%E6%88%8F"
   },
   {
-   "title": "车圈学霸东风奕派M8上市",
-   "link": "https://s.weibo.com/weibo?q=%E8%BD%A6%E5%9C%88%E5%AD%A6%E9%9C%B8%E4%B8%9C%E9%A3%8E%E5%A5%95%E6%B4%BEM8%E4%B8%8A%E5%B8%82"
+   "title": "滔搏卖爆了",
+   "link": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E5%8D%96%E7%88%86%E4%BA%86"
   }
  ],
  "zhihu": [
@@ -317,10 +317,6 @@
    "link": "https://www.zhihu.com/question/2046994974290491172"
   },
   {
-   "title": "你觉得你离菲尔兹奖最近的一刻是什么时候？",
-   "link": "https://www.zhihu.com/question/36093280"
-  },
-  {
    "title": "动画电影《八仙！》票房能超越《功夫女足》吗？",
    "link": "https://www.zhihu.com/question/2062105664369979647"
   },
@@ -329,16 +325,20 @@
    "link": "https://www.zhihu.com/question/2063656328619352666"
   },
   {
-   "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-   "link": "https://www.zhihu.com/question/2063569251428819442"
+   "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
+   "link": "https://www.zhihu.com/question/2063259853338972886"
   },
   {
    "title": "为什么古代打仗不大量使用毒箭来快速消灭敌人？",
    "link": "https://www.zhihu.com/question/2063203201608897319"
   },
   {
-   "title": "腾讯被曝三队同步赛马，落败项目直接清零无复盘，员工担责，公司几乎零成本试错，如何评价大厂这种赛马机制？",
-   "link": "https://www.zhihu.com/question/2063648831908966811"
+   "title": "你觉得你离菲尔兹奖最近的一刻是什么时候？",
+   "link": "https://www.zhihu.com/question/36093280"
+  },
+  {
+   "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+   "link": "https://www.zhihu.com/question/2063569251428819442"
   },
   {
    "title": "上海血液中心献血送《战锤40K》正版模型，大奖价值 3299 元。如何评价这次活动？",
@@ -363,48 +363,48 @@
    "link": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%87%BA%E8%A1%8C%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "“你只是上个大学 不是家里发财”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%A0%E5%8F%AA%E6%98%AF%E4%B8%8A%E4%B8%AA%E5%A4%A7%E5%AD%A6+%E4%B8%8D%E6%98%AF%E5%AE%B6%E9%87%8C%E5%8F%91%E8%B4%A2%E2%80%9D&sa=fyb_news"
+   "title": "“一万四千多斤瓜一天卖完”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E4%B8%87%E5%9B%9B%E5%8D%83%E5%A4%9A%E6%96%A4%E7%93%9C%E4%B8%80%E5%A4%A9%E5%8D%96%E5%AE%8C%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "丘成桐：希望王虹邓煜回国任教",
    "link": "https://m.baidu.com/s?word=%E4%B8%98%E6%88%90%E6%A1%90%EF%BC%9A%E5%B8%8C%E6%9C%9B%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E5%9B%9E%E5%9B%BD%E4%BB%BB%E6%95%99&sa=fyb_news"
   },
   {
-   "title": "重庆山体崩塌致11人死50人失联",
-   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%87%B411%E4%BA%BA%E6%AD%BB50%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+   "title": "“你只是上个大学 不是家里发财”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%A0%E5%8F%AA%E6%98%AF%E4%B8%8A%E4%B8%AA%E5%A4%A7%E5%AD%A6+%E4%B8%8D%E6%98%AF%E5%AE%B6%E9%87%8C%E5%8F%91%E8%B4%A2%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "上海一店只卖苹果 有一款单颗399元",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%BA%97%E5%8F%AA%E5%8D%96%E8%8B%B9%E6%9E%9C+%E6%9C%89%E4%B8%80%E6%AC%BE%E5%8D%95%E9%A2%97399%E5%85%83&sa=fyb_news"
-  },
-  {
-   "title": "王虹大二才转数学系 一度垫底",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E5%A4%A7%E4%BA%8C%E6%89%8D%E8%BD%AC%E6%95%B0%E5%AD%A6%E7%B3%BB+%E4%B8%80%E5%BA%A6%E5%9E%AB%E5%BA%95&sa=fyb_news"
-  },
-  {
-   "title": "多地发钱奖励结婚",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%8F%91%E9%92%B1%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A&sa=fyb_news"
-  },
-  {
-   "title": "邓煜网上答疑曾被当场抬杠",
-   "link": "https://m.baidu.com/s?word=%E9%82%93%E7%85%9C%E7%BD%91%E4%B8%8A%E7%AD%94%E7%96%91%E6%9B%BE%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8A%AC%E6%9D%A0&sa=fyb_news"
-  },
-  {
-   "title": "“洪水泡过的家电擦干就能用”不实",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E5%AE%B6%E7%94%B5%E6%93%A6%E5%B9%B2%E5%B0%B1%E8%83%BD%E7%94%A8%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
-  },
-  {
-   "title": "龙凤胎弟弟弄醒姐姐秒装睡",
-   "link": "https://m.baidu.com/s?word=%E9%BE%99%E5%87%A4%E8%83%8E%E5%BC%9F%E5%BC%9F%E5%BC%84%E9%86%92%E5%A7%90%E5%A7%90%E7%A7%92%E8%A3%85%E7%9D%A1&sa=fyb_news"
+   "title": "菲尔兹奖美国得主中文流利能说脱口秀",
+   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E7%BE%8E%E5%9B%BD%E5%BE%97%E4%B8%BB%E4%B8%AD%E6%96%87%E6%B5%81%E5%88%A9%E8%83%BD%E8%AF%B4%E8%84%B1%E5%8F%A3%E7%A7%80&sa=fyb_news"
   },
   {
    "title": "工龄有多值钱",
    "link": "https://m.baidu.com/s?word=%E5%B7%A5%E9%BE%84%E6%9C%89%E5%A4%9A%E5%80%BC%E9%92%B1&sa=fyb_news"
   },
   {
-   "title": "中国男足身陷 “死亡之组”",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E8%BA%AB%E9%99%B7+%E2%80%9C%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E2%80%9D&sa=fyb_news"
+   "title": "多地发钱奖励结婚",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%8F%91%E9%92%B1%E5%A5%96%E5%8A%B1%E7%BB%93%E5%A9%9A&sa=fyb_news"
+  },
+  {
+   "title": "重庆山体崩塌致11人死50人失联",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E8%87%B411%E4%BA%BA%E6%AD%BB50%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+  },
+  {
+   "title": "“洪水泡过的家电擦干就能用”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E5%AE%B6%E7%94%B5%E6%93%A6%E5%B9%B2%E5%B0%B1%E8%83%BD%E7%94%A8%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+  },
+  {
+   "title": "女子尖叫狂敲门 警察追问：吃菌子没",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B0%96%E5%8F%AB%E7%8B%82%E6%95%B2%E9%97%A8+%E8%AD%A6%E5%AF%9F%E8%BF%BD%E9%97%AE%EF%BC%9A%E5%90%83%E8%8F%8C%E5%AD%90%E6%B2%A1&sa=fyb_news"
+  },
+  {
+   "title": "稻城亚丁一男游客倒地抢救无效去世",
+   "link": "https://m.baidu.com/s?word=%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E4%B8%80%E7%94%B7%E6%B8%B8%E5%AE%A2%E5%80%92%E5%9C%B0%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96&sa=fyb_news"
+  },
+  {
+   "title": "上海一店只卖苹果 有一款单颗399元",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%BA%97%E5%8F%AA%E5%8D%96%E8%8B%B9%E6%9E%9C+%E6%9C%89%E4%B8%80%E6%AC%BE%E5%8D%95%E9%A2%97399%E5%85%83&sa=fyb_news"
   }
  ],
  "ai": [
