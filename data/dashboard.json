@@ -1,6 +1,6 @@
 {
  "date": "2026-07-23",
- "updatedAt": "2026-07-23 09:31",
+ "updatedAt": "2026-07-23 11:27",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,80 +169,80 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4089.53",
+  "value": "4083.99",
   "unit": "美元/盎司",
-  "change": "-40.26",
-  "pct": "-0.97%",
+  "change": "-45.80",
+  "pct": "-1.11%",
   "up": false
  },
  "forex": [
   {
    "name": "美元",
    "value": "6.782",
-   "change": "+0.0045",
-   "pct": "+0.07%",
-   "up": true
+   "change": "-0.0005",
+   "pct": "-0.01%",
+   "up": false
   },
   {
    "name": "欧元",
    "value": "7.733",
-   "change": "+0.0050",
-   "pct": "+0.06%",
-   "up": true
+   "change": "-0.0000",
+   "pct": "-0.00%",
+   "up": false
   },
   {
    "name": "港币",
    "value": "0.865",
-   "change": "+0.0009",
-   "pct": "+0.11%",
-   "up": true
+   "change": "-0.0001",
+   "pct": "-0.01%",
+   "up": false
   },
   {
    "name": "100日元",
    "value": "4.157",
-   "change": "-0.0011",
-   "pct": "-0.03%",
+   "change": "-0.0001",
+   "pct": "-0.00%",
    "up": false
   }
  ],
  "btc": {
-  "usd": "65,695",
-  "cny": "444,819",
-  "pct": "-0.43%",
+  "usd": "65,608",
+  "cny": "444,244",
+  "pct": "-0.63%",
   "up": false,
   "trend": [
-   65860.98,
-   65897.63,
-   65989.55,
-   65992.05,
-   65784.13,
-   65563.28,
-   65966.24,
-   65669.26,
-   65972.07,
-   66019.46,
-   66193.17,
-   66123.44,
-   65728.63,
-   65800.86,
-   65846.38,
-   65880.8,
-   65919.79,
-   65968.14,
-   65998.97,
-   65992.12,
-   66226.29,
-   65886.92,
-   65774.63,
-   65759.01,
-   65641.35,
-   65605.64,
-   65562.84,
-   65676.4,
-   65684.68,
-   65412.63,
-   65425.28,
-   65613.95
+   66005.47,
+   65852.43,
+   65589.34,
+   65842.6,
+   65590.31,
+   65908.09,
+   66006.99,
+   66259.8,
+   65964.04,
+   65956.25,
+   65865.88,
+   65835.81,
+   65899.4,
+   65899.57,
+   66030.11,
+   65928.31,
+   65948.36,
+   66155.73,
+   66029.68,
+   65763.86,
+   65706.4,
+   65603.4,
+   65626.22,
+   65593.46,
+   65692.12,
+   65632.55,
+   65744.92,
+   65368.79,
+   65539.84,
+   65642.71,
+   65610.54,
+   65742.99
   ]
  },
  "weibo": [
@@ -251,48 +251,48 @@
    "link": "https://s.weibo.com/weibo?q=%E5%8E%A6%E5%A4%A7%E5%9B%9E%E5%BA%94644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%88%86%E6%A0%A1"
   },
   {
-   "title": "滔搏暴力打折甩卖耐克库存",
-   "link": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98"
+   "title": "滔搏卖爆了",
+   "link": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E5%8D%96%E7%88%86%E4%BA%86"
   },
   {
-   "title": "共赴亚太数字之约",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%B1%E8%B5%B4%E4%BA%9A%E5%A4%AA%E6%95%B0%E5%AD%97%E4%B9%8B%E7%BA%A6"
-  },
-  {
-   "title": "其实不想上班根本不需要辞职",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E8%BE%9E%E8%81%8C"
+   "title": "以旧换新带动消费提质升级",
+   "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%B8%A6%E5%8A%A8%E6%B6%88%E8%B4%B9%E6%8F%90%E8%B4%A8%E5%8D%87%E7%BA%A7"
   },
   {
    "title": "男子对女同事开黄腔被打遭开除称不公",
    "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC"
   },
   {
-   "title": "荣耀更换logo",
-   "link": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo"
+   "title": "别让贫困生喝咖啡争议撕裂舆论",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%AB%E8%AE%A9%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E4%BA%89%E8%AE%AE%E6%92%95%E8%A3%82%E8%88%86%E8%AE%BA"
   },
   {
-   "title": "滔搏卖爆了",
-   "link": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E5%8D%96%E7%88%86%E4%BA%86"
+   "title": "除了死工资外还能做什么副业",
+   "link": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E6%AD%BB%E5%B7%A5%E8%B5%84%E5%A4%96%E8%BF%98%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88%E5%89%AF%E4%B8%9A"
   },
   {
-   "title": "王楚钦回应1比2徐海东",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C"
+   "title": "厦大回应644分考生误填马来分校",
+   "link": "https://s.weibo.com/weibo?q=%E5%8E%A6%E5%A4%A7%E5%9B%9E%E5%BA%94644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E5%A1%AB%E9%A9%AC%E6%9D%A5%E5%88%86%E6%A0%A1"
   },
   {
-   "title": "王楚然让张凌赫身上痒就去洗澡",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AE%A9%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BA%AB%E4%B8%8A%E7%97%92%E5%B0%B1%E5%8E%BB%E6%B4%97%E6%BE%A1"
+   "title": "健身邪修",
+   "link": "https://s.weibo.com/weibo?q=%E5%81%A5%E8%BA%AB%E9%82%AA%E4%BF%AE"
   },
   {
-   "title": "广州文旅编辑王俊凯演唱会",
-   "link": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E6%96%87%E6%97%85%E7%BC%96%E8%BE%91%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A"
+   "title": "我前额叶受损的原因找到了",
+   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%89%8D%E9%A2%9D%E5%8F%B6%E5%8F%97%E6%8D%9F%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86"
   },
   {
-   "title": "大爷摸知了猴3小时赚近400元",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%88%B7%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B43%E5%B0%8F%E6%97%B6%E8%B5%9A%E8%BF%91400%E5%85%83"
+   "title": "电影八仙",
+   "link": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99"
   },
   {
    "title": "谁敢认这是娜扎",
    "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%A2%E8%AE%A4%E8%BF%99%E6%98%AF%E5%A8%9C%E6%89%8E"
+  },
+  {
+   "title": "男子捡到旧彩票守号中5400万",
+   "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A1%E5%88%B0%E6%97%A7%E5%BD%A9%E7%A5%A8%E5%AE%88%E5%8F%B7%E4%B8%AD5400%E4%B8%87"
   }
  ],
  "zhihu": [
@@ -321,24 +321,24 @@
    "link": "https://www.zhihu.com/question/2062888665026765743"
   },
   {
+   "title": "耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗？",
+   "link": "https://www.zhihu.com/question/2063298622393771043"
+  },
+  {
    "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
    "link": "https://www.zhihu.com/question/2062640157015249755"
   },
   {
-   "title": "为什么英国参加世界杯不叫英国队，而叫英格兰？",
-   "link": "https://www.zhihu.com/question/2050507183931012504"
-  },
-  {
-   "title": "为什么现在，大部分人都在网上买东西，实体店静静悄悄？",
-   "link": "https://www.zhihu.com/question/2062787306789003681"
+   "title": "从《八仙！》热映来说，说起中国传统神话，八仙一起上，他们能不能和孙悟空拼一下？",
+   "link": "https://www.zhihu.com/question/2062852232157061748"
   },
   {
    "title": "你觉得你离菲尔兹奖最近的一刻是什么时候？",
    "link": "https://www.zhihu.com/question/36093280"
   },
   {
-   "title": "快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤？",
-   "link": "https://www.zhihu.com/question/2062506148696216910"
+   "title": "上海血液中心献血送《战锤40K》正版模型，大奖价值 3299 元。如何评价这次活动？",
+   "link": "https://www.zhihu.com/question/2063322092804773518"
   },
   {
    "title": "大厂HR直接进入高校实验室劝说博士生放弃学位，并开出百万年薪，如何看待这种抢人模式？放弃学位是否值得？",
@@ -363,48 +363,48 @@
    "link": "https://m.baidu.com/s?word=%E5%A4%A7%E6%9A%91%E6%97%B6%E8%8A%82+%E8%BF%99%E4%BB%BD%E4%B8%AD%E6%9A%91%E9%98%B2%E6%B2%BB%E6%8C%87%E5%8D%97%E8%AF%B7%E6%9F%A5%E6%94%B6&sa=fyb_news"
   },
   {
-   "title": "电影暑期档已经不存在了",
-   "link": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86&sa=fyb_news"
+   "title": "GDP十强省份又变了",
+   "link": "https://m.baidu.com/s?word=GDP%E5%8D%81%E5%BC%BA%E7%9C%81%E4%BB%BD%E5%8F%88%E5%8F%98%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "演员寇占文被法院悬赏",
-   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E5%AF%87%E5%8D%A0%E6%96%87%E8%A2%AB%E6%B3%95%E9%99%A2%E6%82%AC%E8%B5%8F&sa=fyb_news"
+   "title": "危险的非洲大蜗牛正在全国扩张",
+   "link": "https://m.baidu.com/s?word=%E5%8D%B1%E9%99%A9%E7%9A%84%E9%9D%9E%E6%B4%B2%E5%A4%A7%E8%9C%97%E7%89%9B%E6%AD%A3%E5%9C%A8%E5%85%A8%E5%9B%BD%E6%89%A9%E5%BC%A0&sa=fyb_news"
   },
   {
    "title": "净网：网警发20起涉汛涉灾谣言案例",
    "link": "https://m.baidu.com/s?word=%E5%87%80%E7%BD%91%EF%BC%9A%E7%BD%91%E8%AD%A6%E5%8F%9120%E8%B5%B7%E6%B6%89%E6%B1%9B%E6%B6%89%E7%81%BE%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B&sa=fyb_news"
   },
   {
-   "title": "中纪委连打三“虎”",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "菲公务船侵闯黄岩岛海域 中方驱离",
-   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E5%85%AC%E5%8A%A1%E8%88%B9%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%B7%E5%9F%9F+%E4%B8%AD%E6%96%B9%E9%A9%B1%E7%A6%BB&sa=fyb_news"
-  },
-  {
    "title": "男子彩票中奖5400万 号码竟是捡到的",
    "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%965400%E4%B8%87+%E5%8F%B7%E7%A0%81%E7%AB%9F%E6%98%AF%E6%8D%A1%E5%88%B0%E7%9A%84&sa=fyb_news"
-  },
-  {
-   "title": "中国数学家冲击菲尔兹奖 研究了啥",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%86%B2%E5%87%BB%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96+%E7%A0%94%E7%A9%B6%E4%BA%86%E5%95%A5&sa=fyb_news"
   },
   {
    "title": "女子搬运150斤黄鸡蛋瞬间全碎",
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%90%AC%E8%BF%90150%E6%96%A4%E9%BB%84%E9%B8%A1%E8%9B%8B%E7%9E%AC%E9%97%B4%E5%85%A8%E7%A2%8E&sa=fyb_news"
   },
   {
-   "title": "中方回应王毅缺席东盟与中日韩外长会",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%AF%85%E7%BC%BA%E5%B8%AD%E4%B8%9C%E7%9B%9F%E4%B8%8E%E4%B8%AD%E6%97%A5%E9%9F%A9%E5%A4%96%E9%95%BF%E4%BC%9A&sa=fyb_news"
+   "title": "王楚钦回应1比2徐海东",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C&sa=fyb_news"
   },
   {
-   "title": "被孩子喊阿姨 场馆女子：喊姐姐才能进",
-   "link": "https://m.baidu.com/s?word=%E8%A2%AB%E5%AD%A9%E5%AD%90%E5%96%8A%E9%98%BF%E5%A7%A8+%E5%9C%BA%E9%A6%86%E5%A5%B3%E5%AD%90%EF%BC%9A%E5%96%8A%E5%A7%90%E5%A7%90%E6%89%8D%E8%83%BD%E8%BF%9B&sa=fyb_news"
+   "title": "中国数学家冲击菲尔兹奖 研究了啥",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%86%B2%E5%87%BB%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96+%E7%A0%94%E7%A9%B6%E4%BA%86%E5%95%A5&sa=fyb_news"
   },
   {
-   "title": "荣耀更换logo",
-   "link": "https://m.baidu.com/s?word=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo&sa=fyb_news"
+   "title": "韩国赠还中国一对清代石狮",
+   "link": "https://m.baidu.com/s?word=%E9%9F%A9%E5%9B%BD%E8%B5%A0%E8%BF%98%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%AF%B9%E6%B8%85%E4%BB%A3%E7%9F%B3%E7%8B%AE&sa=fyb_news"
+  },
+  {
+   "title": "郑州8岁男孩装千度近视一年",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E5%B7%9E8%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A3%85%E5%8D%83%E5%BA%A6%E8%BF%91%E8%A7%86%E4%B8%80%E5%B9%B4&sa=fyb_news"
+  },
+  {
+   "title": "中纪委一日连打三“虎”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E6%97%A5%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "国美录取通知书附带30张速写作业",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E7%BE%8E%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E9%99%84%E5%B8%A630%E5%BC%A0%E9%80%9F%E5%86%99%E4%BD%9C%E4%B8%9A&sa=fyb_news"
   }
  ],
  "ai": [
