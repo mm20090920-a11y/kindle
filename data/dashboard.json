@@ -1,6 +1,6 @@
 {
- "date": "2026-07-24",
- "updatedAt": "2026-07-24 17:58",
+ "date": "2026-07-25",
+ "updatedAt": "2026-07-25 07:35",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,292 +169,292 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4064.89",
+  "value": "4053.29",
   "unit": "美元/盎司",
-  "change": "+15.63",
-  "pct": "+0.39%",
+  "change": "+4.03",
+  "pct": "+0.10%",
   "up": true
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.783",
-   "change": "+0.0000",
-   "pct": "+0.00%",
-   "up": true
+   "value": "6.782",
+   "change": "-0.0011",
+   "pct": "-0.02%",
+   "up": false
   },
   {
    "name": "欧元",
-   "value": "7.721",
-   "change": "+0.0003",
-   "pct": "+0.00%",
-   "up": true
+   "value": "7.711",
+   "change": "-0.0101",
+   "pct": "-0.13%",
+   "up": false
   },
   {
    "name": "港币",
    "value": "0.865",
-   "change": "+0.0001",
-   "pct": "+0.01%",
-   "up": true
+   "change": "-0.0002",
+   "pct": "-0.03%",
+   "up": false
   },
   {
    "name": "100日元",
-   "value": "4.144",
-   "change": "-0.0004",
-   "pct": "-0.01%",
+   "value": "4.139",
+   "change": "-0.0053",
+   "pct": "-0.13%",
    "up": false
   }
  ],
  "btc": {
-  "usd": "64,118",
-  "cny": "434,133",
-  "pct": "-0.81%",
+  "usd": "63,964",
+  "cny": "433,178",
+  "pct": "-2.36%",
   "up": false,
   "trend": [
-   64623.6,
-   64765.88,
-   64847.81,
-   65004.21,
-   65101.49,
-   65047.72,
-   65108.85,
-   65135.63,
-   65052.48,
-   64811.91,
-   65054.33,
-   65119.24,
-   65064.35,
-   65351.19,
-   65369.74,
-   65308.9,
-   65264.24,
-   65416.38,
-   65597.35,
-   65402.79,
-   65269.54,
-   65041.75,
-   64972.32,
-   64961.16,
-   65032.79,
-   64884.55,
-   64330.62,
-   63956.06,
-   63969.2,
-   64130.55,
-   64044.52,
-   63903.24
+   65450.14,
+   65317.66,
+   65091.52,
+   65078.71,
+   64981.87,
+   65002.43,
+   65022.66,
+   64792.33,
+   64239.87,
+   63738.81,
+   63874.87,
+   64040.78,
+   63941.19,
+   64001.61,
+   64117.01,
+   64220.0,
+   64200.93,
+   64194.22,
+   64121.1,
+   64092.37,
+   64136.41,
+   64113.87,
+   64090.0,
+   64037.62,
+   64053.97,
+   63992.13,
+   63987.09,
+   64017.9,
+   64068.9,
+   64099.11,
+   63995.87,
+   63934.31
   ]
  },
  "weibo": [
   {
-   "title": "詹姆斯加盟76人",
-   "link": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA"
+   "title": "王楚钦爆冷不敌张煜东",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C"
   },
   {
-   "title": "詹姆斯发长文",
-   "link": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%91%E9%95%BF%E6%96%87"
+   "title": "携程被罚51.79亿",
+   "link": "https://s.weibo.com/weibo?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A51.79%E4%BA%BF"
   },
   {
-   "title": "我国社会稳定形势持续向好",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A%E5%BD%A2%E5%8A%BF%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD"
+   "title": "景德镇手工瓷业遗存列入世界遗产",
+   "link": "https://s.weibo.com/weibo?q=%E6%99%AF%E5%BE%B7%E9%95%87%E6%89%8B%E5%B7%A5%E7%93%B7%E4%B8%9A%E9%81%97%E5%AD%98%E5%88%97%E5%85%A5%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7"
   },
   {
-   "title": "歌手排名",
-   "link": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D"
+   "title": "孔雪儿一个人努力好心酸",
+   "link": "https://s.weibo.com/weibo?q=%E5%AD%94%E9%9B%AA%E5%84%BF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8A%AA%E5%8A%9B%E5%A5%BD%E5%BF%83%E9%85%B8"
   },
   {
-   "title": "微信撤回消息后可删除提示字",
-   "link": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E6%B6%88%E6%81%AF%E5%90%8E%E5%8F%AF%E5%88%A0%E9%99%A4%E6%8F%90%E7%A4%BA%E5%AD%97"
+   "title": "泡面 换水",
+   "link": "https://s.weibo.com/weibo?q=%E6%B3%A1%E9%9D%A2%20%E6%8D%A2%E6%B0%B4"
   },
   {
-   "title": "赵小童是天使",
-   "link": "https://s.weibo.com/weibo?q=%E8%B5%B5%E5%B0%8F%E7%AB%A5%E6%98%AF%E5%A4%A9%E4%BD%BF"
+   "title": "山西运城一路面塌陷处现大量白骨",
+   "link": "https://s.weibo.com/weibo?q=%E5%B1%B1%E8%A5%BF%E8%BF%90%E5%9F%8E%E4%B8%80%E8%B7%AF%E9%9D%A2%E5%A1%8C%E9%99%B7%E5%A4%84%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%99%BD%E9%AA%A8"
   },
   {
-   "title": "詹姆斯底薪",
-   "link": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%BA%95%E8%96%AA"
+   "title": "学英语就是为了看懂这种笑话",
+   "link": "https://s.weibo.com/weibo?q=%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E7%9C%8B%E6%87%82%E8%BF%99%E7%A7%8D%E7%AC%91%E8%AF%9D"
   },
   {
-   "title": "76人阵容",
-   "link": "https://s.weibo.com/weibo?q=76%E4%BA%BA%E9%98%B5%E5%AE%B9"
+   "title": "邹市明带了消磁身份证去离婚",
+   "link": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%B8%A6%E4%BA%86%E6%B6%88%E7%A3%81%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8E%BB%E7%A6%BB%E5%A9%9A"
   },
   {
-   "title": "年会不能停2口碑",
-   "link": "https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%E5%8F%A3%E7%A2%91"
+   "title": "台风红霞",
+   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E"
   },
   {
-   "title": "林依轮复刻白鹿周生如故红衣造型",
-   "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E8%BD%AE%E5%A4%8D%E5%88%BB%E7%99%BD%E9%B9%BF%E5%91%A8%E7%94%9F%E5%A6%82%E6%95%85%E7%BA%A2%E8%A1%A3%E9%80%A0%E5%9E%8B"
+   "title": "除了玩手机还有这么多低成本爱好",
+   "link": "https://s.weibo.com/weibo?q=%E9%99%A4%E4%BA%86%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD"
   },
   {
-   "title": "全宇宙最阴的物件",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%AE%87%E5%AE%99%E6%9C%80%E9%98%B4%E7%9A%84%E7%89%A9%E4%BB%B6"
+   "title": "黄雅琼怀孕",
+   "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%9B%85%E7%90%BC%E6%80%80%E5%AD%95"
   },
   {
-   "title": "男生中考699分偷偷改志愿读中职",
-   "link": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C"
+   "title": "郭碧婷称你们最好永远误解",
+   "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%A7%B0%E4%BD%A0%E4%BB%AC%E6%9C%80%E5%A5%BD%E6%B0%B8%E8%BF%9C%E8%AF%AF%E8%A7%A3"
   }
  ],
  "zhihu": [
   {
-   "title": "从数学研究角度，为什么王虹可以在本科小透明后取得巨大突破？",
-   "link": "https://www.zhihu.com/question/2063910329785045183"
+   "title": "携程滥用市场支配地位实施垄断行为，被罚没 51.79 亿元，起到哪些警示作用？对相关行业有何影响？",
+   "link": "https://www.zhihu.com/question/2064289475916560021"
   },
   {
-   "title": "如果一男子撬锁进入别人房子内，结果刚进屋就被泼热油导致全身重度烧伤，请问屋主该行为是否属于正当防卫？",
-   "link": "https://www.zhihu.com/question/2057805207183085608"
+   "title": "小鹏X9因趴窝问题召回 33473 辆，有车主称大部分都是3万公里就趴窝，换完再塌，哪个流程出了问题？",
+   "link": "https://www.zhihu.com/question/2064072658795419261"
   },
   {
-   "title": "曝演员片酬再降，片酬从2亿降到最高2500万，透露出影视业哪些问题？对行业生态来说，是好事还是坏事？",
-   "link": "https://www.zhihu.com/question/2063904243388512133"
+   "title": "网友爆料称赛里木湖 G219 国道设了两个卡点，不想进景区也得交钱，这是真的吗？收费合理吗？",
+   "link": "https://www.zhihu.com/question/2064045967620268374"
   },
   {
-   "title": "OPPO 、Vivo  拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
-   "link": "https://www.zhihu.com/question/2063583824378848408"
+   "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+   "link": "https://www.zhihu.com/question/2063822441583993476"
   },
   {
-   "title": "为什么感觉现在小孩越来越笨了？",
-   "link": "https://www.zhihu.com/question/454093481"
+   "title": "五人分1亿元，由你来进行分配，但凡有一个人拒绝，所有人都会失去全部，你会怎么分配？",
+   "link": "https://www.zhihu.com/question/2063192386587644315"
   },
   {
-   "title": "目前除了王虹和邓煜两位数学家，还有哪些华人数学家未来有望争取菲尔兹奖？",
-   "link": "https://www.zhihu.com/question/2062876703299572286"
+   "title": "「四位菲尔兹奖主有三位会说中文」，如何看待菲奖得主约翰·帕登（白杰文）的汉语水平？你对他还有哪些了解？",
+   "link": "https://www.zhihu.com/question/2063947146085097774"
   },
   {
-   "title": "如何看待近期日本面临的股债汇「三杀」的境况？",
-   "link": "https://www.zhihu.com/question/2063933601394025370"
+   "title": "离岸信托个税新规出台，设立、存续、清算全链条征税 适用 20% 税率，将产生哪些影响？",
+   "link": "https://www.zhihu.com/question/2064072667435684910"
+  },
+  {
+   "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个“我”的出现？",
+   "link": "https://www.zhihu.com/question/2038041817728410774"
+  },
+  {
+   "title": "任正非为什么说「τ 定律是华为唯一出路」？",
+   "link": "https://www.zhihu.com/question/2063930109304594992"
   },
   {
    "title": "王虹获奖感言「很幸运在合适时间遇见合适的人，得到正确引导」，你怎么看？",
    "link": "https://www.zhihu.com/question/2063821607458576344"
   },
   {
-   "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入OpenAI？",
-   "link": "https://www.zhihu.com/question/2063832242242184073"
+   "title": "二年前买的二手房，现在房主说她放在地下室的东西被我扔了，我要负责，请问我有责任吗？",
+   "link": "https://www.zhihu.com/question/2061446763119171236"
   },
   {
-   "title": "全国首条穿越长江高铁隧道贯通，这是一个怎样的工程？在长江底下挖高铁隧道，有多难？",
-   "link": "https://www.zhihu.com/question/2063952005505324990"
-  },
-  {
-   "title": "如何看待腾讯 317 万年终奖员工因泄密被辞退，「打入黑名单，永不录用」？大厂保密红线究竟有多严？",
-   "link": "https://www.zhihu.com/question/2063929870984242778"
-  },
-  {
-   "title": "美加墨世界杯后，哈兰德、亚马尔身价达到惊人的 2.2 亿欧元，已突破历史，这是一个什么水平？",
-   "link": "https://www.zhihu.com/question/2063542544877753542"
+   "title": "《民法典》为什么把“配偶”放在“亲属”的第1位？",
+   "link": "https://www.zhihu.com/question/628507781"
   }
  ],
  "baidu": [
   {
-   "title": "一方感恩碑 廿载育人心",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%96%B9%E6%84%9F%E6%81%A9%E7%A2%91+%E5%BB%BF%E8%BD%BD%E8%82%B2%E4%BA%BA%E5%BF%83&sa=fyb_news"
+   "title": "提高基层干部直接服务群众的本领",
+   "link": "https://m.baidu.com/s?word=%E6%8F%90%E9%AB%98%E5%9F%BA%E5%B1%82%E5%B9%B2%E9%83%A8%E7%9B%B4%E6%8E%A5%E6%9C%8D%E5%8A%A1%E7%BE%A4%E4%BC%97%E7%9A%84%E6%9C%AC%E9%A2%86&sa=fyb_news"
   },
   {
-   "title": "广东多地宣布：停止一切线下培训",
-   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%81%9C%E6%AD%A2%E4%B8%80%E5%88%87%E7%BA%BF%E4%B8%8B%E5%9F%B9%E8%AE%AD&sa=fyb_news"
+   "title": "王小洪会见FBI局长帕特尔",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E5%B0%8F%E6%B4%AA%E4%BC%9A%E8%A7%81FBI%E5%B1%80%E9%95%BF%E5%B8%95%E7%89%B9%E5%B0%94&sa=fyb_news"
   },
   {
-   "title": "詹姆斯加盟76人",
-   "link": "https://m.baidu.com/s?word=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&sa=fyb_news"
+   "title": "携程为何挨了最重的罚",
+   "link": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E4%B8%BA%E4%BD%95%E6%8C%A8%E4%BA%86%E6%9C%80%E9%87%8D%E7%9A%84%E7%BD%9A&sa=fyb_news"
   },
   {
-   "title": "解码中国经济半年报",
-   "link": "https://m.baidu.com/s?word=%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8D%8A%E5%B9%B4%E6%8A%A5&sa=fyb_news"
+   "title": "防溺水 这样做",
+   "link": "https://m.baidu.com/s?word=%E9%98%B2%E6%BA%BA%E6%B0%B4+%E8%BF%99%E6%A0%B7%E5%81%9A&sa=fyb_news"
   },
   {
-   "title": "美国被曝考虑对第8国动武",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6&sa=fyb_news"
+   "title": "中国世界遗产+1",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%2B1&sa=fyb_news"
   },
   {
-   "title": "证监会原副主席方星海被查",
-   "link": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+   "title": "奥运冠军黄雅琼怀孕",
+   "link": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E9%BB%84%E9%9B%85%E7%90%BC%E6%80%80%E5%AD%95&sa=fyb_news"
   },
   {
-   "title": "王兴兴登《时代》封面",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E5%85%B4%E5%85%B4%E7%99%BB%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%E5%B0%81%E9%9D%A2&sa=fyb_news"
+   "title": "重庆警方打掉境内外电诈团伙198个",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E8%AD%A6%E6%96%B9%E6%89%93%E6%8E%89%E5%A2%83%E5%86%85%E5%A4%96%E7%94%B5%E8%AF%88%E5%9B%A2%E4%BC%99198%E4%B8%AA&sa=fyb_news"
   },
   {
-   "title": "野猴坐工地狂喝饮料 工人一脸无奈",
-   "link": "https://m.baidu.com/s?word=%E9%87%8E%E7%8C%B4%E5%9D%90%E5%B7%A5%E5%9C%B0%E7%8B%82%E5%96%9D%E9%A5%AE%E6%96%99+%E5%B7%A5%E4%BA%BA%E4%B8%80%E8%84%B8%E6%97%A0%E5%A5%88&sa=fyb_news"
+   "title": "杭州多地巨响 有人称房子都颤了",
+   "link": "https://m.baidu.com/s?word=%E6%9D%AD%E5%B7%9E%E5%A4%9A%E5%9C%B0%E5%B7%A8%E5%93%8D+%E6%9C%89%E4%BA%BA%E7%A7%B0%E6%88%BF%E5%AD%90%E9%83%BD%E9%A2%A4%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "长鑫科技一签能赚多少",
-   "link": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91&sa=fyb_news"
+   "title": "井泉大使：闹什么闹 承担得起后果吗",
+   "link": "https://m.baidu.com/s?word=%E4%BA%95%E6%B3%89%E5%A4%A7%E4%BD%BF%EF%BC%9A%E9%97%B9%E4%BB%80%E4%B9%88%E9%97%B9+%E6%89%BF%E6%8B%85%E5%BE%97%E8%B5%B7%E5%90%8E%E6%9E%9C%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "周星驰叫迪丽热巴“巴爷”",
-   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8F%AB%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E2%80%9C%E5%B7%B4%E7%88%B7%E2%80%9D&sa=fyb_news"
+   "title": "王楚钦爆冷不敌张煜东",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%E5%BC%A0%E7%85%9C%E4%B8%9C&sa=fyb_news"
   },
   {
-   "title": "全球第一个 老挝彻底禁售燃油新车",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA+%E8%80%81%E6%8C%9D%E5%BD%BB%E5%BA%95%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E6%96%B0%E8%BD%A6&sa=fyb_news"
+   "title": "台风红霞最新路径",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E6%9C%80%E6%96%B0%E8%B7%AF%E5%BE%84&sa=fyb_news"
   },
   {
-   "title": "“广西百色遭遇严重洪灾”系谣言",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%B9%BF%E8%A5%BF%E7%99%BE%E8%89%B2%E9%81%AD%E9%81%87%E4%B8%A5%E9%87%8D%E6%B4%AA%E7%81%BE%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "高压线下打电话会引发爆炸系谣言",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E5%8E%8B%E7%BA%BF%E4%B8%8B%E6%89%93%E7%94%B5%E8%AF%9D%E4%BC%9A%E5%BC%95%E5%8F%91%E7%88%86%E7%82%B8%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "男子为还百万欠款每天跑16小时外卖",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E4%B8%BA%E8%BF%98%E7%99%BE%E4%B8%87%E6%AC%A0%E6%AC%BE%E6%AF%8F%E5%A4%A9%E8%B7%9116%E5%B0%8F%E6%97%B6%E5%A4%96%E5%8D%96&sa=fyb_news"
+   "title": "佛得角门将找到新工作了",
+   "link": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%89%BE%E5%88%B0%E6%96%B0%E5%B7%A5%E4%BD%9C%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "女孩卖4克头发换12元买奶茶",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%A9%E5%8D%964%E5%85%8B%E5%A4%B4%E5%8F%91%E6%8D%A212%E5%85%83%E4%B9%B0%E5%A5%B6%E8%8C%B6&sa=fyb_news"
+   "title": "3胞胎学霸分别被清华北理工北邮录取",
+   "link": "https://m.baidu.com/s?word=3%E8%83%9E%E8%83%8E%E5%AD%A6%E9%9C%B8%E5%88%86%E5%88%AB%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%8C%97%E7%90%86%E5%B7%A5%E5%8C%97%E9%82%AE%E5%BD%95%E5%8F%96&sa=fyb_news"
   },
   {
-   "title": "A股史上最大股票回购方案",
-   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88&sa=fyb_news"
+   "title": "男生中考699分偷改志愿读中职",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-   "link": "https://github.com/cactus-compute/cactus-hybrid"
+   "title": "Anthropic 发布 Claude Opus 5",
+   "link": "https://www.anthropic.com/news/claude-opus-5"
   },
   {
-   "title": "ChatGPT 桌面版上线语音控制多智能体",
-   "link": "https://x.com/OpenAI/status/2080378182469857576"
+   "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+   "link": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g"
   },
   {
-   "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-   "link": "https://claude.com/blog/think-through-hard-problems-in-voice-mode"
+   "title": "FLUX 3 x mimic：新一代视频动作模型",
+   "link": "https://bfl.ai/blog/flux-3-mimic"
   },
   {
-   "title": "OpenAI 在 ChatGPT 中推出 Health 功能，支持连接医疗记录与 Apple Health",
-   "link": "https://openai.com/index/health-in-chatgpt"
+   "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+   "link": "https://updates.midjourney.com/version-8-2"
   },
   {
-   "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-   "link": "https://www.ithome.com/0/980/890.htm"
+   "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+   "link": "https://www.ithome.com/0/981/137.htm"
   },
   {
-   "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-   "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+   "title": "Runway Agent 推出自然语言工作流功能",
+   "link": "https://x.com/runwayml/status/2080649234672439389"
   },
   {
-   "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-   "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini"
+   "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+   "link": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug"
   },
   {
-   "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-   "link": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes"
+   "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
+   "link": "https://openrouter.ai/blog/announcements/classifiers"
   },
   {
-   "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-   "link": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA"
+   "title": "Claude Code v2.1.219 发布：新增 Claude Opus 5，支持 1M 上下文与嵌套子智能体",
+   "link": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219"
   },
   {
-   "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存“作弊”行为",
-   "link": "https://www.ithome.com/0/980/471.htm"
+   "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+   "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
   },
   {
-   "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-   "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
+   "title": "微软阐述开源模型助力美国竞争力路径",
+   "link": "https://x.com/satyanadella/status/2080646162483417097"
   },
   {
-   "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-   "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive"
+   "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+   "link": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why"
   }
  ]
 }
