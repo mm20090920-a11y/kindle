@@ -1,6 +1,6 @@
 {
  "date": "2026-07-26",
- "updatedAt": "2026-07-26 09:02",
+ "updatedAt": "2026-07-26 10:23",
  "stocks": [
   {
    "name": "上证指数",
@@ -179,16 +179,16 @@
   {
    "name": "美元",
    "value": "6.786",
-   "change": "+0.0041",
-   "pct": "+0.06%",
+   "change": "+0.0001",
+   "pct": "+0.00%",
    "up": true
   },
   {
    "name": "欧元",
    "value": "7.717",
-   "change": "+0.0058",
-   "pct": "+0.07%",
-   "up": true
+   "change": "-0.0002",
+   "pct": "-0.00%",
+   "up": false
   },
   {
    "name": "港币",
@@ -200,59 +200,59 @@
   {
    "name": "100日元",
    "value": "4.142",
-   "change": "+0.0028",
-   "pct": "+0.07%",
-   "up": true
+   "change": "-0.0002",
+   "pct": "-0.01%",
+   "up": false
   }
  ],
  "btc": {
-  "usd": "64,438",
-  "cny": "436,384",
-  "pct": "+0.90%",
+  "usd": "64,462",
+  "cny": "436,549",
+  "pct": "+0.78%",
   "up": true,
   "trend": [
-   63789.86,
-   63908.43,
-   63938.99,
-   64011.17,
-   64016.63,
-   64043.23,
-   64068.6,
-   64112.75,
-   64137.22,
-   64147.47,
-   64122.99,
-   64168.35,
-   64296.74,
-   64362.16,
-   64356.73,
-   64313.26,
-   64266.64,
-   64348.17,
-   64309.33,
-   64352.45,
-   64326.74,
-   64380.72,
-   64439.47,
-   64416.04,
-   64450.7,
-   64499.71,
-   64488.8,
-   64455.03,
-   64377.62,
-   64342.64,
-   64316.94,
-   64350.98
+   63968.96,
+   63994.74,
+   64012.21,
+   64022.44,
+   64071.33,
+   64110.89,
+   64150.41,
+   64175.43,
+   64087.27,
+   64172.66,
+   64216.39,
+   64339.46,
+   64366.75,
+   64298.59,
+   64290.09,
+   64302.35,
+   64341.16,
+   64361.54,
+   64314.42,
+   64393.63,
+   64429.03,
+   64385.35,
+   64460.38,
+   64527.57,
+   64477.35,
+   64450.2,
+   64394.38,
+   64317.87,
+   64320.9,
+   64325.32,
+   64442.32,
+   64488.75
   ]
  },
  "weibo": [
   {
-   "title": "滞销西瓜被网红压价到一毛多一斤",
-   "link": "https://s.weibo.com/weibo?q=%E6%BB%9E%E9%94%80%E8%A5%BF%E7%93%9C%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%8E%8B%E4%BB%B7%E5%88%B0%E4%B8%80%E6%AF%9B%E5%A4%9A%E4%B8%80%E6%96%A4"
+   "title": "演员王建隆去世",
+   "link": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E7%8E%8B%E5%BB%BA%E9%9A%86%E5%8E%BB%E4%B8%96"
   },
   {
-   "title": "法院回应LV起诉开发商",
-   "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94LV%E8%B5%B7%E8%AF%89%E5%BC%80%E5%8F%91%E5%95%86"
+   "title": "滞销西瓜被网红压价到一毛多一斤",
+   "link": "https://s.weibo.com/weibo?q=%E6%BB%9E%E9%94%80%E8%A5%BF%E7%93%9C%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%8E%8B%E4%BB%B7%E5%88%B0%E4%B8%80%E6%AF%9B%E5%A4%9A%E4%B8%80%E6%96%A4"
   },
   {
    "title": "神23乘组在轨已满60天",
@@ -263,42 +263,46 @@
    "link": "https://s.weibo.com/weibo?q=%E6%99%9A%E9%A5%AD%E5%90%8E%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%97%E7%B3%96%E8%BF%90%E5%8A%A8"
   },
   {
-   "title": "鹿晗 与我无关的事情",
-   "link": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%E7%9A%84%E4%BA%8B%E6%83%85"
+   "title": "基因编辑致死父母曝光为保护别人",
+   "link": "https://s.weibo.com/weibo?q=%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%87%B4%E6%AD%BB%E7%88%B6%E6%AF%8D%E6%9B%9D%E5%85%89%E4%B8%BA%E4%BF%9D%E6%8A%A4%E5%88%AB%E4%BA%BA"
   },
   {
-   "title": "白鹿开到荼蘼 田壮壮造型",
-   "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC%20%E7%94%B0%E5%A3%AE%E5%A3%AE%E9%80%A0%E5%9E%8B"
+   "title": "法院回应LV起诉开发商",
+   "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E9%99%A2%E5%9B%9E%E5%BA%94LV%E8%B5%B7%E8%AF%89%E5%BC%80%E5%8F%91%E5%95%86"
+  },
+  {
+   "title": "十个勤天演唱会取消",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88"
+  },
+  {
+   "title": "港版金秘书为何这样路透",
+   "link": "https://s.weibo.com/weibo?q=%E6%B8%AF%E7%89%88%E9%87%91%E7%A7%98%E4%B9%A6%E4%B8%BA%E4%BD%95%E8%BF%99%E6%A0%B7%E8%B7%AF%E9%80%8F"
   },
   {
    "title": "把安装师傅都约同一天处处是惊喜",
    "link": "https://s.weibo.com/weibo?q=%E6%8A%8A%E5%AE%89%E8%A3%85%E5%B8%88%E5%82%85%E9%83%BD%E7%BA%A6%E5%90%8C%E4%B8%80%E5%A4%A9%E5%A4%84%E5%A4%84%E6%98%AF%E6%83%8A%E5%96%9C"
   },
   {
-   "title": "红霞",
-   "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E9%9C%9E"
+   "title": "中国女排vs意大利女排",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%92"
   },
   {
-   "title": "软孤立",
-   "link": "https://s.weibo.com/weibo?q=%E8%BD%AF%E5%AD%A4%E7%AB%8B"
+   "title": "王一博第三名",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%AC%AC%E4%B8%89%E5%90%8D"
   },
   {
-   "title": "A股重磅新规明起实施",
-   "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E9%87%8D%E7%A3%85%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD"
-  },
-  {
-   "title": "张柏芝就像偷偷开了高清",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%B0%B1%E5%83%8F%E5%81%B7%E5%81%B7%E5%BC%80%E4%BA%86%E9%AB%98%E6%B8%85"
-  },
-  {
-   "title": "LV回应起诉房企",
-   "link": "https://s.weibo.com/weibo?q=LV%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%E6%88%BF%E4%BC%81"
+   "title": "艾米晒北电录取通知书",
+   "link": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E6%99%92%E5%8C%97%E7%94%B5%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6"
   }
  ],
  "zhihu": [
   {
    "title": "郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
    "link": "https://www.zhihu.com/question/2063564177688597653"
+  },
+  {
+   "title": "如何看待敦煌融媒体中心 90 万招聘 24 岁美国人任双语主播？外国主播对景区提升海外影响力有助力吗？",
+   "link": "https://www.zhihu.com/question/2064395077380564316"
   },
   {
    "title": "店主卖 7.9 元手机壳时标注「荣耀XX型号」被荣耀索赔 38 万元，如何从法律角度解读？",
@@ -309,16 +313,12 @@
    "link": "https://www.zhihu.com/question/2064331256884622163"
   },
   {
-   "title": "副教授被举报18年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
-   "link": "https://www.zhihu.com/question/2064285506431725683"
+   "title": "如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响？",
+   "link": "https://www.zhihu.com/question/2064578743788745259"
   },
   {
-   "title": "中南大学一硕士论文被指13页雷同，校方成立调查组，此前曾称暑假结束再受理举报，如何评价？暴露哪些问题？",
-   "link": "https://www.zhihu.com/question/2064146352787945024"
-  },
-  {
-   "title": "詹姆斯发长文宣布加盟 76 人，如何评价他「生涯最后一段征程」的这一选择？",
-   "link": "https://www.zhihu.com/question/2064146151499097712"
+   "title": "宁德时代上半年日赚 2.39 亿元，拟200-400亿元回购股份注销，创下 A 股历史纪录，如何解读？",
+   "link": "https://www.zhihu.com/question/2064123998942901167"
   },
   {
    "title": "王楚钦梁靖崑 1-2 爆冷输给向鹏温瑞博，如何评价本场比赛？",
@@ -329,16 +329,16 @@
    "link": "https://www.zhihu.com/question/2064255303806465925"
   },
   {
-   "title": "香肠这东西到底是中国人自己发明的还是欧洲传过来的？",
-   "link": "https://www.zhihu.com/question/2014006516139714030"
+   "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+   "link": "https://www.zhihu.com/question/2063587044526404438"
   },
   {
    "title": "台风「红霞」在广东惠州登陆，超越美莎克、巴威，成今年以来登陆我国的最强台风，影响多大？你那里情况如何？",
    "link": "https://www.zhihu.com/question/2062972309652992711"
   },
   {
-   "title": "澳大利亚国土面积世界第六，军力仅5.5万，为什么没人敢打？",
-   "link": "https://www.zhihu.com/question/2064336691528312089"
+   "title": "副教授被举报18年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
+   "link": "https://www.zhihu.com/question/2064285506431725683"
   },
   {
    "title": "如何评价凡人修仙传导演王裕仁破防骂网友？",
@@ -355,56 +355,56 @@
    "link": "https://m.baidu.com/s?word=31%E7%9C%81%E4%BB%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4GDP%E5%85%AC%E5%B8%83+6%E7%9C%81%E4%BD%8D%E6%AC%A1%E5%8F%98%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "义乌又爆单了",
-   "link": "https://m.baidu.com/s?word=%E4%B9%89%E4%B9%8C%E5%8F%88%E7%88%86%E5%8D%95%E4%BA%86&sa=fyb_news"
+   "title": "10艘“万吨大驱”惊艳亮相",
+   "link": "https://m.baidu.com/s?word=10%E8%89%98%E2%80%9C%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E2%80%9D%E6%83%8A%E8%89%B3%E4%BA%AE%E7%9B%B8&sa=fyb_news"
   },
   {
    "title": "中国61项世界遗产最新“全家福”",
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD61%E9%A1%B9%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E6%9C%80%E6%96%B0%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "浙大两大热门专业没录满",
-   "link": "https://m.baidu.com/s?word=%E6%B5%99%E5%A4%A7%E4%B8%A4%E5%A4%A7%E7%83%AD%E9%97%A8%E4%B8%93%E4%B8%9A%E6%B2%A1%E5%BD%95%E6%BB%A1&sa=fyb_news"
+   "title": "滞销西瓜被网红压价到一毛多一斤",
+   "link": "https://m.baidu.com/s?word=%E6%BB%9E%E9%94%80%E8%A5%BF%E7%93%9C%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%8E%8B%E4%BB%B7%E5%88%B0%E4%B8%80%E6%AF%9B%E5%A4%9A%E4%B8%80%E6%96%A4&sa=fyb_news"
   },
   {
-   "title": "95后小伙辞职徒步 曾被赶出家门",
-   "link": "https://m.baidu.com/s?word=95%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E5%BE%92%E6%AD%A5+%E6%9B%BE%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6%E9%97%A8&sa=fyb_news"
+   "title": "仅剩4年 吸烟率如何再降3.2%",
+   "link": "https://m.baidu.com/s?word=%E4%BB%85%E5%89%A94%E5%B9%B4+%E5%90%B8%E7%83%9F%E7%8E%87%E5%A6%82%E4%BD%95%E5%86%8D%E9%99%8D3.2%25&sa=fyb_news"
   },
   {
    "title": "女子陪诊被医生看出异常 查出肿瘤",
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%99%AA%E8%AF%8A%E8%A2%AB%E5%8C%BB%E7%94%9F%E7%9C%8B%E5%87%BA%E5%BC%82%E5%B8%B8+%E6%9F%A5%E5%87%BA%E8%82%BF%E7%98%A4&sa=fyb_news"
   },
   {
-   "title": "女子风中艰难护娃 保安一把抱起孩子",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%A3%8E%E4%B8%AD%E8%89%B0%E9%9A%BE%E6%8A%A4%E5%A8%83+%E4%BF%9D%E5%AE%89%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7%E5%AD%A9%E5%AD%90&sa=fyb_news"
+   "title": "哈兰德调侃大葱长得像自己：完全一样",
+   "link": "https://m.baidu.com/s?word=%E5%93%88%E5%85%B0%E5%BE%B7%E8%B0%83%E4%BE%83%E5%A4%A7%E8%91%B1%E9%95%BF%E5%BE%97%E5%83%8F%E8%87%AA%E5%B7%B1%EF%BC%9A%E5%AE%8C%E5%85%A8%E4%B8%80%E6%A0%B7&sa=fyb_news"
   },
   {
-   "title": "十几个外甥来过暑假舅舅花费超5万",
-   "link": "https://m.baidu.com/s?word=%E5%8D%81%E5%87%A0%E4%B8%AA%E5%A4%96%E7%94%A5%E6%9D%A5%E8%BF%87%E6%9A%91%E5%81%87%E8%88%85%E8%88%85%E8%8A%B1%E8%B4%B9%E8%B6%855%E4%B8%87&sa=fyb_news"
+   "title": "租房发现床上藏摄像头 偷拍者是房东",
+   "link": "https://m.baidu.com/s?word=%E7%A7%9F%E6%88%BF%E5%8F%91%E7%8E%B0%E5%BA%8A%E4%B8%8A%E8%97%8F%E6%91%84%E5%83%8F%E5%A4%B4+%E5%81%B7%E6%8B%8D%E8%80%85%E6%98%AF%E6%88%BF%E4%B8%9C&sa=fyb_news"
   },
   {
    "title": "台风红霞已降到热带风暴级",
    "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%B7%B2%E9%99%8D%E5%88%B0%E7%83%AD%E5%B8%A6%E9%A3%8E%E6%9A%B4%E7%BA%A7&sa=fyb_news"
   },
   {
-   "title": "《八仙！》成暑期档黑马",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E6%88%90%E6%9A%91%E6%9C%9F%E6%A1%A3%E9%BB%91%E9%A9%AC&sa=fyb_news"
+   "title": "奇瑞董事长：我们不再参加内卷",
+   "link": "https://m.baidu.com/s?word=%E5%A5%87%E7%91%9E%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E5%86%85%E5%8D%B7&sa=fyb_news"
   },
   {
    "title": "第二代身份证会被消磁系谣言",
    "link": "https://m.baidu.com/s?word=%E7%AC%AC%E4%BA%8C%E4%BB%A3%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BC%9A%E8%A2%AB%E6%B6%88%E7%A3%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "宇宙舅舅的外甥队伍开始缩水了",
-   "link": "https://m.baidu.com/s?word=%E5%AE%87%E5%AE%99%E8%88%85%E8%88%85%E7%9A%84%E5%A4%96%E7%94%A5%E9%98%9F%E4%BC%8D%E5%BC%80%E5%A7%8B%E7%BC%A9%E6%B0%B4%E4%BA%86&sa=fyb_news"
+   "title": "张颂文和段奕宏跳着舞步上台颁奖",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%A2%82%E6%96%87%E5%92%8C%E6%AE%B5%E5%A5%95%E5%AE%8F%E8%B7%B3%E7%9D%80%E8%88%9E%E6%AD%A5%E4%B8%8A%E5%8F%B0%E9%A2%81%E5%A5%96&sa=fyb_news"
   },
   {
-   "title": "女童接受基因编辑试验死亡 院方通报",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AB%A5%E6%8E%A5%E5%8F%97%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E6%AD%BB%E4%BA%A1+%E9%99%A2%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news"
+   "title": "瓷砖贴到一半业主才发现装错房",
+   "link": "https://m.baidu.com/s?word=%E7%93%B7%E7%A0%96%E8%B4%B4%E5%88%B0%E4%B8%80%E5%8D%8A%E4%B8%9A%E4%B8%BB%E6%89%8D%E5%8F%91%E7%8E%B0%E8%A3%85%E9%94%99%E6%88%BF&sa=fyb_news"
   },
   {
-   "title": "北方人感叹震惊第一次见到这种场面",
-   "link": "https://m.baidu.com/s?word=%E5%8C%97%E6%96%B9%E4%BA%BA%E6%84%9F%E5%8F%B9%E9%9C%87%E6%83%8A%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%88%B0%E8%BF%99%E7%A7%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news"
+   "title": "女子偷准婆婆的支付密码 给自己转账",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%81%B7%E5%87%86%E5%A9%86%E5%A9%86%E7%9A%84%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81+%E7%BB%99%E8%87%AA%E5%B7%B1%E8%BD%AC%E8%B4%A6&sa=fyb_news"
   }
  ],
  "ai": [
