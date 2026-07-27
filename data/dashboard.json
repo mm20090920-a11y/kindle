@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "updatedAt": "2026-07-27 12:42",
+ "updatedAt": "2026-07-27 13:45",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,130 +169,130 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4084.95",
+  "value": "4086.66",
   "unit": "美元/盎司",
-  "change": "+31.66",
-  "pct": "+0.78%",
+  "change": "+33.37",
+  "pct": "+0.82%",
   "up": true
  },
  "forex": [
   {
    "name": "美元",
    "value": "6.778",
-   "change": "-0.0083",
-   "pct": "-0.12%",
+   "change": "-0.0003",
+   "pct": "-0.00%",
    "up": false
   },
   {
    "name": "欧元",
    "value": "7.715",
-   "change": "-0.0020",
-   "pct": "-0.03%",
-   "up": false
+   "change": "+0.0000",
+   "pct": "+0.00%",
+   "up": true
   },
   {
    "name": "港币",
    "value": "0.864",
-   "change": "-0.0009",
-   "pct": "-0.11%",
-   "up": false
+   "change": "+0.0001",
+   "pct": "+0.01%",
+   "up": true
   },
   {
    "name": "100日元",
    "value": "4.139",
-   "change": "-0.0030",
-   "pct": "-0.07%",
-   "up": false
+   "change": "+0.0000",
+   "pct": "+0.00%",
+   "up": true
   }
  ],
  "btc": {
-  "usd": "64,924",
-  "cny": "439,662",
-  "pct": "+0.71%",
+  "usd": "65,537",
+  "cny": "443,820",
+  "pct": "+1.62%",
   "up": true,
   "trend": [
-   64459.06,
-   64427.81,
-   64653.2,
-   64663.2,
-   64747.74,
-   64743.2,
-   64713.19,
-   64636.97,
-   64658.35,
-   64666.71,
-   64641.96,
-   64601.09,
-   64771.68,
-   65175.82,
-   65382.43,
-   65343.82,
-   65094.78,
-   64967.56,
-   65147.47,
-   65128.27,
-   65296.81,
-   65275.33,
-   65329.28,
-   65408.22,
-   65474.89,
-   65362.88,
-   65146.26,
-   65114.73,
-   65246.13,
-   65302.6,
-   65208.53,
-   65067.0
+   64493.44,
+   64585.18,
+   64626.84,
+   64716.99,
+   64776.86,
+   64664.79,
+   64650.34,
+   64689.56,
+   64671.83,
+   64601.75,
+   64641.86,
+   64804.93,
+   65419.61,
+   65276.62,
+   65175.6,
+   65061.85,
+   65047.62,
+   65129.19,
+   65209.75,
+   65224.03,
+   65328.38,
+   65354.55,
+   65551.71,
+   65365.47,
+   65229.5,
+   65185.18,
+   65078.39,
+   65210.56,
+   65358.99,
+   65130.66,
+   65059.91,
+   65029.77
   ]
  },
  "weibo": [
+  {
+   "title": "长鑫批量造富",
+   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E6%89%B9%E9%87%8F%E9%80%A0%E5%AF%8C"
+  },
   {
    "title": "官方回应河南三支一扶成绩争议",
    "link": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%88%90%E7%BB%A9%E4%BA%89%E8%AE%AE"
   },
   {
-   "title": "有微信之前人是可以不用一直在线的",
-   "link": "https://s.weibo.com/weibo?q=%E6%9C%89%E5%BE%AE%E4%BF%A1%E4%B9%8B%E5%89%8D%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%BA%BF%E7%9A%84"
-  },
-  {
-   "title": "上半年规上工业企业利润增长18.7%",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A7%84%E4%B8%8A%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF18.7%25"
+   "title": "未来五年这样建强公共卫生体系",
+   "link": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E8%BF%99%E6%A0%B7%E5%BB%BA%E5%BC%BA%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E4%BD%93%E7%B3%BB"
   },
   {
    "title": "肠癌很多人发现就是中晚期",
    "link": "https://s.weibo.com/weibo?q=%E8%82%A0%E7%99%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F"
   },
   {
-   "title": "胡杏儿和张凌赫解释",
-   "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%9D%8F%E5%84%BF%E5%92%8C%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A7%A3%E9%87%8A"
-  },
-  {
-   "title": "东野圭吾遗作",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C"
-  },
-  {
-   "title": "不要和楼下大爷大妈混熟",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%92%8C%E6%A5%BC%E4%B8%8B%E5%A4%A7%E7%88%B7%E5%A4%A7%E5%A6%88%E6%B7%B7%E7%86%9F"
-  },
-  {
    "title": "DeepSeek说他先去吃饭了",
    "link": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86"
   },
   {
-   "title": "当闺蜜开始减肥时我就迪丽热巴这样",
-   "link": "https://s.weibo.com/weibo?q=%E5%BD%93%E9%97%BA%E8%9C%9C%E5%BC%80%E5%A7%8B%E5%87%8F%E8%82%A5%E6%97%B6%E6%88%91%E5%B0%B1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%99%E6%A0%B7"
+   "title": "逐玉配角第一个飞升的是李卿",
+   "link": "https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89%E9%85%8D%E8%A7%92%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A3%9E%E5%8D%87%E7%9A%84%E6%98%AF%E6%9D%8E%E5%8D%BF"
+  },
+  {
+   "title": "胡杏儿和张凌赫解释",
+   "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%9D%8F%E5%84%BF%E5%92%8C%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%A7%A3%E9%87%8A"
   },
   {
    "title": "国际乒联2026年第31周世界排名",
    "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%942026%E5%B9%B4%E7%AC%AC31%E5%91%A8%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D"
   },
   {
+   "title": "现在就出发4三亚开录",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914%E4%B8%89%E4%BA%9A%E5%BC%80%E5%BD%95"
+  },
+  {
+   "title": "小米澎湃OS4新特性曝光",
+   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS4%E6%96%B0%E7%89%B9%E6%80%A7%E6%9B%9D%E5%85%89"
+  },
+  {
    "title": "虞书欣疑似被AI融脸和声音",
    "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3"
   },
   {
-   "title": "林志颖回应Kimi网上照片",
-   "link": "https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E9%A2%96%E5%9B%9E%E5%BA%94Kimi%E7%BD%91%E4%B8%8A%E7%85%A7%E7%89%87"
+   "title": "丁禹兮侯明昊官宣同一场音乐节",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E4%BE%AF%E6%98%8E%E6%98%8A%E5%AE%98%E5%AE%A3%E5%90%8C%E4%B8%80%E5%9C%BA%E9%9F%B3%E4%B9%90%E8%8A%82"
   }
  ],
  "zhihu": [
@@ -301,36 +301,36 @@
    "link": "https://www.zhihu.com/question/2065005981617107684"
   },
   {
-   "title": "24岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
-   "link": "https://www.zhihu.com/question/2064692382461685795"
-  },
-  {
-   "title": "日本确认南鸟岛海泥含稀土，对全球稀土供应有何影响？",
-   "link": "https://www.zhihu.com/question/2064455331346962042"
-  },
-  {
    "title": "全世界都在ALL in AI ，AI真的是第四次工业革命吗？人类的科技树是否点错了？",
    "link": "https://www.zhihu.com/question/2052464126996353859"
   },
   {
-   "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
-   "link": "https://www.zhihu.com/question/2064176396658807069"
+   "title": "24岁女孩正颌手术被做反，变成「鞋拔子脸」，武汉卫健部门介入，医院和医生各得担哪些责？女孩还能恢复吗？",
+   "link": "https://www.zhihu.com/question/2064692382461685795"
   },
   {
-   "title": "为什么中国人总喜欢把客厅弄那么大厨房卫生间那么小？",
-   "link": "https://www.zhihu.com/question/1997358863511470900"
+   "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
+   "link": "https://www.zhihu.com/question/2065009083904742875"
   },
   {
    "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
    "link": "https://www.zhihu.com/question/2064980903453881609"
   },
   {
-   "title": "为什么现在初中生越来越不聪明了？",
-   "link": "https://www.zhihu.com/question/2064669154007947156"
+   "title": "为什么中国人总喜欢把客厅弄那么大厨房卫生间那么小？",
+   "link": "https://www.zhihu.com/question/1997358863511470900"
   },
   {
-   "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
-   "link": "https://www.zhihu.com/question/2064030510549054193"
+   "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+   "link": "https://www.zhihu.com/question/2064349598202779354"
+  },
+  {
+   "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
+   "link": "https://www.zhihu.com/question/2064176396658807069"
+  },
+  {
+   "title": "为什么现在初中生越来越不聪明了？",
+   "link": "https://www.zhihu.com/question/2064669154007947156"
   },
   {
    "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
@@ -341,70 +341,70 @@
    "link": "https://www.zhihu.com/question/2063877643347481540"
   },
   {
-   "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-   "link": "https://www.zhihu.com/question/2064349598202779354"
+   "title": "长征三号乙运载火箭飞行途中被闪电击中，为啥依然能够发射成功？闪电会对它造成什么影响吗？",
+   "link": "https://www.zhihu.com/question/2064118277723219491"
   }
  ],
  "baidu": [
   {
-   "title": "习近平同巴西总统卢拉通电话",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E5%8D%A2%E6%8B%89%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news"
-  },
-  {
-   "title": "山洪前男子拍到乌云 带孩子提前撤离",
-   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E6%B4%AA%E5%89%8D%E7%94%B7%E5%AD%90%E6%8B%8D%E5%88%B0%E4%B9%8C%E4%BA%91+%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%8F%90%E5%89%8D%E6%92%A4%E7%A6%BB&sa=fyb_news"
+   "title": "凝聚共同致力民族复兴强大力量",
+   "link": "https://m.baidu.com/s?word=%E5%87%9D%E8%81%9A%E5%85%B1%E5%90%8C%E8%87%B4%E5%8A%9B%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E5%BC%BA%E5%A4%A7%E5%8A%9B%E9%87%8F&sa=fyb_news"
   },
   {
    "title": "钱学森“灵境”预言照进现实",
    "link": "https://m.baidu.com/s?word=%E9%92%B1%E5%AD%A6%E6%A3%AE%E2%80%9C%E7%81%B5%E5%A2%83%E2%80%9D%E9%A2%84%E8%A8%80%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "列车+持续升温 拓宽服务消费新空间",
-   "link": "https://m.baidu.com/s?word=%E5%88%97%E8%BD%A6%2B%E6%8C%81%E7%BB%AD%E5%8D%87%E6%B8%A9+%E6%8B%93%E5%AE%BD%E6%9C%8D%E5%8A%A1%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4&sa=fyb_news"
+   "title": "学生考上北大 房东免房租并奖励3万",
+   "link": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7+%E6%88%BF%E4%B8%9C%E5%85%8D%E6%88%BF%E7%A7%9F%E5%B9%B6%E5%A5%96%E5%8A%B13%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "张世平被开除党籍",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E4%B8%96%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news"
+   "title": "中国入境游何以“圈粉”世界",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%A5%E5%A2%83%E6%B8%B8%E4%BD%95%E4%BB%A5%E2%80%9C%E5%9C%88%E7%B2%89%E2%80%9D%E4%B8%96%E7%95%8C&sa=fyb_news"
+  },
+  {
+   "title": "世界级乌龙 菲尔兹奖被官网提前剧透",
+   "link": "https://m.baidu.com/s?word=%E4%B8%96%E7%95%8C%E7%BA%A7%E4%B9%8C%E9%BE%99+%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E8%A2%AB%E5%AE%98%E7%BD%91%E6%8F%90%E5%89%8D%E5%89%A7%E9%80%8F&sa=fyb_news"
   },
   {
    "title": "网红“听泉赏宝”宣布彻底告别股市",
    "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E2%80%9C%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E2%80%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82&sa=fyb_news"
   },
   {
-   "title": "有微信之前人是可以不用一直在线的",
-   "link": "https://m.baidu.com/s?word=%E6%9C%89%E5%BE%AE%E4%BF%A1%E4%B9%8B%E5%89%8D%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%BA%BF%E7%9A%84&sa=fyb_news"
+   "title": "穿什么颜色的衣服最凉快",
+   "link": "https://m.baidu.com/s?word=%E7%A9%BF%E4%BB%80%E4%B9%88%E9%A2%9C%E8%89%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%9C%80%E5%87%89%E5%BF%AB&sa=fyb_news"
   },
   {
    "title": "老人极少用燃气一年竟花3400多元",
    "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%9E%81%E5%B0%91%E7%94%A8%E7%87%83%E6%B0%94%E4%B8%80%E5%B9%B4%E7%AB%9F%E8%8A%B13400%E5%A4%9A%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "新婚夫妻蜜月中在悬崖边救了一车人",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E8%9C%9C%E6%9C%88%E4%B8%AD%E5%9C%A8%E6%82%AC%E5%B4%96%E8%BE%B9%E6%95%91%E4%BA%86%E4%B8%80%E8%BD%A6%E4%BA%BA&sa=fyb_news"
+   "title": "张世平被开除党籍",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E4%B8%96%E5%B9%B3%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news"
   },
   {
    "title": "越来越多中国人不去日本旅游",
    "link": "https://m.baidu.com/s?word=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8&sa=fyb_news"
   },
   {
-   "title": "尹锡悦当选韩国总统或无效",
-   "link": "https://m.baidu.com/s?word=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%88%96%E6%97%A0%E6%95%88&sa=fyb_news"
+   "title": "女子连拿6次海鲜未付款 警方介入处置",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%BF%9E%E6%8B%BF6%E6%AC%A1%E6%B5%B7%E9%B2%9C%E6%9C%AA%E4%BB%98%E6%AC%BE+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A4%84%E7%BD%AE&sa=fyb_news"
   },
   {
    "title": "“西藏千年古碉遭强拆”系谣言",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%A5%BF%E8%97%8F%E5%8D%83%E5%B9%B4%E5%8F%A4%E7%A2%89%E9%81%AD%E5%BC%BA%E6%8B%86%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
+   "title": "尹锡悦当选韩国总统或无效",
+   "link": "https://m.baidu.com/s?word=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%88%96%E6%97%A0%E6%95%88&sa=fyb_news"
+  },
+  {
    "title": "网红良子爬山被两人用竹竿抬肚子",
    "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E8%89%AF%E5%AD%90%E7%88%AC%E5%B1%B1%E8%A2%AB%E4%B8%A4%E4%BA%BA%E7%94%A8%E7%AB%B9%E7%AB%BF%E6%8A%AC%E8%82%9A%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "村民回应院里被洪水冲来一栋房子",
-   "link": "https://m.baidu.com/s?word=%E6%9D%91%E6%B0%91%E5%9B%9E%E5%BA%94%E9%99%A2%E9%87%8C%E8%A2%AB%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%9D%A5%E4%B8%80%E6%A0%8B%E6%88%BF%E5%AD%90&sa=fyb_news"
-  },
-  {
-   "title": "女子连拿6次海鲜未付款 警方介入处置",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%BF%9E%E6%8B%BF6%E6%AC%A1%E6%B5%B7%E9%B2%9C%E6%9C%AA%E4%BB%98%E6%AC%BE+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E5%A4%84%E7%BD%AE&sa=fyb_news"
+   "title": "有微信之前人是可以不用一直在线的",
+   "link": "https://m.baidu.com/s?word=%E6%9C%89%E5%BE%AE%E4%BF%A1%E4%B9%8B%E5%89%8D%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%BA%BF%E7%9A%84&sa=fyb_news"
   }
  ],
  "ai": [
