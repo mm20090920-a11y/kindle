@@ -1,6 +1,6 @@
 {
  "date": "2026-07-27",
- "updatedAt": "2026-07-27 16:38",
+ "updatedAt": "2026-07-27 18:09",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4093.02",
+  "value": "4078.35",
   "unit": "美元/盎司",
-  "change": "+39.73",
-  "pct": "+0.98%",
+  "change": "+25.06",
+  "pct": "+0.62%",
   "up": true
  },
  "forex": [
@@ -206,13 +206,11 @@
   }
  ],
  "btc": {
-  "usd": "64,824",
-  "cny": "438,869",
-  "pct": "+0.06%",
+  "usd": "64,944",
+  "cny": "439,804",
+  "pct": "+0.46%",
   "up": true,
   "trend": [
-   64776.45,
-   64676.02,
    64643.52,
    64693.83,
    64673.24,
@@ -242,7 +240,9 @@
    65384.03,
    64946.62,
    64549.54,
-   64530.9
+   64530.9,
+   64866.66,
+   64974.81
   ]
  },
  "weibo": [
@@ -259,6 +259,18 @@
    "link": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%A1%AC%E6%A0%B8%E7%BB%8F%E6%B5%8E%E4%BA%AE%E7%82%B9"
   },
   {
+   "title": "徐正溪赵今麦好有药味的父女线",
+   "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%AD%A3%E6%BA%AA%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%A5%BD%E6%9C%89%E8%8D%AF%E5%91%B3%E7%9A%84%E7%88%B6%E5%A5%B3%E7%BA%BF"
+  },
+  {
+   "title": "阿里押注长鑫76亿搏出近1700亿",
+   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%E6%8A%BC%E6%B3%A8%E9%95%BF%E9%91%AB76%E4%BA%BF%E6%90%8F%E5%87%BA%E8%BF%911700%E4%BA%BF"
+  },
+  {
+   "title": "肠癌留了10年逃生窗口期",
+   "link": "https://s.weibo.com/weibo?q=%E8%82%A0%E7%99%8C%E7%95%99%E4%BA%8610%E5%B9%B4%E9%80%83%E7%94%9F%E7%AA%97%E5%8F%A3%E6%9C%9F"
+  },
+  {
    "title": "超过五年没联系的朋友直接删",
    "link": "https://s.weibo.com/weibo?q=%E8%B6%85%E8%BF%87%E4%BA%94%E5%B9%B4%E6%B2%A1%E8%81%94%E7%B3%BB%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9B%B4%E6%8E%A5%E5%88%A0"
   },
@@ -267,46 +279,34 @@
    "link": "https://s.weibo.com/weibo?q=%E8%82%A0%E7%99%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F"
   },
   {
-   "title": "阿里押注长鑫76亿搏出近1700亿",
-   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%E6%8A%BC%E6%B3%A8%E9%95%BF%E9%91%AB76%E4%BA%BF%E6%90%8F%E5%87%BA%E8%BF%911700%E4%BA%BF"
+   "title": "各个行业被AI取代的概率",
+   "link": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87"
+  },
+  {
+   "title": "20岁女孩从18楼坠落奇迹生还",
+   "link": "https://s.weibo.com/weibo?q=20%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E5%9D%A0%E8%90%BD%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98"
   },
   {
    "title": "逐玉配角第一个飞升的是李卿",
    "link": "https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89%E9%85%8D%E8%A7%92%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A3%9E%E5%8D%87%E7%9A%84%E6%98%AF%E6%9D%8E%E5%8D%BF"
   },
   {
-   "title": "各个行业被AI取代的概率",
-   "link": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87"
-  },
-  {
-   "title": "艾米严谨",
-   "link": "https://s.weibo.com/weibo?q=%E8%89%BE%E7%B1%B3%E4%B8%A5%E8%B0%A8"
-  },
-  {
-   "title": "露营遇山洪7人放弃财产全获救",
-   "link": "https://s.weibo.com/weibo?q=%E9%9C%B2%E8%90%A5%E9%81%87%E5%B1%B1%E6%B4%AA7%E4%BA%BA%E6%94%BE%E5%BC%83%E8%B4%A2%E4%BA%A7%E5%85%A8%E8%8E%B7%E6%95%91"
-  },
-  {
-   "title": "李宏毅李登科和解",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9D%8E%E7%99%BB%E7%A7%91%E5%92%8C%E8%A7%A3"
-  },
-  {
-   "title": "莫妮卡贝鲁奇老了也是法拉利",
-   "link": "https://s.weibo.com/weibo?q=%E8%8E%AB%E5%A6%AE%E5%8D%A1%E8%B4%9D%E9%B2%81%E5%A5%87%E8%80%81%E4%BA%86%E4%B9%9F%E6%98%AF%E6%B3%95%E6%8B%89%E5%88%A9"
+   "title": "DeepSeek说他先去吃饭了",
+   "link": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86"
   }
  ],
  "zhihu": [
-  {
-   "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
-   "link": "https://www.zhihu.com/question/2065005981617107684"
-  },
   {
    "title": "如何看待世界杯决赛执法阿根廷对西班牙的主裁判温契奇宣布退役？",
    "link": "https://www.zhihu.com/question/2065059989778076694"
   },
   {
-   "title": "全世界都在ALL in AI ，AI真的是第四次工业革命吗？人类的科技树是否点错了？",
-   "link": "https://www.zhihu.com/question/2052464126996353859"
+   "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+   "link": "https://www.zhihu.com/question/2065005981617107684"
+  },
+  {
+   "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
+   "link": "https://www.zhihu.com/question/2065124091686646367"
   },
   {
    "title": "今年高考很多 600-620 分段的考生跌出万名之外，如何看待高考分数「通货膨胀」？对考生有哪些影响？",
@@ -325,24 +325,24 @@
    "link": "https://www.zhihu.com/question/2064156513028117185"
   },
   {
-   "title": "为什么现在初中生越来越不聪明了？",
-   "link": "https://www.zhihu.com/question/2064669154007947156"
-  },
-  {
    "title": "耐克终止线上合作后，滔搏被曝暴力打折甩卖库存，如何解读此现象？",
    "link": "https://www.zhihu.com/question/2064176396658807069"
+  },
+  {
+   "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
+   "link": "https://www.zhihu.com/question/2024602270579323820"
   },
   {
    "title": "日本作家东野圭吾去世，如何评价他的作品？你与他初相遇是从哪本书开始的？最推荐他的哪部作品？",
    "link": "https://www.zhihu.com/question/2065093746111112018"
   },
   {
-   "title": "碧桂园卖长鑫痛失 470 亿，如何看待这一商业决策？如果没有卖长鑫可能会给碧桂园哪些影响？",
-   "link": "https://www.zhihu.com/question/2065124091686646367"
-  },
-  {
    "title": "如何看待某博主称“客厅游戏PC只需插两根线”，被网友吐槽“过度吹捧，所有主机不都这样”？",
    "link": "https://www.zhihu.com/question/2064715385044199014"
+  },
+  {
+   "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
+   "link": "https://www.zhihu.com/question/2064980903453881609"
   }
  ],
  "baidu": [
@@ -379,12 +379,12 @@
    "link": "https://m.baidu.com/s?word=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%8E%BB%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8&sa=fyb_news"
   },
   {
-   "title": "男孩胸前挂幼童在车流中骑行",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%A9%E8%83%B8%E5%89%8D%E6%8C%82%E5%B9%BC%E7%AB%A5%E5%9C%A8%E8%BD%A6%E6%B5%81%E4%B8%AD%E9%AA%91%E8%A1%8C&sa=fyb_news"
-  },
-  {
    "title": "约好跟同学写作业 其实是一起玩手机",
    "link": "https://m.baidu.com/s?word=%E7%BA%A6%E5%A5%BD%E8%B7%9F%E5%90%8C%E5%AD%A6%E5%86%99%E4%BD%9C%E4%B8%9A+%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E8%B5%B7%E7%8E%A9%E6%89%8B%E6%9C%BA&sa=fyb_news"
+  },
+  {
+   "title": "高通机器人瘫倒 被盖上黑布抬走",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E9%80%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%98%AB%E5%80%92+%E8%A2%AB%E7%9B%96%E4%B8%8A%E9%BB%91%E5%B8%83%E6%8A%AC%E8%B5%B0&sa=fyb_news"
   },
   {
    "title": "河南回应三支一扶成绩争议：全面调查",
@@ -395,16 +395,16 @@
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%A5%BF%E8%97%8F%E5%8D%83%E5%B9%B4%E5%8F%A4%E7%A2%89%E9%81%AD%E5%BC%BA%E6%8B%86%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "20岁女孩从18楼坠落后奇迹生还",
-   "link": "https://m.baidu.com/s?word=20%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E5%9D%A0%E8%90%BD%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98&sa=fyb_news"
-  },
-  {
    "title": "痞幼发飙车视频 副驾未系安全带",
    "link": "https://m.baidu.com/s?word=%E7%97%9E%E5%B9%BC%E5%8F%91%E9%A3%99%E8%BD%A6%E8%A7%86%E9%A2%91+%E5%89%AF%E9%A9%BE%E6%9C%AA%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6&sa=fyb_news"
   },
   {
-   "title": "有微信之前人是可以不用一直在线的",
-   "link": "https://m.baidu.com/s?word=%E6%9C%89%E5%BE%AE%E4%BF%A1%E4%B9%8B%E5%89%8D%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%BA%BF%E7%9A%84&sa=fyb_news"
+   "title": "20岁女孩从18楼坠落后奇迹生还",
+   "link": "https://m.baidu.com/s?word=20%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%BB%8E18%E6%A5%BC%E5%9D%A0%E8%90%BD%E5%90%8E%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98&sa=fyb_news"
+  },
+  {
+   "title": "九寨沟发布门票售罄通告",
+   "link": "https://m.baidu.com/s?word=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E5%8F%91%E5%B8%83%E9%97%A8%E7%A5%A8%E5%94%AE%E7%BD%84%E9%80%9A%E5%91%8A&sa=fyb_news"
   }
  ],
  "ai": [
