@@ -1,6 +1,6 @@
 {
  "date": "2026-07-28",
- "updatedAt": "2026-07-28 10:13",
+ "updatedAt": "2026-07-28 11:47",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,25 +169,25 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4022.84",
+  "value": "4027.03",
   "unit": "美元/盎司",
-  "change": "-53.62",
-  "pct": "-1.32%",
+  "change": "-49.43",
+  "pct": "-1.21%",
   "up": false
  },
  "forex": [
   {
    "name": "美元",
    "value": "6.775",
-   "change": "-0.0035",
-   "pct": "-0.05%",
+   "change": "-0.0005",
+   "pct": "-0.01%",
    "up": false
   },
   {
    "name": "欧元",
    "value": "7.706",
-   "change": "-0.0092",
-   "pct": "-0.12%",
+   "change": "-0.0002",
+   "pct": "-0.00%",
    "up": false
   },
   {
@@ -200,49 +200,49 @@
   {
    "name": "100日元",
    "value": "4.137",
-   "change": "-0.0016",
-   "pct": "-0.04%",
-   "up": false
+   "change": "+0.0004",
+   "pct": "+0.01%",
+   "up": true
   }
  ],
  "btc": {
-  "usd": "63,286",
-  "cny": "428,391",
-  "pct": "-2.91%",
+  "usd": "63,341",
+  "cny": "428,714",
+  "pct": "-2.69%",
   "up": false,
   "trend": [
-   65190.83,
-   65286.67,
-   65113.11,
-   64964.47,
-   64928.78,
-   65170.16,
-   64447.22,
-   64561.85,
-   64562.88,
-   64834.73,
-   64952.71,
-   64844.91,
-   64913.12,
-   64907.16,
-   64890.3,
-   64773.25,
-   64655.01,
-   63750.48,
-   63627.87,
-   63624.38,
-   63163.38,
-   63174.39,
-   63077.19,
-   63230.45,
-   63268.41,
-   63276.45,
-   63475.41,
-   63456.14,
-   63505.04,
-   63443.32,
-   63438.49,
-   63421.95
+   65095.58,
+   64827.32,
+   64965.14,
+   65274.06,
+   64550.68,
+   64520.26,
+   64495.69,
+   64772.05,
+   64913.47,
+   64777.52,
+   64906.73,
+   64948.98,
+   64869.8,
+   64810.76,
+   64689.27,
+   63668.02,
+   63641.29,
+   63631.06,
+   63124.42,
+   63125.54,
+   63069.3,
+   63250.52,
+   63295.29,
+   63389.25,
+   63460.8,
+   63465.54,
+   63496.69,
+   63462.35,
+   63424.9,
+   63465.22,
+   63349.71,
+   63385.71
   ]
  },
  "weibo": [
@@ -251,8 +251,8 @@
    "link": "https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81"
   },
   {
-   "title": "日本地震",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87"
+   "title": "日本7.1级地震民众哭喊声一片",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87"
   },
   {
    "title": "请查收这份家庭防汛防灾应急包",
@@ -267,54 +267,54 @@
    "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%89%E9%9C%87%E6%84%9F"
   },
   {
-   "title": "改善脖子前倾最简单的动作",
-   "link": "https://s.weibo.com/weibo?q=%E6%94%B9%E5%96%84%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%8A%A8%E4%BD%9C"
+   "title": "日本7.1级强震已致多人死亡",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1"
   },
   {
-   "title": "天才程序员陨落",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E7%A8%8B%E5%BA%8F%E5%91%98%E9%99%A8%E8%90%BD"
+   "title": "任素素怀孕",
+   "link": "https://s.weibo.com/weibo?q=%E4%BB%BB%E7%B4%A0%E7%B4%A0%E6%80%80%E5%AD%95"
   },
   {
-   "title": "王菊一念江南古装路透",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%8A%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%8F%A4%E8%A3%85%E8%B7%AF%E9%80%8F"
+   "title": "科技股大跌原因",
+   "link": "https://s.weibo.com/weibo?q=%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0"
   },
   {
-   "title": "C罗无世界杯冠军遭航空公司嘲讽",
-   "link": "https://s.weibo.com/weibo?q=C%E7%BD%97%E6%97%A0%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%E9%81%AD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%98%B2%E8%AE%BD"
+   "title": "齐达内出任法国国家队主教练",
+   "link": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83"
   },
   {
-   "title": "折个鸡",
-   "link": "https://s.weibo.com/weibo?q=%E6%8A%98%E4%B8%AA%E9%B8%A1"
+   "title": "徐洁云回应小米澎程可加92号汽油",
+   "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E4%BA%91%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%8F%AF%E5%8A%A092%E5%8F%B7%E6%B1%BD%E6%B2%B9"
   },
   {
-   "title": "张馨予海边比基尼大片",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B5%B7%E8%BE%B9%E6%AF%94%E5%9F%BA%E5%B0%BC%E5%A4%A7%E7%89%87"
+   "title": "胡杏儿发了没有张凌赫的慕容全家福",
+   "link": "https://s.weibo.com/weibo?q=%E8%83%A1%E6%9D%8F%E5%84%BF%E5%8F%91%E4%BA%86%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E6%85%95%E5%AE%B9%E5%85%A8%E5%AE%B6%E7%A6%8F"
   },
   {
-   "title": "上海震感",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F"
+   "title": "朱志鑫 造型",
+   "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%20%E9%80%A0%E5%9E%8B"
   }
  ],
  "zhihu": [
-  {
-   "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
-   "link": "https://www.zhihu.com/question/2065363377468043923"
-  },
-  {
-   "title": "王虹、邓煜的成长经历是否动摇了「是金子在哪都能发光」的说法？顶尖科研人才的成长需要怎样的土壤？",
-   "link": "https://www.zhihu.com/question/2064337609879507952"
-  },
   {
    "title": "皇家美素力 1 号奶粉被澳门检出铅超标九倍，但厂商自检说符合标准，到底该信谁？铅超标有什么食用风险？",
    "link": "https://www.zhihu.com/question/2064645873158583358"
   },
   {
-   "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿，背后是怎样的投资逻辑？",
-   "link": "https://www.zhihu.com/question/2065338204207542577"
+   "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息？",
+   "link": "https://www.zhihu.com/question/2065363377468043923"
   },
   {
    "title": "又一名小红书前员工曝「距期权归属仅剩 8 天被解除劳动合同」，具体情况如何？其中涉及哪些法律问题？",
    "link": "https://www.zhihu.com/question/2065405140329128905"
+  },
+  {
+   "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注？",
+   "link": "https://www.zhihu.com/question/2065160851711943119"
+  },
+  {
+   "title": "如何看待上单老祖做的视频，黄金剑魔打王者蒙多，两场均以黄金剑魔获胜？",
+   "link": "https://www.zhihu.com/question/2065116457743152024"
   },
   {
    "title": "美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞？",
@@ -325,10 +325,6 @@
    "link": "https://www.zhihu.com/question/267314352"
   },
   {
-   "title": "美国校园午餐被曝牛奶黏稠似史莱姆、胡萝卜可被磁铁吸起，可能有什么「科技狠活」？对健康有伤害吗？",
-   "link": "https://www.zhihu.com/question/2065066881015177978"
-  },
-  {
    "title": "长鑫上市后，美股「半导体-芯片板块」普跌，SK海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
    "link": "https://www.zhihu.com/question/2065354296774989670"
   },
@@ -337,12 +333,16 @@
    "link": "https://www.zhihu.com/question/654477046"
   },
   {
-   "title": "如何评价KIMI K3正式开源，以及同步发布出技术报告？",
-   "link": "https://www.zhihu.com/question/2065214142915654338"
+   "title": "为什么很多电车后屁股都凹一块也不修？",
+   "link": "https://www.zhihu.com/question/2064678914778214835"
   },
   {
-   "title": "大批散户为配市值打新长鑫，却遭到大幅回撤，如何看待「为打新亏大钱」的荒诞投资现状？",
-   "link": "https://www.zhihu.com/question/2065043128990556496"
+   "title": "日本熊本县连续发生 7.1 级、6.1 级地震，长三角多地网友称有震感，目前情况如何？",
+   "link": "https://www.zhihu.com/question/2065460492231864765"
+  },
+  {
+   "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+   "link": "https://www.zhihu.com/question/2065097727604741240"
   }
  ],
  "baidu": [
@@ -355,40 +355,40 @@
    "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%E5%8F%91%E7%94%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E4%BD%99%E9%9C%87%E4%B8%8D%E6%96%AD&sa=fyb_news"
   },
   {
-   "title": "买大路灯护眼 孩子视力1年涨200度",
-   "link": "https://m.baidu.com/s?word=%E4%B9%B0%E5%A4%A7%E8%B7%AF%E7%81%AF%E6%8A%A4%E7%9C%BC+%E5%AD%A9%E5%AD%90%E8%A7%86%E5%8A%9B1%E5%B9%B4%E6%B6%A8200%E5%BA%A6&sa=fyb_news"
+   "title": "“请把文字还给它本来的意思”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%AF%B7%E6%8A%8A%E6%96%87%E5%AD%97%E8%BF%98%E7%BB%99%E5%AE%83%E6%9C%AC%E6%9D%A5%E7%9A%84%E6%84%8F%E6%80%9D%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "多元夜游激发文旅活力",
    "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%85%83%E5%A4%9C%E6%B8%B8%E6%BF%80%E5%8F%91%E6%96%87%E6%97%85%E6%B4%BB%E5%8A%9B&sa=fyb_news"
   },
   {
-   "title": "“全款买房”的人在变多",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A&sa=fyb_news"
+   "title": "著名相声表演艺术家常佩业去世",
+   "link": "https://m.baidu.com/s?word=%E8%91%97%E5%90%8D%E7%9B%B8%E5%A3%B0%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%B8%B8%E4%BD%A9%E4%B8%9A%E5%8E%BB%E4%B8%96&sa=fyb_news"
+  },
+  {
+   "title": "日本强震一购物中心坍塌 多人死亡",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E4%B8%80%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%9D%8D%E5%A1%8C+%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
   },
   {
    "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
    "link": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%8A%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news"
   },
   {
-   "title": "预制菜以一种新形态重回年轻人餐桌",
-   "link": "https://m.baidu.com/s?word=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BB%A5%E4%B8%80%E7%A7%8D%E6%96%B0%E5%BD%A2%E6%80%81%E9%87%8D%E5%9B%9E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A4%90%E6%A1%8C&sa=fyb_news"
+   "title": "日本突发7.1级地震 山崩瞬间曝光",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%AA%81%E5%8F%917.1%E7%BA%A7%E5%9C%B0%E9%9C%87+%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E6%9B%9D%E5%85%89&sa=fyb_news"
   },
   {
-   "title": "日本熊本城部分城墙受损坍塌",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E%E9%83%A8%E5%88%86%E5%9F%8E%E5%A2%99%E5%8F%97%E6%8D%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news"
+   "title": "“黄金界爱马仕”市值1年蒸发超千亿",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%BB%84%E9%87%91%E7%95%8C%E7%88%B1%E9%A9%AC%E4%BB%95%E2%80%9D%E5%B8%82%E5%80%BC1%E5%B9%B4%E8%92%B8%E5%8F%91%E8%B6%85%E5%8D%83%E4%BA%BF&sa=fyb_news"
   },
   {
    "title": "台风后家中积水现15斤大鲶鱼",
    "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E5%90%8E%E5%AE%B6%E4%B8%AD%E7%A7%AF%E6%B0%B4%E7%8E%B015%E6%96%A4%E5%A4%A7%E9%B2%B6%E9%B1%BC&sa=fyb_news"
   },
   {
-   "title": "日本地震 上海、杭州网友称有震感",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87+%E4%B8%8A%E6%B5%B7%E3%80%81%E6%9D%AD%E5%B7%9E%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%9C%89%E9%9C%87%E6%84%9F&sa=fyb_news"
-  },
-  {
-   "title": "著名相声表演艺术家常佩业去世",
-   "link": "https://m.baidu.com/s?word=%E8%91%97%E5%90%8D%E7%9B%B8%E5%A3%B0%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%B8%B8%E4%BD%A9%E4%B8%9A%E5%8E%BB%E4%B8%96&sa=fyb_news"
+   "title": "“全款买房”的人在变多",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A&sa=fyb_news"
   },
   {
    "title": "济南暴雨铁路桥下汽车被淹不实",
@@ -399,12 +399,12 @@
    "link": "https://m.baidu.com/s?word=%E7%BA%BD%E7%BA%A6%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD%E2%80%9C%E5%87%BA%E8%BD%A8%E9%97%A8%E2%80%9D%E7%94%B7%E5%A5%B3%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news"
   },
   {
-   "title": "做好8件事离肠癌更远一点",
-   "link": "https://m.baidu.com/s?word=%E5%81%9A%E5%A5%BD8%E4%BB%B6%E4%BA%8B%E7%A6%BB%E8%82%A0%E7%99%8C%E6%9B%B4%E8%BF%9C%E4%B8%80%E7%82%B9&sa=fyb_news"
+   "title": "实拍日本地震：超市内孩子们哭成一片",
+   "link": "https://m.baidu.com/s?word=%E5%AE%9E%E6%8B%8D%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E8%B6%85%E5%B8%82%E5%86%85%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%93%AD%E6%88%90%E4%B8%80%E7%89%87&sa=fyb_news"
   },
   {
-   "title": "智驾在车库自动泊车 变成“蛄蛹者”",
-   "link": "https://m.baidu.com/s?word=%E6%99%BA%E9%A9%BE%E5%9C%A8%E8%BD%A6%E5%BA%93%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6+%E5%8F%98%E6%88%90%E2%80%9C%E8%9B%84%E8%9B%B9%E8%80%85%E2%80%9D&sa=fyb_news"
+   "title": "齐达内出任法国国家队主教练",
+   "link": "https://m.baidu.com/s?word=%E9%BD%90%E8%BE%BE%E5%86%85%E5%87%BA%E4%BB%BB%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83&sa=fyb_news"
   }
  ],
  "ai": [
