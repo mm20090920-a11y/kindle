@@ -1,6 +1,6 @@
 {
  "date": "2026-08-03",
- "updatedAt": "2026-08-03 13:56",
+ "updatedAt": "2026-08-03 16:59",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4030.33",
+  "value": "4037.54",
   "unit": "美元/盎司",
-  "change": "-16.09",
-  "pct": "-0.40%",
+  "change": "-8.88",
+  "pct": "-0.22%",
   "up": false
  },
  "forex": [
@@ -206,15 +206,11 @@
   }
  ],
  "btc": {
-  "usd": "63,172",
-  "cny": "426,585",
-  "pct": "+0.19%",
+  "usd": "63,705",
+  "cny": "430,174",
+  "pct": "+0.90%",
   "up": true,
   "trend": [
-   63063.86,
-   63096.88,
-   63067.86,
-   63050.91,
    63132.67,
    63264.51,
    63235.95,
@@ -242,7 +238,11 @@
    62676.6,
    62624.07,
    62564.15,
-   62698.88
+   62698.88,
+   63291.54,
+   63684.11,
+   63634.0,
+   63741.41
   ]
  },
  "weibo": [
@@ -251,48 +251,48 @@
    "link": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF"
   },
   {
-   "title": "孙颖莎回应缺席发布仪式",
-   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BB%AA%E5%BC%8F"
+   "title": "日本7人地震逃生后回商场被炸死",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7%E4%BA%BA%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E5%90%8E%E5%9B%9E%E5%95%86%E5%9C%BA%E8%A2%AB%E7%82%B8%E6%AD%BB"
   },
   {
-   "title": "21.54亿元支持防灾救灾",
-   "link": "https://s.weibo.com/weibo?q=21.54%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%81%E9%98%B2%E7%81%BE%E6%95%91%E7%81%BE"
+   "title": "没有BGM的导弹测试原声",
+   "link": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89BGM%E7%9A%84%E5%AF%BC%E5%BC%B9%E6%B5%8B%E8%AF%95%E5%8E%9F%E5%A3%B0"
   },
   {
    "title": "低精力可以去医院查有没有疾病",
    "link": "https://s.weibo.com/weibo?q=%E4%BD%8E%E7%B2%BE%E5%8A%9B%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%9C%89%E6%B2%A1%E6%9C%89%E7%96%BE%E7%97%85"
   },
   {
-   "title": "亚运会",
-   "link": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A"
+   "title": "孙亚龙宣布复出",
+   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BA%9A%E9%BE%99%E5%AE%A3%E5%B8%83%E5%A4%8D%E5%87%BA"
   },
   {
-   "title": "女子阻止男友吸烟起冲突将其捅死",
-   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E7%94%B7%E5%8F%8B%E5%90%B8%E7%83%9F%E8%B5%B7%E5%86%B2%E7%AA%81%E5%B0%86%E5%85%B6%E6%8D%85%E6%AD%BB"
+   "title": "陈伟霆九门直播哭了",
+   "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%B9%9D%E9%97%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86"
   },
   {
-   "title": "恋与深空敖尹下线争议",
-   "link": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%96%E5%B0%B9%E4%B8%8B%E7%BA%BF%E4%BA%89%E8%AE%AE"
+   "title": "曝SHE将合体开演唱会",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A"
   },
   {
-   "title": "AI短剧女主60秒广告报价25万8",
-   "link": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB60%E7%A7%92%E5%B9%BF%E5%91%8A%E6%8A%A5%E4%BB%B725%E4%B8%878"
+   "title": "捅死男友女子父母多次给男方父母道歉下跪",
+   "link": "https://s.weibo.com/weibo?q=%E6%8D%85%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E7%94%B7%E6%96%B9%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89%E4%B8%8B%E8%B7%AA"
   },
   {
-   "title": "76岁男星和28岁女星演情侣",
-   "link": "https://s.weibo.com/weibo?q=76%E5%B2%81%E7%94%B7%E6%98%9F%E5%92%8C28%E5%B2%81%E5%A5%B3%E6%98%9F%E6%BC%94%E6%83%85%E4%BE%A3"
+   "title": "煮火锅突然爆炸全屋溅满红油",
+   "link": "https://s.weibo.com/weibo?q=%E7%85%AE%E7%81%AB%E9%94%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%85%A8%E5%B1%8B%E6%BA%85%E6%BB%A1%E7%BA%A2%E6%B2%B9"
   },
   {
-   "title": "孟子义百花杀收官发文",
-   "link": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E7%99%BE%E8%8A%B1%E6%9D%80%E6%94%B6%E5%AE%98%E5%8F%91%E6%96%87"
+   "title": "严浩翔又没绷住笑",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%8F%88%E6%B2%A1%E7%BB%B7%E4%BD%8F%E7%AC%91"
   },
   {
-   "title": "小米公司向警方报案",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E5%90%91%E8%AD%A6%E6%96%B9%E6%8A%A5%E6%A1%88"
+   "title": "罗正一年花170元146给了苹果",
+   "link": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%AD%A3%E4%B8%80%E5%B9%B4%E8%8A%B1170%E5%85%83146%E7%BB%99%E4%BA%86%E8%8B%B9%E6%9E%9C"
   },
   {
-   "title": "虞书欣开球",
-   "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%80%E7%90%83"
+   "title": "东莞9岁女孩确诊性早熟",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F"
   }
  ],
  "zhihu": [
@@ -301,12 +301,16 @@
    "link": "https://www.zhihu.com/question/2067218440234985170"
   },
   {
+   "title": "樊振东逆转张本智和，这场球到底神在哪？",
+   "link": "https://www.zhihu.com/question/2067255348658974721"
+  },
+  {
    "title": "精神科医生「10级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
    "link": "https://www.zhihu.com/question/2066913394364568113"
   },
   {
-   "title": "巴基斯坦发生雪崩，10人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
-   "link": "https://www.zhihu.com/question/2066825720576398691"
+   "title": "如何看待7月末至8月初有多家韩国公司发布AI称性能强于DeepSeek？",
+   "link": "https://www.zhihu.com/question/2067512422555029717"
   },
   {
    "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
@@ -317,12 +321,20 @@
    "link": "https://www.zhihu.com/question/2067542275152765264"
   },
   {
-   "title": "樊振东逆转张本智和，这场球到底神在哪？",
-   "link": "https://www.zhihu.com/question/2067255348658974721"
+   "title": "巴基斯坦发生雪崩，10人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
+   "link": "https://www.zhihu.com/question/2066825720576398691"
   },
   {
-   "title": "为什么商博良一个人就破译了古埃及象形文字，而直到现在还有很多甲骨文没有被破译？",
-   "link": "https://www.zhihu.com/question/503162307"
+   "title": "建设银行多网点试行午休制度，如何看待这一调整？网友反对称未来办业务会更难，你支持银行午休推广吗？",
+   "link": "https://www.zhihu.com/question/2067294066811856636"
+  },
+  {
+   "title": "为什么截止目前，小米澎程n70 max全网不开放内饰评测？",
+   "link": "https://www.zhihu.com/question/2067015006886032075"
+  },
+  {
+   "title": "一夜无梦才是高质量的睡眠是真的吗？",
+   "link": "https://www.zhihu.com/question/2017951131049883567"
   },
   {
    "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
@@ -331,18 +343,6 @@
   {
    "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
    "link": "https://www.zhihu.com/question/2067534271393133838"
-  },
-  {
-   "title": "一夜无梦才是高质量的睡眠是真的吗？",
-   "link": "https://www.zhihu.com/question/2017951131049883567"
-  },
-  {
-   "title": "如何评价8月3日上线的阿里Qwen 3.8 Max正式版？相比其他模型表现如何？",
-   "link": "https://www.zhihu.com/question/2067550234776020574"
-  },
-  {
-   "title": "建设银行多网点试行午休制度，如何看待这一调整？网友反对称未来办业务会更难，你支持银行午休推广吗？",
-   "link": "https://www.zhihu.com/question/2067294066811856636"
   }
  ],
  "baidu": [
@@ -351,36 +351,36 @@
    "link": "https://m.baidu.com/s?word=%E5%AE%9E%E4%B8%9A%E6%8A%A5%E5%9B%BD%E5%BF%97+%E6%8E%A5%E5%8A%9B%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news"
   },
   {
-   "title": "含糖碳酸饮料大势已去",
-   "link": "https://m.baidu.com/s?word=%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E5%A4%A7%E5%8A%BF%E5%B7%B2%E5%8E%BB&sa=fyb_news"
+   "title": "DeepSeek 斩杀线",
+   "link": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
   },
   {
-   "title": "“地表最强男人”因雪崩遇难",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%94%B7%E4%BA%BA%E2%80%9D%E5%9B%A0%E9%9B%AA%E5%B4%A9%E9%81%87%E9%9A%BE&sa=fyb_news"
+   "title": "含糖碳酸饮料大势已去",
+   "link": "https://m.baidu.com/s?word=%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E5%A4%A7%E5%8A%BF%E5%B7%B2%E5%8E%BB&sa=fyb_news"
   },
   {
    "title": "穿山跨海的“黄金大外环”要来了",
    "link": "https://m.baidu.com/s?word=%E7%A9%BF%E5%B1%B1%E8%B7%A8%E6%B5%B7%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "DeepSeek 斩杀线",
-   "link": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+   "title": "进口豪车在华卖不动了",
+   "link": "https://m.baidu.com/s?word=%E8%BF%9B%E5%8F%A3%E8%B1%AA%E8%BD%A6%E5%9C%A8%E5%8D%8E%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "大连海底隧道看不到鱼",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%BF%9E%E6%B5%B7%E5%BA%95%E9%9A%A7%E9%81%93%E7%9C%8B%E4%B8%8D%E5%88%B0%E9%B1%BC&sa=fyb_news"
+   "title": "“江西球王”杨志军单场轰101分",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B1%9F%E8%A5%BF%E7%90%83%E7%8E%8B%E2%80%9D%E6%9D%A8%E5%BF%97%E5%86%9B%E5%8D%95%E5%9C%BA%E8%BD%B0101%E5%88%86&sa=fyb_news"
+  },
+  {
+   "title": "1755枚比特币被偷 价值约7.43亿元",
+   "link": "https://m.baidu.com/s?word=1755%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E5%81%B7+%E4%BB%B7%E5%80%BC%E7%BA%A67.43%E4%BA%BF%E5%85%83&sa=fyb_news"
   },
   {
    "title": "女童独自乘电梯反复进出从14楼坠亡",
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AB%A5%E7%8B%AC%E8%87%AA%E4%B9%98%E7%94%B5%E6%A2%AF%E5%8F%8D%E5%A4%8D%E8%BF%9B%E5%87%BA%E4%BB%8E14%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news"
   },
   {
-   "title": "U17国足开门红 压哨绝杀阿森纳U17",
-   "link": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%BC%80%E9%97%A8%E7%BA%A2+%E5%8E%8B%E5%93%A8%E7%BB%9D%E6%9D%80%E9%98%BF%E6%A3%AE%E7%BA%B3U17&sa=fyb_news"
-  },
-  {
-   "title": "985博士后出轨被退站已入职新高校",
-   "link": "https://m.baidu.com/s?word=985%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%87%BA%E8%BD%A8%E8%A2%AB%E9%80%80%E7%AB%99%E5%B7%B2%E5%85%A5%E8%81%8C%E6%96%B0%E9%AB%98%E6%A0%A1&sa=fyb_news"
+   "title": "贵州一景区有游客跌入68级瀑布",
+   "link": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
   },
   {
    "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
@@ -395,16 +395,16 @@
    "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A3%B0%E6%98%8E%EF%BC%9A%E4%BB%8E%E6%9C%AA%E6%8E%88%E6%9D%83%E9%A6%86%E5%A4%96%E6%89%AB%E7%A0%81&sa=fyb_news"
   },
   {
-   "title": "3名辅警查醉驾以罚代刑致1死",
-   "link": "https://m.baidu.com/s?word=3%E5%90%8D%E8%BE%85%E8%AD%A6%E6%9F%A5%E9%86%89%E9%A9%BE%E4%BB%A5%E7%BD%9A%E4%BB%A3%E5%88%91%E8%87%B41%E6%AD%BB&sa=fyb_news"
+   "title": "放假7天 准备买票",
+   "link": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%877%E5%A4%A9+%E5%87%86%E5%A4%87%E4%B9%B0%E7%A5%A8&sa=fyb_news"
   },
   {
-   "title": "医生提醒洞洞鞋不要长期穿",
-   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E7%A9%BF&sa=fyb_news"
+   "title": "煮火锅突然爆炸全屋溅满红油",
+   "link": "https://m.baidu.com/s?word=%E7%85%AE%E7%81%AB%E9%94%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%85%A8%E5%B1%8B%E6%BA%85%E6%BB%A1%E7%BA%A2%E6%B2%B9&sa=fyb_news"
   },
   {
-   "title": "灵活就业人员可自愿缴纳公积金",
-   "link": "https://m.baidu.com/s?word=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%AF%E8%87%AA%E6%84%BF%E7%BC%B4%E7%BA%B3%E5%85%AC%E7%A7%AF%E9%87%91&sa=fyb_news"
+   "title": "青岛火车站好多人拖着铁桶扎啤返乡",
+   "link": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E7%81%AB%E8%BD%A6%E7%AB%99%E5%A5%BD%E5%A4%9A%E4%BA%BA%E6%8B%96%E7%9D%80%E9%93%81%E6%A1%B6%E6%89%8E%E5%95%A4%E8%BF%94%E4%B9%A1&sa=fyb_news"
   }
  ],
  "ai": [
