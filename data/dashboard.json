@@ -1,6 +1,6 @@
 {
  "date": "2026-08-04",
- "updatedAt": "2026-08-04 16:23",
+ "updatedAt": "2026-08-04 18:17",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4086.29",
+  "value": "4087.54",
   "unit": "美元/盎司",
-  "change": "+30.95",
-  "pct": "+0.76%",
+  "change": "+32.20",
+  "pct": "+0.79%",
   "up": true
  },
  "forex": [
@@ -206,43 +206,43 @@
   }
  ],
  "btc": {
-  "usd": "64,017",
-  "cny": "432,233",
-  "pct": "+0.28%",
+  "usd": "64,206",
+  "cny": "433,615",
+  "pct": "+0.46%",
   "up": true,
   "trend": [
-   63856.62,
-   63739.47,
-   63828.89,
-   63803.27,
-   63900.11,
-   63833.78,
-   63733.89,
-   63655.66,
-   63502.64,
-   63528.78,
-   63445.55,
-   63325.0,
-   63494.28,
-   63738.29,
-   63747.93,
-   63769.55,
-   63795.17,
-   63869.64,
-   63766.1,
-   63666.96,
-   63479.17,
-   63608.91,
-   63526.55,
-   63481.94,
-   63431.49,
-   63695.38,
-   63878.73,
-   63934.14,
-   63850.69,
-   63676.04,
-   64021.39,
-   63845.53
+   63855.04,
+   63829.18,
+   63868.39,
+   63878.83,
+   63669.88,
+   63422.03,
+   63515.74,
+   63469.95,
+   63366.92,
+   63381.05,
+   63729.88,
+   63734.14,
+   63609.7,
+   63737.27,
+   64109.61,
+   63767.39,
+   63802.65,
+   63607.64,
+   63677.44,
+   63507.94,
+   63459.67,
+   63474.2,
+   63701.92,
+   63685.68,
+   63744.33,
+   63871.72,
+   63740.22,
+   63884.6,
+   63963.33,
+   64017.56,
+   63953.74,
+   64087.86
   ]
  },
  "weibo": [
@@ -255,8 +255,8 @@
    "link": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E7%AB%B9%E7%9F%A5%E4%BA%86%E4%BA%8B%E4%BB%B6"
   },
   {
-   "title": "谁是联合利刃未来战场主角",
-   "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E8%81%94%E5%90%88%E5%88%A9%E5%88%83%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E4%B8%BB%E8%A7%92"
+   "title": "卫星互联网低轨23组卫星发射成功",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A823%E7%BB%84%E5%8D%AB%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F"
   },
   {
    "title": "天才女友语文成绩148",
@@ -267,50 +267,46 @@
    "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A98%E5%B2%81%E7%8B%AC%E5%B1%85%E5%BA%8A%E5%A4%B4%E6%94%BE%E8%8F%9C%E5%88%80%E7%8E%B0%E8%80%83%E4%B8%8A%E4%B8%80%E6%9C%AC"
   },
   {
-   "title": "美拟禁新型光模块草案",
-   "link": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%8B%9F%E7%A6%81%E6%96%B0%E5%9E%8B%E5%85%89%E6%A8%A1%E5%9D%97%E8%8D%89%E6%A1%88"
-  },
-  {
    "title": "宜宾地震",
    "link": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87"
-  },
-  {
-   "title": "建议大家买行李箱不要太大众",
-   "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%A4%A7%E4%BC%97"
-  },
-  {
-   "title": "内娱新四大名著",
-   "link": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%96%B0%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97"
   },
   {
    "title": "八仙",
    "link": "https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99"
   },
   {
-   "title": "时差巴黎铁塔摄影大赛",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E5%B7%AE%E5%B7%B4%E9%BB%8E%E9%93%81%E5%A1%94%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B"
+   "title": "金鹰奖 提名规则",
+   "link": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%20%E6%8F%90%E5%90%8D%E8%A7%84%E5%88%99"
   },
   {
-   "title": "张凌赫小学证件照",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B0%8F%E5%AD%A6%E8%AF%81%E4%BB%B6%E7%85%A7"
+   "title": "怪不得有人看病能在诊室待很久",
+   "link": "https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E6%9C%89%E4%BA%BA%E7%9C%8B%E7%97%85%E8%83%BD%E5%9C%A8%E8%AF%8A%E5%AE%A4%E5%BE%85%E5%BE%88%E4%B9%85"
+  },
+  {
+   "title": "心理学上有个词叫螃蟹效应",
+   "link": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%8A%E6%9C%89%E4%B8%AA%E8%AF%8D%E5%8F%AB%E8%9E%83%E8%9F%B9%E6%95%88%E5%BA%94"
+  },
+  {
+   "title": "阿根廷队长为西班牙火灾捐款",
+   "link": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E7%81%AB%E7%81%BE%E6%8D%90%E6%AC%BE"
+  },
+  {
+   "title": "时差巴黎铁塔摄影大赛",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%B6%E5%B7%AE%E5%B7%B4%E9%BB%8E%E9%93%81%E5%A1%94%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B"
   }
  ],
  "zhihu": [
-  {
-   "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
-   "link": "https://www.zhihu.com/question/2067703500390097949"
-  },
-  {
-   "title": "如何评价赛力斯问界2026年7月销量严重下滑，月销量不足21,000辆？",
-   "link": "https://www.zhihu.com/question/2067882801500836048"
-  },
   {
    "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险？",
    "link": "https://www.zhihu.com/question/2067904199212232854"
   },
   {
-   "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-   "link": "https://www.zhihu.com/question/2067873642554156045"
+   "title": "如何看待松岛辉空近日接受采访时说，只要拿到奥运会冠军，就算21岁，也会立即退役？",
+   "link": "https://www.zhihu.com/question/2067891941233124072"
+  },
+  {
+   "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
+   "link": "https://www.zhihu.com/question/2067544727931417556"
   },
   {
    "title": "现在几千块钱音响的音质，是否能秒杀90年代初十几万的音响？",
@@ -321,16 +317,20 @@
    "link": "https://www.zhihu.com/question/2067883838911377616"
   },
   {
-   "title": "如何看待松岛辉空近日接受采访时说，只要拿到奥运会冠军，就算21岁，也会立即退役？",
-   "link": "https://www.zhihu.com/question/2067891941233124072"
+   "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
+   "link": "https://www.zhihu.com/question/2066106449541981322"
+  },
+  {
+   "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
+   "link": "https://www.zhihu.com/question/2067703500390097949"
+  },
+  {
+   "title": "如何评价赛力斯问界2026年7月销量严重下滑，月销量不足21,000辆？",
+   "link": "https://www.zhihu.com/question/2067882801500836048"
   },
   {
    "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
    "link": "https://www.zhihu.com/question/2065477563548546516"
-  },
-  {
-   "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
-   "link": "https://www.zhihu.com/question/2066106449541981322"
   },
   {
    "title": "美日近 30 年来首次联手直接买入日元「围剿」空头，这是否能扭转日元长期贬值趋势？",
@@ -375,16 +375,16 @@
    "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E8%B7%AF%E7%81%AF%E8%9E%BA%E4%B8%9D%E8%83%BD%E7%82%B9%E7%87%83%E9%A6%99%E7%83%9F%E5%90%8E%E6%8A%A5%E8%AD%A6&sa=fyb_news"
   },
   {
-   "title": "5元2瓶都卖不动 含糖碳酸饮料遇冷",
-   "link": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
+   "title": "F4演唱会言承旭逮住谁搂谁",
+   "link": "https://m.baidu.com/s?word=F4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A8%80%E6%89%BF%E6%97%AD%E9%80%AE%E4%BD%8F%E8%B0%81%E6%90%82%E8%B0%81&sa=fyb_news"
   },
   {
    "title": "38岁男演员在线求职万岁山NPC岗位",
    "link": "https://m.baidu.com/s?word=38%E5%B2%81%E7%94%B7%E6%BC%94%E5%91%98%E5%9C%A8%E7%BA%BF%E6%B1%82%E8%81%8C%E4%B8%87%E5%B2%81%E5%B1%B1NPC%E5%B2%97%E4%BD%8D&sa=fyb_news"
   },
   {
-   "title": "F4演唱会言承旭逮住谁搂谁",
-   "link": "https://m.baidu.com/s?word=F4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A8%80%E6%89%BF%E6%97%AD%E9%80%AE%E4%BD%8F%E8%B0%81%E6%90%82%E8%B0%81&sa=fyb_news"
+   "title": "5元2瓶都卖不动 含糖碳酸饮料遇冷",
+   "link": "https://m.baidu.com/s?word=5%E5%85%832%E7%93%B6%E9%83%BD%E5%8D%96%E4%B8%8D%E5%8A%A8+%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E9%81%87%E5%86%B7&sa=fyb_news"
   },
   {
    "title": "林青霞发文悼念葛兰",
@@ -403,8 +403,8 @@
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E5%A4%87%E5%AD%95%E4%B8%8E%E7%94%B7%E5%8F%8B%E8%B5%B7%E4%BA%89%E6%89%A7%E6%8D%85%E6%AD%BB%E5%AF%B9%E6%96%B9&sa=fyb_news"
   },
   {
-   "title": "兰蔻在华首家旗舰店已被搬空",
-   "link": "https://m.baidu.com/s?word=%E5%85%B0%E8%94%BB%E5%9C%A8%E5%8D%8E%E9%A6%96%E5%AE%B6%E6%97%97%E8%88%B0%E5%BA%97%E5%B7%B2%E8%A2%AB%E6%90%AC%E7%A9%BA&sa=fyb_news"
+   "title": "全球销量前十首次出现三家中国车企",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E9%A6%96%E6%AC%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81&sa=fyb_news"
   }
  ],
  "ai": [
