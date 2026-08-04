@@ -1,432 +1,460 @@
 {
- "date": "2026-08-03",
- "updatedAt": "2026-08-03 18:29",
+ "date": "2026-08-04",
+ "updatedAt": "2026-08-04 10:18",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3809.66",
-   "change": "-22.60",
-   "pct": "-0.59%",
-   "up": false,
+   "value": "3822.28",
+   "change": "+12.62",
+   "pct": "+0.33%",
+   "up": true,
    "trend": [
-    3812.61,
-    3824.8,
-    3809.84,
-    3816.91,
-    3815.99,
-    3811.52,
-    3809.88,
-    3809.45,
-    3802.13,
-    3809.03,
-    3810.24,
-    3808.49,
-    3812.12,
-    3808.75,
-    3808.8,
-    3808.42,
-    3809.65,
-    3806.88,
-    3805.28,
-    3803.89,
-    3803.39,
-    3799.39,
-    3801.9,
-    3804.94,
-    3801.45,
-    3798.62,
-    3808.73,
-    3813.86,
-    3810.24,
-    3805.93,
-    3804.78,
-    3806.12
+    3816.37,
+    3814.43,
+    3800.86,
+    3813.03,
+    3801.95,
+    3801.89,
+    3802.73,
+    3803.99,
+    3803.5,
+    3807.01,
+    3806.85,
+    3804.82,
+    3805.75,
+    3809.58,
+    3810.09,
+    3811.81,
+    3815.59,
+    3816.65,
+    3818.75,
+    3818.17,
+    3821.22,
+    3824.42,
+    3828.88,
+    3828.2,
+    3829.86,
+    3830.5,
+    3825.93,
+    3822.77,
+    3824.4,
+    3820.58,
+    3817.3,
+    3821.34
    ]
   },
   {
    "name": "深证成指",
-   "value": "13448.29",
-   "change": "-130.64",
-   "pct": "-0.96%",
-   "up": false,
+   "value": "13885.71",
+   "change": "+437.42",
+   "pct": "+3.25%",
+   "up": true,
    "trend": [
-    13497.1,
-    13560.74,
-    13436.84,
-    13519.11,
-    13521.86,
-    13532.23,
-    13540.3,
-    13519.63,
-    13450.82,
-    13514.81,
-    13514.11,
-    13480.89,
-    13526.15,
-    13487.77,
-    13479.06,
-    13487.74,
-    13517.62,
-    13521.34,
-    13494.5,
-    13484.22,
-    13475.55,
-    13456.76,
-    13466.1,
-    13466.55,
-    13438.31,
-    13413.72,
-    13464.62,
-    13475.79,
-    13462.64,
-    13437.94,
-    13437.3,
-    13443.6
+    13572.95,
+    13630.28,
+    13634.62,
+    13705.97,
+    13688.35,
+    13683.18,
+    13689.4,
+    13696.95,
+    13710.23,
+    13737.63,
+    13739.47,
+    13721.65,
+    13715.68,
+    13729.95,
+    13761.78,
+    13775.84,
+    13817.39,
+    13842.34,
+    13825.88,
+    13817.87,
+    13867.27,
+    13883.17,
+    13893.39,
+    13889.62,
+    13909.35,
+    13919.19,
+    13902.74,
+    13869.39,
+    13895.6,
+    13863.53,
+    13848.88,
+    13873.43
    ]
   },
   {
    "name": "创业板指",
-   "value": "3302.55",
-   "change": "-41.41",
-   "pct": "-1.24%",
-   "up": false,
+   "value": "3488.97",
+   "change": "+186.42",
+   "pct": "+5.64%",
+   "up": true,
    "trend": [
-    3320.09,
-    3335.24,
-    3288.41,
-    3314.67,
-    3314.67,
-    3317.28,
-    3320.64,
-    3315.68,
-    3293.34,
-    3318.02,
-    3317.62,
-    3310.48,
-    3329.41,
-    3315.85,
-    3311.89,
-    3319.27,
-    3329.13,
-    3332.93,
-    3322.5,
-    3319.57,
-    3316.6,
-    3309.24,
-    3310.64,
-    3307.48,
-    3298.06,
-    3291.74,
-    3306.3,
-    3309.02,
-    3305.96,
-    3298.92,
-    3299.34,
-    3301.86
+    3353.51,
+    3378.95,
+    3390.63,
+    3414.29,
+    3417.6,
+    3409.74,
+    3410.17,
+    3412.07,
+    3419.3,
+    3429.82,
+    3431.92,
+    3421.84,
+    3419.45,
+    3424.53,
+    3439.66,
+    3444.61,
+    3462.05,
+    3474.29,
+    3466.18,
+    3459.91,
+    3481.29,
+    3486.52,
+    3488.72,
+    3487.15,
+    3497.27,
+    3500.62,
+    3496.11,
+    3482.5,
+    3493.53,
+    3483.18,
+    3477.79,
+    3485.89
    ]
   },
   {
    "name": "恒生指数",
-   "value": "26009.40",
-   "change": "+124.97",
-   "pct": "+0.48%",
-   "up": true,
+   "value": "25852.92",
+   "change": "-156.48",
+   "pct": "-0.60%",
+   "up": false,
    "trend": [
-    25987.31,
-    26005.57,
-    26046.18,
-    25989.77,
-    25911.98,
-    25873.33,
-    25835.82,
-    25866.24,
-    25893.18,
-    25945.81,
-    25919.4,
-    25929.81,
-    25920.0,
-    25897.44,
-    25906.54,
-    25926.01,
-    25915.82,
-    25881.84,
-    25883.73,
-    25897.7,
-    25893.63,
-    25906.47,
-    25916.67,
-    25950.34,
-    25951.54,
-    25946.22,
-    25946.96,
-    25986.95,
-    25957.85,
-    25979.54,
-    25982.09,
-    25975.3
+    26090.98,
+    25984.7,
+    25860.7,
+    25811.53,
+    25860.06,
+    25877.59,
+    25866.1,
+    25854.09,
+    25870.48,
+    25865.51,
+    25896.25,
+    25916.98,
+    25932.1,
+    25893.14,
+    25892.22,
+    25815.08,
+    25847.0,
+    25825.67,
+    25796.09,
+    25781.01,
+    25814.35,
+    25819.87,
+    25796.88,
+    25827.74,
+    25820.15,
+    25801.72,
+    25826.85,
+    25871.44,
+    25866.22,
+    25852.12,
+    25836.87,
+    25807.05
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4037.48",
+  "value": "4045.85",
   "unit": "美元/盎司",
-  "change": "-8.94",
-  "pct": "-0.22%",
+  "change": "-9.49",
+  "pct": "-0.23%",
   "up": false
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.760",
-   "change": "-0.0002",
-   "pct": "-0.00%",
-   "up": false
-  },
-  {
-   "name": "欧元",
-   "value": "7.795",
-   "change": "+0.0004",
-   "pct": "+0.01%",
+   "value": "6.766",
+   "change": "+0.0058",
+   "pct": "+0.09%",
    "up": true
   },
   {
-   "name": "港币",
-   "value": "0.862",
-   "change": "-0.0002",
-   "pct": "-0.03%",
+   "name": "欧元",
+   "value": "7.787",
+   "change": "-0.0084",
+   "pct": "-0.11%",
    "up": false
   },
   {
+   "name": "港币",
+   "value": "0.863",
+   "change": "+0.0008",
+   "pct": "+0.09%",
+   "up": true
+  },
+  {
    "name": "100日元",
-   "value": "4.274",
-   "change": "+0.0005",
-   "pct": "+0.01%",
+   "value": "4.301",
+   "change": "+0.0274",
+   "pct": "+0.64%",
    "up": true
   }
  ],
  "btc": {
-  "usd": "63,796",
-  "cny": "430,803",
-  "pct": "+0.87%",
+  "usd": "63,416",
+  "cny": "428,269",
+  "pct": "+1.10%",
   "up": true,
   "trend": [
-   63235.95,
-   63303.27,
-   63396.11,
-   63373.76,
-   63476.11,
-   63648.13,
-   63371.4,
-   63457.26,
-   63240.54,
-   63163.76,
-   63144.82,
-   63126.22,
-   63012.54,
-   62803.6,
-   62736.62,
-   62746.3,
-   62734.01,
-   62572.53,
-   62548.81,
-   62368.75,
-   62574.91,
-   62724.07,
-   62676.6,
-   62624.07,
-   62564.15,
-   62698.88,
-   63291.54,
-   63684.11,
-   63634.0,
-   63741.41,
-   63711.08,
-   63836.62
+   62701.71,
+   62613.99,
+   62601.11,
+   62556.51,
+   62862.78,
+   63168.52,
+   63629.48,
+   63672.43,
+   63779.9,
+   63692.07,
+   63874.63,
+   63811.45,
+   63879.79,
+   63793.05,
+   63762.81,
+   63648.8,
+   63574.53,
+   63532.71,
+   63439.52,
+   63331.47,
+   63442.48,
+   63745.63,
+   63800.9,
+   63757.31,
+   63809.66,
+   63931.46,
+   63764.33,
+   63720.92,
+   63491.78,
+   63671.2,
+   63548.78,
+   63501.31
   ]
  },
  "weibo": [
   {
-   "title": "DeepSeek一天消耗了8万亿",
-   "link": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF"
+   "title": "卫生巾 虫卵",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%AB%E7%94%9F%E5%B7%BE%20%E8%99%AB%E5%8D%B5"
   },
   {
-   "title": "低精力可以去医院查有没有疾病",
-   "link": "https://s.weibo.com/weibo?q=%E4%BD%8E%E7%B2%BE%E5%8A%9B%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9F%A5%E6%9C%89%E6%B2%A1%E6%9C%89%E7%96%BE%E7%97%85"
+   "title": "上海雪花膏破产",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%9B%AA%E8%8A%B1%E8%86%8F%E7%A0%B4%E4%BA%A7"
   },
   {
-   "title": "没有BGM的导弹测试原声",
-   "link": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89BGM%E7%9A%84%E5%AF%BC%E5%BC%B9%E6%B5%8B%E8%AF%95%E5%8E%9F%E5%A3%B0"
+   "title": "5个案例看我国经济动能向新结构向优",
+   "link": "https://s.weibo.com/weibo?q=5%E4%B8%AA%E6%A1%88%E4%BE%8B%E7%9C%8B%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8A%A8%E8%83%BD%E5%90%91%E6%96%B0%E7%BB%93%E6%9E%84%E5%90%91%E4%BC%98"
   },
   {
-   "title": "日本7人地震逃生后回商场被炸死",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7%E4%BA%BA%E5%9C%B0%E9%9C%87%E9%80%83%E7%94%9F%E5%90%8E%E5%9B%9E%E5%95%86%E5%9C%BA%E8%A2%AB%E7%82%B8%E6%AD%BB"
+   "title": "发朋友圈还要幸福者退让原则",
+   "link": "https://s.weibo.com/weibo?q=%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%BF%98%E8%A6%81%E5%B9%B8%E7%A6%8F%E8%80%85%E9%80%80%E8%AE%A9%E5%8E%9F%E5%88%99"
   },
   {
-   "title": "邹市明已连续数月零收入",
-   "link": "https://s.weibo.com/weibo?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%B7%B2%E8%BF%9E%E7%BB%AD%E6%95%B0%E6%9C%88%E9%9B%B6%E6%94%B6%E5%85%A5"
+   "title": "建议大家买行李箱不要太大众",
+   "link": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%A4%A7%E4%BC%97"
   },
   {
-   "title": "陈伟霆九门直播哭了",
-   "link": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%B9%9D%E9%97%A8%E7%9B%B4%E6%92%AD%E5%93%AD%E4%BA%86"
+   "title": "婚外试管丈夫发声明患癌妻子气吐了",
+   "link": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%AF%95%E7%AE%A1%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%E6%98%8E%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E6%B0%94%E5%90%90%E4%BA%86"
   },
   {
-   "title": "小时候讽刺的现在全理解了",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E5%80%99%E8%AE%BD%E5%88%BA%E7%9A%84%E7%8E%B0%E5%9C%A8%E5%85%A8%E7%90%86%E8%A7%A3%E4%BA%86"
+   "title": "谁来管管AI漫剧女主的穿搭",
+   "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1AI%E6%BC%AB%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%9A%84%E7%A9%BF%E6%90%AD"
   },
   {
-   "title": "DeepSeek登顶全球第一",
-   "link": "https://s.weibo.com/weibo?q=DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80"
+   "title": "甄嬛传AB组妆容差异",
+   "link": "https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0AB%E7%BB%84%E5%A6%86%E5%AE%B9%E5%B7%AE%E5%BC%82"
   },
   {
-   "title": "曝SHE将合体开演唱会",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A"
+   "title": "为什么冰箱能一直开但空调不能",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%B0%E7%AE%B1%E8%83%BD%E4%B8%80%E7%9B%B4%E5%BC%80%E4%BD%86%E7%A9%BA%E8%B0%83%E4%B8%8D%E8%83%BD"
   },
   {
-   "title": "孙颖莎回应缺席发布仪式",
-   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BB%AA%E5%BC%8F"
+   "title": "T1战胜HLE",
+   "link": "https://s.weibo.com/weibo?q=T1%E6%88%98%E8%83%9CHLE"
   },
   {
-   "title": "东莞9岁女孩确诊性早熟",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%9C%E8%8E%9E9%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E6%80%A7%E6%97%A9%E7%86%9F"
+   "title": "大冰直播假牙掉了",
+   "link": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%9B%B4%E6%92%AD%E5%81%87%E7%89%99%E6%8E%89%E4%BA%86"
   },
   {
-   "title": "捅死男友女子父母多次给男方父母道歉下跪",
-   "link": "https://s.weibo.com/weibo?q=%E6%8D%85%E6%AD%BB%E7%94%B7%E5%8F%8B%E5%A5%B3%E5%AD%90%E7%88%B6%E6%AF%8D%E5%A4%9A%E6%AC%A1%E7%BB%99%E7%94%B7%E6%96%B9%E7%88%B6%E6%AF%8D%E9%81%93%E6%AD%89%E4%B8%8B%E8%B7%AA"
+   "title": "第一次对大骨架有了清晰的认知",
+   "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E5%A4%A7%E9%AA%A8%E6%9E%B6%E6%9C%89%E4%BA%86%E6%B8%85%E6%99%B0%E7%9A%84%E8%AE%A4%E7%9F%A5"
   }
  ],
  "zhihu": [
   {
-   "title": "如何看待7月末至8月初有多家韩国公司发布AI称性能强于DeepSeek？",
-   "link": "https://www.zhihu.com/question/2067512422555029717"
+   "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证？",
+   "link": "https://www.zhihu.com/question/2065477563548546516"
   },
   {
-   "title": "消费者因银鹭抽奖码被提前核销维权，获赔后却被备注「敲诈」，企业后称财务失误，这个回应站得住脚吗？",
-   "link": "https://www.zhihu.com/question/2067542275152765264"
+   "title": "如何看待24岁华尔街AI天才掌管450亿美元、以4倍杠杆极致梭哈AI硬件，最终遭华尔街「围猎」爆仓？",
+   "link": "https://www.zhihu.com/question/2066578072997049748"
   },
   {
-   "title": "樊振东逆转张本智和，这场球到底神在哪？",
-   "link": "https://www.zhihu.com/question/2067255348658974721"
+   "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+   "link": "https://www.zhihu.com/question/2067873642554156045"
   },
   {
-   "title": "1.55 升哑铃造型矿泉水走红，这种创意设计能代替正规哑铃吗？你愿为这种创意买单吗？",
-   "link": "https://www.zhihu.com/question/2066555609168568629"
+   "title": "如何评价赛力斯问界2026年7月销量严重下滑，月销量不足21,000辆？",
+   "link": "https://www.zhihu.com/question/2067882801500836048"
   },
   {
-   "title": "精神科医生「10级美颜证件照」火了，出诊照却素颜干练，这种反差戳中了什么？为什么大家边笑边把号挂满了？",
-   "link": "https://www.zhihu.com/question/2066913394364568113"
+   "title": "「精神小伙」一篇《致我十年未见的妈妈》获赞 200 万，看完这篇文章你有哪些感触？",
+   "link": "https://www.zhihu.com/question/2067703500390097949"
   },
   {
-   "title": "建设银行多网点试行午休制度，如何看待这一调整？网友反对称未来办业务会更难，你支持银行午休推广吗？",
-   "link": "https://www.zhihu.com/question/2067294066811856636"
+   "title": "为什么《潜伏》里面说佛龛价值连城，明明佛龛一直在潜伏寸功未立，而且换回来之后基本就是个普通特务了？",
+   "link": "https://www.zhihu.com/question/1979905139356747069"
   },
   {
-   "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-   "link": "https://www.zhihu.com/question/2067545767003120313"
+   "title": "59岁绿化工人疑遭职场霸凌工作群留遗言后坠亡，3小时后群聊被强制解散，公司需承担哪些责任？",
+   "link": "https://www.zhihu.com/question/2066650167198196675"
   },
   {
-   "title": "巴基斯坦发生雪崩，10人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
-   "link": "https://www.zhihu.com/question/2066825720576398691"
+   "title": "罗正、邹市明夫妇、闫学晶等明星开始哭穷，如何看待这一现象？到底是在卖惨博流量还是明星收入真在锐减？",
+   "link": "https://www.zhihu.com/question/2067282528147169478"
   },
   {
-   "title": "竹知了视频被投诉下架，对品牌来说，这类事情有没有更好的公关办法？你知道哪些可供借鉴的经典案例？",
-   "link": "https://www.zhihu.com/question/2067599395801883263"
+   "title": "消息称网易仙侠单机《剑心雕龙》项目组解散，前不久游戏刚刚结束首测，具体情况如何？你怎么看？",
+   "link": "https://www.zhihu.com/question/2067693720145867718"
   },
   {
-   "title": "一夜无梦才是高质量的睡眠是真的吗？",
-   "link": "https://www.zhihu.com/question/2017951131049883567"
+   "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
+   "link": "https://www.zhihu.com/question/2067668934749427118"
   },
   {
-   "title": "多平台牛蛙抽检抗生素超标，为什么这类成分屡屡超标？吃了对身体有危害吗？购买时有办法辨别牛蛙是否安全吗？",
-   "link": "https://www.zhihu.com/question/2067556268080722795"
+   "title": "如何看待单亲妈妈扛沙养家，孩子给同学买榴莲还训斥妈妈？面对孩子的超支消费家长该怎么沟通才能避免冲突？",
+   "link": "https://www.zhihu.com/question/2067653827646289644"
   },
   {
-   "title": "为什么截止目前，小米澎程n70 max全网不开放内饰评测？",
-   "link": "https://www.zhihu.com/question/2067015006886032075"
+   "title": "仅仅国科大一家在学的博士生数量已经突破了3万，身处一个硕博狂飙的大时代，我们的下一代该怎么办？",
+   "link": "https://www.zhihu.com/question/2065845417858819171"
   }
  ],
  "baidu": [
   {
-   "title": "实业报国志 接力谱新篇",
-   "link": "https://m.baidu.com/s?word=%E5%AE%9E%E4%B8%9A%E6%8A%A5%E5%9B%BD%E5%BF%97+%E6%8E%A5%E5%8A%9B%E8%B0%B1%E6%96%B0%E7%AF%87&sa=fyb_news"
+   "title": "东风浩荡开新局",
+   "link": "https://m.baidu.com/s?word=%E4%B8%9C%E9%A3%8E%E6%B5%A9%E8%8D%A1%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news"
   },
   {
-   "title": "DeepSeek 斩杀线",
-   "link": "https://m.baidu.com/s?word=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF&sa=fyb_news"
+   "title": "不加微信怎么用微信",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8D%E5%8A%A0%E5%BE%AE%E4%BF%A1%E6%80%8E%E4%B9%88%E7%94%A8%E5%BE%AE%E4%BF%A1&sa=fyb_news"
   },
   {
-   "title": "含糖碳酸饮料大势已去",
-   "link": "https://m.baidu.com/s?word=%E5%90%AB%E7%B3%96%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E5%A4%A7%E5%8A%BF%E5%B7%B2%E5%8E%BB&sa=fyb_news"
+   "title": "建行一分行员工午休暂停柜面服务",
+   "link": "https://m.baidu.com/s?word=%E5%BB%BA%E8%A1%8C%E4%B8%80%E5%88%86%E8%A1%8C%E5%91%98%E5%B7%A5%E5%8D%88%E4%BC%91%E6%9A%82%E5%81%9C%E6%9F%9C%E9%9D%A2%E6%9C%8D%E5%8A%A1&sa=fyb_news"
   },
   {
-   "title": "穿山跨海的“黄金大外环”要来了",
-   "link": "https://m.baidu.com/s?word=%E7%A9%BF%E5%B1%B1%E8%B7%A8%E6%B5%B7%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "下半年 经济工作如何推进",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8B%E5%8D%8A%E5%B9%B4+%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%A6%82%E4%BD%95%E6%8E%A8%E8%BF%9B&sa=fyb_news"
   },
   {
-   "title": "进口豪车在华卖不动了",
-   "link": "https://m.baidu.com/s?word=%E8%BF%9B%E5%8F%A3%E8%B1%AA%E8%BD%A6%E5%9C%A8%E5%8D%8E%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
+   "title": "小龙虾的虾头和虾黄到底能不能吃",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E9%BE%99%E8%99%BE%E7%9A%84%E8%99%BE%E5%A4%B4%E5%92%8C%E8%99%BE%E9%BB%84%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83&sa=fyb_news"
   },
   {
-   "title": "“江西球王”杨志军单场轰101分",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B1%9F%E8%A5%BF%E7%90%83%E7%8E%8B%E2%80%9D%E6%9D%A8%E5%BF%97%E5%86%9B%E5%8D%95%E5%9C%BA%E8%BD%B0101%E5%88%86&sa=fyb_news"
+   "title": "“倒数第一漂亮”小狗已被买走",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%E6%BC%82%E4%BA%AE%E2%80%9D%E5%B0%8F%E7%8B%97%E5%B7%B2%E8%A2%AB%E4%B9%B0%E8%B5%B0&sa=fyb_news"
   },
   {
-   "title": "贵州一景区有游客跌入68级瀑布",
-   "link": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%99%AF%E5%8C%BA%E6%9C%89%E6%B8%B8%E5%AE%A2%E8%B7%8C%E5%85%A568%E7%BA%A7%E7%80%91%E5%B8%83&sa=fyb_news"
+   "title": "A股“股王”涨停",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C&sa=fyb_news"
   },
   {
-   "title": "1755枚比特币被偷 价值约7.43亿元",
-   "link": "https://m.baidu.com/s?word=1755%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E5%81%B7+%E4%BB%B7%E5%80%BC%E7%BA%A67.43%E4%BA%BF%E5%85%83&sa=fyb_news"
+   "title": "U17国足再胜欧洲劲旅 取得2连胜",
+   "link": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%86%8D%E8%83%9C%E6%AC%A7%E6%B4%B2%E5%8A%B2%E6%97%85+%E5%8F%96%E5%BE%972%E8%BF%9E%E8%83%9C&sa=fyb_news"
   },
   {
-   "title": "煮火锅突然爆炸全屋溅满红油",
-   "link": "https://m.baidu.com/s?word=%E7%85%AE%E7%81%AB%E9%94%85%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%85%A8%E5%B1%8B%E6%BA%85%E6%BB%A1%E7%BA%A2%E6%B2%B9&sa=fyb_news"
+   "title": "婚外试管丈夫发声明 患癌妻子气吐",
+   "link": "https://m.baidu.com/s?word=%E5%A9%9A%E5%A4%96%E8%AF%95%E7%AE%A1%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%E6%98%8E+%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E6%B0%94%E5%90%90&sa=fyb_news"
   },
   {
-   "title": "青岛火车站好多人拖着铁桶扎啤返乡",
-   "link": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E7%81%AB%E8%BD%A6%E7%AB%99%E5%A5%BD%E5%A4%9A%E4%BA%BA%E6%8B%96%E7%9D%80%E9%93%81%E6%A1%B6%E6%89%8E%E5%95%A4%E8%BF%94%E4%B9%A1&sa=fyb_news"
+   "title": "韦唯回忆10年跨国婚姻：完全就是上当",
+   "link": "https://m.baidu.com/s?word=%E9%9F%A6%E5%94%AF%E5%9B%9E%E5%BF%8610%E5%B9%B4%E8%B7%A8%E5%9B%BD%E5%A9%9A%E5%A7%BB%EF%BC%9A%E5%AE%8C%E5%85%A8%E5%B0%B1%E6%98%AF%E4%B8%8A%E5%BD%93&sa=fyb_news"
   },
   {
-   "title": "贵阳“半夜”马路上还大排长龙",
-   "link": "https://m.baidu.com/s?word=%E8%B4%B5%E9%98%B3%E2%80%9C%E5%8D%8A%E5%A4%9C%E2%80%9D%E9%A9%AC%E8%B7%AF%E4%B8%8A%E8%BF%98%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
+   "title": "上海飞东京航班险与飞行检查飞机相撞",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E9%A3%9E%E4%B8%9C%E4%BA%AC%E8%88%AA%E7%8F%AD%E9%99%A9%E4%B8%8E%E9%A3%9E%E8%A1%8C%E6%A3%80%E6%9F%A5%E9%A3%9E%E6%9C%BA%E7%9B%B8%E6%92%9E&sa=fyb_news"
   },
   {
-   "title": "国家博物馆声明：从未授权馆外扫码",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A3%B0%E6%98%8E%EF%BC%9A%E4%BB%8E%E6%9C%AA%E6%8E%88%E6%9D%83%E9%A6%86%E5%A4%96%E6%89%AB%E7%A0%81&sa=fyb_news"
+   "title": "AI仿制通知书诈骗 开学季如何避坑",
+   "link": "https://m.baidu.com/s?word=AI%E4%BB%BF%E5%88%B6%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%AF%88%E9%AA%97+%E5%BC%80%E5%AD%A6%E5%AD%A3%E5%A6%82%E4%BD%95%E9%81%BF%E5%9D%91&sa=fyb_news"
   },
   {
-   "title": "放假7天 准备买票",
-   "link": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%877%E5%A4%A9+%E5%87%86%E5%A4%87%E4%B9%B0%E7%A5%A8&sa=fyb_news"
+   "title": "DeepSeek低价风暴打服硅谷",
+   "link": "https://m.baidu.com/s?word=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7&sa=fyb_news"
   },
   {
-   "title": "DeepSeek斩杀线斩的是什么",
-   "link": "https://m.baidu.com/s?word=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&sa=fyb_news"
+   "title": "女教师因备孕与男友起争执捅死对方",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E6%95%99%E5%B8%88%E5%9B%A0%E5%A4%87%E5%AD%95%E4%B8%8E%E7%94%B7%E5%8F%8B%E8%B5%B7%E4%BA%89%E6%89%A7%E6%8D%85%E6%AD%BB%E5%AF%B9%E6%96%B9&sa=fyb_news"
   },
   {
-   "title": "女童独自乘电梯反复进出从14楼坠亡",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AB%A5%E7%8B%AC%E8%87%AA%E4%B9%98%E7%94%B5%E6%A2%AF%E5%8F%8D%E5%A4%8D%E8%BF%9B%E5%87%BA%E4%BB%8E14%E6%A5%BC%E5%9D%A0%E4%BA%A1&sa=fyb_news"
+   "title": "小学门口“一根杆长椅”走红",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E2%80%9C%E4%B8%80%E6%A0%B9%E6%9D%86%E9%95%BF%E6%A4%85%E2%80%9D%E8%B5%B0%E7%BA%A2&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Grok 支持分析任意视频",
-   "link": "https://x.com/elonmusk/status/2083800942927839307"
+   "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+   "link": "https://qwen.ai/blog?id=qwen3.8"
   },
   {
-   "title": "Cloudflare 开启 Agents Week：探讨面向智能体的 Agent Cloud 形态",
-   "link": "https://blog.cloudflare.com/agents-week-welcome"
+   "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+   "link": "https://x.com/SenseTime_AI/status/2084288424236782073"
   },
   {
-   "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-   "link": "https://x.com/AYi_AInotes/status/2083867265179537565"
+   "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+   "link": "https://blog.cloudflare.com/billable-usage-api"
   },
   {
-   "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-   "link": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold"
+   "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+   "link": "https://x.com/OpenRouter/status/2084301100078027143"
   },
   {
-   "title": "最新开源模型盘点（#23）：Laguna S2.1、Inkling 与 Kimi K3 展现开源模型在帕累托前沿的价值",
-   "link": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21"
+   "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+   "link": "https://blog.cloudflare.com/cloudflare-computer"
+  },
+  {
+   "title": "GPT-Live实时音频新架构发布",
+   "link": "https://x.com/gdb/status/2084405421041963356"
+  },
+  {
+   "title": "微软开源 Orchard 智能体训练框架",
+   "link": "https://x.com/MSFTResearch/status/2084364547142418722"
+  },
+  {
+   "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
+   "link": "https://blog.cloudflare.com/grpc-workers"
+  },
+  {
+   "title": "Data Commons on Spanner Graph 正式可用：统一公共与私有数据构建知识图谱",
+   "link": "https://cloud.google.com/blog/products/databases/unify-public-and-private-data-with-data-commons-on-spanner-graph"
+  },
+  {
+   "title": "Databricks 推出 Variant 通用可用版本，加速半结构化数据摄取",
+   "link": "https://www.databricks.com/blog/ingest-semi-structured-data-faster-and-more-efficiently-variant-now-generally-available"
+  },
+  {
+   "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
+  },
+  {
+   "title": "Databricks 完成对 Panther 的收购，加速安全湖仓时代",
+   "link": "https://www.databricks.com/blog/databricks-completes-acquisition-panther-accelerating-security-lakehouse-era"
   }
  ]
 }
