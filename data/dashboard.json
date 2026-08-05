@@ -1,6 +1,6 @@
 {
  "date": "2026-08-05",
- "updatedAt": "2026-08-05 15:51",
+ "updatedAt": "2026-08-05 18:07",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4244.08",
+  "value": "4255.06",
   "unit": "美元/盎司",
-  "change": "+166.87",
-  "pct": "+4.09%",
+  "change": "+177.85",
+  "pct": "+4.36%",
   "up": true
  },
  "forex": [
@@ -206,14 +206,11 @@
   }
  ],
  "btc": {
-  "usd": "64,467",
-  "cny": "435,380",
-  "pct": "+0.59%",
+  "usd": "64,669",
+  "cny": "436,518",
+  "pct": "+0.91%",
   "up": true,
   "trend": [
-   64097.6,
-   63921.5,
-   63994.36,
    64075.53,
    64268.59,
    64280.61,
@@ -242,7 +239,10 @@
    64299.72,
    64118.99,
    64341.95,
-   64563.21
+   64563.21,
+   64387.45,
+   64655.79,
+   64520.06
   ]
  },
  "weibo": [
@@ -251,48 +251,48 @@
    "link": "https://s.weibo.com/weibo?q=%E6%A2%85%E5%A7%A8%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E9%A6%96%E6%9B%9D%E5%85%89"
   },
   {
-   "title": "戴手链美甲给宝宝打针护士已停职",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%B4%E6%89%8B%E9%93%BE%E7%BE%8E%E7%94%B2%E7%BB%99%E5%AE%9D%E5%AE%9D%E6%89%93%E9%92%88%E6%8A%A4%E5%A3%AB%E5%B7%B2%E5%81%9C%E8%81%8C"
+   "title": "李亚鹏向地铁吐血女孩捐99999元",
+   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%90%91%E5%9C%B0%E9%93%81%E5%90%90%E8%A1%80%E5%A5%B3%E5%AD%A9%E6%8D%9099999%E5%85%83"
   },
   {
    "title": "跟着大国交通看山河中国",
    "link": "https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E5%A4%A7%E5%9B%BD%E4%BA%A4%E9%80%9A%E7%9C%8B%E5%B1%B1%E6%B2%B3%E4%B8%AD%E5%9B%BD"
   },
   {
-   "title": "可杰 top",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%AF%E6%9D%B0%20top"
+   "title": "台风",
+   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E"
   },
   {
    "title": "成年人的体面是把请客说得很自然",
    "link": "https://s.weibo.com/weibo?q=%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E4%BD%93%E9%9D%A2%E6%98%AF%E6%8A%8A%E8%AF%B7%E5%AE%A2%E8%AF%B4%E5%BE%97%E5%BE%88%E8%87%AA%E7%84%B6"
   },
   {
-   "title": "婚外胚胎案原配首次与第三者当面对质",
-   "link": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E5%8E%9F%E9%85%8D%E9%A6%96%E6%AC%A1%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E5%BD%93%E9%9D%A2%E5%AF%B9%E8%B4%A8"
+   "title": "老祖宗怎么可以聪明成这样",
+   "link": "https://s.weibo.com/weibo?q=%E8%80%81%E7%A5%96%E5%AE%97%E6%80%8E%E4%B9%88%E5%8F%AF%E4%BB%A5%E8%81%AA%E6%98%8E%E6%88%90%E8%BF%99%E6%A0%B7"
   },
   {
    "title": "卜冠今吓到我了",
    "link": "https://s.weibo.com/weibo?q=%E5%8D%9C%E5%86%A0%E4%BB%8A%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86"
   },
   {
-   "title": "黄杨钿甜新剧低调开播热度暴跌",
-   "link": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%96%B0%E5%89%A7%E4%BD%8E%E8%B0%83%E5%BC%80%E6%92%AD%E7%83%AD%E5%BA%A6%E6%9A%B4%E8%B7%8C"
+   "title": "这一秒过火全员be",
+   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%85%A8%E5%91%98be"
   },
   {
-   "title": "费大厨全国小炒肉大王仅凭视频评出",
-   "link": "https://s.weibo.com/weibo?q=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E4%BB%85%E5%87%AD%E8%A7%86%E9%A2%91%E8%AF%84%E5%87%BA"
+   "title": "柳周cp爆火后参加毛雪汪地球超新鲜",
+   "link": "https://s.weibo.com/weibo?q=%E6%9F%B3%E5%91%A8cp%E7%88%86%E7%81%AB%E5%90%8E%E5%8F%82%E5%8A%A0%E6%AF%9B%E9%9B%AA%E6%B1%AA%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C"
   },
   {
-   "title": "苹果要求长鑫降价反遭涨价",
-   "link": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7"
+   "title": "被泰航拒载中国乘客发声",
+   "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E6%B3%B0%E8%88%AA%E6%8B%92%E8%BD%BD%E4%B8%AD%E5%9B%BD%E4%B9%98%E5%AE%A2%E5%8F%91%E5%A3%B0"
   },
   {
    "title": "茉莉奶白被茉莉和奶白背刺了",
    "link": "https://s.weibo.com/weibo?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E8%A2%AB%E8%8C%89%E8%8E%89%E5%92%8C%E5%A5%B6%E7%99%BD%E8%83%8C%E5%88%BA%E4%BA%86"
   },
   {
-   "title": "这一秒过火全员be",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%85%A8%E5%91%98be"
+   "title": "可杰 top",
+   "link": "https://s.weibo.com/weibo?q=%E5%8F%AF%E6%9D%B0%20top"
   }
  ],
  "zhihu": [
@@ -301,48 +301,48 @@
    "link": "https://www.zhihu.com/question/2068277179704664546"
   },
   {
-   "title": "梁文锋会不会成为中国AI里程碑人物？",
-   "link": "https://www.zhihu.com/question/10315979917"
-  },
-  {
    "title": "美国 7 月囤 20 万吨精炼铜，美国为啥热衷抢铜？会对全球产业链产生什么影响？",
    "link": "https://www.zhihu.com/question/2068000098995402303"
+  },
+  {
+   "title": "梁文锋会不会成为中国AI里程碑人物？",
+   "link": "https://www.zhihu.com/question/10315979917"
   },
   {
    "title": "女子山姆 40 元披萨吃出 108 元剪刀，可能是哪个环节出了问题？反映了哪些质量管理问题？",
    "link": "https://www.zhihu.com/question/2067981063033561186"
   },
   {
-   "title": "如何评价文章《那一夜，腾讯因为没有文档文化无法蒸馏》?",
-   "link": "https://www.zhihu.com/question/2066556645577060770"
-  },
-  {
-   "title": "老一辈为什么总是怕被别人笑话？到底是谁在笑话他们？",
-   "link": "https://www.zhihu.com/question/2067295834530751415"
-  },
-  {
-   "title": "怎么看 OpenAI 提到下一代Harness将脱离 PC，两三个月后现在的Codex工作方式会淘汰？",
-   "link": "https://www.zhihu.com/question/2068265537105302957"
-  },
-  {
    "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
    "link": "https://www.zhihu.com/question/2068309576659595271"
+  },
+  {
+   "title": "商务部称「美方置中方多次交涉于不顾，中方只能采取必要的反制措施」，释放哪些信号？",
+   "link": "https://www.zhihu.com/question/2068373253542916211"
   },
   {
    "title": "段永平减持了泡泡玛特，前几天刚说十年内不卖，如何评价他的操作？",
    "link": "https://www.zhihu.com/question/2068389679494161975"
   },
   {
-   "title": "内存什么时候能迎来降价？",
-   "link": "https://www.zhihu.com/question/2065573178345363233"
+   "title": "怎么看 OpenAI 提到下一代Harness将脱离 PC，两三个月后现在的Codex工作方式会淘汰？",
+   "link": "https://www.zhihu.com/question/2068265537105302957"
+  },
+  {
+   "title": "如何评价文章《那一夜，腾讯因为没有文档文化无法蒸馏》?",
+   "link": "https://www.zhihu.com/question/2066556645577060770"
+  },
+  {
+   "title": "媒体称电车露营正干崩暑期酒店生意，全国平均入住率同比下降3%，真是这样吗？你愿意省下房费住进车里吗？",
+   "link": "https://www.zhihu.com/question/2068051214399267230"
   },
   {
    "title": "如何看待郭帆表示《流浪地球3》不会走《流浪地球1》的半爆米花风格?",
    "link": "https://www.zhihu.com/question/2068051396990130086"
   },
   {
-   "title": "辽宁海城酸菜坑清理致 4 农户死亡，为何会酸菜坑会引发窒息和中毒？应如何做好防护？",
-   "link": "https://www.zhihu.com/question/2067928915239237007"
+   "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
+   "link": "https://www.zhihu.com/question/2067670987710189967"
   }
  ],
  "baidu": [
@@ -371,40 +371,40 @@
    "link": "https://m.baidu.com/s?word=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%9C%A8%E8%81%8C%E6%A0%A1%E5%BC%80%E9%A4%90%E5%8E%85%E8%B6%85%E5%B8%82&sa=fyb_news"
   },
   {
+   "title": "小学门口“一根棍”长椅怎么就火了",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E2%80%9C%E4%B8%80%E6%A0%B9%E6%A3%8D%E2%80%9D%E9%95%BF%E6%A4%85%E6%80%8E%E4%B9%88%E5%B0%B1%E7%81%AB%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "女子旅游错把丧葬品当纪念品买下",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B&sa=fyb_news"
+  },
+  {
    "title": "一对俄罗斯双胞胎在上海地铁站跳芭蕾",
    "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%8C%E8%83%9E%E8%83%8E%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E7%AB%99%E8%B7%B3%E8%8A%AD%E8%95%BE&sa=fyb_news"
+  },
+  {
+   "title": "费大厨全国小炒肉大王仅凭视频评出",
+   "link": "https://m.baidu.com/s?word=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%85%A8%E5%9B%BD%E5%B0%8F%E7%82%92%E8%82%89%E5%A4%A7%E7%8E%8B%E4%BB%85%E5%87%AD%E8%A7%86%E9%A2%91%E8%AF%84%E5%87%BA&sa=fyb_news"
   },
   {
    "title": "车主因邻车长期压线停车安装防护栏",
    "link": "https://m.baidu.com/s?word=%E8%BD%A6%E4%B8%BB%E5%9B%A0%E9%82%BB%E8%BD%A6%E9%95%BF%E6%9C%9F%E5%8E%8B%E7%BA%BF%E5%81%9C%E8%BD%A6%E5%AE%89%E8%A3%85%E9%98%B2%E6%8A%A4%E6%A0%8F&sa=fyb_news"
   },
   {
-   "title": "反制美国！中方公布5项措施",
-   "link": "https://m.baidu.com/s?word=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD&sa=fyb_news"
-  },
-  {
-   "title": "自闭症男童家长要杀猪摆宴感谢好心人",
-   "link": "https://m.baidu.com/s?word=%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E7%AB%A5%E5%AE%B6%E9%95%BF%E8%A6%81%E6%9D%80%E7%8C%AA%E6%91%86%E5%AE%B4%E6%84%9F%E8%B0%A2%E5%A5%BD%E5%BF%83%E4%BA%BA&sa=fyb_news"
-  },
-  {
-   "title": "小学门口“一根棍”长椅怎么就火了",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E2%80%9C%E4%B8%80%E6%A0%B9%E6%A3%8D%E2%80%9D%E9%95%BF%E6%A4%85%E6%80%8E%E4%B9%88%E5%B0%B1%E7%81%AB%E4%BA%86&sa=fyb_news"
-  },
-  {
    "title": "新疆疏附县发生8.5级地震系谣言",
    "link": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E7%96%8F%E9%99%84%E5%8E%BF%E5%8F%91%E7%94%9F8.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "老板杀女友后抛尸 一度判无罪获国赔",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E6%9D%80%E5%A5%B3%E5%8F%8B%E5%90%8E%E6%8A%9B%E5%B0%B8+%E4%B8%80%E5%BA%A6%E5%88%A4%E6%97%A0%E7%BD%AA%E8%8E%B7%E5%9B%BD%E8%B5%94&sa=fyb_news"
+   "title": "余承东：手机可能都要大规模涨价",
+   "link": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7&sa=fyb_news"
   },
   {
    "title": "周杰伦晒打网球图 配文：照打",
    "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E6%89%93%E7%BD%91%E7%90%83%E5%9B%BE+%E9%85%8D%E6%96%87%EF%BC%9A%E7%85%A7%E6%89%93&sa=fyb_news"
   },
   {
-   "title": "笔试第一遭第二名花钱劝退 当地通报",
-   "link": "https://m.baidu.com/s?word=%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E9%81%AD%E7%AC%AC%E4%BA%8C%E5%90%8D%E8%8A%B1%E9%92%B1%E5%8A%9D%E9%80%80+%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5&sa=fyb_news"
+   "title": "反制美国！中方公布5项措施",
+   "link": "https://m.baidu.com/s?word=%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%9B%BD%EF%BC%81%E4%B8%AD%E6%96%B9%E5%85%AC%E5%B8%835%E9%A1%B9%E6%8E%AA%E6%96%BD&sa=fyb_news"
   }
  ],
  "ai": [
