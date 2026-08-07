@@ -1,6 +1,6 @@
 {
  "date": "2026-08-07",
- "updatedAt": "2026-08-07 08:32",
+ "updatedAt": "2026-08-07 11:12",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4299.70",
+  "value": "4324.13",
   "unit": "美元/盎司",
-  "change": "+59.15",
-  "pct": "+1.39%",
+  "change": "+83.58",
+  "pct": "+1.97%",
   "up": true
  },
  "forex": [
@@ -206,143 +206,143 @@
   }
  ],
  "btc": {
-  "usd": "64,405",
-  "cny": "434,717",
-  "pct": "-0.67%",
-  "up": false,
+  "usd": "64,931",
+  "cny": "438,222",
+  "pct": "+0.67%",
+  "up": true,
   "trend": [
-   64827.3,
-   64739.08,
-   64576.51,
-   64574.68,
-   64561.33,
-   64393.86,
-   64313.27,
-   64379.08,
-   64482.87,
-   64704.03,
-   64574.19,
-   64644.42,
-   64608.76,
-   64501.46,
-   64380.92,
-   64370.63,
-   64429.98,
-   64419.8,
-   64352.76,
-   64312.99,
-   64201.63,
-   64226.68,
-   64375.03,
-   64350.55,
-   64275.69,
-   64267.5,
-   64235.33,
-   64173.99,
-   64132.44,
-   64356.41,
-   64251.47,
-   64316.77
+   64506.0,
+   64553.9,
+   64459.74,
+   64171.36,
+   64407.07,
+   64722.46,
+   64701.99,
+   64596.88,
+   64667.19,
+   64568.69,
+   64368.4,
+   64355.07,
+   64471.77,
+   64390.54,
+   64420.47,
+   64299.59,
+   64294.48,
+   64262.75,
+   64261.28,
+   64364.8,
+   64334.11,
+   64347.39,
+   64286.96,
+   64245.37,
+   64196.81,
+   64287.85,
+   64302.26,
+   64358.9,
+   64323.31,
+   64549.0,
+   64852.44,
+   64834.33
   ]
  },
  "weibo": [
   {
-   "title": "南航 西梅汁",
-   "link": "https://s.weibo.com/weibo?q=%E5%8D%97%E8%88%AA%20%E8%A5%BF%E6%A2%85%E6%B1%81"
+   "title": "台风",
+   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E"
   },
   {
-   "title": "曝念相思停拍换男主",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%81%9C%E6%8B%8D%E6%8D%A2%E7%94%B7%E4%B8%BB"
+   "title": "河南三支一扶笔试将重考",
+   "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%B0%86%E9%87%8D%E8%80%83"
   },
   {
    "title": "前7个月货物贸易进出口超30万亿元",
    "link": "https://s.weibo.com/weibo?q=%E5%89%8D7%E4%B8%AA%E6%9C%88%E8%B4%A7%E7%89%A9%E8%B4%B8%E6%98%93%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B6%8530%E4%B8%87%E4%BA%BF%E5%85%83"
   },
   {
-   "title": "张雅琪晒中餐厅10图",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E6%99%92%E4%B8%AD%E9%A4%90%E5%8E%8510%E5%9B%BE"
+   "title": "王者荣耀直播",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%9B%B4%E6%92%AD"
   },
   {
-   "title": "现在的小学生已经是庞然大物了",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%BA%9E%E7%84%B6%E5%A4%A7%E7%89%A9%E4%BA%86"
+   "title": "三支一扶作弊案",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E4%BD%9C%E5%BC%8A%E6%A1%88"
   },
   {
-   "title": "ai漫剧男主唯一塌房方式被找到了",
-   "link": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86"
-  },
-  {
-   "title": "泸溪河牙冠事件消费者已致歉",
-   "link": "https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89"
-  },
-  {
-   "title": "星巴克 秋天第一场商战",
-   "link": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%20%E7%A7%8B%E5%A4%A9%E7%AC%AC%E4%B8%80%E5%9C%BA%E5%95%86%E6%88%98"
-  },
-  {
-   "title": "韩国被爆性贿赂世预赛裁判",
-   "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%A2%AB%E7%88%86%E6%80%A7%E8%B4%BF%E8%B5%82%E4%B8%96%E9%A2%84%E8%B5%9B%E8%A3%81%E5%88%A4"
-  },
-  {
-   "title": "iPhone18Pro系列价格预测",
-   "link": "https://s.weibo.com/weibo?q=iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B"
-  },
-  {
-   "title": "王楚钦被赞现象级超级巨星",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A2%AB%E8%B5%9E%E7%8E%B0%E8%B1%A1%E7%BA%A7%E8%B6%85%E7%BA%A7%E5%B7%A8%E6%98%9F"
+   "title": "飞机免费退改票真的来了",
+   "link": "https://s.weibo.com/weibo?q=%E9%A3%9E%E6%9C%BA%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%A5%A8%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86"
   },
   {
    "title": "最尊重立秋的城市出现了",
    "link": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E9%87%8D%E7%AB%8B%E7%A7%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86"
+  },
+  {
+   "title": "北京大雨",
+   "link": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%9B%A8"
+  },
+  {
+   "title": "河南2026年三支一扶计划招募公告",
+   "link": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%972026%E5%B9%B4%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%AE%A1%E5%88%92%E6%8B%9B%E5%8B%9F%E5%85%AC%E5%91%8A"
+  },
+  {
+   "title": "王者萌新之夜表演赛直播",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%90%8C%E6%96%B0%E4%B9%8B%E5%A4%9C%E8%A1%A8%E6%BC%94%E8%B5%9B%E7%9B%B4%E6%92%AD"
+  },
+  {
+   "title": "没作弊的人 重考",
+   "link": "https://s.weibo.com/weibo?q=%E6%B2%A1%E4%BD%9C%E5%BC%8A%E7%9A%84%E4%BA%BA%20%E9%87%8D%E8%80%83"
+  },
+  {
+   "title": "曝综艺因辛芷蕾延播",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%BB%BC%E8%89%BA%E5%9B%A0%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%BB%B6%E6%92%AD"
   }
  ],
  "zhihu": [
   {
-   "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
-   "link": "https://www.zhihu.com/question/2068637080209421054"
-  },
-  {
-   "title": "网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？",
-   "link": "https://www.zhihu.com/question/2068358710498254999"
+   "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战+世预赛？暴露出哪些问题？",
+   "link": "https://www.zhihu.com/question/2068833130803196943"
   },
   {
    "title": "新生儿入住月子会所 4 天后颅内出血进ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？",
    "link": "https://www.zhihu.com/question/2068703340356003104"
   },
   {
-   "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战+世预赛？暴露出哪些问题？",
-   "link": "https://www.zhihu.com/question/2068833130803196943"
+   "title": "公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？",
+   "link": "https://www.zhihu.com/question/2068750826869413005"
   },
   {
    "title": "孩子准备上大一了，一个月跟我要1500的生活费，会不会太多了？",
    "link": "https://www.zhihu.com/question/2066558957930420222"
   },
   {
-   "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
-   "link": "https://www.zhihu.com/question/2069020073851983605"
+   "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+   "link": "https://www.zhihu.com/question/22432296"
+  },
+  {
+   "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+   "link": "https://www.zhihu.com/question/2068810918826447155"
+  },
+  {
+   "title": "如何评价GPT-5.6Luna免费不限量，后续基础大模型都会走向免费吗？",
+   "link": "https://www.zhihu.com/question/2068986574256312589"
   },
   {
    "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
    "link": "https://www.zhihu.com/question/2062925324489339966"
   },
   {
-   "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
-   "link": "https://www.zhihu.com/question/2068641150270026516"
+   "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
+   "link": "https://www.zhihu.com/question/2068423522058244663"
+  },
+  {
+   "title": "河南「三支一扶」考试存组织作弊犯罪，作弊团伙主要成员被抓，哪些人将面临法律追责？暴露了哪些监管失灵？",
+   "link": "https://www.zhihu.com/question/2069099461372899726"
   },
   {
    "title": "如何看待蜘蛛侠荷兰弟替身「河南弟」误导舆论、造假抢功、疑似还遭剧组开除一事？",
    "link": "https://www.zhihu.com/question/2068334810846717156"
   },
   {
-   "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
-   "link": "https://www.zhihu.com/question/2068423522058244663"
-  },
-  {
-   "title": "多家手机品牌回应将大规模涨价，OPPO、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-   "link": "https://www.zhihu.com/question/2068727171682718365"
-  },
-  {
-   "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
-   "link": "https://www.zhihu.com/question/22432296"
+   "title": "海口港瞒报危险品，把大量化学品报成日用品，扣押后反被约谈，官方已立案，有哪些信息值得关注？",
+   "link": "https://www.zhihu.com/question/2068607759293964988"
   }
  ],
  "baidu": [
@@ -351,60 +351,60 @@
    "link": "https://m.baidu.com/s?word=%E5%A4%AF%E5%AE%9E%E5%9F%BA%E7%A1%80%E5%BC%80%E6%96%B0%E5%B1%80&sa=fyb_news"
   },
   {
-   "title": "公司“上四休三”但要降薪1000元",
-   "link": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E2%80%9C%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89%E2%80%9D%E4%BD%86%E8%A6%81%E9%99%8D%E8%96%AA1000%E5%85%83&sa=fyb_news"
+   "title": "“今天得有40℃了吧 为啥还不预警”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BB%8A%E5%A4%A9%E5%BE%97%E6%9C%8940%E2%84%83%E4%BA%86%E5%90%A7+%E4%B8%BA%E5%95%A5%E8%BF%98%E4%B8%8D%E9%A2%84%E8%AD%A6%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "改名后的“青海拉面”店",
-   "link": "https://m.baidu.com/s?word=%E6%94%B9%E5%90%8D%E5%90%8E%E7%9A%84%E2%80%9C%E9%9D%92%E6%B5%B7%E6%8B%89%E9%9D%A2%E2%80%9D%E5%BA%97&sa=fyb_news"
+   "title": "录取通知书刚到就能买票",
+   "link": "https://m.baidu.com/s?word=%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%88%9A%E5%88%B0%E5%B0%B1%E8%83%BD%E4%B9%B0%E7%A5%A8&sa=fyb_news"
   },
   {
    "title": "比A4纸还薄！中国高端钢材密集突破",
    "link": "https://m.baidu.com/s?word=%E6%AF%94A4%E7%BA%B8%E8%BF%98%E8%96%84%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AB%AF%E9%92%A2%E6%9D%90%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4&sa=fyb_news"
   },
   {
-   "title": "女孩摆摊卖菌子时收到北大通知书",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%A9%E6%91%86%E6%91%8A%E5%8D%96%E8%8F%8C%E5%AD%90%E6%97%B6%E6%94%B6%E5%88%B0%E5%8C%97%E5%A4%A7%E9%80%9A%E7%9F%A5%E4%B9%A6&sa=fyb_news"
+   "title": "全国睡眠舒适度地图",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E7%9D%A1%E7%9C%A0%E8%88%92%E9%80%82%E5%BA%A6%E5%9C%B0%E5%9B%BE&sa=fyb_news"
   },
   {
-   "title": "东航新规：提前14天可免费退改签",
-   "link": "https://m.baidu.com/s?word=%E4%B8%9C%E8%88%AA%E6%96%B0%E8%A7%84%EF%BC%9A%E6%8F%90%E5%89%8D14%E5%A4%A9%E5%8F%AF%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE&sa=fyb_news"
+   "title": "北京暴雨",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8&sa=fyb_news"
   },
   {
-   "title": "为何年轻人不愿学医了",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E6%84%BF%E5%AD%A6%E5%8C%BB%E4%BA%86&sa=fyb_news"
+   "title": "王宝强首次提名百花影帝",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E5%AE%9D%E5%BC%BA%E9%A6%96%E6%AC%A1%E6%8F%90%E5%90%8D%E7%99%BE%E8%8A%B1%E5%BD%B1%E5%B8%9D&sa=fyb_news"
   },
   {
-   "title": "带薪错峰休假通知引争议 河南回应",
-   "link": "https://m.baidu.com/s?word=%E5%B8%A6%E8%96%AA%E9%94%99%E5%B3%B0%E4%BC%91%E5%81%87%E9%80%9A%E7%9F%A5%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%B2%B3%E5%8D%97%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "台风白海豚",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A&sa=fyb_news"
   },
   {
-   "title": "汪峰公司因AI从1100人减到400人",
-   "link": "https://m.baidu.com/s?word=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA&sa=fyb_news"
+   "title": "国防部回应日本试射“战斧”导弹",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%AF%95%E5%B0%84%E2%80%9C%E6%88%98%E6%96%A7%E2%80%9D%E5%AF%BC%E5%BC%B9&sa=fyb_news"
   },
   {
-   "title": "泰国枪击案凶手先杀祖父母后行凶",
-   "link": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E5%85%88%E6%9D%80%E7%A5%96%E7%88%B6%E6%AF%8D%E5%90%8E%E8%A1%8C%E5%87%B6&sa=fyb_news"
+   "title": "今年蝉为什么这么响",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E8%9D%89%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%93%8D&sa=fyb_news"
   },
   {
    "title": "商家称1小时被20条差评后门店倒闭",
    "link": "https://m.baidu.com/s?word=%E5%95%86%E5%AE%B6%E7%A7%B01%E5%B0%8F%E6%97%B6%E8%A2%AB20%E6%9D%A1%E5%B7%AE%E8%AF%84%E5%90%8E%E9%97%A8%E5%BA%97%E5%80%92%E9%97%AD&sa=fyb_news"
   },
   {
-   "title": "提醒：汛期受污染食品不能食用",
-   "link": "https://m.baidu.com/s?word=%E6%8F%90%E9%86%92%EF%BC%9A%E6%B1%9B%E6%9C%9F%E5%8F%97%E6%B1%A1%E6%9F%93%E9%A3%9F%E5%93%81%E4%B8%8D%E8%83%BD%E9%A3%9F%E7%94%A8&sa=fyb_news"
+   "title": "“新疆阿勒泰八月能滑雪”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%96%B0%E7%96%86%E9%98%BF%E5%8B%92%E6%B3%B0%E5%85%AB%E6%9C%88%E8%83%BD%E6%BB%91%E9%9B%AA%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "9岁120斤啦啦队女孩跳舞火出圈",
-   "link": "https://m.baidu.com/s?word=9%E5%B2%81120%E6%96%A4%E5%95%A6%E5%95%A6%E9%98%9F%E5%A5%B3%E5%AD%A9%E8%B7%B3%E8%88%9E%E7%81%AB%E5%87%BA%E5%9C%88&sa=fyb_news"
+   "title": "河南三支一扶笔试存在组织作弊犯罪",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%AD%98%E5%9C%A8%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA&sa=fyb_news"
   },
   {
    "title": "刘若雪方辟谣与周杰伦私生子传闻",
    "link": "https://m.baidu.com/s?word=%E5%88%98%E8%8B%A5%E9%9B%AA%E6%96%B9%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB&sa=fyb_news"
   },
   {
-   "title": "张春香退休后被查",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E6%98%A5%E9%A6%99%E9%80%80%E4%BC%91%E5%90%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+   "title": "河南三支一扶笔试成绩作废 将重考",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F+%E5%B0%86%E9%87%8D%E8%80%83&sa=fyb_news"
   }
  ],
  "ai": [
