@@ -1,6 +1,6 @@
 {
  "date": "2026-08-15",
- "updatedAt": "2026-08-15 04:48",
+ "updatedAt": "2026-08-15 08:47",
  "stocks": [
   {
    "name": "上证指数",
@@ -179,16 +179,16 @@
   {
    "name": "美元",
    "value": "6.756",
-   "change": "-0.0014",
-   "pct": "-0.02%",
+   "change": "-0.0004",
+   "pct": "-0.01%",
    "up": false
   },
   {
    "name": "欧元",
    "value": "7.804",
-   "change": "+0.0166",
-   "pct": "+0.21%",
-   "up": true
+   "change": "-0.0004",
+   "pct": "-0.01%",
+   "up": false
   },
   {
    "name": "港币",
@@ -200,109 +200,105 @@
   {
    "name": "100日元",
    "value": "4.239",
-   "change": "+0.0012",
-   "pct": "+0.03%",
+   "change": "+0.0002",
+   "pct": "+0.01%",
    "up": true
   }
  ],
  "btc": {
-  "usd": "63,093",
-  "cny": "425,436",
-  "pct": "-0.45%",
-  "up": false,
+  "usd": "62,967",
+  "cny": "424,590",
+  "pct": "+0.29%",
+  "up": true,
   "trend": [
-   63329.04,
-   63282.49,
-   63179.47,
-   62971.43,
-   62944.56,
-   62667.5,
-   62825.44,
-   62762.29,
-   62778.94,
-   62833.58,
-   62746.57,
-   62638.89,
-   62608.56,
-   62662.61,
-   62648.26,
-   62966.76,
-   63112.82,
-   63148.83,
-   62977.88,
-   62810.57,
-   62891.83,
-   62874.21,
-   62834.24,
-   62885.58,
-   62824.83,
-   62877.26,
-   62964.76,
-   62949.43,
-   62966.37,
-   63067.09,
-   63084.42,
-   63021.57
+   62825.55,
+   62750.6,
+   62834.39,
+   62796.15,
+   62808.02,
+   62803.38,
+   62600.77,
+   62598.99,
+   62694.38,
+   62821.54,
+   62995.64,
+   63092.54,
+   63049.69,
+   62913.72,
+   62775.42,
+   62944.66,
+   62866.0,
+   62819.48,
+   62774.85,
+   62831.97,
+   62996.91,
+   62960.29,
+   62945.52,
+   63001.34,
+   63073.76,
+   63029.51,
+   63066.45,
+   63066.5,
+   63010.56,
+   63002.25,
+   63041.76,
+   63009.74
   ]
  },
  "weibo": [
+  {
+   "title": "牛来票房暴涨1000倍",
+   "link": "https://s.weibo.com/weibo?q=%E7%89%9B%E6%9D%A5%E7%A5%A8%E6%88%BF%E6%9A%B4%E6%B6%A81000%E5%80%8D"
+  },
+  {
+   "title": "谁杀死了驾校",
+   "link": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E9%A9%BE%E6%A0%A1"
+  },
+  {
+   "title": "这一天值得每一名中国人铭记",
+   "link": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E5%A4%A9%E5%80%BC%E5%BE%97%E6%AF%8F%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%93%AD%E8%AE%B0"
+  },
+  {
+   "title": "牛来导演亲友发声",
+   "link": "https://s.weibo.com/weibo?q=%E7%89%9B%E6%9D%A5%E5%AF%BC%E6%BC%94%E4%BA%B2%E5%8F%8B%E5%8F%91%E5%A3%B0"
+  },
+  {
+   "title": "疯狂动物城3官宣",
+   "link": "https://s.weibo.com/weibo?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E3%E5%AE%98%E5%AE%A3"
+  },
+  {
+   "title": "妈妈去世多少年才能不难过",
+   "link": "https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%96%E5%A4%9A%E5%B0%91%E5%B9%B4%E6%89%8D%E8%83%BD%E4%B8%8D%E9%9A%BE%E8%BF%87"
+  },
+  {
+   "title": "终于明白减重减肥减脂区别",
+   "link": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BD%E5%87%8F%E9%87%8D%E5%87%8F%E8%82%A5%E5%87%8F%E8%84%82%E5%8C%BA%E5%88%AB"
+  },
   {
    "title": "旺旺 配料表",
    "link": "https://s.weibo.com/weibo?q=%E6%97%BA%E6%97%BA%20%E9%85%8D%E6%96%99%E8%A1%A8"
   },
   {
-   "title": "日本 拜鬼",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%20%E6%8B%9C%E9%AC%BC"
+   "title": "胖东来 刑释人员",
+   "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%20%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98"
   },
   {
-   "title": "中国China成为潮流",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDChina%E6%88%90%E4%B8%BA%E6%BD%AE%E6%B5%81"
-  },
-  {
-   "title": "胖东来首批刑释职工30人无一离职",
-   "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C"
-  },
-  {
-   "title": "终于知道为什么戴眼镜是斜的了",
-   "link": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%B4%E7%9C%BC%E9%95%9C%E6%98%AF%E6%96%9C%E7%9A%84%E4%BA%86"
-  },
-  {
-   "title": "国乒男单全军覆没",
-   "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1"
-  },
-  {
-   "title": "网友集体呼吁旺旺减糖",
-   "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E9%9B%86%E4%BD%93%E5%91%BC%E5%90%81%E6%97%BA%E6%97%BA%E5%87%8F%E7%B3%96"
-  },
-  {
-   "title": "牛来",
-   "link": "https://s.weibo.com/weibo?q=%E7%89%9B%E6%9D%A5"
-  },
-  {
-   "title": "手机涨得快买不起了",
-   "link": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E6%B6%A8%E5%BE%97%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86"
-  },
-  {
-   "title": "陈浚铭踢腿陈思罕刘海飞了",
-   "link": "https://s.weibo.com/weibo?q=%E9%99%88%E6%B5%9A%E9%93%AD%E8%B8%A2%E8%85%BF%E9%99%88%E6%80%9D%E7%BD%95%E5%88%98%E6%B5%B7%E9%A3%9E%E4%BA%86"
-  },
-  {
-   "title": "外交部回应日方政要参拜靖国神社",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E6%94%BF%E8%A6%81%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE"
+   "title": "牛来综合票房破50万",
+   "link": "https://s.weibo.com/weibo?q=%E7%89%9B%E6%9D%A5%E7%BB%BC%E5%90%88%E7%A5%A8%E6%88%BF%E7%A0%B450%E4%B8%87"
   },
   {
    "title": "王嘉尔吃自己的瓜",
    "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%83%E8%87%AA%E5%B7%B1%E7%9A%84%E7%93%9C"
+  },
+  {
+   "title": "公司空调已经做到这种程度了",
+   "link": "https://s.weibo.com/weibo?q=%E5%85%AC%E5%8F%B8%E7%A9%BA%E8%B0%83%E5%B7%B2%E7%BB%8F%E5%81%9A%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86"
   }
  ],
  "zhihu": [
   {
    "title": "旺旺董事长发内部信，直言遭遇重大经营危机，没有贡献的员工要被淘汰，这种方式能救企业吗？",
    "link": "https://www.zhihu.com/question/2071625579925869050"
-  },
-  {
-   "title": "河南平顶山汝河民堤、周口贾鲁河堤坝、许昌清潩河三地发生溃口，这些溃口是如何发生的？目前情况如何？",
-   "link": "https://www.zhihu.com/question/2071527887660737785"
   },
   {
    "title": "胖东来郑州店发公告招100名边防军人和20名刑释人员，企业兜底「社会融合」职能，是进步还是错位？",
@@ -313,98 +309,102 @@
    "link": "https://www.zhihu.com/question/2071680380755785039"
   },
   {
-   "title": "同样面对负面舆论，为什么《八仙！》的票房预计能达到20亿，而《雄狮少年》系列的票房加一起才3亿多？",
-   "link": "https://www.zhihu.com/question/2066512309485319903"
-  },
-  {
-   "title": "宝鸡一天然气公司要求热水器满 8 年必须换，否则不给购气，这个要求合理吗？燃气公司有权这么做吗？",
-   "link": "https://www.zhihu.com/question/2071200961867900907"
-  },
-  {
-   "title": "有没有可能，地球才是宇宙的中心？",
-   "link": "https://www.zhihu.com/question/2070938404129454013"
-  },
-  {
-   "title": "儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩？",
-   "link": "https://www.zhihu.com/question/2069050672704705907"
+   "title": "为什么西方人起名动辄使用天使、圣徒的名字？他们都不知道要避讳吗？",
+   "link": "https://www.zhihu.com/question/1958143125722761172"
   },
   {
    "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗？",
    "link": "https://www.zhihu.com/question/2071601306246932346"
   },
   {
-   "title": "BLG 选手 Wenbo 因雨天路滑摔倒将缺席比赛，这会如何影响战队战术与成绩？",
-   "link": "https://www.zhihu.com/question/2071744863821992655"
+   "title": "智商越高的人，什么特征越明显？",
+   "link": "https://www.zhihu.com/question/2020103732260549322"
+  },
+  {
+   "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？",
+   "link": "https://www.zhihu.com/question/2071637658586165819"
+  },
+  {
+   "title": "宝鸡一天然气公司要求热水器满 8 年必须换，否则不给购气，这个要求合理吗？燃气公司有权这么做吗？",
+   "link": "https://www.zhihu.com/question/2071200961867900907"
+  },
+  {
+   "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内？",
+   "link": "https://www.zhihu.com/question/2070543205620258082"
   },
   {
    "title": "国乒男单无缘 WTT 瑞典站 8 强，国乒男单连续第三站 WTT 高级别赛事全军覆没，男队怎么了？",
    "link": "https://www.zhihu.com/question/2071882687292207181"
   },
   {
-   "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事？",
-   "link": "https://www.zhihu.com/question/2071637658586165819"
+   "title": "如何看待DeepSeek-V4 Pro正式版疑似过拟合DeepSeek Harness的极简模式？",
+   "link": "https://www.zhihu.com/question/2071773348753945432"
+  },
+  {
+   "title": "星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗？",
+   "link": "https://www.zhihu.com/question/2071043484274921705"
   }
  ],
  "baidu": [
   {
-   "title": "共绘美丽中国新画卷",
-   "link": "https://m.baidu.com/s?word=%E5%85%B1%E7%BB%98%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%BB%E5%8D%B7&sa=fyb_news"
+   "title": "绿色承诺一以贯之",
+   "link": "https://m.baidu.com/s?word=%E7%BB%BF%E8%89%B2%E6%89%BF%E8%AF%BA%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B&sa=fyb_news"
+  },
+  {
+   "title": "这么糙的《牛来》为什么能公映",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%B9%88%E7%B3%99%E7%9A%84%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%85%AC%E6%98%A0&sa=fyb_news"
+  },
+  {
+   "title": "中国不必奉陪",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%BF%85%E5%A5%89%E9%99%AA&sa=fyb_news"
+  },
+  {
+   "title": "为什么我们要不断重温这段历史",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%A6%81%E4%B8%8D%E6%96%AD%E9%87%8D%E6%B8%A9%E8%BF%99%E6%AE%B5%E5%8E%86%E5%8F%B2&sa=fyb_news"
+  },
+  {
+   "title": "地铁站也能办结婚证了 上万人赶来",
+   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E7%AB%99%E4%B9%9F%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86+%E4%B8%8A%E4%B8%87%E4%BA%BA%E8%B5%B6%E6%9D%A5&sa=fyb_news"
+  },
+  {
+   "title": "现实版“葫芦娃救爷爷”",
+   "link": "https://m.baidu.com/s?word=%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E6%95%91%E7%88%B7%E7%88%B7%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "谁“杀死”了驾校",
    "link": "https://m.baidu.com/s?word=%E8%B0%81%E2%80%9C%E6%9D%80%E6%AD%BB%E2%80%9D%E4%BA%86%E9%A9%BE%E6%A0%A1&sa=fyb_news"
   },
   {
-   "title": "小泉进次郎拜鬼后又称和平",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B3%89%E8%BF%9B%E6%AC%A1%E9%83%8E%E6%8B%9C%E9%AC%BC%E5%90%8E%E5%8F%88%E7%A7%B0%E5%92%8C%E5%B9%B3&sa=fyb_news"
+   "title": "60后妈妈与儿子纯手搓5年做出《牛来》",
+   "link": "https://m.baidu.com/s?word=60%E5%90%8E%E5%A6%88%E5%A6%88%E4%B8%8E%E5%84%BF%E5%AD%90%E7%BA%AF%E6%89%8B%E6%90%935%E5%B9%B4%E5%81%9A%E5%87%BA%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B&sa=fyb_news"
   },
   {
-   "title": "勿忘历史 吾辈自强",
-   "link": "https://m.baidu.com/s?word=%E5%8B%BF%E5%BF%98%E5%8E%86%E5%8F%B2+%E5%90%BE%E8%BE%88%E8%87%AA%E5%BC%BA&sa=fyb_news"
+   "title": "外交部：严正交涉、强烈抗议",
+   "link": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%E3%80%81%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE&sa=fyb_news"
+  },
+  {
+   "title": "为了“龙餐馆” 青岛造出“一座城”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BA%86%E2%80%9C%E9%BE%99%E9%A4%90%E9%A6%86%E2%80%9D+%E9%9D%92%E5%B2%9B%E9%80%A0%E5%87%BA%E2%80%9C%E4%B8%80%E5%BA%A7%E5%9F%8E%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "年轻人回村“卷”起了自建房",
+   "link": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%9B%9E%E6%9D%91%E2%80%9C%E5%8D%B7%E2%80%9D%E8%B5%B7%E4%BA%86%E8%87%AA%E5%BB%BA%E6%88%BF&sa=fyb_news"
+  },
+  {
+   "title": "我们为什么总是容易相信谣言",
+   "link": "https://m.baidu.com/s?word=%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%98%AF%E5%AE%B9%E6%98%93%E7%9B%B8%E4%BF%A1%E8%B0%A3%E8%A8%80&sa=fyb_news"
+  },
+  {
+   "title": "旅行社为啥不受欢迎了",
+   "link": "https://m.baidu.com/s?word=%E6%97%85%E8%A1%8C%E7%A4%BE%E4%B8%BA%E5%95%A5%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "《牛来》火到韩国了",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%81%AB%E5%88%B0%E9%9F%A9%E5%9B%BD%E4%BA%86&sa=fyb_news"
   },
   {
    "title": "胖东来首批刑释职工30人无一离职",
    "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%A6%96%E6%89%B9%E5%88%91%E9%87%8A%E8%81%8C%E5%B7%A530%E4%BA%BA%E6%97%A0%E4%B8%80%E7%A6%BB%E8%81%8C&sa=fyb_news"
-  },
-  {
-   "title": "旺旺最大的对手竟是糖",
-   "link": "https://m.baidu.com/s?word=%E6%97%BA%E6%97%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AF%B9%E6%89%8B%E7%AB%9F%E6%98%AF%E7%B3%96&sa=fyb_news"
-  },
-  {
-   "title": "大规模涨价 手机快买不起了",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7+%E6%89%8B%E6%9C%BA%E5%BF%AB%E4%B9%B0%E4%B8%8D%E8%B5%B7%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "《牛来》票房飙涨977% 影院紧急加场",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%A5%A8%E6%88%BF%E9%A3%99%E6%B6%A8977%25+%E5%BD%B1%E9%99%A2%E7%B4%A7%E6%80%A5%E5%8A%A0%E5%9C%BA&sa=fyb_news"
-  },
-  {
-   "title": "刷到“猝死”视频发现主角是自己",
-   "link": "https://m.baidu.com/s?word=%E5%88%B7%E5%88%B0%E2%80%9C%E7%8C%9D%E6%AD%BB%E2%80%9D%E8%A7%86%E9%A2%91%E5%8F%91%E7%8E%B0%E4%B8%BB%E8%A7%92%E6%98%AF%E8%87%AA%E5%B7%B1&sa=fyb_news"
-  },
-  {
-   "title": "周杰穿个浴袍就上台了",
-   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E7%A9%BF%E4%B8%AA%E6%B5%B4%E8%A2%8D%E5%B0%B1%E4%B8%8A%E5%8F%B0%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "白海豚真的走了吗",
-   "link": "https://m.baidu.com/s?word=%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%9C%9F%E7%9A%84%E8%B5%B0%E4%BA%86%E5%90%97&sa=fyb_news"
-  },
-  {
-   "title": "电车充电辐射危害健康系谣言",
-   "link": "https://m.baidu.com/s?word=%E7%94%B5%E8%BD%A6%E5%85%85%E7%94%B5%E8%BE%90%E5%B0%84%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
-  },
-  {
-   "title": "《牛来》总票房已怒破10万",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E6%80%92%E7%A0%B410%E4%B8%87&sa=fyb_news"
-  },
-  {
-   "title": "投降日拜鬼是对历史正义的公然亵渎",
-   "link": "https://m.baidu.com/s?word=%E6%8A%95%E9%99%8D%E6%97%A5%E6%8B%9C%E9%AC%BC%E6%98%AF%E5%AF%B9%E5%8E%86%E5%8F%B2%E6%AD%A3%E4%B9%89%E7%9A%84%E5%85%AC%E7%84%B6%E4%BA%B5%E6%B8%8E&sa=fyb_news"
-  },
-  {
-   "title": "民政局都搬银行了 为何年轻人不买账",
-   "link": "https://m.baidu.com/s?word=%E6%B0%91%E6%94%BF%E5%B1%80%E9%83%BD%E6%90%AC%E9%93%B6%E8%A1%8C%E4%BA%86+%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E8%B4%A6&sa=fyb_news"
   }
  ],
  "ai": [
