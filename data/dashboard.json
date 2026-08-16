@@ -1,6 +1,6 @@
 {
  "date": "2026-08-16",
- "updatedAt": "2026-08-16 08:49",
+ "updatedAt": "2026-08-16 13:02",
  "stocks": [
   {
    "name": "上证指数",
@@ -175,158 +175,175 @@
   "pct": "+0.57%",
   "up": true
  },
- "forex": [],
- "btc": {
-  "usd": "63,016",
-  "cny": "424,916",
-  "pct": "+0.05%",
-  "up": true,
-  "trend": [
-   62992.01,
-   62931.27,
-   62957.29,
-   62966.73,
-   62946.51,
-   62921.77,
-   62987.79,
-   62976.08,
-   62984.72,
-   63036.51,
-   63020.45,
-   63036.3,
-   63009.24,
-   62990.81,
-   63040.56,
-   63061.31,
-   63038.35,
-   63085.7,
-   63079.55,
-   63079.56,
-   63046.62,
-   63004.41,
-   62998.33,
-   62996.33,
-   63084.01,
-   63069.08,
-   63102.65,
-   63042.28,
-   62999.94,
-   63004.4,
-   63001.07,
-   63011.53
-  ]
- },
- "weibo": [
+ "forex": [
   {
-   "title": "朱镕基同志遗体18日火化",
-   "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96"
+   "name": "美元",
+   "value": "6.761"
   },
   {
-   "title": "沪上阿姨 涉不正当竞争",
-   "link": "https://s.weibo.com/weibo?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89"
+   "name": "欧元",
+   "value": "7.808"
   },
   {
-   "title": "我国现代化应急体系建设提速",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E7%8E%B0%E4%BB%A3%E5%8C%96%E5%BA%94%E6%80%A5%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E6%8F%90%E9%80%9F"
+   "name": "港币",
+   "value": "0.862"
   },
   {
-   "title": "景德镇做的陶瓷还是太超前了",
-   "link": "https://s.weibo.com/weibo?q=%E6%99%AF%E5%BE%B7%E9%95%87%E5%81%9A%E7%9A%84%E9%99%B6%E7%93%B7%E8%BF%98%E6%98%AF%E5%A4%AA%E8%B6%85%E5%89%8D%E4%BA%86"
-  },
-  {
-   "title": "真的建议要从源头减少家务",
-   "link": "https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E8%A6%81%E4%BB%8E%E6%BA%90%E5%A4%B4%E5%87%8F%E5%B0%91%E5%AE%B6%E5%8A%A1"
-  },
-  {
-   "title": "汪苏泷回复李嘉琦",
-   "link": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%9B%9E%E5%A4%8D%E6%9D%8E%E5%98%89%E7%90%A6"
-  },
-  {
-   "title": "马正阳声音侵权声明",
-   "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%AD%A3%E9%98%B3%E5%A3%B0%E9%9F%B3%E4%BE%B5%E6%9D%83%E5%A3%B0%E6%98%8E"
-  },
-  {
-   "title": "当你在周末的下午睡着了",
-   "link": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E5%9C%A8%E5%91%A8%E6%9C%AB%E7%9A%84%E4%B8%8B%E5%8D%88%E7%9D%A1%E7%9D%80%E4%BA%86"
-  },
-  {
-   "title": "又一位华为天才少年离职",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%88%E4%B8%80%E4%BD%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E7%A6%BB%E8%81%8C"
-  },
-  {
-   "title": "王俊凯王源TOP张峻豪TF四代同时演出",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90TOP%E5%BC%A0%E5%B3%BB%E8%B1%AATF%E5%9B%9B%E4%BB%A3%E5%90%8C%E6%97%B6%E6%BC%94%E5%87%BA"
-  },
-  {
-   "title": "何穗妊娠纹",
-   "link": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%E5%A6%8A%E5%A8%A0%E7%BA%B9"
-  },
-  {
-   "title": "39岁知名儿科医生不幸去世",
-   "link": "https://s.weibo.com/weibo?q=39%E5%B2%81%E7%9F%A5%E5%90%8D%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96"
+   "name": "100日元",
+   "value": "4.243"
   }
  ],
- "zhihu": [],
+ "btc": {
+  "usd": "62,966",
+  "cny": "424,578",
+  "pct": "-0.01%",
+  "up": false,
+  "trend": [
+   63004.37,
+   62983.44,
+   62975.25,
+   63014.65,
+   63033.16,
+   63036.95,
+   63008.44,
+   62995.35,
+   63002.76,
+   63058.42,
+   63016.03,
+   63045.15,
+   63095.9,
+   63114.63,
+   63046.93,
+   63014.15,
+   63017.96,
+   63009.47,
+   63064.87,
+   63066.23,
+   63077.94,
+   63068.34,
+   63019.55,
+   63004.72,
+   63003.54,
+   63007.26,
+   63020.44,
+   63018.67,
+   62919.43,
+   62953.6,
+   62933.76,
+   62970.85
+  ]
+ },
+ "weibo": [],
+ "zhihu": [
+  {
+   "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
+   "link": "https://www.zhihu.com/articles/2072330702507529924"
+  },
+  {
+   "title": "如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城？",
+   "link": "https://www.zhihu.com/question/2071533521441485058"
+  },
+  {
+   "title": "胖东来将闭门店现大排长龙，附近商贩说要跟着搬迁，为啥这么多年过去了胖东来的客户粘性还这么强？",
+   "link": "https://www.zhihu.com/question/2072261517668344757"
+  },
+  {
+   "title": "为什么国内无法观看IMAX 70mm 胶片版《奥德赛》？",
+   "link": "https://www.zhihu.com/question/2064434098815374163"
+  },
+  {
+   "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到？",
+   "link": "https://www.zhihu.com/question/2071306248780255535"
+  },
+  {
+   "title": "“马云给你5亿元花呗额度”和“马化腾给你1亿q币”，只能要一个，你要哪个？",
+   "link": "https://www.zhihu.com/question/2063350913864054256"
+  },
+  {
+   "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗？",
+   "link": "https://www.zhihu.com/question/2072246554115535950"
+  },
+  {
+   "title": "《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗？",
+   "link": "https://www.zhihu.com/question/2071658364904239886"
+  },
+  {
+   "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
+   "link": "https://www.zhihu.com/question/2070635312297121770"
+  },
+  {
+   "title": "西安女子 3 万全款拿下宝鸡 40 平老房，你会入手这类「万元老破小」吗？这种低压力买房思路你认同吗？",
+   "link": "https://www.zhihu.com/question/2070435156947462039"
+  },
+  {
+   "title": "李宗盛为什么口碑变差了?",
+   "link": "https://www.zhihu.com/question/388993745"
+  },
+  {
+   "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料？",
+   "link": "https://www.zhihu.com/question/2068587429079020879"
+  }
+ ],
  "baidu": [
   {
-   "title": "良好生态环境是最普惠的民生福祉",
-   "link": "https://m.baidu.com/s?word=%E8%89%AF%E5%A5%BD%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E6%98%AF%E6%9C%80%E6%99%AE%E6%83%A0%E7%9A%84%E6%B0%91%E7%94%9F%E7%A6%8F%E7%A5%89&sa=fyb_news"
+   "title": "防灾减灾救灾 总书记强调三个到位",
+   "link": "https://m.baidu.com/s?word=%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE+%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E4%B8%89%E4%B8%AA%E5%88%B0%E4%BD%8D&sa=fyb_news"
   },
   {
    "title": "朱镕基同志遗体18日火化",
    "link": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "沪上阿姨 涉不正当竞争",
-   "link": "https://m.baidu.com/s?word=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8+%E6%B6%89%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89&sa=fyb_news"
+   "title": "考驾照的人为何变少了",
+   "link": "https://m.baidu.com/s?word=%E8%80%83%E9%A9%BE%E7%85%A7%E7%9A%84%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%B0%91%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "本周一批重大工程迎来“高光时刻”",
-   "link": "https://m.baidu.com/s?word=%E6%9C%AC%E5%91%A8%E4%B8%80%E6%89%B9%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E8%BF%8E%E6%9D%A5%E2%80%9C%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news"
+   "title": "中国为什么值得“反复探索”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E2%80%9C%E5%8F%8D%E5%A4%8D%E6%8E%A2%E7%B4%A2%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "市民打12345投诉月光太亮影响睡觉",
+   "link": "https://m.baidu.com/s?word=%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89&sa=fyb_news"
+  },
+  {
+   "title": "孙楠回应接连来芒果节目“救场”",
+   "link": "https://m.baidu.com/s?word=%E5%AD%99%E6%A5%A0%E5%9B%9E%E5%BA%94%E6%8E%A5%E8%BF%9E%E6%9D%A5%E8%8A%92%E6%9E%9C%E8%8A%82%E7%9B%AE%E2%80%9C%E6%95%91%E5%9C%BA%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "日本人战斗分队在乌成立 与俄军作战",
    "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B+%E4%B8%8E%E4%BF%84%E5%86%9B%E4%BD%9C%E6%88%98&sa=fyb_news"
   },
   {
-   "title": "39岁知名儿科医生去世 市民献花送别",
-   "link": "https://m.baidu.com/s?word=39%E5%B2%81%E7%9F%A5%E5%90%8D%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96+%E5%B8%82%E6%B0%91%E7%8C%AE%E8%8A%B1%E9%80%81%E5%88%AB&sa=fyb_news"
+   "title": "王艺迪4-2复仇张本美和",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E8%89%BA%E8%BF%AA4-2%E5%A4%8D%E4%BB%87%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C&sa=fyb_news"
   },
   {
-   "title": "请3天假连休13天",
-   "link": "https://m.baidu.com/s?word=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9&sa=fyb_news"
+   "title": "网红小家电集体吃灰",
+   "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0&sa=fyb_news"
   },
   {
-   "title": "新加坡老人轻拍小女孩头部被家长撂倒",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%80%81%E4%BA%BA%E8%BD%BB%E6%8B%8D%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%A4%B4%E9%83%A8%E8%A2%AB%E5%AE%B6%E9%95%BF%E6%92%82%E5%80%92&sa=fyb_news"
+   "title": "梭子蟹大量上市 中医提醒",
+   "link": "https://m.baidu.com/s?word=%E6%A2%AD%E5%AD%90%E8%9F%B9%E5%A4%A7%E9%87%8F%E4%B8%8A%E5%B8%82+%E4%B8%AD%E5%8C%BB%E6%8F%90%E9%86%92&sa=fyb_news"
   },
   {
-   "title": "一个伤害脑血管的动作 你可能正在做",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%AE%B3%E8%84%91%E8%A1%80%E7%AE%A1%E7%9A%84%E5%8A%A8%E4%BD%9C+%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%81%9A&sa=fyb_news"
+   "title": "9月起四川正式“依法带娃”",
+   "link": "https://m.baidu.com/s?word=9%E6%9C%88%E8%B5%B7%E5%9B%9B%E5%B7%9D%E6%AD%A3%E5%BC%8F%E2%80%9C%E4%BE%9D%E6%B3%95%E5%B8%A6%E5%A8%83%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "产后自杀女子曾凑10万彩礼打给母亲",
-   "link": "https://m.baidu.com/s?word=%E4%BA%A7%E5%90%8E%E8%87%AA%E6%9D%80%E5%A5%B3%E5%AD%90%E6%9B%BE%E5%87%9110%E4%B8%87%E5%BD%A9%E7%A4%BC%E6%89%93%E7%BB%99%E6%AF%8D%E4%BA%B2&sa=fyb_news"
+   "title": "南极冰川现“神秘生物”系AI生成",
+   "link": "https://m.baidu.com/s?word=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news"
   },
   {
-   "title": "过敏性鼻炎 打单抗",
-   "link": "https://m.baidu.com/s?word=%E8%BF%87%E6%95%8F%E6%80%A7%E9%BC%BB%E7%82%8E+%E6%89%93%E5%8D%95%E6%8A%97&sa=fyb_news"
+   "title": "胖东来周边店主：生意没了心气也没了",
+   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%A8%E8%BE%B9%E5%BA%97%E4%B8%BB%EF%BC%9A%E7%94%9F%E6%84%8F%E6%B2%A1%E4%BA%86%E5%BF%83%E6%B0%94%E4%B9%9F%E6%B2%A1%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "一条谣言“诞生”的全流程",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E8%B0%A3%E8%A8%80%E2%80%9C%E8%AF%9E%E7%94%9F%E2%80%9D%E7%9A%84%E5%85%A8%E6%B5%81%E7%A8%8B&sa=fyb_news"
+   "title": "多部经典老片重映 业内：不为赚钱",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E9%83%A8%E7%BB%8F%E5%85%B8%E8%80%81%E7%89%87%E9%87%8D%E6%98%A0+%E4%B8%9A%E5%86%85%EF%BC%9A%E4%B8%8D%E4%B8%BA%E8%B5%9A%E9%92%B1&sa=fyb_news"
   },
   {
-   "title": "胖东来将闭门老店28个收银口排长龙",
-   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%B0%86%E9%97%AD%E9%97%A8%E8%80%81%E5%BA%9728%E4%B8%AA%E6%94%B6%E9%93%B6%E5%8F%A3%E6%8E%92%E9%95%BF%E9%BE%99&sa=fyb_news"
-  },
-  {
-   "title": "“全球粮食危机或将在明年爆发”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E7%90%83%E7%B2%AE%E9%A3%9F%E5%8D%B1%E6%9C%BA%E6%88%96%E5%B0%86%E5%9C%A8%E6%98%8E%E5%B9%B4%E7%88%86%E5%8F%91%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "日本民众质问：供奉战犯是什么意思",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%B4%A8%E9%97%AE%EF%BC%9A%E4%BE%9B%E5%A5%89%E6%88%98%E7%8A%AF%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&sa=fyb_news"
+   "title": "学生暑假跑外卖 三天倒亏700元",
+   "link": "https://m.baidu.com/s?word=%E5%AD%A6%E7%94%9F%E6%9A%91%E5%81%87%E8%B7%91%E5%A4%96%E5%8D%96+%E4%B8%89%E5%A4%A9%E5%80%92%E4%BA%8F700%E5%85%83&sa=fyb_news"
   }
  ],
  "ai": [
