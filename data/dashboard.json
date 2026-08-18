@@ -1,6 +1,6 @@
 {
  "date": "2026-08-18",
- "updatedAt": "2026-08-18 08:55",
+ "updatedAt": "2026-08-18 13:10",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,193 +169,164 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4393.25",
+  "value": "4390.70",
   "unit": "美元/盎司",
-  "change": "-23.25",
-  "pct": "-0.53%",
+  "change": "-25.80",
+  "pct": "-0.58%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.753",
-   "change": "+0.0001",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "欧元",
-   "value": "7.816",
-   "change": "+0.0005",
-   "pct": "+0.01%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.861",
-   "change": "-0.0002",
-   "pct": "-0.02%",
-   "up": false
-  },
-  {
-   "name": "100日元",
-   "value": "4.236",
-   "change": "+0.0003",
-   "pct": "+0.01%",
-   "up": true
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "64,212",
-  "cny": "432,926",
-  "pct": "+1.41%",
+  "usd": "64,123",
+  "cny": "432,308",
+  "pct": "+0.99%",
   "up": true,
   "trend": [
-   63326.43,
-   63256.69,
-   63361.21,
-   63595.69,
-   63566.84,
-   63509.38,
-   63428.85,
-   63636.27,
-   63818.55,
-   64027.0,
-   64042.15,
-   63935.93,
-   64278.14,
-   64400.95,
-   64340.07,
-   64251.98,
-   64341.45,
-   64286.97,
-   64244.63,
-   64310.76,
-   64491.35,
-   64343.9,
-   64270.3,
-   64137.09,
-   64043.44,
-   64115.4,
-   64096.97,
-   64172.74,
-   64181.8,
-   64379.41,
-   64228.4,
-   64105.21
+   63498.68,
+   63598.71,
+   63558.7,
+   63980.58,
+   64014.96,
+   64057.68,
+   64184.03,
+   64438.62,
+   64281.11,
+   64241.04,
+   64339.9,
+   64278.4,
+   64258.71,
+   64239.06,
+   64428.25,
+   64404.57,
+   64293.42,
+   64142.37,
+   64080.75,
+   64056.89,
+   64090.66,
+   64152.41,
+   64186.94,
+   64286.04,
+   64283.87,
+   64141.57,
+   64227.43,
+   64101.57,
+   64096.43,
+   64143.15,
+   64325.66,
+   64244.46
   ]
  },
- "weibo": [],
- "zhihu": [
+ "weibo": [
   {
-   "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
-   "link": "https://www.zhihu.com/question/2072693901802958901"
+   "title": "朱镕基同志生平",
+   "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3"
   },
   {
-   "title": "如何看待瑞幸七夕联名小众情侣 IP 陷争议，被指画风撞款多部日漫且被吐槽给陌生人随份子钱，官方仍合作？",
-   "link": "https://www.zhihu.com/question/2072637486740632508"
+   "title": "公积金条例修改",
+   "link": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%9D%A1%E4%BE%8B%E4%BF%AE%E6%94%B9"
   },
   {
-   "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少？",
-   "link": "https://www.zhihu.com/question/2072631801164424275"
+   "title": "第七届中非媒体合作论坛",
+   "link": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%83%E5%B1%8A%E4%B8%AD%E9%9D%9E%E5%AA%92%E4%BD%93%E5%90%88%E4%BD%9C%E8%AE%BA%E5%9D%9B"
   },
   {
-   "title": "《欢迎来龙餐馆》中徐福救下 23 个孩子这一桥段，是不是有点过于理想化了？",
-   "link": "https://www.zhihu.com/question/2072342392380905179"
+   "title": "住房公积金新政来了",
+   "link": "https://s.weibo.com/weibo?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86"
   },
   {
-   "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年CUE到爱情公寓比邓家佳孙艺洲等人还要多？",
-   "link": "https://www.zhihu.com/question/2072445082930881876"
+   "title": "Dior全球公关总监去世",
+   "link": "https://s.weibo.com/weibo?q=Dior%E5%85%A8%E7%90%83%E5%85%AC%E5%85%B3%E6%80%BB%E7%9B%91%E5%8E%BB%E4%B8%96"
   },
   {
-   "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注？",
-   "link": "https://www.zhihu.com/question/2072862065841198775"
+   "title": "公积金新规 通俗解读",
+   "link": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84%20%E9%80%9A%E4%BF%97%E8%A7%A3%E8%AF%BB"
   },
   {
-   "title": "汽车实体按键正逐步回归，奥迪、奔驰、大众等表态恢复实体按键，自主品牌新车也恢复部分实体按键，如何解读？",
-   "link": "https://www.zhihu.com/question/2071637667490576051"
+   "title": "公积金",
+   "link": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91"
   },
   {
-   "title": "如何看待 7 月社会消费品零售总额同比增长 0.6%？",
-   "link": "https://www.zhihu.com/question/2072987795677606877"
+   "title": "调查组通报杭州酒局事件",
+   "link": "https://s.weibo.com/weibo?q=%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6"
   },
   {
-   "title": "有人打 12345 投诉夜间月光过亮影响睡觉，还有人要求政府联系明星给自己过生日，此类要求如何处理？",
-   "link": "https://www.zhihu.com/question/2072650616367853898"
+   "title": "曝披荆斩棘小考直播",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%B0%8F%E8%80%83%E7%9B%B4%E6%92%AD"
   },
   {
-   "title": "AI 会把数学领域「低垂的果实」全部摘走么？",
-   "link": "https://www.zhihu.com/question/2072668885459760739"
+   "title": "书卷一梦全台陆剧收视冠军",
+   "link": "https://s.weibo.com/weibo?q=%E4%B9%A6%E5%8D%B7%E4%B8%80%E6%A2%A6%E5%85%A8%E5%8F%B0%E9%99%86%E5%89%A7%E6%94%B6%E8%A7%86%E5%86%A0%E5%86%9B"
   },
   {
-   "title": "最近有个观点很火，不允许任何人当众指责你，哪怕自己做错事，这个观点对不对？",
-   "link": "https://www.zhihu.com/question/2071911140318254292"
+   "title": "杭州酒局知情人称女生求助无果反抗",
+   "link": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%A5%B3%E7%94%9F%E6%B1%82%E5%8A%A9%E6%97%A0%E6%9E%9C%E5%8F%8D%E6%8A%97"
   },
   {
-   "title": "如何评价《影之刃零》的索尼State of Play专场发布会，都有哪些亮点？",
-   "link": "https://www.zhihu.com/question/2072981880291472040"
+   "title": "刘亦菲整个团队都穿黑色",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%95%B4%E4%B8%AA%E5%9B%A2%E9%98%9F%E9%83%BD%E7%A9%BF%E9%BB%91%E8%89%B2"
   }
  ],
+ "zhihu": [],
  "baidu": [
+  {
+   "title": "习近平同厄瓜多尔总统举行会谈",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E6%80%BB%E7%BB%9F%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88&sa=fyb_news"
+  },
   {
    "title": "朱镕基同志遗体在京火化",
    "link": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "朱镕基同志生平照片",
-   "link": "https://m.baidu.com/s?word=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%E7%85%A7%E7%89%87&sa=fyb_news"
+   "title": "公积金新政来了",
+   "link": "https://m.baidu.com/s?word=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "天安门下半旗悼念朱镕基同志",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97&sa=fyb_news"
+   "title": "事关住房公积金 有这些新变化",
+   "link": "https://m.baidu.com/s?word=%E4%BA%8B%E5%85%B3%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91+%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "“反向出差”到中国为了啥",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%8F%8D%E5%90%91%E5%87%BA%E5%B7%AE%E2%80%9D%E5%88%B0%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BA%86%E5%95%A5&sa=fyb_news"
+   "title": "外交部改口：把靖国神社称作战犯神社",
+   "link": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%94%B9%E5%8F%A3%EF%BC%9A%E6%8A%8A%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%A7%B0%E4%BD%9C%E6%88%98%E7%8A%AF%E7%A5%9E%E7%A4%BE&sa=fyb_news"
   },
   {
-   "title": "厄尔尼诺快速发展 大概率成历史最强",
-   "link": "https://m.baidu.com/s?word=%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%BF%AB%E9%80%9F%E5%8F%91%E5%B1%95+%E5%A4%A7%E6%A6%82%E7%8E%87%E6%88%90%E5%8E%86%E5%8F%B2%E6%9C%80%E5%BC%BA&sa=fyb_news"
+   "title": "心血来潮下单小家电 如今全员吃灰",
+   "link": "https://m.baidu.com/s?word=%E5%BF%83%E8%A1%80%E6%9D%A5%E6%BD%AE%E4%B8%8B%E5%8D%95%E5%B0%8F%E5%AE%B6%E7%94%B5+%E5%A6%82%E4%BB%8A%E5%85%A8%E5%91%98%E5%90%83%E7%81%B0&sa=fyb_news"
   },
   {
-   "title": "医生：泡面不健康不是因为防腐剂",
-   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%EF%BC%9A%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82&sa=fyb_news"
+   "title": "金婚夫妇回忆56年前花4毛钱旅行结婚",
+   "link": "https://m.baidu.com/s?word=%E9%87%91%E5%A9%9A%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BF%8656%E5%B9%B4%E5%89%8D%E8%8A%B14%E6%AF%9B%E9%92%B1%E6%97%85%E8%A1%8C%E7%BB%93%E5%A9%9A&sa=fyb_news"
   },
   {
-   "title": "湘西“长满”外国人",
-   "link": "https://m.baidu.com/s?word=%E6%B9%98%E8%A5%BF%E2%80%9C%E9%95%BF%E6%BB%A1%E2%80%9D%E5%A4%96%E5%9B%BD%E4%BA%BA&sa=fyb_news"
+   "title": "全球约6.45亿人处于饥饿状态",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%A66.45%E4%BA%BF%E4%BA%BA%E5%A4%84%E4%BA%8E%E9%A5%A5%E9%A5%BF%E7%8A%B6%E6%80%81&sa=fyb_news"
   },
   {
-   "title": "日本驻俄大使被召见至俄外交部",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E9%A9%BB%E4%BF%84%E5%A4%A7%E4%BD%BF%E8%A2%AB%E5%8F%AC%E8%A7%81%E8%87%B3%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8&sa=fyb_news"
+   "title": "程序员每日往返150公里通勤5小时",
+   "link": "https://m.baidu.com/s?word=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AF%8F%E6%97%A5%E5%BE%80%E8%BF%94150%E5%85%AC%E9%87%8C%E9%80%9A%E5%8B%A45%E5%B0%8F%E6%97%B6&sa=fyb_news"
   },
   {
-   "title": "蟹塘每天被国宝吃掉三四万元螃蟹",
-   "link": "https://m.baidu.com/s?word=%E8%9F%B9%E5%A1%98%E6%AF%8F%E5%A4%A9%E8%A2%AB%E5%9B%BD%E5%AE%9D%E5%90%83%E6%8E%89%E4%B8%89%E5%9B%9B%E4%B8%87%E5%85%83%E8%9E%83%E8%9F%B9&sa=fyb_news"
+   "title": "DeepSeek招聘土木人才释放一个信号",
+   "link": "https://m.baidu.com/s?word=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7&sa=fyb_news"
   },
   {
-   "title": "特斯拉新车没有方向盘和踏板",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%96%B0%E8%BD%A6%E6%B2%A1%E6%9C%89%E6%96%B9%E5%90%91%E7%9B%98%E5%92%8C%E8%B8%8F%E6%9D%BF&sa=fyb_news"
+   "title": "1080万买别墅 过户时变成300万",
+   "link": "https://m.baidu.com/s?word=1080%E4%B8%87%E4%B9%B0%E5%88%AB%E5%A2%85+%E8%BF%87%E6%88%B7%E6%97%B6%E5%8F%98%E6%88%90300%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "央视曝光后 湖南主动公开调查过程",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%90%8E+%E6%B9%96%E5%8D%97%E4%B8%BB%E5%8A%A8%E5%85%AC%E5%BC%80%E8%B0%83%E6%9F%A5%E8%BF%87%E7%A8%8B&sa=fyb_news"
+   "title": "热点事件网络围观必备素养",
+   "link": "https://m.baidu.com/s?word=%E7%83%AD%E7%82%B9%E4%BA%8B%E4%BB%B6%E7%BD%91%E7%BB%9C%E5%9B%B4%E8%A7%82%E5%BF%85%E5%A4%87%E7%B4%A0%E5%85%BB&sa=fyb_news"
   },
   {
-   "title": "编造智驾事故 多人因涉企谣言被罚",
-   "link": "https://m.baidu.com/s?word=%E7%BC%96%E9%80%A0%E6%99%BA%E9%A9%BE%E4%BA%8B%E6%95%85+%E5%A4%9A%E4%BA%BA%E5%9B%A0%E6%B6%89%E4%BC%81%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A&sa=fyb_news"
+   "title": "官方通报杭州酒局事件",
+   "link": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6&sa=fyb_news"
   },
   {
-   "title": "3孩非亲生奶奶想尽快送走3个孙女",
-   "link": "https://m.baidu.com/s?word=3%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B6%E5%A5%B6%E6%83%B3%E5%B0%BD%E5%BF%AB%E9%80%81%E8%B5%B03%E4%B8%AA%E5%AD%99%E5%A5%B3&sa=fyb_news"
+   "title": "特朗普还对人民大会堂念念不忘",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98&sa=fyb_news"
   },
   {
-   "title": "印度7名贫困矿工挖到17.96克拉钻石",
-   "link": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A67%E5%90%8D%E8%B4%AB%E5%9B%B0%E7%9F%BF%E5%B7%A5%E6%8C%96%E5%88%B017.96%E5%85%8B%E6%8B%89%E9%92%BB%E7%9F%B3&sa=fyb_news"
-  },
-  {
-   "title": "“短短几秒 怎么看着笑着就哭了”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%9F%AD%E7%9F%AD%E5%87%A0%E7%A7%92+%E6%80%8E%E4%B9%88%E7%9C%8B%E7%9D%80%E7%AC%91%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86%E2%80%9D&sa=fyb_news"
+   "title": "章子怡到手了3个亿 不是通过演戏",
+   "link": "https://m.baidu.com/s?word=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%88%B0%E6%89%8B%E4%BA%863%E4%B8%AA%E4%BA%BF+%E4%B8%8D%E6%98%AF%E9%80%9A%E8%BF%87%E6%BC%94%E6%88%8F&sa=fyb_news"
   }
  ],
  "ai": [
