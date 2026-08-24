@@ -1,6 +1,6 @@
 {
  "date": "2026-08-24",
- "updatedAt": "2026-08-24 09:07",
+ "updatedAt": "2026-08-24 13:15",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4643.59",
+  "value": "4675.59",
   "unit": "美元/盎司",
-  "change": "+39.06",
-  "pct": "+0.85%",
+  "change": "+71.06",
+  "pct": "+1.54%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "77,145",
-  "cny": "518,618",
-  "pct": "+0.74%",
+  "usd": "79,195",
+  "cny": "532,340",
+  "pct": "+2.43%",
   "up": true,
   "trend": [
-   76570.2,
-   76588.76,
-   76818.07,
-   77262.76,
-   77129.49,
-   77163.02,
-   77546.62,
-   77430.02,
-   77259.32,
-   77169.99,
-   77374.03,
-   77299.12,
-   77186.17,
-   77289.76,
-   77351.75,
-   77351.25,
-   77639.92,
-   77790.8,
-   77674.5,
-   77493.65,
-   77644.57,
-   77486.1,
-   77246.69,
-   77459.2,
-   77284.85,
-   76986.32,
-   77148.96,
-   77045.09,
-   77170.9,
-   77443.48,
-   77449.34,
-   76974.94
+   77587.03,
+   77542.99,
+   77167.72,
+   77163.75,
+   77232.41,
+   77238.45,
+   77242.78,
+   77307.11,
+   77359.09,
+   77220.06,
+   77406.36,
+   77959.82,
+   77706.19,
+   77447.91,
+   77541.19,
+   77440.44,
+   77403.73,
+   77017.9,
+   77339.58,
+   77100.83,
+   77156.56,
+   76945.18,
+   77057.16,
+   77274.05,
+   77640.75,
+   77252.68,
+   77108.99,
+   77415.55,
+   77877.85,
+   77562.12,
+   78189.29,
+   78528.29
   ]
  },
  "weibo": [],
@@ -224,56 +224,56 @@
    "link": "https://m.baidu.com/s?word=%E8%90%A5%E9%80%A0%E9%A3%8E%E6%B8%85%E6%B0%94%E6%AD%A3%E7%9A%84%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81&sa=fyb_news"
   },
   {
-   "title": "敌敌畏涉事消杀公司已人去楼空",
-   "link": "https://m.baidu.com/s?word=%E6%95%8C%E6%95%8C%E7%95%8F%E6%B6%89%E4%BA%8B%E6%B6%88%E6%9D%80%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%BA%BA%E5%8E%BB%E6%A5%BC%E7%A9%BA&sa=fyb_news"
+   "title": "印度洋发生沉船 多名中国船员失联",
+   "link": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E6%B4%8B%E5%8F%91%E7%94%9F%E6%B2%89%E8%88%B9+%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E5%A4%B1%E8%81%94&sa=fyb_news"
+  },
+  {
+   "title": "有单位违规发放工资津贴突击花钱",
+   "link": "https://m.baidu.com/s?word=%E6%9C%89%E5%8D%95%E4%BD%8D%E8%BF%9D%E8%A7%84%E5%8F%91%E6%94%BE%E5%B7%A5%E8%B5%84%E6%B4%A5%E8%B4%B4%E7%AA%81%E5%87%BB%E8%8A%B1%E9%92%B1&sa=fyb_news"
+  },
+  {
+   "title": "中国机器人连刷人类世界纪录",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9E%E5%88%B7%E4%BA%BA%E7%B1%BB%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news"
+  },
+  {
+   "title": "香港葵涌村发生“双尸案”",
+   "link": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E8%91%B5%E6%B6%8C%E6%9D%91%E5%8F%91%E7%94%9F%E2%80%9C%E5%8F%8C%E5%B0%B8%E6%A1%88%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "陕北纸面服刑案二审宣判 维持死刑",
+   "link": "https://m.baidu.com/s?word=%E9%99%95%E5%8C%97%E7%BA%B8%E9%9D%A2%E6%9C%8D%E5%88%91%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4+%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91&sa=fyb_news"
+  },
+  {
+   "title": "23点后睡的人“亏大了”",
+   "link": "https://m.baidu.com/s?word=23%E7%82%B9%E5%90%8E%E7%9D%A1%E7%9A%84%E4%BA%BA%E2%80%9C%E4%BA%8F%E5%A4%A7%E4%BA%86%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "嫦娥七号为何不能过几天再发",
+   "link": "https://m.baidu.com/s?word=%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E8%BF%87%E5%87%A0%E5%A4%A9%E5%86%8D%E5%8F%91&sa=fyb_news"
+  },
+  {
+   "title": "家长要求邻座换位被拒后破口大骂",
+   "link": "https://m.baidu.com/s?word=%E5%AE%B6%E9%95%BF%E8%A6%81%E6%B1%82%E9%82%BB%E5%BA%A7%E6%8D%A2%E4%BD%8D%E8%A2%AB%E6%8B%92%E5%90%8E%E7%A0%B4%E5%8F%A3%E5%A4%A7%E9%AA%82&sa=fyb_news"
+  },
+  {
+   "title": "广西洪灾",
+   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE&sa=fyb_news"
+  },
+  {
+   "title": "中国女排3比0横扫伊朗队",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%A8%AA%E6%89%AB%E4%BC%8A%E6%9C%97%E9%98%9F&sa=fyb_news"
+  },
+  {
+   "title": "“被蚊子咬可能得艾滋”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E5%8F%AF%E8%83%BD%E5%BE%97%E8%89%BE%E6%BB%8B%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
    "title": "央视曝光隔空猥亵",
    "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9A%94%E7%A9%BA%E7%8C%A5%E4%BA%B5&sa=fyb_news"
   },
   {
-   "title": "中国机器人跑出“中国制造”加速度",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E2%80%9D%E5%8A%A0%E9%80%9F%E5%BA%A6&sa=fyb_news"
-  },
-  {
-   "title": "6天4个台风 像流水线赶工",
-   "link": "https://m.baidu.com/s?word=6%E5%A4%A94%E4%B8%AA%E5%8F%B0%E9%A3%8E+%E5%83%8F%E6%B5%81%E6%B0%B4%E7%BA%BF%E8%B5%B6%E5%B7%A5&sa=fyb_news"
-  },
-  {
-   "title": "罗建彬被查",
-   "link": "https://m.baidu.com/s?word=%E7%BD%97%E5%BB%BA%E5%BD%AC%E8%A2%AB%E6%9F%A5&sa=fyb_news"
-  },
-  {
-   "title": "超市散装零食何以失守",
-   "link": "https://m.baidu.com/s?word=%E8%B6%85%E5%B8%82%E6%95%A3%E8%A3%85%E9%9B%B6%E9%A3%9F%E4%BD%95%E4%BB%A5%E5%A4%B1%E5%AE%88&sa=fyb_news"
-  },
-  {
-   "title": "初中生4个账号养“恋人”",
-   "link": "https://m.baidu.com/s?word=%E5%88%9D%E4%B8%AD%E7%94%9F4%E4%B8%AA%E8%B4%A6%E5%8F%B7%E5%85%BB%E2%80%9C%E6%81%8B%E4%BA%BA%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "12306回应无座票二等座同价",
-   "link": "https://m.baidu.com/s?word=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E7%A5%A8%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7&sa=fyb_news"
-  },
-  {
-   "title": "团伙玩“仙人跳”专坑大学生被判刑",
-   "link": "https://m.baidu.com/s?word=%E5%9B%A2%E4%BC%99%E7%8E%A9%E2%80%9C%E4%BB%99%E4%BA%BA%E8%B7%B3%E2%80%9D%E4%B8%93%E5%9D%91%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%88%A4%E5%88%91&sa=fyb_news"
-  },
-  {
-   "title": "为照顾植物人丈夫 女子睡了9年沙发",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E7%85%A7%E9%A1%BE%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB+%E5%A5%B3%E5%AD%90%E7%9D%A1%E4%BA%869%E5%B9%B4%E6%B2%99%E5%8F%91&sa=fyb_news"
-  },
-  {
-   "title": "发苦的丝瓜能降火？不要信",
-   "link": "https://m.baidu.com/s?word=%E5%8F%91%E8%8B%A6%E7%9A%84%E4%B8%9D%E7%93%9C%E8%83%BD%E9%99%8D%E7%81%AB%EF%BC%9F%E4%B8%8D%E8%A6%81%E4%BF%A1&sa=fyb_news"
-  },
-  {
-   "title": "丁俊晖：以后世界第一都是中国球员",
-   "link": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%EF%BC%9A%E4%BB%A5%E5%90%8E%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98&sa=fyb_news"
-  },
-  {
-   "title": "俄军向士兵投放便携式激光步枪",
-   "link": "https://m.baidu.com/s?word=%E4%BF%84%E5%86%9B%E5%90%91%E5%A3%AB%E5%85%B5%E6%8A%95%E6%94%BE%E4%BE%BF%E6%90%BA%E5%BC%8F%E6%BF%80%E5%85%89%E6%AD%A5%E6%9E%AA&sa=fyb_news"
+   "title": "女子砸西瓜被拍到车牌不一致警方介入",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A0%B8%E8%A5%BF%E7%93%9C%E8%A2%AB%E6%8B%8D%E5%88%B0%E8%BD%A6%E7%89%8C%E4%B8%8D%E4%B8%80%E8%87%B4%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5&sa=fyb_news"
   },
   {
    "title": "北京大学原副校长任羽中被判8年",
