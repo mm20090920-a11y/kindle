@@ -1,6 +1,6 @@
 {
  "date": "2026-08-27",
- "updatedAt": "2026-08-27 09:51",
+ "updatedAt": "2026-08-27 15:16",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4581.67",
+  "value": "4596.12",
   "unit": "美元/盎司",
-  "change": "-12.82",
-  "pct": "-0.28%",
-  "up": false
+  "change": "+1.63",
+  "pct": "+0.04%",
+  "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "80,219",
-  "cny": "539,175",
-  "pct": "+2.31%",
+  "usd": "80,679",
+  "cny": "542,235",
+  "pct": "+3.72%",
   "up": true,
   "trend": [
-   78396.65,
-   78730.16,
-   78669.4,
-   78419.67,
-   78302.69,
-   78382.04,
-   78410.19,
-   77927.94,
-   78044.5,
-   77975.23,
-   78317.37,
-   78513.67,
-   78444.7,
-   78403.63,
-   78324.17,
-   78592.29,
-   78769.21,
-   78617.7,
-   78731.49,
-   78945.7,
-   78735.19,
-   78846.01,
-   78758.4,
-   78717.84,
-   78804.71,
-   78731.47,
-   78723.58,
-   78798.05,
-   78799.09,
-   78852.1,
-   79555.73,
-   79786.37
+   77776.22,
+   78073.52,
+   78093.85,
+   78566.6,
+   78539.14,
+   78445.92,
+   78467.5,
+   78341.99,
+   78756.92,
+   78844.96,
+   78613.21,
+   78880.56,
+   78899.2,
+   78733.28,
+   78918.62,
+   78770.53,
+   78728.51,
+   78846.24,
+   78729.33,
+   78619.25,
+   78699.34,
+   78772.0,
+   78846.28,
+   79816.79,
+   79951.41,
+   80010.2,
+   79545.63,
+   79513.8,
+   79416.65,
+   79282.16,
+   79030.93,
+   79939.62
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E5%B1%95%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%8B%85%E5%BD%93+%E6%B1%87%E8%81%9A%E5%92%8C%E5%B9%B3%E5%8F%91%E5%B1%95%E5%8A%9B%E9%87%8F&sa=fyb_news"
   },
   {
-   "title": "李强抵达西藏吉隆指导抢险救灾工作",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%BC%BA%E6%8A%B5%E8%BE%BE%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%8C%87%E5%AF%BC%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C&sa=fyb_news"
+   "title": "孙宇晨起诉景甜",
+   "link": "https://m.baidu.com/s?word=%E5%AD%99%E5%AE%87%E6%99%A8%E8%B5%B7%E8%AF%89%E6%99%AF%E7%94%9C&sa=fyb_news"
   },
   {
-   "title": "江西省省长叶建春被查",
-   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E7%9C%81%E7%9C%81%E9%95%BF%E5%8F%B6%E5%BB%BA%E6%98%A5%E8%A2%AB%E6%9F%A5&sa=fyb_news"
+   "title": "赵心童登顶世界第一",
+   "link": "https://m.baidu.com/s?word=%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
   },
   {
-   "title": "运-20驰援西藏吉隆",
-   "link": "https://m.baidu.com/s?word=%E8%BF%90-20%E9%A9%B0%E6%8F%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86&sa=fyb_news"
+   "title": "翼龙无人机进入西藏吉隆勘察",
+   "link": "https://m.baidu.com/s?word=%E7%BF%BC%E9%BE%99%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BF%9B%E5%85%A5%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E5%8B%98%E5%AF%9F&sa=fyb_news"
   },
   {
-   "title": "中方：尼泊尔一侧失联中国公民近百人",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%80%E4%BE%A7%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E7%99%BE%E4%BA%BA&sa=fyb_news"
+   "title": "省长叶建春任上被查 江西省委表态",
+   "link": "https://m.baidu.com/s?word=%E7%9C%81%E9%95%BF%E5%8F%B6%E5%BB%BA%E6%98%A5%E4%BB%BB%E4%B8%8A%E8%A2%AB%E6%9F%A5+%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%A7%94%E8%A1%A8%E6%80%81&sa=fyb_news"
   },
   {
-   "title": "人民币买卖新规来了",
-   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B9%B0%E5%8D%96%E6%96%B0%E8%A7%84%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "国防部评《龙餐馆》",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%84%E3%80%8A%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B&sa=fyb_news"
   },
   {
-   "title": "昔日“果冻大王”风光不再",
-   "link": "https://m.baidu.com/s?word=%E6%98%94%E6%97%A5%E2%80%9C%E6%9E%9C%E5%86%BB%E5%A4%A7%E7%8E%8B%E2%80%9D%E9%A3%8E%E5%85%89%E4%B8%8D%E5%86%8D&sa=fyb_news"
+   "title": "一场新疆婚礼来了300多个陌生人",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%9C%BA%E6%96%B0%E7%96%86%E5%A9%9A%E7%A4%BC%E6%9D%A5%E4%BA%86300%E5%A4%9A%E4%B8%AA%E9%99%8C%E7%94%9F%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "尼泊尔山洪死亡人数升至270人",
-   "link": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3270%E4%BA%BA&sa=fyb_news"
+   "title": "抗癌博主卢明霞去世 刚过完17岁生日",
+   "link": "https://m.baidu.com/s?word=%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%8D%A2%E6%98%8E%E9%9C%9E%E5%8E%BB%E4%B8%96+%E5%88%9A%E8%BF%87%E5%AE%8C17%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news"
   },
   {
-   "title": "离世老人儿子道歉 认可店主无需赔偿",
-   "link": "https://m.baidu.com/s?word=%E7%A6%BB%E4%B8%96%E8%80%81%E4%BA%BA%E5%84%BF%E5%AD%90%E9%81%93%E6%AD%89+%E8%AE%A4%E5%8F%AF%E5%BA%97%E4%B8%BB%E6%97%A0%E9%9C%80%E8%B5%94%E5%81%BF&sa=fyb_news"
+   "title": "西藏吉隆泥石流原因查明",
+   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8E%9F%E5%9B%A0%E6%9F%A5%E6%98%8E&sa=fyb_news"
   },
   {
-   "title": "电影《坠落2》定档",
-   "link": "https://m.baidu.com/s?word=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%9D%A0%E8%90%BD2%E3%80%8B%E5%AE%9A%E6%A1%A3&sa=fyb_news"
+   "title": "天池竟是巨型“不锈钢盆”",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A9%E6%B1%A0%E7%AB%9F%E6%98%AF%E5%B7%A8%E5%9E%8B%E2%80%9C%E4%B8%8D%E9%94%88%E9%92%A2%E7%9B%86%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "元宇宙愿支付最高170亿美元和解",
-   "link": "https://m.baidu.com/s?word=%E5%85%83%E5%AE%87%E5%AE%99%E6%84%BF%E6%94%AF%E4%BB%98%E6%9C%80%E9%AB%98170%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3&sa=fyb_news"
+   "title": "景甜方称一切交给法院处理",
+   "link": "https://m.baidu.com/s?word=%E6%99%AF%E7%94%9C%E6%96%B9%E7%A7%B0%E4%B8%80%E5%88%87%E4%BA%A4%E7%BB%99%E6%B3%95%E9%99%A2%E5%A4%84%E7%90%86&sa=fyb_news"
   },
   {
-   "title": "江西银行辟谣“爱她就贷她回家”",
-   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%93%B6%E8%A1%8C%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%88%B1%E5%A5%B9%E5%B0%B1%E8%B4%B7%E5%A5%B9%E5%9B%9E%E5%AE%B6%E2%80%9D&sa=fyb_news"
+   "title": "四川泸州近期发生山火系谣言",
+   "link": "https://m.baidu.com/s?word=%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E8%BF%91%E6%9C%9F%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "吉隆泥石流发生时监测到5.1级地震",
-   "link": "https://m.baidu.com/s?word=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8F%91%E7%94%9F%E6%97%B6%E7%9B%91%E6%B5%8B%E5%88%B05.1%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
+   "title": "孙宇晨 我的女友景甜",
+   "link": "https://m.baidu.com/s?word=%E5%AD%99%E5%AE%87%E6%99%A8+%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C&sa=fyb_news"
   },
   {
-   "title": "西藏泥石流已致3人遇难558人失联",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B43%E4%BA%BA%E9%81%87%E9%9A%BE558%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+   "title": "张继科直播",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E7%BB%A7%E7%A7%91%E7%9B%B4%E6%92%AD&sa=fyb_news"
   },
   {
-   "title": "何炅自曝断交的人不超过4个",
-   "link": "https://m.baidu.com/s?word=%E4%BD%95%E7%82%85%E8%87%AA%E6%9B%9D%E6%96%AD%E4%BA%A4%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%B6%85%E8%BF%874%E4%B8%AA&sa=fyb_news"
+   "title": "孙宇晨景甜 3000万彩礼",
+   "link": "https://m.baidu.com/s?word=%E5%AD%99%E5%AE%87%E6%99%A8%E6%99%AF%E7%94%9C+3000%E4%B8%87%E5%BD%A9%E7%A4%BC&sa=fyb_news"
   }
  ],
  "ai": [
