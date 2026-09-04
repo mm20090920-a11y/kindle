@@ -1,6 +1,6 @@
 {
  "date": "2026-09-04",
- "updatedAt": "2026-09-04 08:51",
+ "updatedAt": "2026-09-04 12:45",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4474.56",
+  "value": "4390.86",
   "unit": "美元/盎司",
-  "change": "+1.57",
-  "pct": "+0.04%",
-  "up": true
+  "change": "-82.13",
+  "pct": "-1.84%",
+  "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "81,112",
-  "cny": "544,458",
-  "pct": "+4.32%",
+  "usd": "79,835",
+  "cny": "536,084",
+  "pct": "+2.01%",
   "up": true,
   "trend": [
-   77788.82,
-   77702.19,
-   77620.45,
-   77762.27,
-   77875.54,
-   78303.94,
-   78551.94,
-   78890.83,
-   80216.86,
-   80934.87,
-   80726.97,
-   80983.84,
-   81029.72,
-   80996.2,
-   81520.54,
-   81634.27,
-   81461.67,
-   81673.03,
-   81301.23,
-   81182.99,
-   81281.63,
-   81381.42,
-   80825.06,
-   80798.69,
-   80743.91,
-   80838.67,
-   81158.84,
-   81042.6,
-   80859.17,
-   80721.59,
-   80843.06,
-   80692.9
+   78336.36,
+   78614.44,
+   79014.58,
+   80728.43,
+   80774.56,
+   80897.84,
+   81041.69,
+   81160.55,
+   81029.31,
+   81421.71,
+   81463.97,
+   81371.96,
+   81624.84,
+   81028.94,
+   81213.28,
+   81135.33,
+   81143.43,
+   80812.07,
+   80762.82,
+   80890.54,
+   80917.43,
+   81179.63,
+   81084.85,
+   80930.02,
+   80757.2,
+   80835.31,
+   80845.89,
+   81154.79,
+   81095.68,
+   80975.43,
+   81171.74,
+   81182.77
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "三个关键词看习主席中亚中东之行",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%B8%AD%E4%BA%9A%E4%B8%AD%E4%B8%9C%E4%B9%8B%E8%A1%8C&sa=fyb_news"
+   "title": "习近平致信祝贺《小喇叭》开播70周年",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E3%80%8A%E5%B0%8F%E5%96%87%E5%8F%AD%E3%80%8B%E5%BC%80%E6%92%AD70%E5%91%A8%E5%B9%B4&sa=fyb_news"
+  },
+  {
+   "title": "解放军将派出兵力赴俄参加实兵演习",
+   "link": "https://m.baidu.com/s?word=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%86%E6%B4%BE%E5%87%BA%E5%85%B5%E5%8A%9B%E8%B5%B4%E4%BF%84%E5%8F%82%E5%8A%A0%E5%AE%9E%E5%85%B5%E6%BC%94%E4%B9%A0&sa=fyb_news"
+  },
+  {
+   "title": "西藏泥石流已致31人遇难531人失联",
+   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B431%E4%BA%BA%E9%81%87%E9%9A%BE531%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+  },
+  {
+   "title": "今年的东博会、峰会有哪些不同",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8D%9A%E4%BC%9A%E3%80%81%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C&sa=fyb_news"
+  },
+  {
+   "title": "烧水喝和买桶装水喝 哪个更健康",
+   "link": "https://m.baidu.com/s?word=%E7%83%A7%E6%B0%B4%E5%96%9D%E5%92%8C%E4%B9%B0%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%96%9D+%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
   },
   {
    "title": "人贩子将出狱 孙海洋担心被报复",
    "link": "https://m.baidu.com/s?word=%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%87%BA%E7%8B%B1+%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E6%8A%A5%E5%A4%8D&sa=fyb_news"
   },
   {
-   "title": "女高音歌唱家龚爽因病离世 年仅37岁",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E9%AB%98%E9%9F%B3%E6%AD%8C%E5%94%B1%E5%AE%B6%E9%BE%9A%E7%88%BD%E5%9B%A0%E7%97%85%E7%A6%BB%E4%B8%96+%E5%B9%B4%E4%BB%8537%E5%B2%81&sa=fyb_news"
+   "title": "教育部回应“教师不敢管学生”",
+   "link": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E6%95%99%E5%B8%88%E4%B8%8D%E6%95%A2%E7%AE%A1%E5%AD%A6%E7%94%9F%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "“中国游”带火这门“新生意”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%B8%B8%E2%80%9D%E5%B8%A6%E7%81%AB%E8%BF%99%E9%97%A8%E2%80%9C%E6%96%B0%E7%94%9F%E6%84%8F%E2%80%9D&sa=fyb_news"
+   "title": "宁德时代董事长曾毓群炮轰“速成车”",
+   "link": "https://m.baidu.com/s?word=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9B%BE%E6%AF%93%E7%BE%A4%E7%82%AE%E8%BD%B0%E2%80%9C%E9%80%9F%E6%88%90%E8%BD%A6%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "尼泊尔不向中国寻求气候正义赔偿",
-   "link": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E4%B8%8D%E5%90%91%E4%B8%AD%E5%9B%BD%E5%AF%BB%E6%B1%82%E6%B0%94%E5%80%99%E6%AD%A3%E4%B9%89%E8%B5%94%E5%81%BF&sa=fyb_news"
+   "title": "纯过日子人",
+   "link": "https://m.baidu.com/s?word=%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "教育部：对师德失范行为“零容忍”",
-   "link": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E5%AF%B9%E5%B8%88%E5%BE%B7%E5%A4%B1%E8%8C%83%E8%A1%8C%E4%B8%BA%E2%80%9C%E9%9B%B6%E5%AE%B9%E5%BF%8D%E2%80%9D&sa=fyb_news"
+   "title": "大学第一年 很多人还活在高中",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%B9%B4+%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%98%E6%B4%BB%E5%9C%A8%E9%AB%98%E4%B8%AD&sa=fyb_news"
   },
   {
-   "title": "乡音无改鬓毛shuāi远上寒山石径xié",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A1%E9%9F%B3%E6%97%A0%E6%94%B9%E9%AC%93%E6%AF%9Bshu%C4%81i%E8%BF%9C%E4%B8%8A%E5%AF%92%E5%B1%B1%E7%9F%B3%E5%BE%84xi%C3%A9&sa=fyb_news"
-  },
-  {
-   "title": "陈学冬内娱“最惨打工人”",
-   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%AD%A6%E5%86%AC%E5%86%85%E5%A8%B1%E2%80%9C%E6%9C%80%E6%83%A8%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "中方回应52名新加坡人涉嫌在华传销",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%9452%E5%90%8D%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%BA%BA%E6%B6%89%E5%AB%8C%E5%9C%A8%E5%8D%8E%E4%BC%A0%E9%94%80&sa=fyb_news"
-  },
-  {
-   "title": "修地铁挖出施工人员？住建局回应",
-   "link": "https://m.baidu.com/s?word=%E4%BF%AE%E5%9C%B0%E9%93%81%E6%8C%96%E5%87%BA%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%EF%BC%9F%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news"
-  },
-  {
-   "title": "贺娇龙归葬于父亲的墓旁",
-   "link": "https://m.baidu.com/s?word=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%BD%92%E8%91%AC%E4%BA%8E%E7%88%B6%E4%BA%B2%E7%9A%84%E5%A2%93%E6%97%81&sa=fyb_news"
+   "title": "陪看中国女篮迎战美国女篮",
+   "link": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%BF%8E%E6%88%98%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
   },
   {
    "title": "贵州秋假连着中秋国庆休13天系谣言",
    "link": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E7%A7%8B%E5%81%87%E8%BF%9E%E7%9D%80%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E4%BC%9113%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "福建莆田因强降雨已造成多人失联",
-   "link": "https://m.baidu.com/s?word=%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E5%9B%A0%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E9%80%A0%E6%88%90%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
+   "title": "莆田村民：50多岁了没见过这么大洪水",
+   "link": "https://m.baidu.com/s?word=%E8%8E%86%E7%94%B0%E6%9D%91%E6%B0%91%EF%BC%9A50%E5%A4%9A%E5%B2%81%E4%BA%86%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E5%A4%A7%E6%B4%AA%E6%B0%B4&sa=fyb_news"
   },
   {
-   "title": "菲律宾地方法院下令逮捕副总统莎拉",
-   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E9%80%AE%E6%8D%95%E5%89%AF%E6%80%BB%E7%BB%9F%E8%8E%8E%E6%8B%89&sa=fyb_news"
+   "title": "首批GPT-6内测结果离谱",
+   "link": "https://m.baidu.com/s?word=%E9%A6%96%E6%89%B9GPT-6%E5%86%85%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%A6%BB%E8%B0%B1&sa=fyb_news"
   },
   {
-   "title": "山东省委书记、省长带头捐款",
-   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E7%9C%81%E9%95%BF%E5%B8%A6%E5%A4%B4%E6%8D%90%E6%AC%BE&sa=fyb_news"
+   "title": "火锅店回应锅底爬出大量活蛆",
+   "link": "https://m.baidu.com/s?word=%E7%81%AB%E9%94%85%E5%BA%97%E5%9B%9E%E5%BA%94%E9%94%85%E5%BA%95%E7%88%AC%E5%87%BA%E5%A4%A7%E9%87%8F%E6%B4%BB%E8%9B%86&sa=fyb_news"
   }
  ],
  "ai": [
