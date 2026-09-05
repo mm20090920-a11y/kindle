@@ -1,6 +1,6 @@
 {
- "date": "2026-09-04",
- "updatedAt": "2026-09-04 16:25",
+ "date": "2026-09-05",
+ "updatedAt": "2026-09-05 04:31",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,280 +169,165 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4438.17",
+  "value": "4430.96",
   "unit": "美元/盎司",
-  "change": "-34.82",
-  "pct": "-0.78%",
+  "change": "-42.03",
+  "pct": "-0.94%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.735"
-  },
-  {
-   "name": "欧元",
-   "value": "7.814"
-  },
-  {
-   "name": "港币",
-   "value": "0.859"
-  },
-  {
-   "name": "100日元",
-   "value": "4.300"
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "79,503",
-  "cny": "533,646",
-  "pct": "-1.52%",
+  "usd": "79,569",
+  "cny": "533,991",
+  "pct": "-2.05%",
   "up": false,
   "trend": [
-   80753.52,
-   81075.0,
-   81037.21,
-   80980.83,
-   81539.01,
-   81467.41,
-   81468.79,
-   81537.89,
-   81142.19,
-   81154.58,
-   81264.7,
-   81230.95,
-   80828.83,
-   80795.56,
-   80812.35,
-   80864.01,
-   81248.22,
-   80978.13,
-   80982.61,
-   80823.74,
-   80848.31,
-   80748.0,
-   81129.18,
-   81159.01,
-   80934.79,
-   81176.46,
-   81222.98,
-   79780.3,
-   79347.14,
-   79406.01,
-   78918.77,
-   79514.63
+   81179.63,
+   81084.85,
+   80930.02,
+   80757.2,
+   80835.31,
+   80845.89,
+   81154.79,
+   81095.68,
+   80975.43,
+   81171.74,
+   81182.77,
+   79428.94,
+   79267.99,
+   79254.96,
+   78987.08,
+   79408.31,
+   79689.05,
+   79590.18,
+   79566.55,
+   79606.07,
+   79746.59,
+   79830.03,
+   79749.91,
+   79756.7,
+   79695.34,
+   79657.12,
+   79656.14,
+   79609.61,
+   79688.38,
+   79590.41,
+   79563.76,
+   79628.82
   ]
  },
- "weibo": [
-  {
-   "title": "极限挑战 重拍",
-   "link": "https://s.weibo.com/weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%20%E9%87%8D%E6%8B%8D"
-  },
-  {
-   "title": "花少2嘉宾干活表",
-   "link": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%912%E5%98%89%E5%AE%BE%E5%B9%B2%E6%B4%BB%E8%A1%A8"
-  },
-  {
-   "title": "把青春华章写在祖国大地上",
-   "link": "https://s.weibo.com/weibo?q=%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A"
-  },
-  {
-   "title": "为什么现在这么流行耳夹式耳机",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%B9%88%E6%B5%81%E8%A1%8C%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA"
-  },
-  {
-   "title": "要你管 难听",
-   "link": "https://s.weibo.com/weibo?q=%E8%A6%81%E4%BD%A0%E7%AE%A1%20%E9%9A%BE%E5%90%AC"
-  },
-  {
-   "title": "张雪机车法国站排位赛包揽前二",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E6%8E%92%E4%BD%8D%E8%B5%9B%E5%8C%85%E6%8F%BD%E5%89%8D%E4%BA%8C"
-  },
-  {
-   "title": "路人根本没兴趣和耐心回看花少6",
-   "link": "https://s.weibo.com/weibo?q=%E8%B7%AF%E4%BA%BA%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%85%B4%E8%B6%A3%E5%92%8C%E8%80%90%E5%BF%83%E5%9B%9E%E7%9C%8B%E8%8A%B1%E5%B0%916"
-  },
-  {
-   "title": "莆田暴雨亲历者饿得受不了",
-   "link": "https://s.weibo.com/weibo?q=%E8%8E%86%E7%94%B0%E6%9A%B4%E9%9B%A8%E4%BA%B2%E5%8E%86%E8%80%85%E9%A5%BF%E5%BE%97%E5%8F%97%E4%B8%8D%E4%BA%86"
-  },
-  {
-   "title": "Pro Max命名被吐槽泛滥",
-   "link": "https://s.weibo.com/weibo?q=Pro%20Max%E5%91%BD%E5%90%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E6%B3%9B%E6%BB%A5"
-  },
-  {
-   "title": "教育部回应教师不敢管学生",
-   "link": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E4%B8%8D%E6%95%A2%E7%AE%A1%E5%AD%A6%E7%94%9F"
-  },
-  {
-   "title": "刘雯评论区",
-   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF%E8%AF%84%E8%AE%BA%E5%8C%BA"
-  },
-  {
-   "title": "宁静 谁说小爽坏了",
-   "link": "https://s.weibo.com/weibo?q=%E5%AE%81%E9%9D%99%20%E8%B0%81%E8%AF%B4%E5%B0%8F%E7%88%BD%E5%9D%8F%E4%BA%86"
-  }
- ],
- "zhihu": [
-  {
-   "title": "央视晚会将「乡音无改鬓毛衰」读 shuāi 而非 cuī，为什么和早年学的不一样了？如何看待这一变化？",
-   "link": "https://www.zhihu.com/question/2079167935671530420"
-  },
-  {
-   "title": "如何评价勇哥新开的社区食堂？",
-   "link": "https://www.zhihu.com/question/2078608395037422675"
-  },
-  {
-   "title": "为什么一只蚂蚁无论从多高的地方摔下来都不会被摔伤摔死，其他动物摔下来直接死翘翘了，背后是什么原理呢？",
-   "link": "https://www.zhihu.com/question/2078282956834194592"
-  },
-  {
-   "title": "曝西贝拖欠离职补偿金，贾国龙称「要到2028年才能给」，这种行为在法律上如何定性？离职员工如何维权？",
-   "link": "https://www.zhihu.com/question/2079160174732736037"
-  },
-  {
-   "title": "如何看待今年的超级厄尔尼诺现象？",
-   "link": "https://www.zhihu.com/question/2043053520912388470"
-  },
-  {
-   "title": "大学养的 10 只鸡和 2 只鹅被校内工人偷走，施工方赔7000元，如何看待处罚结果？应承担哪些责任？",
-   "link": "https://www.zhihu.com/question/2078155526551163150"
-  },
-  {
-   "title": "人人影视回归变正版，会员定价 25 元/月，用户们还会为曾经的情怀买单吗？你看好其市场前景吗？",
-   "link": "https://www.zhihu.com/question/2079120419454285144"
-  },
-  {
-   "title": "罗永浩称「谁做老人傻瓜电视，我免费带货一年」，商业上如何看电视越做越复杂，但想看电视却越来越麻烦？",
-   "link": "https://www.zhihu.com/question/2078137132128920326"
-  },
-  {
-   "title": "消息称月之暗面保密递交港股IPO，估值冲刺350亿美元，从不着急上市到骤然提速，背后有何考量？",
-   "link": "https://www.zhihu.com/question/2079133150333101231"
-  },
-  {
-   "title": "苹果现在才做折叠屏，是来得太晚，还是正好等到了技术成熟？",
-   "link": "https://www.zhihu.com/question/2076754620832135160"
-  },
-  {
-   "title": "如何评价GPT-6打破孪生素数猜想最新纪录？",
-   "link": "https://www.zhihu.com/question/2079153750703456931"
-  },
-  {
-   "title": "2026 女篮世界杯小组赛，中国女篮 61-94 不敌美国女篮，如何评价本场比赛？",
-   "link": "https://www.zhihu.com/question/2079140562767295956"
-  }
- ],
+ "weibo": [],
+ "zhihu": [],
  "baidu": [
   {
-   "title": "习近平致信祝贺《小喇叭》开播70周年",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E3%80%8A%E5%B0%8F%E5%96%87%E5%8F%AD%E3%80%8B%E5%BC%80%E6%92%AD70%E5%91%A8%E5%B9%B4&sa=fyb_news"
+   "title": "在孩子们心中播撒真善美的种子",
+   "link": "https://m.baidu.com/s?word=%E5%9C%A8%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%BF%83%E4%B8%AD%E6%92%AD%E6%92%92%E7%9C%9F%E5%96%84%E7%BE%8E%E7%9A%84%E7%A7%8D%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "“张雪机车”再夺第1名",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E2%80%9D%E5%86%8D%E5%A4%BA%E7%AC%AC1%E5%90%8D&sa=fyb_news"
+   "title": "汤家凤呼吁取消英语主科地位",
+   "link": "https://m.baidu.com/s?word=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D&sa=fyb_news"
   },
   {
-   "title": "上海和平饭店回应一杯椰汁50元",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E5%92%8C%E5%B9%B3%E9%A5%AD%E5%BA%97%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E6%A4%B0%E6%B1%8150%E5%85%83&sa=fyb_news"
+   "title": "潲水油飞上天 出口订单排到2027年",
+   "link": "https://m.baidu.com/s?word=%E6%BD%B2%E6%B0%B4%E6%B2%B9%E9%A3%9E%E4%B8%8A%E5%A4%A9+%E5%87%BA%E5%8F%A3%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B02027%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "今年的东博会、峰会有哪些不同",
-   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%8D%9A%E4%BC%9A%E3%80%81%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C&sa=fyb_news"
+   "title": "未来五年医保改革划了哪些重点",
+   "link": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E5%8C%BB%E4%BF%9D%E6%94%B9%E9%9D%A9%E5%88%92%E4%BA%86%E5%93%AA%E4%BA%9B%E9%87%8D%E7%82%B9&sa=fyb_news"
   },
   {
-   "title": "98岁老人25年捐款近6000万元",
-   "link": "https://m.baidu.com/s?word=98%E5%B2%81%E8%80%81%E4%BA%BA25%E5%B9%B4%E6%8D%90%E6%AC%BE%E8%BF%916000%E4%B8%87%E5%85%83&sa=fyb_news"
+   "title": "江西遂川泥石流致1人死亡11人失联",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B41%E4%BA%BA%E6%AD%BB%E4%BA%A111%E4%BA%BA%E5%A4%B1%E8%81%94&sa=fyb_news"
   },
   {
-   "title": "河水暴涨 95后特警抡锤猛砸护栏泄洪",
-   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E6%B0%B4%E6%9A%B4%E6%B6%A8+95%E5%90%8E%E7%89%B9%E8%AD%A6%E6%8A%A1%E9%94%A4%E7%8C%9B%E7%A0%B8%E6%8A%A4%E6%A0%8F%E6%B3%84%E6%B4%AA&sa=fyb_news"
+   "title": "浙江图书馆 太贵不订",
+   "link": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F%E5%9B%BE%E4%B9%A6%E9%A6%86+%E5%A4%AA%E8%B4%B5%E4%B8%8D%E8%AE%A2&sa=fyb_news"
   },
   {
-   "title": "烧水喝和买桶装水喝 哪个更健康",
-   "link": "https://m.baidu.com/s?word=%E7%83%A7%E6%B0%B4%E5%96%9D%E5%92%8C%E4%B9%B0%E6%A1%B6%E8%A3%85%E6%B0%B4%E5%96%9D+%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%81%A5%E5%BA%B7&sa=fyb_news"
+   "title": "《极限挑战》 重拍",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E3%80%8B+%E9%87%8D%E6%8B%8D&sa=fyb_news"
   },
   {
-   "title": "证监会开出2.55亿巨额罚单",
-   "link": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BC%80%E5%87%BA2.55%E4%BA%BF%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95&sa=fyb_news"
+   "title": "猪奶为何成不了人类饮品",
+   "link": "https://m.baidu.com/s?word=%E7%8C%AA%E5%A5%B6%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%8D%E4%BA%86%E4%BA%BA%E7%B1%BB%E9%A5%AE%E5%93%81&sa=fyb_news"
   },
   {
-   "title": "人贩子将出狱 孙海洋担心被报复",
-   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E8%B4%A9%E5%AD%90%E5%B0%86%E5%87%BA%E7%8B%B1+%E5%AD%99%E6%B5%B7%E6%B4%8B%E6%8B%85%E5%BF%83%E8%A2%AB%E6%8A%A5%E5%A4%8D&sa=fyb_news"
+   "title": "玛莎拉蒂与华为合作？回应来了",
+   "link": "https://m.baidu.com/s?word=%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%E4%B8%8E%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%EF%BC%9F%E5%9B%9E%E5%BA%94%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "微信发布最新公告：集体下架",
-   "link": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A%EF%BC%9A%E9%9B%86%E4%BD%93%E4%B8%8B%E6%9E%B6&sa=fyb_news"
+   "title": "他们步入演员生涯“最佳赏味期”",
+   "link": "https://m.baidu.com/s?word=%E4%BB%96%E4%BB%AC%E6%AD%A5%E5%85%A5%E6%BC%94%E5%91%98%E7%94%9F%E6%B6%AF%E2%80%9C%E6%9C%80%E4%BD%B3%E8%B5%8F%E5%91%B3%E6%9C%9F%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "王传君队长秀赢了",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BC%A0%E5%90%9B%E9%98%9F%E9%95%BF%E7%A7%80%E8%B5%A2%E4%BA%86&sa=fyb_news"
+   "title": "福建莆田雨水到底有多强",
+   "link": "https://m.baidu.com/s?word=%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E9%9B%A8%E6%B0%B4%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA&sa=fyb_news"
   },
   {
-   "title": "贵州秋假连着中秋国庆休13天系谣言",
-   "link": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E%E7%A7%8B%E5%81%87%E8%BF%9E%E7%9D%80%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E4%BC%9113%E5%A4%A9%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "联通在青岛大学与校方起冲突系谣言",
+   "link": "https://m.baidu.com/s?word=%E8%81%94%E9%80%9A%E5%9C%A8%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E4%B8%8E%E6%A0%A1%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "首批GPT-6内测结果离谱",
-   "link": "https://m.baidu.com/s?word=%E9%A6%96%E6%89%B9GPT-6%E5%86%85%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%A6%BB%E8%B0%B1&sa=fyb_news"
+   "title": "第一批戴运动手环的受害者出现了",
+   "link": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%88%B4%E8%BF%90%E5%8A%A8%E6%89%8B%E7%8E%AF%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "中国女篮61比94美国女篮",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE61%E6%AF%9494%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE&sa=fyb_news"
+   "title": "工人因赊1碗面后连续吃121天",
+   "link": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BA%BA%E5%9B%A0%E8%B5%8A1%E7%A2%97%E9%9D%A2%E5%90%8E%E8%BF%9E%E7%BB%AD%E5%90%83121%E5%A4%A9&sa=fyb_news"
   },
   {
-   "title": "纯过日子人",
-   "link": "https://m.baidu.com/s?word=%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BA%BA&sa=fyb_news"
+   "title": "“宇宙最大医院”连续3任院长落马",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%AE%87%E5%AE%99%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E2%80%9D%E8%BF%9E%E7%BB%AD3%E4%BB%BB%E9%99%A2%E9%95%BF%E8%90%BD%E9%A9%AC&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
-   "link": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold"
+   "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+   "link": "https://x.com/OpenAI/status/2095968413646737608"
   },
   {
-   "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
-   "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+   "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
+   "link": "https://x.com/satyanadella/status/2095713765446840591"
   },
   {
-   "title": "OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放",
-   "link": "https://x.com/thsottiaux/status/2095597168816226335"
+   "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
+   "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"
   },
   {
-   "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
-   "link": "https://x.com/sherwinwu/status/2095608486940086448"
+   "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
+   "link": "https://x.ai/news/grok-bot-procurement"
   },
   {
-   "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-   "link": "https://ifm.ai/blog/k2"
+   "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+   "link": "https://www.ithome.com/0/998/630.htm"
   },
   {
-   "title": "OpenAI 发布 GPT-6 Astra，首个达到关键级网络安全能力门槛的模型",
-   "link": "https://www.ithome.com/0/998/208.htm"
+   "title": "英伟达两年从零建起近千亿美元股权投资组合",
+   "link": "https://www.ithome.com/0/998/620.htm"
   },
   {
-   "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
-   "link": "https://x.com/kimmonismus/status/2095585966102614182"
+   "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+   "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
   },
   {
-   "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
-   "link": "https://x.com/kimmonismus/status/2095589174686400914"
+   "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+   "link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
   },
   {
-   "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-   "link": "https://huggingface.co/blog/funes"
+   "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+   "link": "https://x.com/kimmonismus/status/2095837763517988869"
   },
   {
-   "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-   "link": "https://x.ai/news/designing-grok-bot"
+   "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+   "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward"
   },
   {
-   "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-   "link": "https://openai.com/index/daybreak-for-frontline-defenders"
+   "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+   "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
   },
   {
-   "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
-   "link": "https://x.ai/news/grok-bot-for-enterprise"
+   "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
+   "link": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave"
   }
  ]
 }
