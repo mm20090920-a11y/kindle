@@ -1,6 +1,6 @@
 {
  "date": "2026-09-05",
- "updatedAt": "2026-09-05 08:22",
+ "updatedAt": "2026-09-05 11:51",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,43 +177,43 @@
  },
  "forex": [],
  "btc": {
-  "usd": "79,669",
-  "cny": "534,658",
-  "pct": "-1.45%",
+  "usd": "79,635",
+  "cny": "534,433",
+  "pct": "-2.01%",
   "up": false,
   "trend": [
-   80887.47,
-   81106.68,
-   81087.76,
-   81071.91,
-   81266.14,
-   81209.67,
-   79608.15,
-   79364.43,
-   79278.6,
-   79153.86,
-   79434.22,
-   79704.13,
-   79593.42,
-   79579.82,
-   79624.33,
-   79660.02,
-   79777.37,
-   79783.58,
-   79646.39,
-   79714.63,
-   79716.7,
-   79669.41,
-   79654.65,
-   79636.33,
-   79598.18,
-   79537.14,
-   79609.46,
-   79538.19,
-   79541.14,
-   79591.29,
-   79667.65,
-   79738.71
+   81279.73,
+   79897.37,
+   79403.26,
+   79292.22,
+   78817.01,
+   79513.48,
+   79506.3,
+   79679.86,
+   79455.58,
+   79574.93,
+   79797.78,
+   79818.27,
+   79734.94,
+   79807.87,
+   79695.62,
+   79661.07,
+   79637.55,
+   79656.85,
+   79687.66,
+   79556.87,
+   79570.92,
+   79622.09,
+   79580.17,
+   79472.27,
+   79579.74,
+   79706.19,
+   79710.8,
+   79654.66,
+   79622.17,
+   79683.08,
+   79641.95,
+   79653.1
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E5%88%9D%E5%BF%83%E4%B8%8D%E6%94%B9+%E8%99%BD%E8%BF%9C%E4%B8%8D%E6%80%A0&sa=fyb_news"
   },
   {
-   "title": "校长回应“9个老师守着12个娃”",
-   "link": "https://m.baidu.com/s?word=%E6%A0%A1%E9%95%BF%E5%9B%9E%E5%BA%94%E2%80%9C9%E4%B8%AA%E8%80%81%E5%B8%88%E5%AE%88%E7%9D%8012%E4%B8%AA%E5%A8%83%E2%80%9D&sa=fyb_news"
+   "title": "泥石流获救中国公民：一度不敢相信",
+   "link": "https://m.baidu.com/s?word=%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%8E%B7%E6%95%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%EF%BC%9A%E4%B8%80%E5%BA%A6%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1&sa=fyb_news"
   },
   {
-   "title": "男子撞上羊群 赔了钱为什么不能带走",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%92%9E%E4%B8%8A%E7%BE%8A%E7%BE%A4+%E8%B5%94%E4%BA%86%E9%92%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%B8%A6%E8%B5%B0&sa=fyb_news"
+   "title": "“8个鸡蛋”少年上大学前当了老师",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E2%80%9D%E5%B0%91%E5%B9%B4%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%BD%93%E4%BA%86%E8%80%81%E5%B8%88&sa=fyb_news"
   },
   {
    "title": "中国电动卡车走向世界",
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C&sa=fyb_news"
   },
   {
-   "title": "1岁裸体男童沙漠走失12小时被找到",
-   "link": "https://m.baidu.com/s?word=1%E5%B2%81%E8%A3%B8%E4%BD%93%E7%94%B7%E7%AB%A5%E6%B2%99%E6%BC%A0%E8%B5%B0%E5%A4%B112%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+   "title": "7500万乙肝患者有望告别终身服药",
+   "link": "https://m.baidu.com/s?word=7500%E4%B8%87%E4%B9%99%E8%82%9D%E6%82%A3%E8%80%85%E6%9C%89%E6%9C%9B%E5%91%8A%E5%88%AB%E7%BB%88%E8%BA%AB%E6%9C%8D%E8%8D%AF&sa=fyb_news"
   },
   {
-   "title": "汤家凤呼吁取消英语主科地位",
-   "link": "https://m.baidu.com/s?word=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D&sa=fyb_news"
+   "title": "全球黄金大迁徙",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%BB%84%E9%87%91%E5%A4%A7%E8%BF%81%E5%BE%99&sa=fyb_news"
   },
   {
-   "title": "撒贝宁：只要不上班就来丹霞山",
-   "link": "https://m.baidu.com/s?word=%E6%92%92%E8%B4%9D%E5%AE%81%EF%BC%9A%E5%8F%AA%E8%A6%81%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%B0%B1%E6%9D%A5%E4%B8%B9%E9%9C%9E%E5%B1%B1&sa=fyb_news"
+   "title": "尼泊尔泥石流灾害1名中国公民获救",
+   "link": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B31%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%8E%B7%E6%95%91&sa=fyb_news"
   },
   {
-   "title": "这种鞋子不要给孩子天天穿",
-   "link": "https://m.baidu.com/s?word=%E8%BF%99%E7%A7%8D%E9%9E%8B%E5%AD%90%E4%B8%8D%E8%A6%81%E7%BB%99%E5%AD%A9%E5%AD%90%E5%A4%A9%E5%A4%A9%E7%A9%BF&sa=fyb_news"
+   "title": "男子撞上羊群 赔了钱为什么不能带走",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%92%9E%E4%B8%8A%E7%BE%8A%E7%BE%A4+%E8%B5%94%E4%BA%86%E9%92%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%B8%A6%E8%B5%B0&sa=fyb_news"
   },
   {
    "title": "男子在头等舱闹事被绑成“木乃伊”",
    "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A4%B4%E7%AD%89%E8%88%B1%E9%97%B9%E4%BA%8B%E8%A2%AB%E7%BB%91%E6%88%90%E2%80%9C%E6%9C%A8%E4%B9%83%E4%BC%8A%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "搞笑诺贝尔奖来了：蟑螂奶获化学奖",
-   "link": "https://m.baidu.com/s?word=%E6%90%9E%E7%AC%91%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E6%9D%A5%E4%BA%86%EF%BC%9A%E8%9F%91%E8%9E%82%E5%A5%B6%E8%8E%B7%E5%8C%96%E5%AD%A6%E5%A5%96&sa=fyb_news"
+   "title": "徐良演唱会奖品 帮还房贷车贷",
+   "link": "https://m.baidu.com/s?word=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A5%96%E5%93%81+%E5%B8%AE%E8%BF%98%E6%88%BF%E8%B4%B7%E8%BD%A6%E8%B4%B7&sa=fyb_news"
   },
   {
-   "title": "井柏然人气一夜之间回到十年前",
-   "link": "https://m.baidu.com/s?word=%E4%BA%95%E6%9F%8F%E7%84%B6%E4%BA%BA%E6%B0%94%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%9B%9E%E5%88%B0%E5%8D%81%E5%B9%B4%E5%89%8D&sa=fyb_news"
+   "title": "男子看视频1年赚136元还提现失败",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%9C%8B%E8%A7%86%E9%A2%911%E5%B9%B4%E8%B5%9A136%E5%85%83%E8%BF%98%E6%8F%90%E7%8E%B0%E5%A4%B1%E8%B4%A5&sa=fyb_news"
   },
   {
-   "title": "联通在青岛大学与校方起冲突系谣言",
-   "link": "https://m.baidu.com/s?word=%E8%81%94%E9%80%9A%E5%9C%A8%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E4%B8%8E%E6%A0%A1%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "教授夫妇坠楼床上摆百万现金是谣言",
+   "link": "https://m.baidu.com/s?word=%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%87%E5%9D%A0%E6%A5%BC%E5%BA%8A%E4%B8%8A%E6%91%86%E7%99%BE%E4%B8%87%E7%8E%B0%E9%87%91%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "港姐王菲与歌手张子丰宣布订婚",
-   "link": "https://m.baidu.com/s?word=%E6%B8%AF%E5%A7%90%E7%8E%8B%E8%8F%B2%E4%B8%8E%E6%AD%8C%E6%89%8B%E5%BC%A0%E5%AD%90%E4%B8%B0%E5%AE%A3%E5%B8%83%E8%AE%A2%E5%A9%9A&sa=fyb_news"
+   "title": "张家齐13岁赚了81万",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E5%AE%B6%E9%BD%9013%E5%B2%81%E8%B5%9A%E4%BA%8681%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "女子怀孕5个多月产下巴掌大宝宝",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%955%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BA%A7%E4%B8%8B%E5%B7%B4%E6%8E%8C%E5%A4%A7%E5%AE%9D%E5%AE%9D&sa=fyb_news"
+   "title": "2米眼镜王蛇钻入帐篷 猎犬拖出未果",
+   "link": "https://m.baidu.com/s?word=2%E7%B1%B3%E7%9C%BC%E9%95%9C%E7%8E%8B%E8%9B%87%E9%92%BB%E5%85%A5%E5%B8%90%E7%AF%B7+%E7%8C%8E%E7%8A%AC%E6%8B%96%E5%87%BA%E6%9C%AA%E6%9E%9C&sa=fyb_news"
   },
   {
-   "title": "香港城市大学回应迎新营不雅视频",
-   "link": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E5%9F%8E%E5%B8%82%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%BF%8E%E6%96%B0%E8%90%A5%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91&sa=fyb_news"
+   "title": "刘雯 避嫌",
+   "link": "https://m.baidu.com/s?word=%E5%88%98%E9%9B%AF+%E9%81%BF%E5%AB%8C&sa=fyb_news"
   }
  ],
  "ai": [
