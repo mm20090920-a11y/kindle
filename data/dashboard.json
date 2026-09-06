@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "updatedAt": "2026-09-06 08:41",
+ "updatedAt": "2026-09-06 12:10",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,107 +177,107 @@
  },
  "forex": [],
  "btc": {
-  "usd": "79,790",
-  "cny": "535,471",
-  "pct": "+0.22%",
+  "usd": "79,896",
+  "cny": "536,182",
+  "pct": "+0.29%",
   "up": true,
   "trend": [
-   79614.99,
-   79696.58,
-   79619.67,
-   79624.22,
-   79614.17,
-   79658.56,
-   79715.06,
-   79617.56,
-   79719.22,
-   79700.86,
-   79777.43,
-   80053.61,
-   80049.48,
-   79961.96,
-   79941.52,
-   79757.93,
-   79771.8,
-   79853.23,
-   79923.33,
-   79781.06,
-   79820.82,
-   79926.36,
-   79967.73,
-   79959.3,
-   79879.29,
-   79896.84,
-   79971.26,
-   79862.91,
-   80016.36,
-   79828.68,
-   79669.51,
-   79811.52
+   79664.88,
+   79713.13,
+   79649.62,
+   79728.14,
+   79726.29,
+   79803.39,
+   79940.78,
+   80019.16,
+   79996.57,
+   79987.72,
+   79851.08,
+   79720.41,
+   79780.68,
+   79909.5,
+   79770.65,
+   79802.2,
+   79905.36,
+   79886.77,
+   79977.57,
+   79919.69,
+   79930.35,
+   80026.32,
+   79914.64,
+   79842.59,
+   79928.43,
+   79772.82,
+   79837.97,
+   79801.5,
+   79921.11,
+   79878.78,
+   80008.84,
+   79917.65
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "历史坐标里的“中埃时刻”",
-   "link": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E5%9D%90%E6%A0%87%E9%87%8C%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9F%83%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news"
+   "title": "迎头赶上 奋起直追 力争超越",
+   "link": "https://m.baidu.com/s?word=%E8%BF%8E%E5%A4%B4%E8%B5%B6%E4%B8%8A+%E5%A5%8B%E8%B5%B7%E7%9B%B4%E8%BF%BD+%E5%8A%9B%E4%BA%89%E8%B6%85%E8%B6%8A&sa=fyb_news"
   },
   {
-   "title": "银行集中“清淤”",
-   "link": "https://m.baidu.com/s?word=%E9%93%B6%E8%A1%8C%E9%9B%86%E4%B8%AD%E2%80%9C%E6%B8%85%E6%B7%A4%E2%80%9D&sa=fyb_news"
+   "title": "3600亿元！8家中央金融企业大动作",
+   "link": "https://m.baidu.com/s?word=3600%E4%BA%BF%E5%85%83%EF%BC%818%E5%AE%B6%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E4%BC%81%E4%B8%9A%E5%A4%A7%E5%8A%A8%E4%BD%9C&sa=fyb_news"
   },
   {
-   "title": "大范围降温来了",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "大学生开学装备两极分化引热议",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E8%A3%85%E5%A4%87%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E5%BC%95%E7%83%AD%E8%AE%AE&sa=fyb_news"
   },
   {
    "title": "增加优质供给 挖掘消费潜力",
    "link": "https://m.baidu.com/s?word=%E5%A2%9E%E5%8A%A0%E4%BC%98%E8%B4%A8%E4%BE%9B%E7%BB%99+%E6%8C%96%E6%8E%98%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B&sa=fyb_news"
   },
   {
+   "title": "“合肥沈腾”走红 街头卖徐福炒饭",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%90%88%E8%82%A5%E6%B2%88%E8%85%BE%E2%80%9D%E8%B5%B0%E7%BA%A2+%E8%A1%97%E5%A4%B4%E5%8D%96%E5%BE%90%E7%A6%8F%E7%82%92%E9%A5%AD&sa=fyb_news"
+  },
+  {
+   "title": "为啥大家不穿皮鞋了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E5%95%A5%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%A9%BF%E7%9A%AE%E9%9E%8B%E4%BA%86&sa=fyb_news"
+  },
+  {
    "title": "多地严查赵一鸣、好想来等",
    "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89&sa=fyb_news"
   },
   {
-   "title": "徐广源病逝 曾亲手整理慈禧遗体",
-   "link": "https://m.baidu.com/s?word=%E5%BE%90%E5%B9%BF%E6%BA%90%E7%97%85%E9%80%9D+%E6%9B%BE%E4%BA%B2%E6%89%8B%E6%95%B4%E7%90%86%E6%85%88%E7%A6%A7%E9%81%97%E4%BD%93&sa=fyb_news"
+   "title": "China GT就碰撞起火事故致歉",
+   "link": "https://m.baidu.com/s?word=China+GT%E5%B0%B1%E7%A2%B0%E6%92%9E%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85%E8%87%B4%E6%AD%89&sa=fyb_news"
   },
   {
-   "title": "剪下网红葫芦之后",
-   "link": "https://m.baidu.com/s?word=%E5%89%AA%E4%B8%8B%E7%BD%91%E7%BA%A2%E8%91%AB%E8%8A%A6%E4%B9%8B%E5%90%8E&sa=fyb_news"
+   "title": "张雪机车法国站次回合获得第3名",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E6%AC%A1%E5%9B%9E%E5%90%88%E8%8E%B7%E5%BE%97%E7%AC%AC3%E5%90%8D&sa=fyb_news"
   },
   {
-   "title": "王一博赛车夺冠",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E5%A4%BA%E5%86%A0&sa=fyb_news"
+   "title": "葫芦娃爷爷隔壁阳台挂起7个葫芦",
+   "link": "https://m.baidu.com/s?word=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E9%98%B3%E5%8F%B0%E6%8C%82%E8%B5%B77%E4%B8%AA%E8%91%AB%E8%8A%A6&sa=fyb_news"
   },
   {
-   "title": "新疆慕士塔格峰2号冰川雪崩",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E6%85%95%E5%A3%AB%E5%A1%94%E6%A0%BC%E5%B3%B02%E5%8F%B7%E5%86%B0%E5%B7%9D%E9%9B%AA%E5%B4%A9&sa=fyb_news"
-  },
-  {
-   "title": "江苏主持人在湖南卫视拿冠军",
-   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%9C%A8%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8B%BF%E5%86%A0%E5%86%9B&sa=fyb_news"
-  },
-  {
-   "title": "郑钦文是16强唯一资格赛突围选手",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF16%E5%BC%BA%E5%94%AF%E4%B8%80%E8%B5%84%E6%A0%BC%E8%B5%9B%E7%AA%81%E5%9B%B4%E9%80%89%E6%89%8B&sa=fyb_news"
+   "title": "大学新生 生活费",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F+%E7%94%9F%E6%B4%BB%E8%B4%B9&sa=fyb_news"
   },
   {
    "title": "网传“青铜峡大坝开始泄洪”系谣言",
    "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "去香港看演唱会全家被取消低保",
-   "link": "https://m.baidu.com/s?word=%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%AE%B6%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D&sa=fyb_news"
+   "title": "江西遂川地质灾害遇难人数增至4人",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%A2%9E%E8%87%B34%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "章泽天采访 没有一个菜入味",
-   "link": "https://m.baidu.com/s?word=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF+%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&sa=fyb_news"
+   "title": "内蒙古婚内强奸案最新进展",
+   "link": "https://m.baidu.com/s?word=%E5%86%85%E8%92%99%E5%8F%A4%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95&sa=fyb_news"
   },
   {
-   "title": "小学通知家长来校做卫生 教育局回应",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E6%9D%A5%E6%A0%A1%E5%81%9A%E5%8D%AB%E7%94%9F+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "财政部570亿增资三家保险公司",
+   "link": "https://m.baidu.com/s?word=%E8%B4%A2%E6%94%BF%E9%83%A8570%E4%BA%BF%E5%A2%9E%E8%B5%84%E4%B8%89%E5%AE%B6%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8&sa=fyb_news"
   }
  ],
  "ai": [
