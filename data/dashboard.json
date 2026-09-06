@@ -1,6 +1,6 @@
 {
  "date": "2026-09-06",
- "updatedAt": "2026-09-06 04:41",
+ "updatedAt": "2026-09-06 08:41",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,107 +177,107 @@
  },
  "forex": [],
  "btc": {
-  "usd": "79,908",
-  "cny": "536,260",
-  "pct": "+0.46%",
+  "usd": "79,790",
+  "cny": "535,471",
+  "pct": "+0.22%",
   "up": true,
   "trend": [
-   79542.03,
-   79589.42,
-   79633.52,
-   79657.81,
-   79732.86,
-   79644.16,
-   79716.54,
-   79627.0,
-   79599.44,
-   79625.36,
-   79664.88,
-   79713.13,
-   79649.62,
-   79728.14,
-   79726.29,
-   79803.39,
-   79940.78,
-   80019.16,
-   79996.57,
-   79987.72,
-   79851.08,
-   79720.41,
-   79780.68,
-   79909.5,
-   79770.65,
-   79802.2,
-   79905.36,
-   79886.77,
-   79977.57,
-   79919.69,
-   79930.35,
-   80026.32
+   79614.99,
+   79696.58,
+   79619.67,
+   79624.22,
+   79614.17,
+   79658.56,
+   79715.06,
+   79617.56,
+   79719.22,
+   79700.86,
+   79777.43,
+   80053.61,
+   80049.48,
+   79961.96,
+   79941.52,
+   79757.93,
+   79771.8,
+   79853.23,
+   79923.33,
+   79781.06,
+   79820.82,
+   79926.36,
+   79967.73,
+   79959.3,
+   79879.29,
+   79896.84,
+   79971.26,
+   79862.91,
+   80016.36,
+   79828.68,
+   79669.51,
+   79811.52
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "看跨越时空的文明对话",
-   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E8%B7%A8%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%96%87%E6%98%8E%E5%AF%B9%E8%AF%9D&sa=fyb_news"
+   "title": "历史坐标里的“中埃时刻”",
+   "link": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E5%9D%90%E6%A0%87%E9%87%8C%E7%9A%84%E2%80%9C%E4%B8%AD%E5%9F%83%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "央视曝光幽灵外卖",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96&sa=fyb_news"
+   "title": "银行集中“清淤”",
+   "link": "https://m.baidu.com/s?word=%E9%93%B6%E8%A1%8C%E9%9B%86%E4%B8%AD%E2%80%9C%E6%B8%85%E6%B7%A4%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "废旧手机里藏着多少黄金",
-   "link": "https://m.baidu.com/s?word=%E5%BA%9F%E6%97%A7%E6%89%8B%E6%9C%BA%E9%87%8C%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%84%E9%87%91&sa=fyb_news"
+   "title": "大范围降温来了",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%99%8D%E6%B8%A9%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "“一带一路”上的新路有多重要",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E4%B8%8A%E7%9A%84%E6%96%B0%E8%B7%AF%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81&sa=fyb_news"
+   "title": "增加优质供给 挖掘消费潜力",
+   "link": "https://m.baidu.com/s?word=%E5%A2%9E%E5%8A%A0%E4%BC%98%E8%B4%A8%E4%BE%9B%E7%BB%99+%E6%8C%96%E6%8E%98%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B&sa=fyb_news"
   },
   {
-   "title": "老剧翻红 我们被什么打动",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E5%89%A7%E7%BF%BB%E7%BA%A2+%E6%88%91%E4%BB%AC%E8%A2%AB%E4%BB%80%E4%B9%88%E6%89%93%E5%8A%A8&sa=fyb_news"
+   "title": "多地严查赵一鸣、好想来等",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89&sa=fyb_news"
   },
   {
-   "title": "China GT上海站严重事故",
-   "link": "https://m.baidu.com/s?word=China+GT%E4%B8%8A%E6%B5%B7%E7%AB%99%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85&sa=fyb_news"
+   "title": "徐广源病逝 曾亲手整理慈禧遗体",
+   "link": "https://m.baidu.com/s?word=%E5%BE%90%E5%B9%BF%E6%BA%90%E7%97%85%E9%80%9D+%E6%9B%BE%E4%BA%B2%E6%89%8B%E6%95%B4%E7%90%86%E6%85%88%E7%A6%A7%E9%81%97%E4%BD%93&sa=fyb_news"
   },
   {
-   "title": "ETC该不该取消？人民日报最新发声",
-   "link": "https://m.baidu.com/s?word=ETC%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8F%96%E6%B6%88%EF%BC%9F%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0&sa=fyb_news"
+   "title": "剪下网红葫芦之后",
+   "link": "https://m.baidu.com/s?word=%E5%89%AA%E4%B8%8B%E7%BD%91%E7%BA%A2%E8%91%AB%E8%8A%A6%E4%B9%8B%E5%90%8E&sa=fyb_news"
   },
   {
-   "title": "小学靠吼初中靠忍高中靠哄大学靠钱",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%9D%A0%E5%90%BC%E5%88%9D%E4%B8%AD%E9%9D%A0%E5%BF%8D%E9%AB%98%E4%B8%AD%E9%9D%A0%E5%93%84%E5%A4%A7%E5%AD%A6%E9%9D%A0%E9%92%B1&sa=fyb_news"
+   "title": "王一博赛车夺冠",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E5%A4%BA%E5%86%A0&sa=fyb_news"
   },
   {
-   "title": "辽宁处长被枪击案唯一目击证人发声",
-   "link": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E5%A4%84%E9%95%BF%E8%A2%AB%E6%9E%AA%E5%87%BB%E6%A1%88%E5%94%AF%E4%B8%80%E7%9B%AE%E5%87%BB%E8%AF%81%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news"
+   "title": "新疆慕士塔格峰2号冰川雪崩",
+   "link": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E6%85%95%E5%A3%AB%E5%A1%94%E6%A0%BC%E5%B3%B02%E5%8F%B7%E5%86%B0%E5%B7%9D%E9%9B%AA%E5%B4%A9&sa=fyb_news"
   },
   {
-   "title": "伍佰演唱会大喊“我要下班”",
-   "link": "https://m.baidu.com/s?word=%E4%BC%8D%E4%BD%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%96%8A%E2%80%9C%E6%88%91%E8%A6%81%E4%B8%8B%E7%8F%AD%E2%80%9D&sa=fyb_news"
+   "title": "江苏主持人在湖南卫视拿冠军",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%9C%A8%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8B%BF%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "郑钦文创女子大满贯翻盘纪录",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%88%9B%E5%A5%B3%E5%AD%90%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%BF%BB%E7%9B%98%E7%BA%AA%E5%BD%95&sa=fyb_news"
+   "title": "郑钦文是16强唯一资格赛突围选手",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%98%AF16%E5%BC%BA%E5%94%AF%E4%B8%80%E8%B5%84%E6%A0%BC%E8%B5%9B%E7%AA%81%E5%9B%B4%E9%80%89%E6%89%8B&sa=fyb_news"
   },
   {
    "title": "网传“青铜峡大坝开始泄洪”系谣言",
    "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "张学友大女儿近照曝光",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news"
-  },
-  {
-   "title": "“葫芦娃爷爷”连夜剪下阳台7个葫芦",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E2%80%9D%E8%BF%9E%E5%A4%9C%E5%89%AA%E4%B8%8B%E9%98%B3%E5%8F%B07%E4%B8%AA%E8%91%AB%E8%8A%A6&sa=fyb_news"
+   "title": "去香港看演唱会全家被取消低保",
+   "link": "https://m.baidu.com/s?word=%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%AE%B6%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BD%8E%E4%BF%9D&sa=fyb_news"
   },
   {
    "title": "章泽天采访 没有一个菜入味",
    "link": "https://m.baidu.com/s?word=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF+%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&sa=fyb_news"
+  },
+  {
+   "title": "小学通知家长来校做卫生 教育局回应",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E6%9D%A5%E6%A0%A1%E5%81%9A%E5%8D%AB%E7%94%9F+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94&sa=fyb_news"
   }
  ],
  "ai": [
