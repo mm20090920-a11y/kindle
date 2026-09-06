@@ -1,6 +1,6 @@
 {
- "date": "2026-09-05",
- "updatedAt": "2026-09-05 15:17",
+ "date": "2026-09-06",
+ "updatedAt": "2026-09-06 04:41",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,157 +177,157 @@
  },
  "forex": [],
  "btc": {
-  "usd": "79,726",
-  "cny": "535,040",
-  "pct": "+0.64%",
+  "usd": "79,908",
+  "cny": "536,260",
+  "pct": "+0.46%",
   "up": true,
   "trend": [
-   79242.43,
-   79418.38,
-   79802.79,
-   79514.83,
-   79576.88,
-   79713.14,
-   79732.19,
-   79747.46,
-   79815.82,
-   79680.32,
-   79651.38,
-   79697.75,
-   79637.69,
-   79613.82,
-   79610.69,
-   79575.1,
-   79597.56,
-   79582.38,
-   79558.81,
-   79600.2,
-   79629.2,
-   79690.56,
-   79738.98,
-   79581.03,
-   79693.66,
-   79632.92,
-   79592.73,
-   79635.81,
-   79658.02,
-   79706.59,
-   79676.39,
-   79744.84
+   79542.03,
+   79589.42,
+   79633.52,
+   79657.81,
+   79732.86,
+   79644.16,
+   79716.54,
+   79627.0,
+   79599.44,
+   79625.36,
+   79664.88,
+   79713.13,
+   79649.62,
+   79728.14,
+   79726.29,
+   79803.39,
+   79940.78,
+   80019.16,
+   79996.57,
+   79987.72,
+   79851.08,
+   79720.41,
+   79780.68,
+   79909.5,
+   79770.65,
+   79802.2,
+   79905.36,
+   79886.77,
+   79977.57,
+   79919.69,
+   79930.35,
+   80026.32
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "“上合大家庭”众行致远",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%8A%E5%90%88%E5%A4%A7%E5%AE%B6%E5%BA%AD%E2%80%9D%E4%BC%97%E8%A1%8C%E8%87%B4%E8%BF%9C&sa=fyb_news"
+   "title": "看跨越时空的文明对话",
+   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E8%B7%A8%E8%B6%8A%E6%97%B6%E7%A9%BA%E7%9A%84%E6%96%87%E6%98%8E%E5%AF%B9%E8%AF%9D&sa=fyb_news"
   },
   {
-   "title": "“吉隆”的来电 请一定接听",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%90%89%E9%9A%86%E2%80%9D%E7%9A%84%E6%9D%A5%E7%94%B5+%E8%AF%B7%E4%B8%80%E5%AE%9A%E6%8E%A5%E5%90%AC&sa=fyb_news"
+   "title": "央视曝光幽灵外卖",
+   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%B9%BD%E7%81%B5%E5%A4%96%E5%8D%96&sa=fyb_news"
   },
   {
-   "title": "新能源汽车动力电池将迎“退役潮”",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%B0%86%E8%BF%8E%E2%80%9C%E9%80%80%E5%BD%B9%E6%BD%AE%E2%80%9D&sa=fyb_news"
+   "title": "废旧手机里藏着多少黄金",
+   "link": "https://m.baidu.com/s?word=%E5%BA%9F%E6%97%A7%E6%89%8B%E6%9C%BA%E9%87%8C%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E9%BB%84%E9%87%91&sa=fyb_news"
   },
   {
-   "title": "生育险、长护险、医保报销迎新变化",
-   "link": "https://m.baidu.com/s?word=%E7%94%9F%E8%82%B2%E9%99%A9%E3%80%81%E9%95%BF%E6%8A%A4%E9%99%A9%E3%80%81%E5%8C%BB%E4%BF%9D%E6%8A%A5%E9%94%80%E8%BF%8E%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+   "title": "“一带一路”上的新路有多重要",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E2%80%9D%E4%B8%8A%E7%9A%84%E6%96%B0%E8%B7%AF%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81&sa=fyb_news"
   },
   {
-   "title": "花15元买了2斤蛤蜊吃出3颗珍珠",
-   "link": "https://m.baidu.com/s?word=%E8%8A%B115%E5%85%83%E4%B9%B0%E4%BA%862%E6%96%A4%E8%9B%A4%E8%9C%8A%E5%90%83%E5%87%BA3%E9%A2%97%E7%8F%8D%E7%8F%A0&sa=fyb_news"
+   "title": "老剧翻红 我们被什么打动",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E5%89%A7%E7%BF%BB%E7%BA%A2+%E6%88%91%E4%BB%AC%E8%A2%AB%E4%BB%80%E4%B9%88%E6%89%93%E5%8A%A8&sa=fyb_news"
   },
   {
-   "title": "葫芦娃爷爷家门口“蛇精”真来了",
-   "link": "https://m.baidu.com/s?word=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E5%AE%B6%E9%97%A8%E5%8F%A3%E2%80%9C%E8%9B%87%E7%B2%BE%E2%80%9D%E7%9C%9F%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "China GT上海站严重事故",
+   "link": "https://m.baidu.com/s?word=China+GT%E4%B8%8A%E6%B5%B7%E7%AB%99%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85&sa=fyb_news"
   },
   {
-   "title": "正颌手术被做反女孩：已达成和解",
-   "link": "https://m.baidu.com/s?word=%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%A5%B3%E5%AD%A9%EF%BC%9A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3&sa=fyb_news"
+   "title": "ETC该不该取消？人民日报最新发声",
+   "link": "https://m.baidu.com/s?word=ETC%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8F%96%E6%B6%88%EF%BC%9F%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0&sa=fyb_news"
   },
   {
-   "title": "DeepSeek被曝将采购16万颗华为芯片",
-   "link": "https://m.baidu.com/s?word=DeepSeek%E8%A2%AB%E6%9B%9D%E5%B0%86%E9%87%87%E8%B4%AD16%E4%B8%87%E9%A2%97%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87&sa=fyb_news"
+   "title": "小学靠吼初中靠忍高中靠哄大学靠钱",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%9D%A0%E5%90%BC%E5%88%9D%E4%B8%AD%E9%9D%A0%E5%BF%8D%E9%AB%98%E4%B8%AD%E9%9D%A0%E5%93%84%E5%A4%A7%E5%AD%A6%E9%9D%A0%E9%92%B1&sa=fyb_news"
   },
   {
-   "title": "上大学前几天档案被当垃圾扔了",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%89%8D%E5%87%A0%E5%A4%A9%E6%A1%A3%E6%A1%88%E8%A2%AB%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E4%BA%86&sa=fyb_news"
+   "title": "辽宁处长被枪击案唯一目击证人发声",
+   "link": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E5%A4%84%E9%95%BF%E8%A2%AB%E6%9E%AA%E5%87%BB%E6%A1%88%E5%94%AF%E4%B8%80%E7%9B%AE%E5%87%BB%E8%AF%81%E4%BA%BA%E5%8F%91%E5%A3%B0&sa=fyb_news"
   },
   {
-   "title": "吴彦祖上海站撞车退赛",
-   "link": "https://m.baidu.com/s?word=%E5%90%B4%E5%BD%A6%E7%A5%96%E4%B8%8A%E6%B5%B7%E7%AB%99%E6%92%9E%E8%BD%A6%E9%80%80%E8%B5%9B&sa=fyb_news"
+   "title": "伍佰演唱会大喊“我要下班”",
+   "link": "https://m.baidu.com/s?word=%E4%BC%8D%E4%BD%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%96%8A%E2%80%9C%E6%88%91%E8%A6%81%E4%B8%8B%E7%8F%AD%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "张雪机车法国站第一回合获季军",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%B3%95%E5%9B%BD%E7%AB%99%E7%AC%AC%E4%B8%80%E5%9B%9E%E5%90%88%E8%8E%B7%E5%AD%A3%E5%86%9B&sa=fyb_news"
+   "title": "郑钦文创女子大满贯翻盘纪录",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%88%9B%E5%A5%B3%E5%AD%90%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%BF%BB%E7%9B%98%E7%BA%AA%E5%BD%95&sa=fyb_news"
   },
   {
-   "title": "教授夫妇坠楼床上摆百万现金是谣言",
-   "link": "https://m.baidu.com/s?word=%E6%95%99%E6%8E%88%E5%A4%AB%E5%A6%87%E5%9D%A0%E6%A5%BC%E5%BA%8A%E4%B8%8A%E6%91%86%E7%99%BE%E4%B8%87%E7%8E%B0%E9%87%91%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "网传“青铜峡大坝开始泄洪”系谣言",
+   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E9%9D%92%E9%93%9C%E5%B3%A1%E5%A4%A7%E5%9D%9D%E5%BC%80%E5%A7%8B%E6%B3%84%E6%B4%AA%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "剧本杀 色情温床",
-   "link": "https://m.baidu.com/s?word=%E5%89%A7%E6%9C%AC%E6%9D%80+%E8%89%B2%E6%83%85%E6%B8%A9%E5%BA%8A&sa=fyb_news"
+   "title": "张学友大女儿近照曝光",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89&sa=fyb_news"
   },
   {
-   "title": "阿里巴巴前高管在美失踪后确认身亡",
-   "link": "https://m.baidu.com/s?word=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%89%8D%E9%AB%98%E7%AE%A1%E5%9C%A8%E7%BE%8E%E5%A4%B1%E8%B8%AA%E5%90%8E%E7%A1%AE%E8%AE%A4%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+   "title": "“葫芦娃爷爷”连夜剪下阳台7个葫芦",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E2%80%9D%E8%BF%9E%E5%A4%9C%E5%89%AA%E4%B8%8B%E9%98%B3%E5%8F%B07%E4%B8%AA%E8%91%AB%E8%8A%A6&sa=fyb_news"
   },
   {
-   "title": "2米眼镜王蛇钻入帐篷 猎犬拖出未果",
-   "link": "https://m.baidu.com/s?word=2%E7%B1%B3%E7%9C%BC%E9%95%9C%E7%8E%8B%E8%9B%87%E9%92%BB%E5%85%A5%E5%B8%90%E7%AF%B7+%E7%8C%8E%E7%8A%AC%E6%8B%96%E5%87%BA%E6%9C%AA%E6%9E%9C&sa=fyb_news"
+   "title": "章泽天采访 没有一个菜入味",
+   "link": "https://m.baidu.com/s?word=%E7%AB%A0%E6%B3%BD%E5%A4%A9%E9%87%87%E8%AE%BF+%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%8F%9C%E5%85%A5%E5%91%B3&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-   "link": "https://x.com/OpenAI/status/2095968413646737608"
+   "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
+   "link": "https://www.ithome.com/0/998/661.htm"
   },
   {
-   "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-   "link": "https://x.com/satyanadella/status/2095713765446840591"
+   "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半",
+   "link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol"
   },
   {
-   "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-   "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"
+   "title": "费马大定理的 Lean 4 机器检查完整证明开源发布",
+   "link": "https://github.com/anthropics/fermats-last-theorem"
   },
   {
-   "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
-   "link": "https://x.ai/news/grok-bot-procurement"
+   "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+   "link": "https://x.com/testingcatalog/status/2096350628054176240"
   },
   {
-   "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-   "link": "https://www.ithome.com/0/998/630.htm"
+   "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"
   },
   {
-   "title": "英伟达两年从零建起近千亿美元股权投资组合",
-   "link": "https://www.ithome.com/0/998/620.htm"
+   "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
+   "link": "https://www.ithome.com/0/998/758.htm"
   },
   {
-   "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-   "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+   "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+   "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"
   },
   {
-   "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-   "link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections"
+   "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+   "link": "https://x.com/rohanpaul_ai/status/2096303922378088854"
   },
   {
-   "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-   "link": "https://x.com/kimmonismus/status/2095837763517988869"
+   "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
+   "link": "https://www.ithome.com/0/998/814.htm"
   },
   {
-   "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-   "link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward"
+   "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+   "link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words"
   },
   {
-   "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-   "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot"
+   "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+   "link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6"
   },
   {
-   "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
-   "link": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave"
+   "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
+   "link": "https://x.com/OpenAI/status/2096133504417616165"
   }
  ]
 }
