@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "updatedAt": "2026-09-07 14:17",
+ "updatedAt": "2026-09-07 17:45",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4408.47",
+  "value": "4409.84",
   "unit": "美元/盎司",
-  "change": "-22.49",
-  "pct": "-0.51%",
+  "change": "-21.12",
+  "pct": "-0.48%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "79,152",
-  "cny": "531,196",
-  "pct": "-0.66%",
+  "usd": "79,140",
+  "cny": "531,123",
+  "pct": "-0.75%",
   "up": false,
   "trend": [
-   79736.23,
-   79507.66,
-   79693.82,
-   79757.65,
-   79700.71,
-   79768.32,
-   79913.37,
-   79820.7,
-   79823.76,
-   79959.0,
-   79939.57,
-   79926.81,
-   80254.92,
-   80321.64,
-   80131.85,
-   79949.01,
-   79928.95,
-   79948.31,
-   79626.82,
-   79600.92,
-   79813.19,
-   79793.0,
-   79661.53,
-   79312.7,
-   79500.11,
-   79440.73,
-   79403.81,
-   79405.63,
-   79417.23,
-   79405.82,
-   79516.28,
-   79415.11
+   79728.44,
+   79924.14,
+   79849.39,
+   79796.16,
+   79922.67,
+   79894.04,
+   79642.89,
+   80206.7,
+   80491.65,
+   80131.24,
+   79918.5,
+   79884.26,
+   80238.95,
+   79732.63,
+   79671.64,
+   79733.07,
+   79836.77,
+   79697.0,
+   79573.24,
+   79421.4,
+   79429.38,
+   79411.47,
+   79408.64,
+   79308.86,
+   79399.49,
+   79496.23,
+   79597.58,
+   79329.87,
+   79078.07,
+   78852.88,
+   78878.24,
+   79014.69
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%9D%E6%83%B3%E5%90%AF%E8%BF%AA&sa=fyb_news"
   },
   {
-   "title": "雷军发布小米迄今最贵手机",
-   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%BF%84%E4%BB%8A%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA&sa=fyb_news"
+   "title": "郑钦文2比0斯瓦泰克晋级八强",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%872%E6%AF%940%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA&sa=fyb_news"
   },
   {
-   "title": "小米澎程N70 Pro版售价20.99万",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
+   "title": "雷军发布小米迄今最贵手机",
+   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%BF%84%E4%BB%8A%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA&sa=fyb_news"
   },
   {
    "title": "“学成了 希望你们能够回来”",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%AD%A6%E6%88%90%E4%BA%86+%E5%B8%8C%E6%9C%9B%E4%BD%A0%E4%BB%AC%E8%83%BD%E5%A4%9F%E5%9B%9E%E6%9D%A5%E2%80%9D&sa=fyb_news"
   },
   {
+   "title": "刘德华幽默带货：三折叠不好用找余总",
+   "link": "https://m.baidu.com/s?word=%E5%88%98%E5%BE%B7%E5%8D%8E%E5%B9%BD%E9%BB%98%E5%B8%A6%E8%B4%A7%EF%BC%9A%E4%B8%89%E6%8A%98%E5%8F%A0%E4%B8%8D%E5%A5%BD%E7%94%A8%E6%89%BE%E4%BD%99%E6%80%BB&sa=fyb_news"
+  },
+  {
+   "title": "费大厨该摘下“大厨”了",
+   "link": "https://m.baidu.com/s?word=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E8%AF%A5%E6%91%98%E4%B8%8B%E2%80%9C%E5%A4%A7%E5%8E%A8%E2%80%9D%E4%BA%86&sa=fyb_news"
+  },
+  {
    "title": "雷军展示“折叠机的坟场”",
    "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "北上广的地铁好像没那么挤了",
-   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%9A%84%E5%9C%B0%E9%93%81%E5%A5%BD%E5%83%8F%E6%B2%A1%E9%82%A3%E4%B9%88%E6%8C%A4%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "上汽奥迪放弃“四环”",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E6%94%BE%E5%BC%83%E2%80%9C%E5%9B%9B%E7%8E%AF%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "英国政府要求民众提前存粮存水",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E6%B0%91%E4%BC%97%E6%8F%90%E5%89%8D%E5%AD%98%E7%B2%AE%E5%AD%98%E6%B0%B4&sa=fyb_news"
-  },
-  {
-   "title": "浙江104岁老人每天睡觉18个小时",
-   "link": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
+   "title": "郑钦文0-5落后又7-5逆转",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%870-5%E8%90%BD%E5%90%8E%E5%8F%887-5%E9%80%86%E8%BD%AC&sa=fyb_news"
   },
   {
    "title": "湖南卫视一只“AI猴子”闹出133亿",
    "link": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
   },
   {
-   "title": "余承东建议苹果用户买华为备用机",
-   "link": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA&sa=fyb_news"
-  },
-  {
-   "title": "江西遂川万安这些涉灾信息不实",
-   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E4%B8%87%E5%AE%89%E8%BF%99%E4%BA%9B%E6%B6%89%E7%81%BE%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news"
-  },
-  {
-   "title": "女子在公厕生下女婴后独自离开",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%8E%95%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%A9%B4%E5%90%8E%E7%8B%AC%E8%87%AA%E7%A6%BB%E5%BC%80&sa=fyb_news"
+   "title": "上汽奥迪放弃“四环”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E6%94%BE%E5%BC%83%E2%80%9C%E5%9B%9B%E7%8E%AF%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
    "link": "https://m.baidu.com/s?word=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E9%81%AD%E5%A4%A7%E9%87%8F%E5%B7%AE%E8%AF%84&sa=fyb_news"
   },
   {
-   "title": "小米18 Fold中折叠手机售价10999起",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B318+Fold%E4%B8%AD%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B710999%E8%B5%B7&sa=fyb_news"
+   "title": "江西遂川万安这些涉灾信息不实",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E4%B8%87%E5%AE%89%E8%BF%99%E4%BA%9B%E6%B6%89%E7%81%BE%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+  },
+  {
+   "title": "余承东建议苹果用户买华为备用机",
+   "link": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA&sa=fyb_news"
+  },
+  {
+   "title": "阔折叠手机为什么火了",
+   "link": "https://m.baidu.com/s?word=%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "女子在公厕生下女婴后独自离开",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%8E%95%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%A9%B4%E5%90%8E%E7%8B%AC%E8%87%AA%E7%A6%BB%E5%BC%80&sa=fyb_news"
   }
  ],
  "ai": [
