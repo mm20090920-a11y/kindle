@@ -1,6 +1,6 @@
 {
  "date": "2026-09-07",
- "updatedAt": "2026-09-07 09:22",
+ "updatedAt": "2026-09-07 14:17",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4408.57",
+  "value": "4408.47",
   "unit": "美元/盎司",
-  "change": "-22.39",
+  "change": "-22.49",
   "pct": "-0.51%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "79,501",
-  "cny": "533,533",
-  "pct": "-0.57%",
+  "usd": "79,152",
+  "cny": "531,196",
+  "pct": "-0.66%",
   "up": false,
   "trend": [
-   79960.43,
-   79918.25,
-   79998.5,
-   79908.49,
-   79989.1,
-   79936.28,
-   79807.53,
-   79643.6,
-   79631.59,
-   79618.29,
-   79692.04,
-   79734.75,
-   79881.49,
-   79866.3,
-   79803.46,
-   79932.25,
-   79946.66,
-   79697.78,
-   80019.8,
-   80413.52,
-   80161.06,
-   79986.2,
-   79918.35,
-   80356.56,
-   79782.23,
-   79631.01,
-   79646.65,
-   79850.13,
-   79743.36,
-   79670.7,
-   79335.34,
-   79448.44
+   79736.23,
+   79507.66,
+   79693.82,
+   79757.65,
+   79700.71,
+   79768.32,
+   79913.37,
+   79820.7,
+   79823.76,
+   79959.0,
+   79939.57,
+   79926.81,
+   80254.92,
+   80321.64,
+   80131.85,
+   79949.01,
+   79928.95,
+   79948.31,
+   79626.82,
+   79600.92,
+   79813.19,
+   79793.0,
+   79661.53,
+   79312.7,
+   79500.11,
+   79440.73,
+   79403.81,
+   79405.63,
+   79417.23,
+   79405.82,
+   79516.28,
+   79415.11
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "《习近平生态文明思想概论》出版发行",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%9F%E6%80%81%E6%96%87%E6%98%8E%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C&sa=fyb_news"
+   "title": "中国元首外交的思想启迪",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E7%9A%84%E6%80%9D%E6%83%B3%E5%90%AF%E8%BF%AA&sa=fyb_news"
   },
   {
-   "title": "华为时隔六年再次发布高性能芯片",
-   "link": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87&sa=fyb_news"
+   "title": "雷军发布小米迄今最贵手机",
+   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%BF%84%E4%BB%8A%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA&sa=fyb_news"
   },
   {
-   "title": "华为最新三折叠售价19999元起",
-   "link": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E6%9C%80%E6%96%B0%E4%B8%89%E6%8A%98%E5%8F%A0%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7&sa=fyb_news"
+   "title": "小米澎程N70 Pro版售价20.99万",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN70+Pro%E7%89%88%E5%94%AE%E4%BB%B720.99%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "5年再增约10亿“风光”意味着什么",
-   "link": "https://m.baidu.com/s?word=5%E5%B9%B4%E5%86%8D%E5%A2%9E%E7%BA%A610%E4%BA%BF%E2%80%9C%E9%A3%8E%E5%85%89%E2%80%9D%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_news"
+   "title": "“学成了 希望你们能够回来”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%AD%A6%E6%88%90%E4%BA%86+%E5%B8%8C%E6%9C%9B%E4%BD%A0%E4%BB%AC%E8%83%BD%E5%A4%9F%E5%9B%9E%E6%9D%A5%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "南阳“老头乐”退场引出全国性难题",
-   "link": "https://m.baidu.com/s?word=%E5%8D%97%E9%98%B3%E2%80%9C%E8%80%81%E5%A4%B4%E4%B9%90%E2%80%9D%E9%80%80%E5%9C%BA%E5%BC%95%E5%87%BA%E5%85%A8%E5%9B%BD%E6%80%A7%E9%9A%BE%E9%A2%98&sa=fyb_news"
+   "title": "雷军展示“折叠机的坟场”",
+   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E2%80%9C%E6%8A%98%E5%8F%A0%E6%9C%BA%E7%9A%84%E5%9D%9F%E5%9C%BA%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "鸣鸣很忙回应：称错商品将赔十倍差价",
-   "link": "https://m.baidu.com/s?word=%E9%B8%A3%E9%B8%A3%E5%BE%88%E5%BF%99%E5%9B%9E%E5%BA%94%EF%BC%9A%E7%A7%B0%E9%94%99%E5%95%86%E5%93%81%E5%B0%86%E8%B5%94%E5%8D%81%E5%80%8D%E5%B7%AE%E4%BB%B7&sa=fyb_news"
+   "title": "北上广的地铁好像没那么挤了",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%9A%84%E5%9C%B0%E9%93%81%E5%A5%BD%E5%83%8F%E6%B2%A1%E9%82%A3%E4%B9%88%E6%8C%A4%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "南宁站一旅客跳入股道与列车碰撞身亡",
-   "link": "https://m.baidu.com/s?word=%E5%8D%97%E5%AE%81%E7%AB%99%E4%B8%80%E6%97%85%E5%AE%A2%E8%B7%B3%E5%85%A5%E8%82%A1%E9%81%93%E4%B8%8E%E5%88%97%E8%BD%A6%E7%A2%B0%E6%92%9E%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+   "title": "上汽奥迪放弃“四环”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E6%94%BE%E5%BC%83%E2%80%9C%E5%9B%9B%E7%8E%AF%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "零食店1天涌入6万人堪比演唱会",
-   "link": "https://m.baidu.com/s?word=%E9%9B%B6%E9%A3%9F%E5%BA%971%E5%A4%A9%E6%B6%8C%E5%85%A56%E4%B8%87%E4%BA%BA%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A&sa=fyb_news"
+   "title": "英国政府要求民众提前存粮存水",
+   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E6%B0%91%E4%BC%97%E6%8F%90%E5%89%8D%E5%AD%98%E7%B2%AE%E5%AD%98%E6%B0%B4&sa=fyb_news"
   },
   {
-   "title": "郑佩佩去世后捐赠了大脑",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E4%BD%A9%E4%BD%A9%E5%8E%BB%E4%B8%96%E5%90%8E%E6%8D%90%E8%B5%A0%E4%BA%86%E5%A4%A7%E8%84%91&sa=fyb_news"
+   "title": "浙江104岁老人每天睡觉18个小时",
+   "link": "https://m.baidu.com/s?word=%E6%B5%99%E6%B1%9F104%E5%B2%81%E8%80%81%E4%BA%BA%E6%AF%8F%E5%A4%A9%E7%9D%A1%E8%A7%8918%E4%B8%AA%E5%B0%8F%E6%97%B6&sa=fyb_news"
   },
   {
-   "title": "佛得角宣布全国降半旗",
-   "link": "https://m.baidu.com/s?word=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97&sa=fyb_news"
+   "title": "湖南卫视一只“AI猴子”闹出133亿",
+   "link": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%80%E5%8F%AA%E2%80%9CAI%E7%8C%B4%E5%AD%90%E2%80%9D%E9%97%B9%E5%87%BA133%E4%BA%BF&sa=fyb_news"
   },
   {
-   "title": "中秋放假3天不调休高速不免费",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%8B%E6%94%BE%E5%81%873%E5%A4%A9%E4%B8%8D%E8%B0%83%E4%BC%91%E9%AB%98%E9%80%9F%E4%B8%8D%E5%85%8D%E8%B4%B9&sa=fyb_news"
+   "title": "余承东建议苹果用户买华为备用机",
+   "link": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA&sa=fyb_news"
   },
   {
-   "title": "“毁草原种枸杞”系谣言",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%AF%81%E8%8D%89%E5%8E%9F%E7%A7%8D%E6%9E%B8%E6%9D%9E%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "江西遂川万安这些涉灾信息不实",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E4%B8%87%E5%AE%89%E8%BF%99%E4%BA%9B%E6%B6%89%E7%81%BE%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "曝井柏然刘雯已领证",
-   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E5%B7%B2%E9%A2%86%E8%AF%81&sa=fyb_news"
+   "title": "女子在公厕生下女婴后独自离开",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%85%AC%E5%8E%95%E7%94%9F%E4%B8%8B%E5%A5%B3%E5%A9%B4%E5%90%8E%E7%8B%AC%E8%87%AA%E7%A6%BB%E5%BC%80&sa=fyb_news"
   },
   {
-   "title": "婚内强奸案被告家属称其老实本分",
-   "link": "https://m.baidu.com/s?word=%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E8%A2%AB%E5%91%8A%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%85%B6%E8%80%81%E5%AE%9E%E6%9C%AC%E5%88%86&sa=fyb_news"
+   "title": "葫芦娃爷爷隔壁咖啡店遭大量差评",
+   "link": "https://m.baidu.com/s?word=%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E9%9A%94%E5%A3%81%E5%92%96%E5%95%A1%E5%BA%97%E9%81%AD%E5%A4%A7%E9%87%8F%E5%B7%AE%E8%AF%84&sa=fyb_news"
   },
   {
-   "title": "证监会原副主席王建军一审被判无期",
-   "link": "https://m.baidu.com/s?word=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E7%8E%8B%E5%BB%BA%E5%86%9B%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news"
+   "title": "小米18 Fold中折叠手机售价10999起",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%B1%B318+Fold%E4%B8%AD%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B710999%E8%B5%B7&sa=fyb_news"
   }
  ],
  "ai": [
