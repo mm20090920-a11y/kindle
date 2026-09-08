@@ -1,6 +1,6 @@
 {
  "date": "2026-09-08",
- "updatedAt": "2026-09-08 08:53",
+ "updatedAt": "2026-09-08 12:54",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4392.54",
+  "value": "4401.49",
   "unit": "美元/盎司",
-  "change": "-13.69",
-  "pct": "-0.31%",
+  "change": "-4.74",
+  "pct": "-0.11%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "78,396",
-  "cny": "526,130",
-  "pct": "-1.30%",
+  "usd": "78,329",
+  "cny": "525,676",
+  "pct": "-1.55%",
   "up": false,
   "trend": [
-   79417.98,
-   79362.77,
-   79389.31,
-   79297.01,
-   79413.66,
-   79459.01,
-   79619.17,
-   79145.01,
-   79239.33,
-   78769.79,
-   78818.1,
-   79074.28,
-   79166.02,
-   79097.8,
-   79229.73,
-   79251.06,
-   79201.36,
-   79185.75,
-   79163.76,
-   79106.78,
-   79137.47,
-   79203.12,
-   79363.41,
-   79321.21,
-   78990.44,
-   78909.93,
-   78769.71,
-   78649.42,
-   78601.98,
-   78389.14,
-   78439.91,
-   78339.75
+   79591.18,
+   79395.18,
+   79072.17,
+   79084.07,
+   78822.59,
+   79006.81,
+   79103.9,
+   79153.66,
+   79208.71,
+   79357.35,
+   79208.31,
+   79199.04,
+   79185.37,
+   78862.54,
+   78996.73,
+   79039.22,
+   79255.32,
+   79306.51,
+   79432.2,
+   78967.0,
+   78891.79,
+   78812.07,
+   78822.76,
+   78540.14,
+   78276.11,
+   78508.68,
+   78365.31,
+   78363.86,
+   78737.22,
+   78693.43,
+   78438.77,
+   78311.92
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E6%90%BA%E6%89%8B%E6%8E%A8%E8%BF%9B%E5%B9%B3%E7%AD%89%E6%9C%89%E5%BA%8F%E7%9A%84%E4%B8%96%E7%95%8C%E5%A4%9A%E6%9E%81%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "铜价“爆了”",
-   "link": "https://m.baidu.com/s?word=%E9%93%9C%E4%BB%B7%E2%80%9C%E7%88%86%E4%BA%86%E2%80%9D&sa=fyb_news"
+   "title": "上海：10月1日起生娃个人“不花钱”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%EF%BC%9A10%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E2%80%9C%E4%B8%8D%E8%8A%B1%E9%92%B1%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "灵活就业人员基本医保参保规模扩大",
-   "link": "https://m.baidu.com/s?word=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D%E5%8F%82%E4%BF%9D%E8%A7%84%E6%A8%A1%E6%89%A9%E5%A4%A7&sa=fyb_news"
+   "title": "母亲为去世儿子销户民警含泪拥抱安慰",
+   "link": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E4%B8%BA%E5%8E%BB%E4%B8%96%E5%84%BF%E5%AD%90%E9%94%80%E6%88%B7%E6%B0%91%E8%AD%A6%E5%90%AB%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%AE%89%E6%85%B0&sa=fyb_news"
   },
   {
-   "title": "6G手机要来了",
-   "link": "https://m.baidu.com/s?word=6G%E6%89%8B%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "让守信经营者得实惠",
+   "link": "https://m.baidu.com/s?word=%E8%AE%A9%E5%AE%88%E4%BF%A1%E7%BB%8F%E8%90%A5%E8%80%85%E5%BE%97%E5%AE%9E%E6%83%A0&sa=fyb_news"
+  },
+  {
+   "title": "到底孩子多大可以有手机 能玩多久",
+   "link": "https://m.baidu.com/s?word=%E5%88%B0%E5%BA%95%E5%AD%A9%E5%AD%90%E5%A4%9A%E5%A4%A7%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%89%8B%E6%9C%BA+%E8%83%BD%E7%8E%A9%E5%A4%9A%E4%B9%85&sa=fyb_news"
+  },
+  {
+   "title": "受贿1.48亿余元 金湘军一审被判死缓",
+   "link": "https://m.baidu.com/s?word=%E5%8F%97%E8%B4%BF1.48%E4%BA%BF%E4%BD%99%E5%85%83+%E9%87%91%E6%B9%98%E5%86%9B%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93&sa=fyb_news"
+  },
+  {
+   "title": "地球升温之快史无前例",
+   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E7%90%83%E5%8D%87%E6%B8%A9%E4%B9%8B%E5%BF%AB%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B&sa=fyb_news"
+  },
+  {
+   "title": "“梅姨”靠捡垃圾维生 在出租屋落网",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E9%9D%A0%E6%8D%A1%E5%9E%83%E5%9C%BE%E7%BB%B4%E7%94%9F+%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%90%BD%E7%BD%91&sa=fyb_news"
+  },
+  {
+   "title": "洪秀柱参观张雪机车：我腿短跨不上去",
+   "link": "https://m.baidu.com/s?word=%E6%B4%AA%E7%A7%80%E6%9F%B1%E5%8F%82%E8%A7%82%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%EF%BC%9A%E6%88%91%E8%85%BF%E7%9F%AD%E8%B7%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB&sa=fyb_news"
+  },
+  {
+   "title": "教师转岗不能“凑合着教”",
+   "link": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88%E8%BD%AC%E5%B2%97%E4%B8%8D%E8%83%BD%E2%80%9C%E5%87%91%E5%90%88%E7%9D%80%E6%95%99%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "江西遂川泥石流已致12人遇难",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B412%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+  },
+  {
+   "title": "新疆中考科目及分值重大调整？不实",
+   "link": "https://m.baidu.com/s?word=%E6%96%B0%E7%96%86%E4%B8%AD%E8%80%83%E7%A7%91%E7%9B%AE%E5%8F%8A%E5%88%86%E5%80%BC%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+  },
+  {
+   "title": "“影子保洁员”两年多吃了60万空饷",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%BD%B1%E5%AD%90%E4%BF%9D%E6%B4%81%E5%91%98%E2%80%9D%E4%B8%A4%E5%B9%B4%E5%A4%9A%E5%90%83%E4%BA%8660%E4%B8%87%E7%A9%BA%E9%A5%B7&sa=fyb_news"
   },
   {
    "title": "太子奶创始人李途纯逝世",
    "link": "https://m.baidu.com/s?word=%E5%A4%AA%E5%AD%90%E5%A5%B6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E9%80%94%E7%BA%AF%E9%80%9D%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "郑钦文：我的巅峰期还在后面",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E6%88%91%E7%9A%84%E5%B7%85%E5%B3%B0%E6%9C%9F%E8%BF%98%E5%9C%A8%E5%90%8E%E9%9D%A2&sa=fyb_news"
-  },
-  {
-   "title": "茅台 涨价",
-   "link": "https://m.baidu.com/s?word=%E8%8C%85%E5%8F%B0+%E6%B6%A8%E4%BB%B7&sa=fyb_news"
-  },
-  {
-   "title": "“梅姨”曾因婚姻问题坐过牢",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E6%9B%BE%E5%9B%A0%E5%A9%9A%E5%A7%BB%E9%97%AE%E9%A2%98%E5%9D%90%E8%BF%87%E7%89%A2&sa=fyb_news"
-  },
-  {
-   "title": "“好想躺着军训啊” 教官：安排",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A5%BD%E6%83%B3%E8%BA%BA%E7%9D%80%E5%86%9B%E8%AE%AD%E5%95%8A%E2%80%9D+%E6%95%99%E5%AE%98%EF%BC%9A%E5%AE%89%E6%8E%92&sa=fyb_news"
-  },
-  {
-   "title": "微信视频号崩了 官方回应",
-   "link": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E5%B4%A9%E4%BA%86+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
-  },
-  {
-   "title": "申军良称“梅姨”真实年龄为65岁",
-   "link": "https://m.baidu.com/s?word=%E7%94%B3%E5%86%9B%E8%89%AF%E7%A7%B0%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E7%9C%9F%E5%AE%9E%E5%B9%B4%E9%BE%84%E4%B8%BA65%E5%B2%81&sa=fyb_news"
-  },
-  {
-   "title": "网传新疆一加气站重度漏气系谣言",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E6%96%B0%E7%96%86%E4%B8%80%E5%8A%A0%E6%B0%94%E7%AB%99%E9%87%8D%E5%BA%A6%E6%BC%8F%E6%B0%94%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
-  },
-  {
-   "title": "贵州3名失联女孩均已找到",
-   "link": "https://m.baidu.com/s?word=%E8%B4%B5%E5%B7%9E3%E5%90%8D%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E5%9D%87%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
-  },
-  {
-   "title": "长江有多艘船10秒倒光不明黑色物质",
-   "link": "https://m.baidu.com/s?word=%E9%95%BF%E6%B1%9F%E6%9C%89%E5%A4%9A%E8%89%98%E8%88%B910%E7%A7%92%E5%80%92%E5%85%89%E4%B8%8D%E6%98%8E%E9%BB%91%E8%89%B2%E7%89%A9%E8%B4%A8&sa=fyb_news"
-  },
-  {
-   "title": "江西遂川高坪镇泥石流已致5人遇难",
-   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E9%AB%98%E5%9D%AA%E9%95%87%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B45%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+   "title": "武汉非法辅助生殖地下实验室已查封",
+   "link": "https://m.baidu.com/s?word=%E6%AD%A6%E6%B1%89%E9%9D%9E%E6%B3%95%E8%BE%85%E5%8A%A9%E7%94%9F%E6%AE%96%E5%9C%B0%E4%B8%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%B7%B2%E6%9F%A5%E5%B0%81&sa=fyb_news"
   }
  ],
  "ai": [
