@@ -1,6 +1,6 @@
 {
  "date": "2026-09-10",
- "updatedAt": "2026-09-10 12:56",
+ "updatedAt": "2026-09-10 16:27",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4339.83",
+  "value": "4362.18",
   "unit": "美元/盎司",
-  "change": "-61.90",
-  "pct": "-1.41%",
+  "change": "-39.55",
+  "pct": "-0.90%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "76,788",
-  "cny": "515,289",
-  "pct": "-3.53%",
+  "usd": "76,940",
+  "cny": "516,252",
+  "pct": "-2.08%",
   "up": false,
   "trend": [
-   79585.54,
-   79221.23,
-   79198.05,
-   78404.74,
-   78586.85,
-   78774.73,
-   78834.26,
-   78596.26,
-   78422.81,
-   78298.85,
-   78112.03,
-   78216.18,
-   78131.46,
-   78003.21,
-   78137.15,
-   78280.02,
-   78149.71,
-   78151.97,
-   77998.04,
-   78360.2,
-   78298.84,
-   78319.69,
-   78435.08,
-   78288.31,
-   78404.78,
-   77982.81,
-   78127.86,
-   78122.39,
-   77950.5,
-   77973.94,
-   77976.92,
-   77784.75
+   78607.58,
+   78855.72,
+   78766.05,
+   78523.32,
+   78526.41,
+   78253.56,
+   78276.31,
+   78224.4,
+   78015.76,
+   78142.07,
+   78283.06,
+   78171.3,
+   78161.76,
+   78018.32,
+   78329.35,
+   78345.15,
+   78363.57,
+   78392.81,
+   78492.43,
+   78174.08,
+   78029.74,
+   78065.99,
+   78096.69,
+   77938.06,
+   77950.52,
+   77859.14,
+   77830.56,
+   77123.7,
+   76911.36,
+   77076.5,
+   77359.53,
+   77193.95
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "大国风范 时代担当",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%A3%8E%E8%8C%83+%E6%97%B6%E4%BB%A3%E6%8B%85%E5%BD%93&sa=fyb_news"
-  },
-  {
-   "title": "习近平对青岛货轮火灾事故作重要指示",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BD%9C%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
+   "title": "习近平对青岛货轮火灾作出重要指示",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
   },
   {
    "title": "青岛货轮火灾事故致25人遇难",
    "link": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%87%B425%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
   },
   {
+   "title": "中国女篮不敌法国 无缘世界杯四强",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD+%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&sa=fyb_news"
+  },
+  {
    "title": "看不见的贸易为什么“跑”得更快",
    "link": "https://m.baidu.com/s?word=%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%B4%B8%E6%98%93%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%B7%91%E2%80%9D%E5%BE%97%E6%9B%B4%E5%BF%AB&sa=fyb_news"
   },
   {
-   "title": "新能源车太宽：车没压线 人出不来",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%A4%AA%E5%AE%BD%EF%BC%9A%E8%BD%A6%E6%B2%A1%E5%8E%8B%E7%BA%BF+%E4%BA%BA%E5%87%BA%E4%B8%8D%E6%9D%A5&sa=fyb_news"
+   "title": "手机进入奢侈品时代",
+   "link": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5%E5%A5%A2%E4%BE%88%E5%93%81%E6%97%B6%E4%BB%A3&sa=fyb_news"
   },
   {
-   "title": "你的军训我的军训 怎么不一样",
-   "link": "https://m.baidu.com/s?word=%E4%BD%A0%E7%9A%84%E5%86%9B%E8%AE%AD%E6%88%91%E7%9A%84%E5%86%9B%E8%AE%AD+%E6%80%8E%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7&sa=fyb_news"
-  },
-  {
-   "title": "扎哈罗娃五分钟怒斥日本",
-   "link": "https://m.baidu.com/s?word=%E6%89%8E%E5%93%88%E7%BD%97%E5%A8%83%E4%BA%94%E5%88%86%E9%92%9F%E6%80%92%E6%96%A5%E6%97%A5%E6%9C%AC&sa=fyb_news"
-  },
-  {
-   "title": "《后西游记》一个镜头七八千字提示词",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%90%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E4%B8%80%E4%B8%AA%E9%95%9C%E5%A4%B4%E4%B8%83%E5%85%AB%E5%8D%83%E5%AD%97%E6%8F%90%E7%A4%BA%E8%AF%8D&sa=fyb_news"
-  },
-  {
-   "title": "演员王新昉在出租屋去世",
-   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E7%8E%8B%E6%96%B0%E6%98%89%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8E%BB%E4%B8%96&sa=fyb_news"
-  },
-  {
-   "title": "教师节礼物在校门口被集体拦截",
-   "link": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88%E8%8A%82%E7%A4%BC%E7%89%A9%E5%9C%A8%E6%A0%A1%E9%97%A8%E5%8F%A3%E8%A2%AB%E9%9B%86%E4%BD%93%E6%8B%A6%E6%88%AA&sa=fyb_news"
+   "title": "内蒙古：坚决拥护党中央决定",
+   "link": "https://m.baidu.com/s?word=%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news"
   },
   {
    "title": "赵昭仪录节目突发哮喘",
    "link": "https://m.baidu.com/s?word=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%BD%95%E8%8A%82%E7%9B%AE%E7%AA%81%E5%8F%91%E5%93%AE%E5%96%98&sa=fyb_news"
   },
   {
+   "title": "千亿国资寻找下一个张雪",
+   "link": "https://m.baidu.com/s?word=%E5%8D%83%E4%BA%BF%E5%9B%BD%E8%B5%84%E5%AF%BB%E6%89%BE%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%BC%A0%E9%9B%AA&sa=fyb_news"
+  },
+  {
+   "title": "演员王新昉在出租屋去世",
+   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E7%8E%8B%E6%96%B0%E6%98%89%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8E%BB%E4%B8%96&sa=fyb_news"
+  },
+  {
+   "title": "喷水活体雕塑NPC火了",
+   "link": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "日本呼吁孕妇优先用梅毒“救命药”",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%AD%95%E5%A6%87%E4%BC%98%E5%85%88%E7%94%A8%E6%A2%85%E6%AF%92%E2%80%9C%E6%95%91%E5%91%BD%E8%8D%AF%E2%80%9D&sa=fyb_news"
+  },
+  {
    "title": "“普通人出境变难”系误读新规",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%99%AE%E9%80%9A%E4%BA%BA%E5%87%BA%E5%A2%83%E5%8F%98%E9%9A%BE%E2%80%9D%E7%B3%BB%E8%AF%AF%E8%AF%BB%E6%96%B0%E8%A7%84&sa=fyb_news"
   },
   {
-   "title": "日本 梅毒",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC+%E6%A2%85%E6%AF%92&sa=fyb_news"
-  },
-  {
-   "title": "男子2万多买8箱白酒放14年部分变空瓶",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%902%E4%B8%87%E5%A4%9A%E4%B9%B08%E7%AE%B1%E7%99%BD%E9%85%92%E6%94%BE14%E5%B9%B4%E9%83%A8%E5%88%86%E5%8F%98%E7%A9%BA%E7%93%B6&sa=fyb_news"
+   "title": "因女儿不找对象 丈夫把妻子丢在高速",
+   "link": "https://m.baidu.com/s?word=%E5%9B%A0%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%89%BE%E5%AF%B9%E8%B1%A1+%E4%B8%88%E5%A4%AB%E6%8A%8A%E5%A6%BB%E5%AD%90%E4%B8%A2%E5%9C%A8%E9%AB%98%E9%80%9F&sa=fyb_news"
   },
   {
    "title": "为什么一个人睡觉需要两个枕头",
    "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9D%A1%E8%A7%89%E9%9C%80%E8%A6%81%E4%B8%A4%E4%B8%AA%E6%9E%95%E5%A4%B4&sa=fyb_news"
+  },
+  {
+   "title": "陕西“猪坚强”被埋36天挖出时瘦脱相",
+   "link": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E2%80%9C%E7%8C%AA%E5%9D%9A%E5%BC%BA%E2%80%9D%E8%A2%AB%E5%9F%8B36%E5%A4%A9%E6%8C%96%E5%87%BA%E6%97%B6%E7%98%A6%E8%84%B1%E7%9B%B8&sa=fyb_news"
   }
  ],
  "ai": [
