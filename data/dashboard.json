@@ -1,333 +1,333 @@
 {
- "date": "2026-09-10",
- "updatedAt": "2026-09-10 16:27",
+ "date": "2026-09-11",
+ "updatedAt": "2026-09-11 04:42",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3934.40",
-   "change": "-17.11",
-   "pct": "-0.43%",
+   "value": "3862.73",
+   "change": "-71.67",
+   "pct": "-1.82%",
    "up": false,
    "trend": [
-    3939.09,
-    3928.13,
-    3936.2,
-    3943.65,
-    3939.29,
-    3939.05,
-    3938.71,
-    3938.18,
-    3938.89,
-    3942.94,
-    3945.68,
-    3944.78,
-    3942.91,
-    3939.63,
-    3940.24,
-    3939.32,
-    3937.78,
-    3941.07,
-    3937.46,
-    3937.08,
-    3930.81,
-    3936.73,
-    3932.75,
-    3933.09,
-    3935.96,
-    3933.23,
-    3933.86,
-    3936.38,
-    3935.12,
-    3937.03,
-    3936.67,
-    3932.46
+    3910.92,
+    3894.63,
+    3877.48,
+    3874.89,
+    3870.77,
+    3870.32,
+    3874.49,
+    3874.15,
+    3876.2,
+    3878.97,
+    3872.68,
+    3870.86,
+    3867.76,
+    3864.57,
+    3867.17,
+    3861.43,
+    3859.28,
+    3860.36,
+    3855.09,
+    3855.22,
+    3853.29,
+    3861.83,
+    3859.39,
+    3856.44,
+    3864.1,
+    3867.07,
+    3864.76,
+    3862.29,
+    3857.3,
+    3860.28,
+    3860.93,
+    3865.94
    ]
   },
   {
    "name": "深证成指",
-   "value": "13617.67",
-   "change": "-105.65",
-   "pct": "-0.77%",
+   "value": "13298.77",
+   "change": "-318.90",
+   "pct": "-2.34%",
    "up": false,
    "trend": [
-    13641.18,
-    13604.91,
-    13648.04,
-    13673.12,
-    13629.06,
-    13609.42,
-    13640.03,
-    13636.39,
-    13668.66,
-    13679.86,
-    13696.64,
-    13688.49,
-    13656.89,
-    13642.08,
-    13640.21,
-    13650.46,
-    13647.49,
-    13661.33,
-    13629.51,
-    13634.66,
-    13607.61,
-    13644.35,
-    13612.11,
-    13620.21,
-    13647.84,
-    13629.96,
-    13632.63,
-    13641.7,
-    13630.02,
-    13633.36,
-    13629.84,
-    13615.59
+    13483.63,
+    13483.7,
+    13439.31,
+    13434.12,
+    13410.09,
+    13383.37,
+    13411.7,
+    13436.29,
+    13430.5,
+    13418.66,
+    13395.33,
+    13383.24,
+    13348.28,
+    13335.49,
+    13347.12,
+    13327.42,
+    13328.44,
+    13329.07,
+    13290.26,
+    13283.43,
+    13277.14,
+    13306.37,
+    13285.97,
+    13275.24,
+    13296.99,
+    13319.63,
+    13293.93,
+    13284.15,
+    13267.0,
+    13279.3,
+    13280.73,
+    13325.48
    ]
   },
   {
    "name": "创业板指",
-   "value": "3338.42",
-   "change": "-16.55",
-   "pct": "-0.49%",
+   "value": "3270.35",
+   "change": "-68.07",
+   "pct": "-2.04%",
    "up": false,
    "trend": [
-    3324.33,
-    3326.4,
-    3340.76,
-    3352.56,
-    3339.64,
-    3332.41,
-    3345.02,
-    3344.3,
-    3354.93,
-    3358.82,
-    3364.64,
-    3362.53,
-    3351.56,
-    3346.34,
-    3344.34,
-    3349.74,
-    3350.08,
-    3352.04,
-    3340.83,
-    3343.02,
-    3334.97,
-    3346.06,
-    3335.58,
-    3338.88,
-    3350.29,
-    3343.94,
-    3346.47,
-    3349.14,
-    3345.5,
-    3345.07,
-    3342.41,
-    3338.52
+    3310.01,
+    3317.6,
+    3306.31,
+    3308.69,
+    3303.0,
+    3295.18,
+    3308.17,
+    3317.04,
+    3314.43,
+    3307.59,
+    3303.73,
+    3301.33,
+    3289.95,
+    3286.77,
+    3290.0,
+    3286.3,
+    3287.79,
+    3287.07,
+    3273.27,
+    3268.62,
+    3268.63,
+    3275.32,
+    3268.07,
+    3265.75,
+    3270.88,
+    3277.62,
+    3267.7,
+    3266.06,
+    3261.78,
+    3264.94,
+    3265.23,
+    3278.82
    ]
   },
   {
    "name": "恒生指数",
-   "value": "24954.47",
-   "change": "-320.49",
-   "pct": "-1.27%",
+   "value": "24742.51",
+   "change": "-211.96",
+   "pct": "-0.85%",
    "up": false,
    "trend": [
-    24985.18,
-    24928.43,
-    25020.8,
-    24985.34,
-    24962.59,
-    24964.61,
-    24935.71,
-    24962.58,
-    24931.33,
-    24928.84,
-    24929.64,
-    24924.41,
-    24918.24,
-    24930.01,
-    24939.43,
-    24948.23,
-    24947.31,
-    24951.55,
-    24951.41,
-    24931.38,
-    24930.66,
-    24915.9,
-    24899.9,
-    24907.76,
-    24940.78,
-    24954.81,
-    24966.74,
-    24958.25,
-    24949.74,
-    24940.81,
-    24951.19,
-    24964.67
+    24718.15,
+    24605.4,
+    24581.82,
+    24614.78,
+    24666.29,
+    24682.11,
+    24702.07,
+    24699.06,
+    24670.11,
+    24665.38,
+    24675.24,
+    24678.64,
+    24656.45,
+    24640.66,
+    24636.71,
+    24642.53,
+    24619.04,
+    24641.84,
+    24634.23,
+    24685.62,
+    24691.74,
+    24685.13,
+    24668.85,
+    24659.86,
+    24688.77,
+    24691.92,
+    24711.2,
+    24732.51,
+    24754.05,
+    24751.42,
+    24736.61,
+    24741.44
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4362.18",
+  "value": "4331.87",
   "unit": "美元/盎司",
-  "change": "-39.55",
-  "pct": "-0.90%",
-  "up": false
+  "change": "+15.27",
+  "pct": "+0.35%",
+  "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "76,940",
-  "cny": "516,252",
-  "pct": "-2.08%",
+  "usd": "77,086",
+  "cny": "517,175",
+  "pct": "-1.60%",
   "up": false,
   "trend": [
-   78607.58,
-   78855.72,
-   78766.05,
-   78523.32,
-   78526.41,
-   78253.56,
-   78276.31,
-   78224.4,
-   78015.76,
-   78142.07,
-   78283.06,
-   78171.3,
-   78161.76,
-   78018.32,
-   78329.35,
-   78345.15,
-   78363.57,
-   78392.81,
-   78492.43,
-   78174.08,
-   78029.74,
-   78065.99,
-   78096.69,
-   77938.06,
-   77950.52,
-   77859.14,
-   77830.56,
-   77123.7,
-   76911.36,
-   77076.5,
-   77359.53,
-   77193.95
+   78319.69,
+   78435.08,
+   78288.31,
+   78404.78,
+   77982.81,
+   78127.86,
+   78122.39,
+   77950.5,
+   77973.94,
+   77976.92,
+   77784.75,
+   76869.05,
+   76946.51,
+   77248.59,
+   77311.81,
+   77209.59,
+   77004.11,
+   77281.39,
+   76993.56,
+   77212.77,
+   77224.68,
+   77253.42,
+   77237.66,
+   77114.53,
+   76837.98,
+   76723.27,
+   76795.78,
+   76879.28,
+   76840.51,
+   76779.6,
+   76820.27,
+   76870.16
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "习近平对青岛货轮火灾作出重要指示",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
+   "title": "总书记为教师工作指引方向",
+   "link": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%BA%E6%95%99%E5%B8%88%E5%B7%A5%E4%BD%9C%E6%8C%87%E5%BC%95%E6%96%B9%E5%90%91&sa=fyb_news"
   },
   {
-   "title": "青岛货轮火灾事故致25人遇难",
-   "link": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%87%B425%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news"
+   "title": "香港 烟盒设计",
+   "link": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF+%E7%83%9F%E7%9B%92%E8%AE%BE%E8%AE%A1&sa=fyb_news"
   },
   {
-   "title": "中国女篮不敌法国 无缘世界杯四强",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%B3%95%E5%9B%BD+%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&sa=fyb_news"
+   "title": "青岛失火货轮核心现场",
+   "link": "https://m.baidu.com/s?word=%E9%9D%92%E5%B2%9B%E5%A4%B1%E7%81%AB%E8%B4%A7%E8%BD%AE%E6%A0%B8%E5%BF%83%E7%8E%B0%E5%9C%BA&sa=fyb_news"
   },
   {
-   "title": "看不见的贸易为什么“跑”得更快",
-   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E8%B4%B8%E6%98%93%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%B7%91%E2%80%9D%E5%BE%97%E6%9B%B4%E5%BF%AB&sa=fyb_news"
+   "title": "美企为何看好“中国机遇2.0”",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E4%BC%81%E4%B8%BA%E4%BD%95%E7%9C%8B%E5%A5%BD%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%872.0%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "手机进入奢侈品时代",
-   "link": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5%E5%A5%A2%E4%BE%88%E5%93%81%E6%97%B6%E4%BB%A3&sa=fyb_news"
+   "title": "“梅姨”正脸",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E6%AD%A3%E8%84%B8&sa=fyb_news"
   },
   {
-   "title": "内蒙古：坚决拥护党中央决定",
-   "link": "https://m.baidu.com/s?word=%E5%86%85%E8%92%99%E5%8F%A4%EF%BC%9A%E5%9D%9A%E5%86%B3%E6%8B%A5%E6%8A%A4%E5%85%9A%E4%B8%AD%E5%A4%AE%E5%86%B3%E5%AE%9A&sa=fyb_news"
+   "title": "被坠楼小孩砸烂宝马车主：沟通不愉快",
+   "link": "https://m.baidu.com/s?word=%E8%A2%AB%E5%9D%A0%E6%A5%BC%E5%B0%8F%E5%AD%A9%E7%A0%B8%E7%83%82%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%BB%EF%BC%9A%E6%B2%9F%E9%80%9A%E4%B8%8D%E6%84%89%E5%BF%AB&sa=fyb_news"
   },
   {
-   "title": "赵昭仪录节目突发哮喘",
-   "link": "https://m.baidu.com/s?word=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%BD%95%E8%8A%82%E7%9B%AE%E7%AA%81%E5%8F%91%E5%93%AE%E5%96%98&sa=fyb_news"
+   "title": "7.2万元一枚的徽章现在按斤卖",
+   "link": "https://m.baidu.com/s?word=7.2%E4%B8%87%E5%85%83%E4%B8%80%E6%9E%9A%E7%9A%84%E5%BE%BD%E7%AB%A0%E7%8E%B0%E5%9C%A8%E6%8C%89%E6%96%A4%E5%8D%96&sa=fyb_news"
   },
   {
-   "title": "千亿国资寻找下一个张雪",
-   "link": "https://m.baidu.com/s?word=%E5%8D%83%E4%BA%BF%E5%9B%BD%E8%B5%84%E5%AF%BB%E6%89%BE%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%BC%A0%E9%9B%AA&sa=fyb_news"
+   "title": "骗子被骗子骗了",
+   "link": "https://m.baidu.com/s?word=%E9%AA%97%E5%AD%90%E8%A2%AB%E9%AA%97%E5%AD%90%E9%AA%97%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "演员王新昉在出租屋去世",
-   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E7%8E%8B%E6%96%B0%E6%98%89%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E5%8E%BB%E4%B8%96&sa=fyb_news"
+   "title": "AI短剧“1岁命人掌嘴4岁肃清朝堂”",
+   "link": "https://m.baidu.com/s?word=AI%E7%9F%AD%E5%89%A7%E2%80%9C1%E5%B2%81%E5%91%BD%E4%BA%BA%E6%8E%8C%E5%98%B44%E5%B2%81%E8%82%83%E6%B8%85%E6%9C%9D%E5%A0%82%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "喷水活体雕塑NPC火了",
-   "link": "https://m.baidu.com/s?word=%E5%96%B7%E6%B0%B4%E6%B4%BB%E4%BD%93%E9%9B%95%E5%A1%91NPC%E7%81%AB%E4%BA%86&sa=fyb_news"
+   "title": "车主留意！油价要调了",
+   "link": "https://m.baidu.com/s?word=%E8%BD%A6%E4%B8%BB%E7%95%99%E6%84%8F%EF%BC%81%E6%B2%B9%E4%BB%B7%E8%A6%81%E8%B0%83%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "日本呼吁孕妇优先用梅毒“救命药”",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%AD%95%E5%A6%87%E4%BC%98%E5%85%88%E7%94%A8%E6%A2%85%E6%AF%92%E2%80%9C%E6%95%91%E5%91%BD%E8%8D%AF%E2%80%9D&sa=fyb_news"
+   "title": "井柏然Luke穿搭爆火",
+   "link": "https://m.baidu.com/s?word=%E4%BA%95%E6%9F%8F%E7%84%B6Luke%E7%A9%BF%E6%90%AD%E7%88%86%E7%81%AB&sa=fyb_news"
   },
   {
-   "title": "“普通人出境变难”系误读新规",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%99%AE%E9%80%9A%E4%BA%BA%E5%87%BA%E5%A2%83%E5%8F%98%E9%9A%BE%E2%80%9D%E7%B3%BB%E8%AF%AF%E8%AF%BB%E6%96%B0%E8%A7%84&sa=fyb_news"
+   "title": "开学季防病毒 这些误区要注意",
+   "link": "https://m.baidu.com/s?word=%E5%BC%80%E5%AD%A6%E5%AD%A3%E9%98%B2%E7%97%85%E6%AF%92+%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news"
   },
   {
-   "title": "因女儿不找对象 丈夫把妻子丢在高速",
-   "link": "https://m.baidu.com/s?word=%E5%9B%A0%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%89%BE%E5%AF%B9%E8%B1%A1+%E4%B8%88%E5%A4%AB%E6%8A%8A%E5%A6%BB%E5%AD%90%E4%B8%A2%E5%9C%A8%E9%AB%98%E9%80%9F&sa=fyb_news"
+   "title": "高露圈外老公首曝光",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E9%9C%B2%E5%9C%88%E5%A4%96%E8%80%81%E5%85%AC%E9%A6%96%E6%9B%9D%E5%85%89&sa=fyb_news"
   },
   {
-   "title": "为什么一个人睡觉需要两个枕头",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9D%A1%E8%A7%89%E9%9C%80%E8%A6%81%E4%B8%A4%E4%B8%AA%E6%9E%95%E5%A4%B4&sa=fyb_news"
+   "title": "“员工在厂区裸奔”公司找到了",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%91%98%E5%B7%A5%E5%9C%A8%E5%8E%82%E5%8C%BA%E8%A3%B8%E5%A5%94%E2%80%9D%E5%85%AC%E5%8F%B8%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "陕西“猪坚强”被埋36天挖出时瘦脱相",
-   "link": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E2%80%9C%E7%8C%AA%E5%9D%9A%E5%BC%BA%E2%80%9D%E8%A2%AB%E5%9F%8B36%E5%A4%A9%E6%8C%96%E5%87%BA%E6%97%B6%E7%98%A6%E8%84%B1%E7%9B%B8&sa=fyb_news"
+   "title": "苹果首款天价折叠屏 被炒到了9万",
+   "link": "https://m.baidu.com/s?word=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%A9%E4%BB%B7%E6%8A%98%E5%8F%A0%E5%B1%8F+%E8%A2%AB%E7%82%92%E5%88%B0%E4%BA%869%E4%B8%87&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-   "link": "https://openai.com/index/gpt-6-astra-next-generation-work"
+   "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+   "link": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
   },
   {
-   "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
-   "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo"
+   "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+   "link": "https://x.com/WorkBuddy_AI/status/2098076348749324362"
   },
   {
-   "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-   "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max"
+   "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+   "link": "https://x.com/SiliconFlowAI/status/2098054160176545821"
   },
   {
-   "title": "OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留",
-   "link": "https://openrouter.ai/blog/announcements/us-in-region-routing"
+   "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
+   "link": "https://x.com/suno/status/2097846245540888664"
   },
   {
-   "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-   "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system"
+   "title": "OpenAI 发布 Agents API 公测版",
+   "link": "https://openai.com/index/introducing-the-agents-api"
   },
   {
-   "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-   "link": "https://www.ithome.com/1/000/353.htm"
+   "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+   "link": "https://cursor.com/blog/projects"
   },
   {
-   "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-   "link": "https://x.com/thexpin/status/2097615997616406833"
+   "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+   "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
   },
   {
-   "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-   "link": "https://www.ithome.com/1/000/188.htm"
+   "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+   "link": "https://x.com/GoogleAI/status/2098072879480947085"
   },
   {
-   "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
-   "link": "https://www.ithome.com/1/000/277.htm"
+   "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+   "link": "https://huggingface.co/blog/gradio-workflow-1111"
   },
   {
-   "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
-   "link": "https://x.com/gdb/status/2097769891013280241"
+   "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+   "link": "https://openai.com/index/put-data-to-work"
   },
   {
-   "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-   "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+   "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+   "link": "https://shopify.engineering/back-to-native"
   },
   {
-   "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-   "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+   "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+   "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
   }
  ]
 }
