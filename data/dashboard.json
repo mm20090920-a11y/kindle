@@ -1,6 +1,6 @@
 {
  "date": "2026-09-11",
- "updatedAt": "2026-09-11 08:56",
+ "updatedAt": "2026-09-11 12:51",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4348.16",
+  "value": "4370.83",
   "unit": "美元/盎司",
-  "change": "+31.56",
-  "pct": "+0.73%",
+  "change": "+54.23",
+  "pct": "+1.26%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "77,348",
-  "cny": "518,883",
-  "pct": "-1.00%",
-  "up": false,
+  "usd": "77,848",
+  "cny": "522,104",
+  "pct": "+1.05%",
+  "up": true,
   "trend": [
-   78096.69,
-   77938.06,
-   77950.52,
-   77859.14,
-   77830.56,
-   77123.7,
-   76911.36,
-   77076.5,
-   77359.53,
-   77193.95,
-   76904.27,
-   77145.17,
-   77310.96,
-   77126.22,
-   77192.87,
-   77286.87,
-   77246.23,
-   77136.24,
-   77063.29,
-   76565.12,
-   76554.99,
-   76740.99,
-   76791.34,
-   76923.37,
-   76824.79,
-   76821.14,
-   77160.89,
-   77107.75,
-   77216.06,
-   77201.03,
-   77306.72,
-   77149.72
+   76850.83,
+   77000.61,
+   77192.22,
+   77322.5,
+   77135.37,
+   76972.35,
+   77253.89,
+   77015.61,
+   77235.65,
+   77166.68,
+   77260.58,
+   77254.92,
+   77121.81,
+   76886.63,
+   76698.28,
+   76773.39,
+   76860.23,
+   76748.0,
+   76814.23,
+   76725.25,
+   76779.72,
+   77085.59,
+   77069.56,
+   77246.36,
+   77251.47,
+   77241.45,
+   77351.26,
+   77255.31,
+   77002.77,
+   77005.7,
+   76792.22,
+   76901.32
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "擦亮全球南方合作的“金字招牌”",
-   "link": "https://m.baidu.com/s?word=%E6%93%A6%E4%BA%AE%E5%85%A8%E7%90%83%E5%8D%97%E6%96%B9%E5%90%88%E4%BD%9C%E7%9A%84%E2%80%9C%E9%87%91%E5%AD%97%E6%8B%9B%E7%89%8C%E2%80%9D&sa=fyb_news"
+   "title": "“大金砖合作” 何以成其大",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E2%80%9D+%E4%BD%95%E4%BB%A5%E6%88%90%E5%85%B6%E5%A4%A7&sa=fyb_news"
   },
   {
-   "title": "“葫芦娃爷爷”重新挂出葫芦",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E5%A8%83%E7%88%B7%E7%88%B7%E2%80%9D%E9%87%8D%E6%96%B0%E6%8C%82%E5%87%BA%E8%91%AB%E8%8A%A6&sa=fyb_news"
+   "title": "临时调控再出手 油价少涨了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%B4%E6%97%B6%E8%B0%83%E6%8E%A7%E5%86%8D%E5%87%BA%E6%89%8B+%E6%B2%B9%E4%BB%B7%E5%B0%91%E6%B6%A8%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "香港演员雷宇扬去世 被称“鬼王”",
-   "link": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E9%9B%B7%E5%AE%87%E6%89%AC%E5%8E%BB%E4%B8%96+%E8%A2%AB%E7%A7%B0%E2%80%9C%E9%AC%BC%E7%8E%8B%E2%80%9D&sa=fyb_news"
+   "title": "张雪14岁儿子张擎天国际赛首秀",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA14%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%A0%E6%93%8E%E5%A4%A9%E5%9B%BD%E9%99%85%E8%B5%9B%E9%A6%96%E7%A7%80&sa=fyb_news"
   },
   {
-   "title": "越来越多的农民走出村庄去旅游",
-   "link": "https://m.baidu.com/s?word=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%86%9C%E6%B0%91%E8%B5%B0%E5%87%BA%E6%9D%91%E5%BA%84%E5%8E%BB%E6%97%85%E6%B8%B8&sa=fyb_news"
+   "title": "2030年进入世界汽车强国行列",
+   "link": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
+  },
+  {
+   "title": "“葫芦爷爷”回应重挂葫芦",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%91%AB%E8%8A%A6%E7%88%B7%E7%88%B7%E2%80%9D%E5%9B%9E%E5%BA%94%E9%87%8D%E6%8C%82%E8%91%AB%E8%8A%A6&sa=fyb_news"
+  },
+  {
+   "title": "周星驰御用配角求职做景区NPC",
+   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%BE%A1%E7%94%A8%E9%85%8D%E8%A7%92%E6%B1%82%E8%81%8C%E5%81%9A%E6%99%AF%E5%8C%BANPC&sa=fyb_news"
+  },
+  {
+   "title": "原来屏幕越小越伤眼",
+   "link": "https://m.baidu.com/s?word=%E5%8E%9F%E6%9D%A5%E5%B1%8F%E5%B9%95%E8%B6%8A%E5%B0%8F%E8%B6%8A%E4%BC%A4%E7%9C%BC&sa=fyb_news"
+  },
+  {
+   "title": "投资150万加盟开火锅自助4个月赔光",
+   "link": "https://m.baidu.com/s?word=%E6%8A%95%E8%B5%84150%E4%B8%87%E5%8A%A0%E7%9B%9F%E5%BC%80%E7%81%AB%E9%94%85%E8%87%AA%E5%8A%A94%E4%B8%AA%E6%9C%88%E8%B5%94%E5%85%89&sa=fyb_news"
+  },
+  {
+   "title": "一家6口因儿子如厕误机起诉航司",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B66%E5%8F%A3%E5%9B%A0%E5%84%BF%E5%AD%90%E5%A6%82%E5%8E%95%E8%AF%AF%E6%9C%BA%E8%B5%B7%E8%AF%89%E8%88%AA%E5%8F%B8&sa=fyb_news"
+  },
+  {
+   "title": "奥运冠军巩立姣退役后减重60斤",
+   "link": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%80%80%E5%BD%B9%E5%90%8E%E5%87%8F%E9%87%8D60%E6%96%A4&sa=fyb_news"
+  },
+  {
+   "title": "“儿童彩票”的幸运陷阱",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%84%BF%E7%AB%A5%E5%BD%A9%E7%A5%A8%E2%80%9D%E7%9A%84%E5%B9%B8%E8%BF%90%E9%99%B7%E9%98%B1&sa=fyb_news"
+  },
+  {
+   "title": "“往鲜花饼里吐痰”系造谣",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%BE%80%E9%B2%9C%E8%8A%B1%E9%A5%BC%E9%87%8C%E5%90%90%E7%97%B0%E2%80%9D%E7%B3%BB%E9%80%A0%E8%B0%A3&sa=fyb_news"
   },
   {
    "title": "日本的梅毒到底严重到什么地步",
    "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%A2%85%E6%AF%92%E5%88%B0%E5%BA%95%E4%B8%A5%E9%87%8D%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5&sa=fyb_news"
   },
   {
-   "title": "中国女篮在捧着金饭碗讨饭",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%9C%A8%E6%8D%A7%E7%9D%80%E9%87%91%E9%A5%AD%E7%A2%97%E8%AE%A8%E9%A5%AD&sa=fyb_news"
+   "title": "美高官称对华开展间谍活动 中方正告",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E9%AB%98%E5%AE%98%E7%A7%B0%E5%AF%B9%E5%8D%8E%E5%BC%80%E5%B1%95%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8+%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%91%8A&sa=fyb_news"
   },
   {
-   "title": "看了好几遍 确认是中国军网发的",
-   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E4%BA%86%E5%A5%BD%E5%87%A0%E9%81%8D+%E7%A1%AE%E8%AE%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E5%8F%91%E7%9A%84&sa=fyb_news"
-  },
-  {
-   "title": "AI几年内可毁灭人类？美国AI天才发声",
-   "link": "https://m.baidu.com/s?word=AI%E5%87%A0%E5%B9%B4%E5%86%85%E5%8F%AF%E6%AF%81%E7%81%AD%E4%BA%BA%E7%B1%BB%EF%BC%9F%E7%BE%8E%E5%9B%BDAI%E5%A4%A9%E6%89%8D%E5%8F%91%E5%A3%B0&sa=fyb_news"
-  },
-  {
-   "title": "7.2万元一枚的徽章现在按斤卖",
-   "link": "https://m.baidu.com/s?word=7.2%E4%B8%87%E5%85%83%E4%B8%80%E6%9E%9A%E7%9A%84%E5%BE%BD%E7%AB%A0%E7%8E%B0%E5%9C%A8%E6%8C%89%E6%96%A4%E5%8D%96&sa=fyb_news"
-  },
-  {
-   "title": "井柏然回应多演现偶：整不动了",
-   "link": "https://m.baidu.com/s?word=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%BC%94%E7%8E%B0%E5%81%B6%EF%BC%9A%E6%95%B4%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "男子离婚6年后发现自己被去父留子",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A6%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E5%8E%BB%E7%88%B6%E7%95%99%E5%AD%90&sa=fyb_news"
-  },
-  {
-   "title": "开学季防病毒 这些误区要注意",
-   "link": "https://m.baidu.com/s?word=%E5%BC%80%E5%AD%A6%E5%AD%A3%E9%98%B2%E7%97%85%E6%AF%92+%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news"
-  },
-  {
-   "title": "招商银行原副行长施顺华被查",
-   "link": "https://m.baidu.com/s?word=%E6%8B%9B%E5%95%86%E9%93%B6%E8%A1%8C%E5%8E%9F%E5%89%AF%E8%A1%8C%E9%95%BF%E6%96%BD%E9%A1%BA%E5%8D%8E%E8%A2%AB%E6%9F%A5&sa=fyb_news"
-  },
-  {
-   "title": "特训机构罚孩子吃泔水",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E7%BD%9A%E5%AD%A9%E5%AD%90%E5%90%83%E6%B3%94%E6%B0%B4&sa=fyb_news"
-  },
-  {
-   "title": "老人心梗 老伴打120时被广告卡住",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97+%E8%80%81%E4%BC%B4%E6%89%93120%E6%97%B6%E8%A2%AB%E5%B9%BF%E5%91%8A%E5%8D%A1%E4%BD%8F&sa=fyb_news"
+   "title": "打假网红铁头获刑8年",
+   "link": "https://m.baidu.com/s?word=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4&sa=fyb_news"
   }
  ],
  "ai": [
