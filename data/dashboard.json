@@ -1,6 +1,6 @@
 {
- "date": "2026-09-11",
- "updatedAt": "2026-09-11 16:31",
+ "date": "2026-09-12",
+ "updatedAt": "2026-09-12 04:37",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,165 +169,141 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4356.96",
+  "value": "4348.35",
   "unit": "美元/盎司",
-  "change": "+40.36",
-  "pct": "+0.93%",
+  "change": "+31.75",
+  "pct": "+0.74%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "77,685",
-  "cny": "521,143",
-  "pct": "+0.98%",
+  "usd": "77,270",
+  "cny": "518,350",
+  "pct": "+0.21%",
   "up": true,
   "trend": [
-   76830.49,
-   77138.58,
-   77173.7,
-   77101.65,
-   77126.78,
-   77300.87,
-   77213.87,
-   77144.19,
-   76984.61,
-   76635.27,
-   76633.87,
-   76753.43,
-   76720.0,
-   76857.86,
-   76759.53,
-   76767.11,
-   77105.35,
-   77101.69,
-   77223.41,
-   77247.95,
-   77273.71,
-   77210.84,
-   77309.32,
-   76996.48,
-   77008.26,
-   76790.9,
-   77047.94,
-   77839.93,
-   77443.18,
-   79133.46,
-   78638.19,
-   78533.32
+   77085.59,
+   77069.56,
+   77246.36,
+   77251.47,
+   77241.45,
+   77351.26,
+   77255.31,
+   77002.77,
+   77005.7,
+   76792.22,
+   76901.32,
+   77920.25,
+   77538.74,
+   79009.91,
+   78633.84,
+   77668.02,
+   77629.57,
+   77830.38,
+   77088.12,
+   76961.47,
+   77244.4,
+   77410.56,
+   77377.0,
+   77214.84,
+   77149.01,
+   77139.08,
+   77279.45,
+   77300.43,
+   77285.14,
+   77306.96,
+   77271.04,
+   77251.76
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "“大金砖合作” 何以成其大",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A7%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E2%80%9D+%E4%BD%95%E4%BB%A5%E6%88%90%E5%85%B6%E5%A4%A7&sa=fyb_news"
+   "title": "推动金砖大船行稳致远",
+   "link": "https://m.baidu.com/s?word=%E6%8E%A8%E5%8A%A8%E9%87%91%E7%A0%96%E5%A4%A7%E8%88%B9%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C&sa=fyb_news"
   },
   {
-   "title": "一天已经不足24小时了",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%A4%A9%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%B6%B324%E5%B0%8F%E6%97%B6%E4%BA%86&sa=fyb_news"
+   "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
+   "link": "https://m.baidu.com/s?word=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6&sa=fyb_news"
   },
   {
-   "title": "“10台手机卖不出1台折叠屏”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C10%E5%8F%B0%E6%89%8B%E6%9C%BA%E5%8D%96%E4%B8%8D%E5%87%BA1%E5%8F%B0%E6%8A%98%E5%8F%A0%E5%B1%8F%E2%80%9D&sa=fyb_news"
+   "title": "南太行乱象：200斤驴友被挤下悬崖",
+   "link": "https://m.baidu.com/s?word=%E5%8D%97%E5%A4%AA%E8%A1%8C%E4%B9%B1%E8%B1%A1%EF%BC%9A200%E6%96%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%8C%A4%E4%B8%8B%E6%82%AC%E5%B4%96&sa=fyb_news"
   },
   {
-   "title": "2030年进入世界汽车强国行列",
-   "link": "https://m.baidu.com/s?word=2030%E5%B9%B4%E8%BF%9B%E5%85%A5%E4%B8%96%E7%95%8C%E6%B1%BD%E8%BD%A6%E5%BC%BA%E5%9B%BD%E8%A1%8C%E5%88%97&sa=fyb_news"
+   "title": "大金砖合作凝聚全球南方力量",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E9%87%91%E7%A0%96%E5%90%88%E4%BD%9C%E5%87%9D%E8%81%9A%E5%85%A8%E7%90%83%E5%8D%97%E6%96%B9%E5%8A%9B%E9%87%8F&sa=fyb_news"
   },
   {
-   "title": "公司中秋国庆连放13.5天发2000元",
-   "link": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E8%BF%9E%E6%94%BE13.5%E5%A4%A9%E5%8F%912000%E5%85%83&sa=fyb_news"
+   "title": "日本品牌选“918”跟辱华动漫搞联名",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E9%80%89%E2%80%9C918%E2%80%9D%E8%B7%9F%E8%BE%B1%E5%8D%8E%E5%8A%A8%E6%BC%AB%E6%90%9E%E8%81%94%E5%90%8D&sa=fyb_news"
   },
   {
-   "title": "住建局副局长群内辱骂业主",
-   "link": "https://m.baidu.com/s?word=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%BE%A4%E5%86%85%E8%BE%B1%E9%AA%82%E4%B8%9A%E4%B8%BB&sa=fyb_news"
+   "title": "记者实测荣耀魔法画报退出方式",
+   "link": "https://m.baidu.com/s?word=%E8%AE%B0%E8%80%85%E5%AE%9E%E6%B5%8B%E8%8D%A3%E8%80%80%E9%AD%94%E6%B3%95%E7%94%BB%E6%8A%A5%E9%80%80%E5%87%BA%E6%96%B9%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "中国糖尿病患者人数突破两亿",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%B3%96%E5%B0%BF%E7%97%85%E6%82%A3%E8%80%85%E4%BA%BA%E6%95%B0%E7%AA%81%E7%A0%B4%E4%B8%A4%E4%BA%BF&sa=fyb_news"
+   "title": "宁波大学开学典礼暴雨 校长只讲3句话",
+   "link": "https://m.baidu.com/s?word=%E5%AE%81%E6%B3%A2%E5%A4%A7%E5%AD%A6%E5%BC%80%E5%AD%A6%E5%85%B8%E7%A4%BC%E6%9A%B4%E9%9B%A8+%E6%A0%A1%E9%95%BF%E5%8F%AA%E8%AE%B23%E5%8F%A5%E8%AF%9D&sa=fyb_news"
   },
   {
-   "title": "打假网红铁头获刑8年",
-   "link": "https://m.baidu.com/s?word=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E8%8E%B7%E5%88%918%E5%B9%B4&sa=fyb_news"
+   "title": "DeepSeek 开口说话",
+   "link": "https://m.baidu.com/s?word=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D&sa=fyb_news"
   },
   {
-   "title": "韦世豪遭重罚",
-   "link": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%96%E8%B1%AA%E9%81%AD%E9%87%8D%E7%BD%9A&sa=fyb_news"
+   "title": "女子花20万买房车陪读上高中儿子",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%8A%B120%E4%B8%87%E4%B9%B0%E6%88%BF%E8%BD%A6%E9%99%AA%E8%AF%BB%E4%B8%8A%E9%AB%98%E4%B8%AD%E5%84%BF%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "刀郎问徐子尧为什么老唱自己的歌",
-   "link": "https://m.baidu.com/s?word=%E5%88%80%E9%83%8E%E9%97%AE%E5%BE%90%E5%AD%90%E5%B0%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%94%B1%E8%87%AA%E5%B7%B1%E7%9A%84%E6%AD%8C&sa=fyb_news"
+   "title": "泰国网红僧人被捕 身边女伴身份曝光",
+   "link": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%83%A7%E4%BA%BA%E8%A2%AB%E6%8D%95+%E8%BA%AB%E8%BE%B9%E5%A5%B3%E4%BC%B4%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89&sa=fyb_news"
   },
   {
-   "title": "丁俊晖战胜凯伦·威尔逊晋级四强",
-   "link": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%88%98%E8%83%9C%E5%87%AF%E4%BC%A6%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA&sa=fyb_news"
+   "title": "已灭绝“奥氏马”容貌被复原",
+   "link": "https://m.baidu.com/s?word=%E5%B7%B2%E7%81%AD%E7%BB%9D%E2%80%9C%E5%A5%A5%E6%B0%8F%E9%A9%AC%E2%80%9D%E5%AE%B9%E8%B2%8C%E8%A2%AB%E5%A4%8D%E5%8E%9F&sa=fyb_news"
   },
   {
-   "title": "“往鲜花饼里吐痰”系造谣",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%BE%80%E9%B2%9C%E8%8A%B1%E9%A5%BC%E9%87%8C%E5%90%90%E7%97%B0%E2%80%9D%E7%B3%BB%E9%80%A0%E8%B0%A3&sa=fyb_news"
+   "title": "“救护中心圈养雪豹博流量”系谣言",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%95%91%E6%8A%A4%E4%B8%AD%E5%BF%83%E5%9C%88%E5%85%BB%E9%9B%AA%E8%B1%B9%E5%8D%9A%E6%B5%81%E9%87%8F%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "携程 杀熟",
-   "link": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B+%E6%9D%80%E7%86%9F&sa=fyb_news"
+   "title": "王辉已被执行死刑",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E8%BE%89%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news"
   },
   {
-   "title": "《逐玉》在韩国爆火",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%88%86%E7%81%AB&sa=fyb_news"
+   "title": "红军留下的手电筒 三代人传了90年",
+   "link": "https://m.baidu.com/s?word=%E7%BA%A2%E5%86%9B%E7%95%99%E4%B8%8B%E7%9A%84%E6%89%8B%E7%94%B5%E7%AD%92+%E4%B8%89%E4%BB%A3%E4%BA%BA%E4%BC%A0%E4%BA%8690%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "美高官称对华开展间谍活动 中方正告",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E9%AB%98%E5%AE%98%E7%A7%B0%E5%AF%B9%E5%8D%8E%E5%BC%80%E5%B1%95%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8+%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%91%8A&sa=fyb_news"
+   "title": "超100万人预约购买iPhoneDuo",
+   "link": "https://m.baidu.com/s?word=%E8%B6%85100%E4%B8%87%E4%BA%BA%E9%A2%84%E7%BA%A6%E8%B4%AD%E4%B9%B0iPhoneDuo&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-   "link": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
+   "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+   "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"
   },
   {
-   "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-   "link": "https://x.com/WorkBuddy_AI/status/2098076348749324362"
+   "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+   "link": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda"
   },
   {
-   "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-   "link": "https://x.com/SiliconFlowAI/status/2098054160176545821"
+   "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+   "link": "https://www.dwarkesh.com/p/john-beren-charlie"
   },
   {
-   "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
-   "link": "https://x.com/suno/status/2097846245540888664"
+   "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+   "link": "https://x.com/elonmusk/status/2098217236771295567"
   },
   {
-   "title": "OpenAI 发布 Agents API 公测版",
-   "link": "https://openai.com/index/introducing-the-agents-api"
+   "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+   "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github"
   },
   {
-   "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-   "link": "https://cursor.com/blog/projects"
-  },
-  {
-   "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
-   "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-  },
-  {
-   "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-   "link": "https://x.com/GoogleAI/status/2098072879480947085"
-  },
-  {
-   "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-   "link": "https://huggingface.co/blog/gradio-workflow-1111"
-  },
-  {
-   "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-   "link": "https://openai.com/index/put-data-to-work"
-  },
-  {
-   "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-   "link": "https://shopify.engineering/back-to-native"
-  },
-  {
-   "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-   "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+   "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
   }
  ]
 }
