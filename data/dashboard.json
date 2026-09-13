@@ -1,6 +1,6 @@
 {
- "date": "2026-09-12",
- "updatedAt": "2026-09-12 15:34",
+ "date": "2026-09-13",
+ "updatedAt": "2026-09-13 04:50",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,133 +177,133 @@
  },
  "forex": [],
  "btc": {
-  "usd": "77,425",
-  "cny": "519,389",
-  "pct": "-1.73%",
+  "usd": "77,198",
+  "cny": "517,868",
+  "pct": "-0.06%",
   "up": false,
   "trend": [
-   78804.44,
-   77539.29,
-   77836.68,
-   77580.27,
-   77217.27,
-   77129.99,
-   77429.87,
-   77260.3,
-   77352.34,
-   77152.15,
-   77174.95,
-   77160.05,
-   77258.2,
-   77352.23,
-   77282.21,
-   77247.35,
-   77261.73,
-   77226.9,
-   77192.83,
-   77228.15,
-   77258.46,
-   77308.62,
-   77279.46,
-   77342.69,
-   77335.6,
-   77371.83,
-   77308.14,
-   77328.51,
-   77315.96,
-   77289.65,
-   77347.06,
-   77466.25
+   77234.01,
+   77237.49,
+   77219.38,
+   77330.36,
+   77276.23,
+   77331.55,
+   77362.98,
+   77376.2,
+   77304.51,
+   77307.28,
+   77300.32,
+   77354.38,
+   77311.36,
+   77453.82,
+   77425.64,
+   77348.06,
+   77332.43,
+   77212.98,
+   77171.62,
+   77125.97,
+   77102.94,
+   77149.69,
+   77163.69,
+   77226.52,
+   77224.71,
+   77231.6,
+   77255.54,
+   77254.06,
+   77280.88,
+   77243.47,
+   77265.13,
+   77212.35
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "2027 金砖相约中国",
-   "link": "https://m.baidu.com/s?word=2027+%E9%87%91%E7%A0%96%E7%9B%B8%E7%BA%A6%E4%B8%AD%E5%9B%BD&sa=fyb_news"
+   "title": "习近平会见印度总理莫迪",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA&sa=fyb_news"
   },
   {
-   "title": "下周上班时间有变",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8B%E5%91%A8%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E6%9C%89%E5%8F%98&sa=fyb_news"
+   "title": "“是他撞的你吗”“不是 他是好心”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%98%AF%E4%BB%96%E6%92%9E%E7%9A%84%E4%BD%A0%E5%90%97%E2%80%9D%E2%80%9C%E4%B8%8D%E6%98%AF+%E4%BB%96%E6%98%AF%E5%A5%BD%E5%BF%83%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "地库接连躺人司机躲过一个又一个",
-   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E5%BA%93%E6%8E%A5%E8%BF%9E%E8%BA%BA%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%BA%B2%E8%BF%87%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA&sa=fyb_news"
+   "title": "文字失语症",
+   "link": "https://m.baidu.com/s?word=%E6%96%87%E5%AD%97%E5%A4%B1%E8%AF%AD%E7%97%87&sa=fyb_news"
   },
   {
-   "title": "中国在金砖机制中发挥非常重要作用",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%87%91%E7%A0%96%E6%9C%BA%E5%88%B6%E4%B8%AD%E5%8F%91%E6%8C%A5%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8&sa=fyb_news"
+   "title": "服贸会见证中国服务贸易焕新升级",
+   "link": "https://m.baidu.com/s?word=%E6%9C%8D%E8%B4%B8%E4%BC%9A%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E8%B4%B8%E6%98%93%E7%84%95%E6%96%B0%E5%8D%87%E7%BA%A7&sa=fyb_news"
   },
   {
-   "title": "1300张票1000张黄牛 罗永浩吐槽",
-   "link": "https://m.baidu.com/s?word=1300%E5%BC%A0%E7%A5%A81000%E5%BC%A0%E9%BB%84%E7%89%9B+%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD&sa=fyb_news"
+   "title": "年轻人开始规划提前退休了",
+   "link": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%A7%84%E5%88%92%E6%8F%90%E5%89%8D%E9%80%80%E4%BC%91%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "双胞胎姐妹出生差1分高考差1分",
-   "link": "https://m.baidu.com/s?word=%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%87%BA%E7%94%9F%E5%B7%AE1%E5%88%86%E9%AB%98%E8%80%83%E5%B7%AE1%E5%88%86&sa=fyb_news"
+   "title": "上车饺子下车面具象化了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E8%BD%A6%E9%A5%BA%E5%AD%90%E4%B8%8B%E8%BD%A6%E9%9D%A2%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "iPhone Duo炒到9万 黄牛贷款欲囤货",
-   "link": "https://m.baidu.com/s?word=iPhone+Duo%E7%82%92%E5%88%B09%E4%B8%87+%E9%BB%84%E7%89%9B%E8%B4%B7%E6%AC%BE%E6%AC%B2%E5%9B%A4%E8%B4%A7&sa=fyb_news"
+   "title": "倪萍得知敬一丹去世 哭到浑身发抖",
+   "link": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%E5%BE%97%E7%9F%A5%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96+%E5%93%AD%E5%88%B0%E6%B5%91%E8%BA%AB%E5%8F%91%E6%8A%96&sa=fyb_news"
   },
   {
-   "title": "警方通报公职人员醉驾致五旬夫妻身亡",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E8%87%B4%E4%BA%94%E6%97%AC%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+   "title": "敬一丹去世",
+   "link": "https://m.baidu.com/s?word=%E6%95%AC%E4%B8%80%E4%B8%B9%E5%8E%BB%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "丁俊晖止步英格兰公开赛四强",
-   "link": "https://m.baidu.com/s?word=%E4%B8%81%E4%BF%8A%E6%99%96%E6%AD%A2%E6%AD%A5%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA&sa=fyb_news"
+   "title": "男生去年考上北大放弃 今年又进北大",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E7%94%9F%E5%8E%BB%E5%B9%B4%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%94%BE%E5%BC%83+%E4%BB%8A%E5%B9%B4%E5%8F%88%E8%BF%9B%E5%8C%97%E5%A4%A7&sa=fyb_news"
   },
   {
-   "title": "郎平看不下去了",
-   "link": "https://m.baidu.com/s?word=%E9%83%8E%E5%B9%B3%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&sa=fyb_news"
+   "title": "小七龄童去世：系六小龄童堂兄",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E4%B8%83%E9%BE%84%E7%AB%A5%E5%8E%BB%E4%B8%96%EF%BC%9A%E7%B3%BB%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E5%A0%82%E5%85%84&sa=fyb_news"
   },
   {
-   "title": "F1车手语音聊天太搞笑了",
-   "link": "https://m.baidu.com/s?word=F1%E8%BD%A6%E6%89%8B%E8%AF%AD%E9%9F%B3%E8%81%8A%E5%A4%A9%E5%A4%AA%E6%90%9E%E7%AC%91%E4%BA%86&sa=fyb_news"
+   "title": "女子澳门遗失的大疆在杭州找到了",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%BE%B3%E9%97%A8%E9%81%97%E5%A4%B1%E7%9A%84%E5%A4%A7%E7%96%86%E5%9C%A8%E6%9D%AD%E5%B7%9E%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "上海一幼儿园收集家长职务信息不实",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+   "title": "“4月4日出生被事业编拒绝”系谣言",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C4%E6%9C%884%E6%97%A5%E5%87%BA%E7%94%9F%E8%A2%AB%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%8B%92%E7%BB%9D%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "王辉已被执行死刑",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E8%BE%89%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91&sa=fyb_news"
+   "title": "#送别敬一丹老师一路走好#",
+   "link": "https://m.baidu.com/s?word=%23%E9%80%81%E5%88%AB%E6%95%AC%E4%B8%80%E4%B8%B9%E8%80%81%E5%B8%88%E4%B8%80%E8%B7%AF%E8%B5%B0%E5%A5%BD%23&sa=fyb_news"
   },
   {
-   "title": "赵雷当爸爸了",
-   "link": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9B%B7%E5%BD%93%E7%88%B8%E7%88%B8%E4%BA%86&sa=fyb_news"
+   "title": "“麻袋女孩”到中南大报到",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%BA%BB%E8%A2%8B%E5%A5%B3%E5%AD%A9%E2%80%9D%E5%88%B0%E4%B8%AD%E5%8D%97%E5%A4%A7%E6%8A%A5%E5%88%B0&sa=fyb_news"
   },
   {
-   "title": "多地小学改为养老院",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%B0%8F%E5%AD%A6%E6%94%B9%E4%B8%BA%E5%85%BB%E8%80%81%E9%99%A2&sa=fyb_news"
+   "title": "谢霆锋长沙演唱会上情侣现场求婚",
+   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E9%9C%86%E9%94%8B%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%83%85%E4%BE%A3%E7%8E%B0%E5%9C%BA%E6%B1%82%E5%A9%9A&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-   "link": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data"
+   "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+   "link": "https://suno.com/blog/introducing-v6"
   },
   {
-   "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-   "link": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda"
+   "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+   "link": "https://x.com/OpenAIDevs/status/2098827327832822014"
   },
   {
-   "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-   "link": "https://www.dwarkesh.com/p/john-beren-charlie"
+   "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+   "link": "https://www.minitap.ai/blog/i-expected-better-from-google"
   },
   {
-   "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-   "link": "https://x.com/elonmusk/status/2098217236771295567"
+   "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+   "link": "https://www.rubyhack.ai/"
   },
   {
-   "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-   "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github"
+   "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+   "link": "https://x.com/sama/status/2098811563415150910"
   },
   {
-   "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-   "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+   "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+   "link": "https://x.com/trq212/status/2098860941391872132"
   }
  ]
 }
