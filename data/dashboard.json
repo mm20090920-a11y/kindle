@@ -1,6 +1,6 @@
 {
  "date": "2026-09-15",
- "updatedAt": "2026-09-15 09:27",
+ "updatedAt": "2026-09-15 13:37",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4267.19",
+  "value": "4292.28",
   "unit": "美元/盎司",
-  "change": "-31.44",
-  "pct": "-0.73%",
+  "change": "-6.35",
+  "pct": "-0.15%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "76,863",
-  "cny": "516,042",
-  "pct": "-0.97%",
+  "usd": "76,679",
+  "cny": "514,735",
+  "pct": "-1.66%",
   "up": false,
   "trend": [
-   77690.78,
-   78009.46,
-   77879.64,
-   77801.22,
-   77953.93,
-   77681.03,
-   78167.61,
-   78420.74,
-   78403.7,
-   78416.9,
-   78760.58,
-   78826.24,
-   79131.25,
-   79080.31,
-   78986.37,
-   79340.52,
-   78902.9,
-   78811.15,
-   78539.74,
-   78300.75,
-   78008.64,
-   77806.19,
-   77914.82,
-   77863.0,
-   77821.26,
-   77629.49,
-   77553.35,
-   77442.92,
-   77395.26,
-   77193.63,
-   76901.99,
-   76814.9
+   78049.68,
+   78304.81,
+   78486.92,
+   78563.38,
+   78652.92,
+   78924.01,
+   78939.03,
+   79177.59,
+   78981.4,
+   79438.99,
+   78967.62,
+   78762.24,
+   78583.62,
+   78416.17,
+   78218.23,
+   77950.54,
+   77969.82,
+   77956.85,
+   77762.29,
+   77702.83,
+   77556.83,
+   77363.12,
+   77633.42,
+   77225.9,
+   77070.25,
+   76822.32,
+   76913.58,
+   77023.07,
+   76914.59,
+   76949.54,
+   76844.26,
+   77084.76
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "习近平给福建省“漳州110”的回信",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E7%A6%8F%E5%BB%BA%E7%9C%81%E2%80%9C%E6%BC%B3%E5%B7%9E110%E2%80%9D%E7%9A%84%E5%9B%9E%E4%BF%A1&sa=fyb_news"
+   "title": "100秒看习近平南亚之行三大成果",
+   "link": "https://m.baidu.com/s?word=100%E7%A7%92%E7%9C%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%89%E5%A4%A7%E6%88%90%E6%9E%9C&sa=fyb_news"
+  },
+  {
+   "title": "专家：楼市基本触底",
+   "link": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%A5%BC%E5%B8%82%E5%9F%BA%E6%9C%AC%E8%A7%A6%E5%BA%95&sa=fyb_news"
+  },
+  {
+   "title": "电池税正式落地 新能源车要涨价吗",
+   "link": "https://m.baidu.com/s?word=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0+%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E5%90%97&sa=fyb_news"
+  },
+  {
+   "title": "平陆运河将带来哪些新变化",
+   "link": "https://m.baidu.com/s?word=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+  },
+  {
+   "title": "司机好心补路拉绳提醒 女子被勒身亡",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B8%E6%9C%BA%E5%A5%BD%E5%BF%83%E8%A1%A5%E8%B7%AF%E6%8B%89%E7%BB%B3%E6%8F%90%E9%86%92+%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8B%92%E8%BA%AB%E4%BA%A1&sa=fyb_news"
+  },
+  {
+   "title": "510万上太空玩90分钟 超700人已付款",
+   "link": "https://m.baidu.com/s?word=510%E4%B8%87%E4%B8%8A%E5%A4%AA%E7%A9%BA%E7%8E%A990%E5%88%86%E9%92%9F+%E8%B6%85700%E4%BA%BA%E5%B7%B2%E4%BB%98%E6%AC%BE&sa=fyb_news"
+  },
+  {
+   "title": "以前用来“喂猪”现在是“高端蔬菜”",
+   "link": "https://m.baidu.com/s?word=%E4%BB%A5%E5%89%8D%E7%94%A8%E6%9D%A5%E2%80%9C%E5%96%82%E7%8C%AA%E2%80%9D%E7%8E%B0%E5%9C%A8%E6%98%AF%E2%80%9C%E9%AB%98%E7%AB%AF%E8%94%AC%E8%8F%9C%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "接到陌生来电请沉默三秒",
+   "link": "https://m.baidu.com/s?word=%E6%8E%A5%E5%88%B0%E9%99%8C%E7%94%9F%E6%9D%A5%E7%94%B5%E8%AF%B7%E6%B2%89%E9%BB%98%E4%B8%89%E7%A7%92&sa=fyb_news"
+  },
+  {
+   "title": "景区称30岁以上老人免费领登山杖",
+   "link": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E7%A7%B030%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E5%85%8D%E8%B4%B9%E9%A2%86%E7%99%BB%E5%B1%B1%E6%9D%96&sa=fyb_news"
+  },
+  {
+   "title": "晚晚女装销售额破1000万",
+   "link": "https://m.baidu.com/s?word=%E6%99%9A%E6%99%9A%E5%A5%B3%E8%A3%85%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B41000%E4%B8%87&sa=fyb_news"
+  },
+  {
+   "title": "14岁奥莉这么大了",
+   "link": "https://m.baidu.com/s?word=14%E5%B2%81%E5%A5%A5%E8%8E%89%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "不良信息一键举报 共建清朗空间",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8D%E8%89%AF%E4%BF%A1%E6%81%AF%E4%B8%80%E9%94%AE%E4%B8%BE%E6%8A%A5+%E5%85%B1%E5%BB%BA%E6%B8%85%E6%9C%97%E7%A9%BA%E9%97%B4&sa=fyb_news"
+  },
+  {
+   "title": "男子赴同学婚礼醉亡 新郎赔20万",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%B5%B4%E5%90%8C%E5%AD%A6%E5%A9%9A%E7%A4%BC%E9%86%89%E4%BA%A1+%E6%96%B0%E9%83%8E%E8%B5%9420%E4%B8%87&sa=fyb_news"
+  },
+  {
+   "title": "女子要求30万彩礼备注自愿赠与后悔婚",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%8230%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A4%87%E6%B3%A8%E8%87%AA%E6%84%BF%E8%B5%A0%E4%B8%8E%E5%90%8E%E6%82%94%E5%A9%9A&sa=fyb_news"
   },
   {
    "title": "新出生人口维持在800万左右",
    "link": "https://m.baidu.com/s?word=%E6%96%B0%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%BB%B4%E6%8C%81%E5%9C%A8800%E4%B8%87%E5%B7%A6%E5%8F%B3&sa=fyb_news"
-  },
-  {
-   "title": "中方回应“美称拥有在轨太空武器”",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%BE%8E%E7%A7%B0%E6%8B%A5%E6%9C%89%E5%9C%A8%E8%BD%A8%E5%A4%AA%E7%A9%BA%E6%AD%A6%E5%99%A8%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "这条运河 能带给西南什么",
-   "link": "https://m.baidu.com/s?word=%E8%BF%99%E6%9D%A1%E8%BF%90%E6%B2%B3+%E8%83%BD%E5%B8%A6%E7%BB%99%E8%A5%BF%E5%8D%97%E4%BB%80%E4%B9%88&sa=fyb_news"
-  },
-  {
-   "title": "婴儿误被注射10倍量肾上腺素",
-   "link": "https://m.baidu.com/s?word=%E5%A9%B4%E5%84%BF%E8%AF%AF%E8%A2%AB%E6%B3%A8%E5%B0%8410%E5%80%8D%E9%87%8F%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0&sa=fyb_news"
-  },
-  {
-   "title": "携程上架太空旅行船票 售价510万元",
-   "link": "https://m.baidu.com/s?word=%E6%90%BA%E7%A8%8B%E4%B8%8A%E6%9E%B6%E5%A4%AA%E7%A9%BA%E6%97%85%E8%A1%8C%E8%88%B9%E7%A5%A8+%E5%94%AE%E4%BB%B7510%E4%B8%87%E5%85%83&sa=fyb_news"
-  },
-  {
-   "title": "我国人口总量14.05亿",
-   "link": "https://m.baidu.com/s?word=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF&sa=fyb_news"
-  },
-  {
-   "title": "短剧演员刘萧旭进军长篇主流正剧",
-   "link": "https://m.baidu.com/s?word=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%88%98%E8%90%A7%E6%97%AD%E8%BF%9B%E5%86%9B%E9%95%BF%E7%AF%87%E4%B8%BB%E6%B5%81%E6%AD%A3%E5%89%A7&sa=fyb_news"
-  },
-  {
-   "title": "三九胃泰广告 求你们中秋别团圆",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E4%B9%9D%E8%83%83%E6%B3%B0%E5%B9%BF%E5%91%8A+%E6%B1%82%E4%BD%A0%E4%BB%AC%E4%B8%AD%E7%A7%8B%E5%88%AB%E5%9B%A2%E5%9C%86&sa=fyb_news"
-  },
-  {
-   "title": "中国当代十大武术名师梁以全辞世",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%BD%93%E4%BB%A3%E5%8D%81%E5%A4%A7%E6%AD%A6%E6%9C%AF%E5%90%8D%E5%B8%88%E6%A2%81%E4%BB%A5%E5%85%A8%E8%BE%9E%E4%B8%96&sa=fyb_news"
-  },
-  {
-   "title": "国乒10人亚运阵容3位奥运冠军",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%9210%E4%BA%BA%E4%BA%9A%E8%BF%90%E9%98%B5%E5%AE%B93%E4%BD%8D%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B&sa=fyb_news"
-  },
-  {
-   "title": "2026平谷区网络优秀作品展播",
-   "link": "https://m.baidu.com/s?word=2026%E5%B9%B3%E8%B0%B7%E5%8C%BA%E7%BD%91%E7%BB%9C%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81%E5%B1%95%E6%92%AD&sa=fyb_news"
-  },
-  {
-   "title": "男子明知身患艾滋病仍多次嫖娼",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%98%8E%E7%9F%A5%E8%BA%AB%E6%82%A3%E8%89%BE%E6%BB%8B%E7%97%85%E4%BB%8D%E5%A4%9A%E6%AC%A1%E5%AB%96%E5%A8%BC&sa=fyb_news"
-  },
-  {
-   "title": "小区发生火灾 女子窗外避火意外坠楼",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE+%E5%A5%B3%E5%AD%90%E7%AA%97%E5%A4%96%E9%81%BF%E7%81%AB%E6%84%8F%E5%A4%96%E5%9D%A0%E6%A5%BC&sa=fyb_news"
-  },
-  {
-   "title": "10后学生流行起“呆毛”发型",
-   "link": "https://m.baidu.com/s?word=10%E5%90%8E%E5%AD%A6%E7%94%9F%E6%B5%81%E8%A1%8C%E8%B5%B7%E2%80%9C%E5%91%86%E6%AF%9B%E2%80%9D%E5%8F%91%E5%9E%8B&sa=fyb_news"
   }
  ],
  "ai": [
