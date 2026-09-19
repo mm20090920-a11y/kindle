@@ -1,6 +1,6 @@
 {
  "date": "2026-09-19",
- "updatedAt": "2026-09-19 08:49",
+ "updatedAt": "2026-09-19 12:32",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,16 +177,11 @@
  },
  "forex": [],
  "btc": {
-  "usd": "81,298",
-  "cny": "544,665",
-  "pct": "+4.32%",
+  "usd": "81,206",
+  "cny": "544,050",
+  "pct": "+4.18%",
   "up": true,
   "trend": [
-   77918.03,
-   78036.96,
-   78159.03,
-   78324.75,
-   77975.87,
    78026.2,
    78039.13,
    80318.68,
@@ -213,7 +208,12 @@
    81001.23,
    81001.07,
    81181.49,
-   81059.73
+   81059.73,
+   81310.95,
+   81292.63,
+   81266.33,
+   81253.75,
+   81268.37
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E4%BD%93%E8%82%B2%E7%B2%BE%E7%A5%9E%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%B8%80%E4%B8%AA%E7%BC%A9%E5%BD%B1&sa=fyb_news"
   },
   {
-   "title": "12306：已拒绝出票133.1万张",
-   "link": "https://m.baidu.com/s?word=12306%EF%BC%9A%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0&sa=fyb_news"
+   "title": "亚运会开幕式",
+   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "70万新车出现异响 要求换车被拒",
-   "link": "https://m.baidu.com/s?word=70%E4%B8%87%E6%96%B0%E8%BD%A6%E5%87%BA%E7%8E%B0%E5%BC%82%E5%93%8D+%E8%A6%81%E6%B1%82%E6%8D%A2%E8%BD%A6%E8%A2%AB%E6%8B%92&sa=fyb_news"
+   "title": "“不得报销烟酒、扑克牌”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%8D%E5%BE%97%E6%8A%A5%E9%94%80%E7%83%9F%E9%85%92%E3%80%81%E6%89%91%E5%85%8B%E7%89%8C%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "十部门出台规划 更好保障百姓药箱",
    "link": "https://m.baidu.com/s?word=%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E5%8F%B0%E8%A7%84%E5%88%92+%E6%9B%B4%E5%A5%BD%E4%BF%9D%E9%9A%9C%E7%99%BE%E5%A7%93%E8%8D%AF%E7%AE%B1&sa=fyb_news"
   },
   {
-   "title": "西贝回应“彻底倒闭”",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%94%E2%80%9C%E5%BD%BB%E5%BA%95%E5%80%92%E9%97%AD%E2%80%9D&sa=fyb_news"
+   "title": "专家怒斥尸皮针：救命材料拿去做医美",
+   "link": "https://m.baidu.com/s?word=%E4%B8%93%E5%AE%B6%E6%80%92%E6%96%A5%E5%B0%B8%E7%9A%AE%E9%92%88%EF%BC%9A%E6%95%91%E5%91%BD%E6%9D%90%E6%96%99%E6%8B%BF%E5%8E%BB%E5%81%9A%E5%8C%BB%E7%BE%8E&sa=fyb_news"
   },
   {
-   "title": "村庄杆子上装了84个监控 村干部回应",
-   "link": "https://m.baidu.com/s?word=%E6%9D%91%E5%BA%84%E6%9D%86%E5%AD%90%E4%B8%8A%E8%A3%85%E4%BA%8684%E4%B8%AA%E7%9B%91%E6%8E%A7+%E6%9D%91%E5%B9%B2%E9%83%A8%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "日本代表队退场时秩序失控",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E9%98%9F%E9%80%80%E5%9C%BA%E6%97%B6%E7%A7%A9%E5%BA%8F%E5%A4%B1%E6%8E%A7&sa=fyb_news"
   },
   {
-   "title": "微信私聊传播153部淫秽视频被判有罪",
-   "link": "https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E7%A7%81%E8%81%8A%E4%BC%A0%E6%92%AD153%E9%83%A8%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E5%88%A4%E6%9C%89%E7%BD%AA&sa=fyb_news"
+   "title": "《兰香如故》 黑马",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B+%E9%BB%91%E9%A9%AC&sa=fyb_news"
   },
   {
-   "title": "亚运组委会致歉",
-   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E7%BB%84%E5%A7%94%E4%BC%9A%E8%87%B4%E6%AD%89&sa=fyb_news"
+   "title": "AI公司把全球用户数据给美情报机构",
+   "link": "https://m.baidu.com/s?word=AI%E5%85%AC%E5%8F%B8%E6%8A%8A%E5%85%A8%E7%90%83%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E7%BB%99%E7%BE%8E%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84&sa=fyb_news"
   },
   {
-   "title": "佟丽娅回应在董璇婚礼上的表情",
-   "link": "https://m.baidu.com/s?word=%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%9B%9E%E5%BA%94%E5%9C%A8%E8%91%A3%E7%92%87%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9A%84%E8%A1%A8%E6%83%85&sa=fyb_news"
+   "title": "19岁初中文化小伙操盘30亿围标案",
+   "link": "https://m.baidu.com/s?word=19%E5%B2%81%E5%88%9D%E4%B8%AD%E6%96%87%E5%8C%96%E5%B0%8F%E4%BC%99%E6%93%8D%E7%9B%9830%E4%BA%BF%E5%9B%B4%E6%A0%87%E6%A1%88&sa=fyb_news"
   },
   {
-   "title": "张雪机车5款新车 最贵13万8",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A65%E6%AC%BE%E6%96%B0%E8%BD%A6+%E6%9C%80%E8%B4%B513%E4%B8%878&sa=fyb_news"
+   "title": "“藏手机神器”热销 家长担心",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%97%8F%E6%89%8B%E6%9C%BA%E7%A5%9E%E5%99%A8%E2%80%9D%E7%83%AD%E9%94%80+%E5%AE%B6%E9%95%BF%E6%8B%85%E5%BF%83&sa=fyb_news"
   },
   {
-   "title": "舒畅脸部状态",
-   "link": "https://m.baidu.com/s?word=%E8%88%92%E7%95%85%E8%84%B8%E9%83%A8%E7%8A%B6%E6%80%81&sa=fyb_news"
+   "title": "日本小提琴家穿中式礼服登台演奏",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E5%B0%8F%E6%8F%90%E7%90%B4%E5%AE%B6%E7%A9%BF%E4%B8%AD%E5%BC%8F%E7%A4%BC%E6%9C%8D%E7%99%BB%E5%8F%B0%E6%BC%94%E5%A5%8F&sa=fyb_news"
   },
   {
    "title": "彭州山区蛇患严重致人死亡系谣言",
    "link": "https://m.baidu.com/s?word=%E5%BD%AD%E5%B7%9E%E5%B1%B1%E5%8C%BA%E8%9B%87%E6%82%A3%E4%B8%A5%E9%87%8D%E8%87%B4%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "叶莲娜·阿斯塔尼娜身亡 普京发声",
-   "link": "https://m.baidu.com/s?word=%E5%8F%B6%E8%8E%B2%E5%A8%9C%C2%B7%E9%98%BF%E6%96%AF%E5%A1%94%E5%B0%BC%E5%A8%9C%E8%BA%AB%E4%BA%A1+%E6%99%AE%E4%BA%AC%E5%8F%91%E5%A3%B0&sa=fyb_news"
+   "title": "亚运开幕式 阴间",
+   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F+%E9%98%B4%E9%97%B4&sa=fyb_news"
   },
   {
-   "title": "亚运会开幕式",
-   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F&sa=fyb_news"
+   "title": "12306：已拒绝出票133.1万张",
+   "link": "https://m.baidu.com/s?word=12306%EF%BC%9A%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0&sa=fyb_news"
   },
   {
-   "title": "女生撞脸张柏芝火了 本人回应",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E6%92%9E%E8%84%B8%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%81%AB%E4%BA%86+%E6%9C%AC%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "网传《三十五而已》刚开机就黄了",
+   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E3%80%8A%E4%B8%89%E5%8D%81%E4%BA%94%E8%80%8C%E5%B7%B2%E3%80%8B%E5%88%9A%E5%BC%80%E6%9C%BA%E5%B0%B1%E9%BB%84%E4%BA%86&sa=fyb_news"
   }
  ],
  "ai": [
