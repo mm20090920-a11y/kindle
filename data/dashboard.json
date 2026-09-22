@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "updatedAt": "2026-09-22 09:19",
+ "updatedAt": "2026-09-22 13:27",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4317.94",
+  "value": "4333.67",
   "unit": "美元/盎司",
-  "change": "-25.58",
-  "pct": "-0.59%",
+  "change": "-9.85",
+  "pct": "-0.23%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "85,902",
-  "cny": "575,523",
-  "pct": "+2.22%",
+  "usd": "85,865",
+  "cny": "575,168",
+  "pct": "+0.97%",
   "up": true,
   "trend": [
-   83989.77,
-   84602.41,
-   84192.76,
-   84733.15,
-   85183.35,
-   85227.97,
-   85449.03,
-   85924.53,
-   86119.07,
-   85813.25,
-   86001.03,
-   85872.52,
-   86038.57,
-   86004.81,
-   86515.12,
-   87027.25,
-   86586.71,
-   86672.45,
-   86331.02,
-   86397.27,
-   86431.6,
-   85655.69,
-   85577.8,
-   85701.59,
-   85454.18,
-   85659.82,
-   85462.75,
-   85164.1,
-   85251.96,
-   85355.03,
-   85255.62,
-   85468.55
+   84926.72,
+   85277.55,
+   85822.11,
+   86072.53,
+   85856.35,
+   85993.77,
+   85873.13,
+   85945.67,
+   86350.74,
+   86752.37,
+   86968.8,
+   86784.18,
+   86422.55,
+   86635.12,
+   86596.74,
+   86321.45,
+   85727.52,
+   85556.15,
+   85700.63,
+   85458.94,
+   85542.18,
+   85386.35,
+   85407.07,
+   85475.1,
+   85282.79,
+   85472.16,
+   86180.11,
+   86021.06,
+   85841.12,
+   85944.24,
+   85954.88,
+   85970.56
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "推动中美关系沿着正确航道平稳前行",
-   "link": "https://m.baidu.com/s?word=%E6%8E%A8%E5%8A%A8%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%B2%BF%E7%9D%80%E6%AD%A3%E7%A1%AE%E8%88%AA%E9%81%93%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C&sa=fyb_news"
+   "title": "跨越山海续写“鼓岭情缘”",
+   "link": "https://m.baidu.com/s?word=%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E7%BB%AD%E5%86%99%E2%80%9C%E9%BC%93%E5%B2%AD%E6%83%85%E7%BC%98%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "中国女排夺冠！3-0横扫日本",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
+  },
+  {
+   "title": "多家银行存款利息涨了",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "5G+6G 生产生活将有哪些变化",
+   "link": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
+  },
+  {
+   "title": "林诗栋2-3不敌泰国16岁小将",
+   "link": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B2-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD16%E5%B2%81%E5%B0%8F%E5%B0%86&sa=fyb_news"
+  },
+  {
+   "title": "南京地铁 黄鼠狼",
+   "link": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81+%E9%BB%84%E9%BC%A0%E7%8B%BC&sa=fyb_news"
+  },
+  {
+   "title": "军训擅自离校的男生已退学",
+   "link": "https://m.baidu.com/s?word=%E5%86%9B%E8%AE%AD%E6%93%85%E8%87%AA%E7%A6%BB%E6%A0%A1%E7%9A%84%E7%94%B7%E7%94%9F%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news"
+  },
+  {
+   "title": "老人心梗去世前5次打120未接通",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
+  },
+  {
+   "title": "一高校给全校学生免费发超长蛋挞",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E9%AB%98%E6%A0%A1%E7%BB%99%E5%85%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%8F%91%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E&sa=fyb_news"
   },
   {
    "title": "亚运被骂史上最差 日本：都怪法国",
    "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E8%A2%AB%E9%AA%82%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B7%AE+%E6%97%A5%E6%9C%AC%EF%BC%9A%E9%83%BD%E6%80%AA%E6%B3%95%E5%9B%BD&sa=fyb_news"
   },
   {
-   "title": "“你不能拿资助你上学的钱去抽烟”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%A0%E4%B8%8D%E8%83%BD%E6%8B%BF%E8%B5%84%E5%8A%A9%E4%BD%A0%E4%B8%8A%E5%AD%A6%E7%9A%84%E9%92%B1%E5%8E%BB%E6%8A%BD%E7%83%9F%E2%80%9D&sa=fyb_news"
+   "title": "中国女排十冠王",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8D%81%E5%86%A0%E7%8E%8B&sa=fyb_news"
   },
   {
-   "title": "未来五年 居民生活品质如何提高",
-   "link": "https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4+%E5%B1%85%E6%B0%91%E7%94%9F%E6%B4%BB%E5%93%81%E8%B4%A8%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98&sa=fyb_news"
+   "title": "编造“创始人不喝自家饮料”被拘",
+   "link": "https://m.baidu.com/s?word=%E7%BC%96%E9%80%A0%E2%80%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E5%96%9D%E8%87%AA%E5%AE%B6%E9%A5%AE%E6%96%99%E2%80%9D%E8%A2%AB%E6%8B%98&sa=fyb_news"
   },
   {
-   "title": "官方通报“幼儿园用炒菜锅洗拖把”",
-   "link": "https://m.baidu.com/s?word=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E2%80%9C%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%94%A8%E7%82%92%E8%8F%9C%E9%94%85%E6%B4%97%E6%8B%96%E6%8A%8A%E2%80%9D&sa=fyb_news"
+   "title": "重庆市委书记、市长赴张雪机车调研",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E5%B8%82%E9%95%BF%E8%B5%B4%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%B0%83%E7%A0%94&sa=fyb_news"
   },
   {
-   "title": "印度选手输不起 拒绝握手跪地痛哭",
-   "link": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E9%80%89%E6%89%8B%E8%BE%93%E4%B8%8D%E8%B5%B7+%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B%E8%B7%AA%E5%9C%B0%E7%97%9B%E5%93%AD&sa=fyb_news"
+   "title": "中国队两次让东道主日本沉默",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%A4%E6%AC%A1%E8%AE%A9%E4%B8%9C%E9%81%93%E4%B8%BB%E6%97%A5%E6%9C%AC%E6%B2%89%E9%BB%98&sa=fyb_news"
   },
   {
-   "title": "28万金手链戴了三四小时就丢了",
-   "link": "https://m.baidu.com/s?word=28%E4%B8%87%E9%87%91%E6%89%8B%E9%93%BE%E6%88%B4%E4%BA%86%E4%B8%89%E5%9B%9B%E5%B0%8F%E6%97%B6%E5%B0%B1%E4%B8%A2%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "张展硕 男子1500米自由泳金牌",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E5%B1%95%E7%A1%95+%E7%94%B7%E5%AD%901500%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E9%87%91%E7%89%8C&sa=fyb_news"
-  },
-  {
-   "title": "演员陈观泰离世 骨灰被撒入大海",
-   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E9%99%88%E8%A7%82%E6%B3%B0%E7%A6%BB%E4%B8%96+%E9%AA%A8%E7%81%B0%E8%A2%AB%E6%92%92%E5%85%A5%E5%A4%A7%E6%B5%B7&sa=fyb_news"
-  },
-  {
-   "title": "女孩从5楼往下扔快递时坠亡",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%A9%E4%BB%8E5%E6%A5%BC%E5%BE%80%E4%B8%8B%E6%89%94%E5%BF%AB%E9%80%92%E6%97%B6%E5%9D%A0%E4%BA%A1&sa=fyb_news"
-  },
-  {
-   "title": "大满贯得主张继科独家为国乒加油",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%BE%97%E4%B8%BB%E5%BC%A0%E7%BB%A7%E7%A7%91%E7%8B%AC%E5%AE%B6%E4%B8%BA%E5%9B%BD%E4%B9%92%E5%8A%A0%E6%B2%B9&sa=fyb_news"
-  },
-  {
-   "title": "青海辟谣前文旅厅厅长开网约车",
-   "link": "https://m.baidu.com/s?word=%E9%9D%92%E6%B5%B7%E8%BE%9F%E8%B0%A3%E5%89%8D%E6%96%87%E6%97%85%E5%8E%85%E5%8E%85%E9%95%BF%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6&sa=fyb_news"
-  },
-  {
-   "title": "老人去世前换上喜欢衣服 一睡不醒",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%89%8D%E6%8D%A2%E4%B8%8A%E5%96%9C%E6%AC%A2%E8%A1%A3%E6%9C%8D+%E4%B8%80%E7%9D%A1%E4%B8%8D%E9%86%92&sa=fyb_news"
-  },
-  {
-   "title": "月租1500元起 酒店巨头抢公寓生意",
-   "link": "https://m.baidu.com/s?word=%E6%9C%88%E7%A7%9F1500%E5%85%83%E8%B5%B7+%E9%85%92%E5%BA%97%E5%B7%A8%E5%A4%B4%E6%8A%A2%E5%85%AC%E5%AF%93%E7%94%9F%E6%84%8F&sa=fyb_news"
-  },
-  {
-   "title": "86版《西游记》道具展出 金箍棒开裂",
-   "link": "https://m.baidu.com/s?word=86%E7%89%88%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B%E9%81%93%E5%85%B7%E5%B1%95%E5%87%BA+%E9%87%91%E7%AE%8D%E6%A3%92%E5%BC%80%E8%A3%82&sa=fyb_news"
+   "title": "安徽小学生草丛里捡到一堆钱",
+   "link": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B8%9B%E9%87%8C%E6%8D%A1%E5%88%B0%E4%B8%80%E5%A0%86%E9%92%B1&sa=fyb_news"
   }
  ],
  "ai": [
