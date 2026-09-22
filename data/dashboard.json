@@ -1,6 +1,6 @@
 {
  "date": "2026-09-22",
- "updatedAt": "2026-09-22 13:27",
+ "updatedAt": "2026-09-22 17:00",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4333.67",
+  "value": "4334.94",
   "unit": "美元/盎司",
-  "change": "-9.85",
-  "pct": "-0.23%",
+  "change": "-8.58",
+  "pct": "-0.20%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "85,865",
-  "cny": "575,168",
-  "pct": "+0.97%",
+  "usd": "86,488",
+  "cny": "579,235",
+  "pct": "+0.58%",
   "up": true,
   "trend": [
-   84926.72,
-   85277.55,
-   85822.11,
-   86072.53,
-   85856.35,
-   85993.77,
-   85873.13,
-   85945.67,
-   86350.74,
-   86752.37,
-   86968.8,
-   86784.18,
-   86422.55,
-   86635.12,
-   86596.74,
-   86321.45,
-   85727.52,
-   85556.15,
-   85700.63,
-   85458.94,
-   85542.18,
-   85386.35,
-   85407.07,
-   85475.1,
-   85282.79,
-   85472.16,
-   86180.11,
-   86021.06,
-   85841.12,
-   85944.24,
-   85954.88,
-   85970.56
+   85928.25,
+   85829.81,
+   85908.74,
+   86334.82,
+   86663.99,
+   86878.22,
+   86791.71,
+   86665.42,
+   86538.24,
+   86471.12,
+   86458.29,
+   85560.21,
+   85526.01,
+   85806.4,
+   85513.72,
+   85512.39,
+   85387.42,
+   85519.89,
+   85458.26,
+   85351.25,
+   85441.59,
+   86172.12,
+   85894.39,
+   86017.55,
+   85942.59,
+   86048.75,
+   86038.81,
+   85982.16,
+   86116.64,
+   86004.31,
+   86278.12,
+   86104.54
   ]
  },
  "weibo": [],
@@ -228,56 +228,56 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&sa=fyb_news"
   },
   {
-   "title": "多家银行存款利息涨了",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news"
+   "title": "中国首批航天员已全部停航停训",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%89%B9%E8%88%AA%E5%A4%A9%E5%91%98%E5%B7%B2%E5%85%A8%E9%83%A8%E5%81%9C%E8%88%AA%E5%81%9C%E8%AE%AD&sa=fyb_news"
   },
   {
    "title": "5G+6G 生产生活将有哪些变化",
    "link": "https://m.baidu.com/s?word=5G%2B6G+%E7%94%9F%E4%BA%A7%E7%94%9F%E6%B4%BB%E5%B0%86%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "林诗栋2-3不敌泰国16岁小将",
-   "link": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B2-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD16%E5%B2%81%E5%B0%8F%E5%B0%86&sa=fyb_news"
+   "title": "老人心梗去世前5次打120未接通",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
+  },
+  {
+   "title": "多家银行存款利息涨了",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E5%88%A9%E6%81%AF%E6%B6%A8%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "开车千万别穿洞洞鞋",
+   "link": "https://m.baidu.com/s?word=%E5%BC%80%E8%BD%A6%E5%8D%83%E4%B8%87%E5%88%AB%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B&sa=fyb_news"
+  },
+  {
+   "title": "安徽小学生草丛里捡到一堆钱",
+   "link": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B8%9B%E9%87%8C%E6%8D%A1%E5%88%B0%E4%B8%80%E5%A0%86%E9%92%B1&sa=fyb_news"
   },
   {
    "title": "南京地铁 黄鼠狼",
    "link": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81+%E9%BB%84%E9%BC%A0%E7%8B%BC&sa=fyb_news"
   },
   {
-   "title": "军训擅自离校的男生已退学",
-   "link": "https://m.baidu.com/s?word=%E5%86%9B%E8%AE%AD%E6%93%85%E8%87%AA%E7%A6%BB%E6%A0%A1%E7%9A%84%E7%94%B7%E7%94%9F%E5%B7%B2%E9%80%80%E5%AD%A6&sa=fyb_news"
+   "title": "中国发现超大型铜金矿",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E8%B6%85%E5%A4%A7%E5%9E%8B%E9%93%9C%E9%87%91%E7%9F%BF&sa=fyb_news"
   },
   {
-   "title": "老人心梗去世前5次打120未接通",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%E5%89%8D5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A&sa=fyb_news"
-  },
-  {
-   "title": "一高校给全校学生免费发超长蛋挞",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E9%AB%98%E6%A0%A1%E7%BB%99%E5%85%A8%E6%A0%A1%E5%AD%A6%E7%94%9F%E5%85%8D%E8%B4%B9%E5%8F%91%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E&sa=fyb_news"
-  },
-  {
-   "title": "亚运被骂史上最差 日本：都怪法国",
-   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E8%A2%AB%E9%AA%82%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B7%AE+%E6%97%A5%E6%9C%AC%EF%BC%9A%E9%83%BD%E6%80%AA%E6%B3%95%E5%9B%BD&sa=fyb_news"
-  },
-  {
-   "title": "中国女排十冠王",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8D%81%E5%86%A0%E7%8E%8B&sa=fyb_news"
+   "title": "今年秋冬将有超强厄尔尼诺事件",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%86%AC%E5%B0%86%E6%9C%89%E8%B6%85%E5%BC%BA%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E4%BA%8B%E4%BB%B6&sa=fyb_news"
   },
   {
    "title": "编造“创始人不喝自家饮料”被拘",
    "link": "https://m.baidu.com/s?word=%E7%BC%96%E9%80%A0%E2%80%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E5%96%9D%E8%87%AA%E5%AE%B6%E9%A5%AE%E6%96%99%E2%80%9D%E8%A2%AB%E6%8B%98&sa=fyb_news"
   },
   {
-   "title": "重庆市委书记、市长赴张雪机车调研",
-   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E3%80%81%E5%B8%82%E9%95%BF%E8%B5%B4%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%B0%83%E7%A0%94&sa=fyb_news"
+   "title": "男子称因超龄被当赠品卖进电诈园区",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9B%A0%E8%B6%85%E9%BE%84%E8%A2%AB%E5%BD%93%E8%B5%A0%E5%93%81%E5%8D%96%E8%BF%9B%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA&sa=fyb_news"
   },
   {
-   "title": "中国队两次让东道主日本沉默",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%B8%A4%E6%AC%A1%E8%AE%A9%E4%B8%9C%E9%81%93%E4%B8%BB%E6%97%A5%E6%9C%AC%E6%B2%89%E9%BB%98&sa=fyb_news"
+   "title": "11岁男孩一口流利英语帮邻居谈下大单",
+   "link": "https://m.baidu.com/s?word=11%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E5%8F%A3%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD%E5%B8%AE%E9%82%BB%E5%B1%85%E8%B0%88%E4%B8%8B%E5%A4%A7%E5%8D%95&sa=fyb_news"
   },
   {
-   "title": "安徽小学生草丛里捡到一堆钱",
-   "link": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%8D%89%E4%B8%9B%E9%87%8C%E6%8D%A1%E5%88%B0%E4%B8%80%E5%A0%86%E9%92%B1&sa=fyb_news"
+   "title": "日本人身高不及中韩 日媒列3大原因",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BA%BA%E8%BA%AB%E9%AB%98%E4%B8%8D%E5%8F%8A%E4%B8%AD%E9%9F%A9+%E6%97%A5%E5%AA%92%E5%88%973%E5%A4%A7%E5%8E%9F%E5%9B%A0&sa=fyb_news"
   }
  ],
  "ai": [
