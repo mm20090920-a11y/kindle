@@ -1,6 +1,6 @@
 {
  "date": "2026-09-25",
- "updatedAt": "2026-09-25 13:53",
+ "updatedAt": "2026-09-25 17:15",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4281.09",
+  "value": "4290.33",
   "unit": "美元/盎司",
-  "change": "+7.33",
-  "pct": "+0.17%",
+  "change": "+16.57",
+  "pct": "+0.39%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "83,829",
-  "cny": "562,609",
-  "pct": "-0.07%",
+  "usd": "83,922",
+  "cny": "563,228",
+  "pct": "-0.62%",
   "up": false,
   "trend": [
-   84021.11,
-   84508.92,
-   84168.48,
-   84189.85,
-   84492.23,
-   84212.89,
-   84357.1,
-   84432.69,
-   84504.57,
-   84332.17,
-   84397.65,
-   84312.07,
-   84224.94,
-   84416.53,
-   84590.3,
-   84697.83,
-   84529.24,
-   84445.38,
-   84206.67,
-   84186.11,
-   84159.95,
-   84279.87,
-   84201.09,
-   83840.88,
-   83981.5,
-   84324.7,
-   84640.6,
-   84411.19,
-   84797.02,
-   84838.3,
-   84244.36,
-   84444.97
+   84347.53,
+   83938.28,
+   84388.42,
+   84589.53,
+   84262.37,
+   84331.31,
+   84404.07,
+   84159.23,
+   84312.4,
+   84474.12,
+   84617.34,
+   84398.0,
+   84814.85,
+   84221.64,
+   84162.02,
+   84154.98,
+   84173.45,
+   84180.06,
+   84011.67,
+   83855.55,
+   84219.69,
+   84554.9,
+   84602.63,
+   84692.01,
+   85101.19,
+   84638.11,
+   84420.73,
+   84000.19,
+   83623.93,
+   83808.5,
+   83412.72,
+   83850.68
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB&sa=fyb_news"
   },
   {
-   "title": "习近平在欢迎宴会上的祝酒辞",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E4%B8%8A%E7%9A%84%E7%A5%9D%E9%85%92%E8%BE%9E&sa=fyb_news"
+   "title": "习近平圆满结束对美国的国事访问",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
   },
   {
-   "title": "特朗普致辞专门提到一个中文词",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E8%BE%9E%E4%B8%93%E9%97%A8%E6%8F%90%E5%88%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E6%96%87%E8%AF%8D&sa=fyb_news"
+   "title": "进一步丰富中美关系定位的内涵",
+   "link": "https://m.baidu.com/s?word=%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%86%85%E6%B6%B5&sa=fyb_news"
   },
   {
    "title": "平陆运河首条外贸航线首艘货船抵越",
    "link": "https://m.baidu.com/s?word=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E9%A6%96%E6%9D%A1%E5%A4%96%E8%B4%B8%E8%88%AA%E7%BA%BF%E9%A6%96%E8%89%98%E8%B4%A7%E8%88%B9%E6%8A%B5%E8%B6%8A&sa=fyb_news"
   },
   {
+   "title": "习近平主席夫妇同特朗普夫妇茶叙",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%A4%AB%E5%A6%87%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99&sa=fyb_news"
+  },
+  {
    "title": "17岁陈妤颉 百米飞人大战金牌",
    "link": "https://m.baidu.com/s?word=17%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89+%E7%99%BE%E7%B1%B3%E9%A3%9E%E4%BA%BA%E5%A4%A7%E6%88%98%E9%87%91%E7%89%8C&sa=fyb_news"
   },
   {
-   "title": "央视中秋晚会",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news"
+   "title": "泰国选手打破苏炳添亚运会纪录",
+   "link": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E6%89%93%E7%A0%B4%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news"
   },
   {
-   "title": "美媒记者绕圈参观中国红旗汽车",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%AA%92%E8%AE%B0%E8%80%85%E7%BB%95%E5%9C%88%E5%8F%82%E8%A7%82%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%97%97%E6%B1%BD%E8%BD%A6&sa=fyb_news"
+   "title": "一代人有一代人的月饼",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%9C%88%E9%A5%BC&sa=fyb_news"
   },
   {
-   "title": "中秋都在刷《武林外传》第40集",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%8B%E9%83%BD%E5%9C%A8%E5%88%B7%E3%80%8A%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E3%80%8B%E7%AC%AC40%E9%9B%86&sa=fyb_news"
-  },
-  {
-   "title": "女篮主帅回应三分球颗粒无收",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AF%AE%E4%B8%BB%E5%B8%85%E5%9B%9E%E5%BA%94%E4%B8%89%E5%88%86%E7%90%83%E9%A2%97%E7%B2%92%E6%97%A0%E6%94%B6&sa=fyb_news"
+   "title": "男乒新老交替阵痛期",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E4%B9%92%E6%96%B0%E8%80%81%E4%BA%A4%E6%9B%BF%E9%98%B5%E7%97%9B%E6%9C%9F&sa=fyb_news"
   },
   {
    "title": "低糖月饼、文创月饼走俏",
    "link": "https://m.baidu.com/s?word=%E4%BD%8E%E7%B3%96%E6%9C%88%E9%A5%BC%E3%80%81%E6%96%87%E5%88%9B%E6%9C%88%E9%A5%BC%E8%B5%B0%E4%BF%8F&sa=fyb_news"
   },
   {
-   "title": "再顶级的运动员也是人不是神",
-   "link": "https://m.baidu.com/s?word=%E5%86%8D%E9%A1%B6%E7%BA%A7%E7%9A%84%E8%BF%90%E5%8A%A8%E5%91%98%E4%B9%9F%E6%98%AF%E4%BA%BA%E4%B8%8D%E6%98%AF%E7%A5%9E&sa=fyb_news"
+   "title": "中秋都在刷《武林外传》第40集",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%A7%8B%E9%83%BD%E5%9C%A8%E5%88%B7%E3%80%8A%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E3%80%8B%E7%AC%AC40%E9%9B%86&sa=fyb_news"
   },
   {
    "title": "月饼和螃蟹一起吃会中毒？假的",
    "link": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%80%E8%B5%B7%E5%90%83%E4%BC%9A%E4%B8%AD%E6%AF%92%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news"
   },
   {
-   "title": "第一个想到这么拍月亮的人真是天才",
-   "link": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%83%B3%E5%88%B0%E8%BF%99%E4%B9%88%E6%8B%8D%E6%9C%88%E4%BA%AE%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E5%A4%A9%E6%89%8D&sa=fyb_news"
+   "title": "特朗普致辞专门提到一个中文词",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E8%BE%9E%E4%B8%93%E9%97%A8%E6%8F%90%E5%88%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E6%96%87%E8%AF%8D&sa=fyb_news"
   },
   {
-   "title": "湖南卫视中秋晚会猴比艺人镜头多",
-   "link": "https://m.baidu.com/s?word=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E7%8C%B4%E6%AF%94%E8%89%BA%E4%BA%BA%E9%95%9C%E5%A4%B4%E5%A4%9A&sa=fyb_news"
+   "title": "张雪机车员工晒中秋福利",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%91%98%E5%B7%A5%E6%99%92%E4%B8%AD%E7%A7%8B%E7%A6%8F%E5%88%A9&sa=fyb_news"
   },
   {
-   "title": "特朗普赠送亲自参与设计白头鹰雕像",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A0%E9%80%81%E4%BA%B2%E8%87%AA%E5%8F%82%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%99%BD%E5%A4%B4%E9%B9%B0%E9%9B%95%E5%83%8F&sa=fyb_news"
+   "title": "张远的提词器全是拼音",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E8%BF%9C%E7%9A%84%E6%8F%90%E8%AF%8D%E5%99%A8%E5%85%A8%E6%98%AF%E6%8B%BC%E9%9F%B3&sa=fyb_news"
   }
  ],
  "ai": [
