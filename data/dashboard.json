@@ -1,6 +1,6 @@
 {
  "date": "2026-09-26",
- "updatedAt": "2026-09-26 09:23",
+ "updatedAt": "2026-09-26 13:10",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,43 +177,43 @@
  },
  "forex": [],
  "btc": {
-  "usd": "83,997",
-  "cny": "563,886",
-  "pct": "-0.70%",
+  "usd": "84,080",
+  "cny": "564,448",
+  "pct": "-0.44%",
   "up": false,
   "trend": [
-   84640.6,
-   84411.19,
-   84797.02,
-   84838.3,
-   84244.36,
-   84444.97,
-   83996.27,
-   83857.95,
-   83848.95,
-   83967.24,
-   83825.92,
-   83744.45,
-   84006.0,
-   83927.9,
-   84004.11,
-   84125.45,
-   83706.01,
-   83896.69,
-   84092.48,
-   84069.65,
-   84035.75,
-   83906.25,
-   84059.88,
-   84008.45,
-   83938.04,
-   83989.24,
-   83970.89,
-   83930.53,
-   83904.36,
-   83972.26,
-   84058.6,
-   84278.66
+   84435.81,
+   83928.4,
+   83667.73,
+   83757.48,
+   83991.42,
+   83752.06,
+   83771.68,
+   83954.25,
+   84022.77,
+   84012.8,
+   84096.48,
+   83752.15,
+   83914.35,
+   84069.47,
+   84061.2,
+   83953.74,
+   83923.15,
+   84063.48,
+   84002.34,
+   84012.28,
+   83982.03,
+   83967.98,
+   83943.12,
+   83916.97,
+   83994.21,
+   84100.66,
+   84267.2,
+   84002.56,
+   84099.38,
+   84163.11,
+   84160.2,
+   84088.38
   ]
  },
  "weibo": [],
@@ -228,56 +228,56 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86&sa=fyb_news"
   },
   {
-   "title": "习近平结束访美 特朗普第一时间发文",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E5%8F%91%E6%96%87&sa=fyb_news"
-  },
-  {
-   "title": "落实中美关系新定位",
-   "link": "https://m.baidu.com/s?word=%E8%90%BD%E5%AE%9E%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%96%B0%E5%AE%9A%E4%BD%8D&sa=fyb_news"
-  },
-  {
-   "title": "毛宁发布多张习近平访美现场图片",
-   "link": "https://m.baidu.com/s?word=%E6%AF%9B%E5%AE%81%E5%8F%91%E5%B8%83%E5%A4%9A%E5%BC%A0%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E7%8E%B0%E5%9C%BA%E5%9B%BE%E7%89%87&sa=fyb_news"
-  },
-  {
-   "title": "中国男足战胜泰国队晋级4强",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A74%E5%BC%BA&sa=fyb_news"
-  },
-  {
-   "title": "女篮 铜牌",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%AF%AE+%E9%93%9C%E7%89%8C&sa=fyb_news"
-  },
-  {
-   "title": "日本亚组委道歉",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BA%9A%E7%BB%84%E5%A7%94%E9%81%93%E6%AD%89&sa=fyb_news"
-  },
-  {
    "title": "中美达成300亿美元对等降税安排",
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E7%AD%89%E9%99%8D%E7%A8%8E%E5%AE%89%E6%8E%92&sa=fyb_news"
   },
   {
-   "title": "白宫里的三张照片见证中美关系",
-   "link": "https://m.baidu.com/s?word=%E7%99%BD%E5%AE%AB%E9%87%8C%E7%9A%84%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB&sa=fyb_news"
+   "title": "把中美建设性战略稳定关系转为行动",
+   "link": "https://m.baidu.com/s?word=%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BD%AC%E4%B8%BA%E8%A1%8C%E5%8A%A8&sa=fyb_news"
   },
   {
-   "title": "中国男足下轮与韩国争决赛门票",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%8B%E8%BD%AE%E4%B8%8E%E9%9F%A9%E5%9B%BD%E4%BA%89%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8&sa=fyb_news"
+   "title": "林诗栋蒯曼4比0王楚钦孙颖莎夺冠",
+   "link": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0&sa=fyb_news"
+  },
+  {
+   "title": "张本智和回应爆冷出局",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
+  },
+  {
+   "title": "张继科聊亚运国乒",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%81%8A%E4%BA%9A%E8%BF%90%E5%9B%BD%E4%B9%92&sa=fyb_news"
+  },
+  {
+   "title": "国足将迎战新西兰 5次交手从未赢过",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%B0%86%E8%BF%8E%E6%88%98%E6%96%B0%E8%A5%BF%E5%85%B0+5%E6%AC%A1%E4%BA%A4%E6%89%8B%E4%BB%8E%E6%9C%AA%E8%B5%A2%E8%BF%87&sa=fyb_news"
+  },
+  {
+   "title": "南方多地热如盛夏 体感温度超40℃",
+   "link": "https://m.baidu.com/s?word=%E5%8D%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E7%83%AD%E5%A6%82%E7%9B%9B%E5%A4%8F+%E4%BD%93%E6%84%9F%E6%B8%A9%E5%BA%A6%E8%B6%8540%E2%84%83&sa=fyb_news"
+  },
+  {
+   "title": "中美关系定位内涵进一步丰富",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E5%86%85%E6%B6%B5%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C&sa=fyb_news"
+  },
+  {
+   "title": "大陆学生恋上台湾“学姐”实为间谍",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E9%99%86%E5%AD%A6%E7%94%9F%E6%81%8B%E4%B8%8A%E5%8F%B0%E6%B9%BE%E2%80%9C%E5%AD%A6%E5%A7%90%E2%80%9D%E5%AE%9E%E4%B8%BA%E9%97%B4%E8%B0%8D&sa=fyb_news"
   },
   {
    "title": "龙眼外壳发白是打蜡泡药？误区",
    "link": "https://m.baidu.com/s?word=%E9%BE%99%E7%9C%BC%E5%A4%96%E5%A3%B3%E5%8F%91%E7%99%BD%E6%98%AF%E6%89%93%E8%9C%A1%E6%B3%A1%E8%8D%AF%EF%BC%9F%E8%AF%AF%E5%8C%BA&sa=fyb_news"
   },
   {
-   "title": "刘欢在家人陪伴下病逝",
-   "link": "https://m.baidu.com/s?word=%E5%88%98%E6%AC%A2%E5%9C%A8%E5%AE%B6%E4%BA%BA%E9%99%AA%E4%BC%B4%E4%B8%8B%E7%97%85%E9%80%9D&sa=fyb_news"
+   "title": "刘欢最后舞台祝大家平安健康",
+   "link": "https://m.baidu.com/s?word=%E5%88%98%E6%AC%A2%E6%9C%80%E5%90%8E%E8%88%9E%E5%8F%B0%E7%A5%9D%E5%A4%A7%E5%AE%B6%E5%B9%B3%E5%AE%89%E5%81%A5%E5%BA%B7&sa=fyb_news"
   },
   {
-   "title": "韩红生日当天得知刘欢去世",
-   "link": "https://m.baidu.com/s?word=%E9%9F%A9%E7%BA%A2%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E5%BE%97%E7%9F%A5%E5%88%98%E6%AC%A2%E5%8E%BB%E4%B8%96&sa=fyb_news"
+   "title": "日本男单全军覆没",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&sa=fyb_news"
   },
   {
-   "title": "刘欢妻子：我永远的爱永远的痛",
-   "link": "https://m.baidu.com/s?word=%E5%88%98%E6%AC%A2%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%88%91%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%97%9B&sa=fyb_news"
+   "title": "起猛了 大头儿子长大了",
+   "link": "https://m.baidu.com/s?word=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E9%95%BF%E5%A4%A7%E4%BA%86&sa=fyb_news"
   }
  ],
  "ai": [
