@@ -1,6 +1,6 @@
 {
- "date": "2026-09-26",
- "updatedAt": "2026-09-26 16:27",
+ "date": "2026-09-27",
+ "updatedAt": "2026-09-27 05:20",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,157 +177,125 @@
  },
  "forex": [],
  "btc": {
-  "usd": "84,101",
-  "cny": "564,584",
-  "pct": "+0.11%",
+  "usd": "84,378",
+  "cny": "566,447",
+  "pct": "+0.55%",
   "up": true,
   "trend": [
-   83967.72,
-   83942.82,
-   83764.47,
-   83950.96,
-   83989.82,
-   83957.16,
-   83858.72,
-   83801.42,
-   83896.51,
-   84052.37,
-   84075.72,
-   83867.31,
-   83934.67,
-   84097.89,
-   84003.68,
-   83949.93,
-   83869.77,
-   83961.2,
-   83910.46,
-   83904.29,
-   83998.83,
-   84053.13,
-   84194.74,
-   83995.82,
-   84125.04,
-   84151.86,
-   84158.89,
-   84037.84,
-   83915.72,
-   83944.24,
-   84007.51,
-   84108.04
+   83968.68,
+   83912.58,
+   83904.74,
+   84021.32,
+   84020.19,
+   84168.03,
+   84000.37,
+   84113.26,
+   84165.54,
+   84137.56,
+   84040.07,
+   83910.5,
+   83959.24,
+   84007.01,
+   84120.38,
+   84135.49,
+   84052.21,
+   84097.29,
+   83984.16,
+   83969.28,
+   84041.65,
+   84077.99,
+   84111.38,
+   84257.57,
+   84364.17,
+   84342.18,
+   84289.93,
+   84313.06,
+   84492.43,
+   84468.72,
+   84372.09,
+   84308.04
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "习近平主席美国之行",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%B9%8B%E8%A1%8C&sa=fyb_news"
+   "title": "习近平主席访美难忘瞬间意义深远",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E8%AE%BF%E7%BE%8E%E9%9A%BE%E5%BF%98%E7%9E%AC%E9%97%B4%E6%84%8F%E4%B9%89%E6%B7%B1%E8%BF%9C&sa=fyb_news"
   },
   {
-   "title": "中美达成八点成果共识",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86&sa=fyb_news"
+   "title": "河南一技校101名毕业生入职北大",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%8A%80%E6%A0%A1101%E5%90%8D%E6%AF%95%E4%B8%9A%E7%94%9F%E5%85%A5%E8%81%8C%E5%8C%97%E5%A4%A7&sa=fyb_news"
   },
   {
-   "title": "防止军国主义复活是中美共同责任",
-   "link": "https://m.baidu.com/s?word=%E9%98%B2%E6%AD%A2%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%B1%E5%90%8C%E8%B4%A3%E4%BB%BB&sa=fyb_news"
+   "title": "132名领导手机号公开 不只是敢接电话",
+   "link": "https://m.baidu.com/s?word=132%E5%90%8D%E9%A2%86%E5%AF%BC%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%85%AC%E5%BC%80+%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%95%A2%E6%8E%A5%E7%94%B5%E8%AF%9D&sa=fyb_news"
   },
   {
-   "title": "把中美建设性战略稳定关系转为行动",
-   "link": "https://m.baidu.com/s?word=%E6%8A%8A%E4%B8%AD%E7%BE%8E%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BD%AC%E4%B8%BA%E8%A1%8C%E5%8A%A8&sa=fyb_news"
+   "title": "九天揽月、向海筑能！多项工程获突破",
+   "link": "https://m.baidu.com/s?word=%E4%B9%9D%E5%A4%A9%E6%8F%BD%E6%9C%88%E3%80%81%E5%90%91%E6%B5%B7%E7%AD%91%E8%83%BD%EF%BC%81%E5%A4%9A%E9%A1%B9%E5%B7%A5%E7%A8%8B%E8%8E%B7%E7%AA%81%E7%A0%B4&sa=fyb_news"
   },
   {
-   "title": "林诗栋蒯曼4比0王楚钦孙颖莎夺冠",
-   "link": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC4%E6%AF%940%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0&sa=fyb_news"
+   "title": "国乒男双无缘会师决赛",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B&sa=fyb_news"
   },
   {
-   "title": "林诗栋 跨栏",
-   "link": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B+%E8%B7%A8%E6%A0%8F&sa=fyb_news"
+   "title": "陪看：亚运乒乓巅峰对决",
+   "link": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%EF%BC%9A%E4%BA%9A%E8%BF%90%E4%B9%92%E4%B9%93%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3&sa=fyb_news"
   },
   {
-   "title": "十五的月亮十七圆 错过要等到2043年",
-   "link": "https://m.baidu.com/s?word=%E5%8D%81%E4%BA%94%E7%9A%84%E6%9C%88%E4%BA%AE%E5%8D%81%E4%B8%83%E5%9C%86+%E9%94%99%E8%BF%87%E8%A6%81%E7%AD%89%E5%88%B02043%E5%B9%B4&sa=fyb_news"
+   "title": "这个小长假你是怎么度过的",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E5%B0%8F%E9%95%BF%E5%81%87%E4%BD%A0%E6%98%AF%E6%80%8E%E4%B9%88%E5%BA%A6%E8%BF%87%E7%9A%84&sa=fyb_news"
   },
   {
-   "title": "张本智和回应爆冷出局",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80&sa=fyb_news"
+   "title": "人均百元的老年人“一日聚”火了",
+   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E5%9D%87%E7%99%BE%E5%85%83%E7%9A%84%E8%80%81%E5%B9%B4%E4%BA%BA%E2%80%9C%E4%B8%80%E6%97%A5%E8%81%9A%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "吴艳妮13秒18晋级100米栏决赛",
-   "link": "https://m.baidu.com/s?word=%E5%90%B4%E8%89%B3%E5%A6%AE13%E7%A7%9218%E6%99%8B%E7%BA%A7100%E7%B1%B3%E6%A0%8F%E5%86%B3%E8%B5%9B&sa=fyb_news"
+   "title": "美国罕见超规格接待在日引巨大关注",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E7%BD%95%E8%A7%81%E8%B6%85%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E5%9C%A8%E6%97%A5%E5%BC%95%E5%B7%A8%E5%A4%A7%E5%85%B3%E6%B3%A8&sa=fyb_news"
   },
   {
-   "title": "中美关系定位内涵进一步丰富",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E5%86%85%E6%B6%B5%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C&sa=fyb_news"
+   "title": "北京天空出现丁达尔光瀑",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E5%A4%A9%E7%A9%BA%E5%87%BA%E7%8E%B0%E4%B8%81%E8%BE%BE%E5%B0%94%E5%85%89%E7%80%91&sa=fyb_news"
   },
   {
-   "title": "中方回应美方“超级智能”提法",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E2%80%9C%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E2%80%9D%E6%8F%90%E6%B3%95&sa=fyb_news"
+   "title": "OpenAI再暂停最先进模型训练",
+   "link": "https://m.baidu.com/s?word=OpenAI%E5%86%8D%E6%9A%82%E5%81%9C%E6%9C%80%E5%85%88%E8%BF%9B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83&sa=fyb_news"
   },
   {
-   "title": "龙眼外壳发白是打蜡泡药？误区",
-   "link": "https://m.baidu.com/s?word=%E9%BE%99%E7%9C%BC%E5%A4%96%E5%A3%B3%E5%8F%91%E7%99%BD%E6%98%AF%E6%89%93%E8%9C%A1%E6%B3%A1%E8%8D%AF%EF%BC%9F%E8%AF%AF%E5%8C%BA&sa=fyb_news"
+   "title": "无糖月饼能敞开吃？误区",
+   "link": "https://m.baidu.com/s?word=%E6%97%A0%E7%B3%96%E6%9C%88%E9%A5%BC%E8%83%BD%E6%95%9E%E5%BC%80%E5%90%83%EF%BC%9F%E8%AF%AF%E5%8C%BA&sa=fyb_news"
   },
   {
-   "title": "那英哽咽演唱《弯弯的月亮》",
-   "link": "https://m.baidu.com/s?word=%E9%82%A3%E8%8B%B1%E5%93%BD%E5%92%BD%E6%BC%94%E5%94%B1%E3%80%8A%E5%BC%AF%E5%BC%AF%E7%9A%84%E6%9C%88%E4%BA%AE%E3%80%8B&sa=fyb_news"
+   "title": "爷爷接孙子结果载了一车娃",
+   "link": "https://m.baidu.com/s?word=%E7%88%B7%E7%88%B7%E6%8E%A5%E5%AD%99%E5%AD%90%E7%BB%93%E6%9E%9C%E8%BD%BD%E4%BA%86%E4%B8%80%E8%BD%A6%E5%A8%83&sa=fyb_news"
   },
   {
-   "title": "央视春晚导演组发文悼念刘欢",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%E7%BB%84%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2&sa=fyb_news"
+   "title": "邓亚萍谈日本男单全军覆没",
+   "link": "https://m.baidu.com/s?word=%E9%82%93%E4%BA%9A%E8%90%8D%E8%B0%88%E6%97%A5%E6%9C%AC%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1&sa=fyb_news"
   },
   {
-   "title": "一支减肥针 戳破自律神话",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%94%AF%E5%87%8F%E8%82%A5%E9%92%88+%E6%88%B3%E7%A0%B4%E8%87%AA%E5%BE%8B%E7%A5%9E%E8%AF%9D&sa=fyb_news"
+   "title": "特斯拉一个月降价两次惹怒新车主",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E9%99%8D%E4%BB%B7%E4%B8%A4%E6%AC%A1%E6%83%B9%E6%80%92%E6%96%B0%E8%BD%A6%E4%B8%BB&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-   "link": "https://x.com/satyanadella/status/2103455884366188544"
+   "title": "Claude Opus 5.5 (High) 以 1509 分登顶 Arena Text Arena 榜首",
+   "link": "https://x.com/arena/status/2103893011164017018"
   },
   {
-   "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-   "link": "https://claude.com/blog/build-plugins-for-claude"
+   "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+   "link": "https://www.ithome.com/1/007/447.htm"
   },
   {
-   "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
-   "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+   "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+   "link": "https://www.ithome.com/1/007/444.htm"
   },
   {
-   "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
-   "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"
-  },
-  {
-   "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-   "link": "https://cognition.com/blog/1b-run-rate"
-  },
-  {
-   "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-   "link": "https://x.com/OpenAI/status/2103587050347995581"
-  },
-  {
-   "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
-   "link": "https://x.com/ClaudeDevs/status/2103548467729887677"
-  },
-  {
-   "title": "Arena：GPT-6 Sol (Max) 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
-   "link": "https://x.com/arena/status/2103572481206538439"
-  },
-  {
-   "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
-   "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
-  },
-  {
-   "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-   "link": "https://x.com/Yuchenj_UW/status/2103589198427193593"
-  },
-  {
-   "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-   "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
-  },
-  {
-   "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-   "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+   "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
+   "link": "https://x.com/emollick/status/2103709671865602100"
   }
  ]
 }
