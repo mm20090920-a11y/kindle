@@ -1,6 +1,6 @@
 {
  "date": "2026-09-27",
- "updatedAt": "2026-09-27 14:02",
+ "updatedAt": "2026-09-27 17:00",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,15 +177,11 @@
  },
  "forex": [],
  "btc": {
-  "usd": "85,009",
-  "cny": "570,683",
-  "pct": "+1.30%",
+  "usd": "84,407",
+  "cny": "566,640",
+  "pct": "+0.36%",
   "up": true,
   "trend": [
-   83932.61,
-   84005.08,
-   84123.14,
-   84119.38,
    84091.9,
    84093.02,
    84050.59,
@@ -213,7 +209,11 @@
    84856.91,
    84844.9,
    84953.48,
-   84741.31
+   84741.31,
+   84908.34,
+   84535.39,
+   84521.93,
+   84550.91
   ]
  },
  "weibo": [],
@@ -228,56 +228,56 @@
    "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "吴艳妮100米栏铜牌",
-   "link": "https://m.baidu.com/s?word=%E5%90%B4%E8%89%B3%E5%A6%AE100%E7%B1%B3%E6%A0%8F%E9%93%9C%E7%89%8C&sa=fyb_news"
+   "title": "戎马半生 归来还是高中生",
+   "link": "https://m.baidu.com/s?word=%E6%88%8E%E9%A9%AC%E5%8D%8A%E7%94%9F+%E5%BD%92%E6%9D%A5%E8%BF%98%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news"
   },
   {
    "title": "美民众热烈期盼大熊猫重返亚特兰大",
    "link": "https://m.baidu.com/s?word=%E7%BE%8E%E6%B0%91%E4%BC%97%E7%83%AD%E7%83%88%E6%9C%9F%E7%9B%BC%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%87%8D%E8%BF%94%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7&sa=fyb_news"
   },
   {
-   "title": "陈妤颉：银牌是成年前的一个教训",
-   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%A6%A4%E9%A2%89%EF%BC%9A%E9%93%B6%E7%89%8C%E6%98%AF%E6%88%90%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%80%E4%B8%AA%E6%95%99%E8%AE%AD&sa=fyb_news"
-  },
-  {
-   "title": "孙颖莎：我可能等不到下届亚运会了",
-   "link": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%88%91%E5%8F%AF%E8%83%BD%E7%AD%89%E4%B8%8D%E5%88%B0%E4%B8%8B%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BA%86&sa=fyb_news"
+   "title": "贷款中介这几天集体删除朋友圈",
+   "link": "https://m.baidu.com/s?word=%E8%B4%B7%E6%AC%BE%E4%B8%AD%E4%BB%8B%E8%BF%99%E5%87%A0%E5%A4%A9%E9%9B%86%E4%BD%93%E5%88%A0%E9%99%A4%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
   },
   {
    "title": "下半年来最强冷空气",
    "link": "https://m.baidu.com/s?word=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%BC%BA%E5%86%B7%E7%A9%BA%E6%B0%94&sa=fyb_news"
   },
   {
-   "title": "没卖完的月饼去哪儿了",
-   "link": "https://m.baidu.com/s?word=%E6%B2%A1%E5%8D%96%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86&sa=fyb_news"
+   "title": "男子拾荒21年领到42万养老金",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%8B%BE%E8%8D%9221%E5%B9%B4%E9%A2%86%E5%88%B042%E4%B8%87%E5%85%BB%E8%80%81%E9%87%91&sa=fyb_news"
   },
   {
-   "title": "严子怡破亚运纪录",
-   "link": "https://m.baidu.com/s?word=%E4%B8%A5%E5%AD%90%E6%80%A1%E7%A0%B4%E4%BA%9A%E8%BF%90%E7%BA%AA%E5%BD%95&sa=fyb_news"
+   "title": "中国连续5届世赛金牌第一",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%BF%9E%E7%BB%AD5%E5%B1%8A%E4%B8%96%E8%B5%9B%E9%87%91%E7%89%8C%E7%AC%AC%E4%B8%80&sa=fyb_news"
   },
   {
-   "title": "戎马半生 归来还是高中生",
-   "link": "https://m.baidu.com/s?word=%E6%88%8E%E9%A9%AC%E5%8D%8A%E7%94%9F+%E5%BD%92%E6%9D%A5%E8%BF%98%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news"
+   "title": "售价39元 主播抽成9元",
+   "link": "https://m.baidu.com/s?word=%E5%94%AE%E4%BB%B739%E5%85%83+%E4%B8%BB%E6%92%AD%E6%8A%BD%E6%88%909%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "中国00后男护理拿下金牌",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD00%E5%90%8E%E7%94%B7%E6%8A%A4%E7%90%86%E6%8B%BF%E4%B8%8B%E9%87%91%E7%89%8C&sa=fyb_news"
+   "title": "国足热身赛0比3不敌新西兰",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E7%83%AD%E8%BA%AB%E8%B5%9B0%E6%AF%943%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0&sa=fyb_news"
+  },
+  {
+   "title": "陈妤颉：银牌是成年前的一个教训",
+   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%A6%A4%E9%A2%89%EF%BC%9A%E9%93%B6%E7%89%8C%E6%98%AF%E6%88%90%E5%B9%B4%E5%89%8D%E7%9A%84%E4%B8%80%E4%B8%AA%E6%95%99%E8%AE%AD&sa=fyb_news"
   },
   {
    "title": "12306辟谣给公众号发信息能抢到票",
    "link": "https://m.baidu.com/s?word=12306%E8%BE%9F%E8%B0%A3%E7%BB%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%91%E4%BF%A1%E6%81%AF%E8%83%BD%E6%8A%A2%E5%88%B0%E7%A5%A8&sa=fyb_news"
   },
   {
-   "title": "安徽合肥地震",
-   "link": "https://m.baidu.com/s?word=%E5%AE%89%E5%BE%BD%E5%90%88%E8%82%A5%E5%9C%B0%E9%9C%87&sa=fyb_news"
+   "title": "吴艳妮决赛起跑倒数第一",
+   "link": "https://m.baidu.com/s?word=%E5%90%B4%E8%89%B3%E5%A6%AE%E5%86%B3%E8%B5%9B%E8%B5%B7%E8%B7%91%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80&sa=fyb_news"
   },
   {
-   "title": "陈圆将110米栏金牌",
-   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%9C%86%E5%B0%86110%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C&sa=fyb_news"
+   "title": "没卖完的月饼去哪儿了",
+   "link": "https://m.baidu.com/s?word=%E6%B2%A1%E5%8D%96%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "李克勤迟到 草根歌手救场连唱20首",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%85%8B%E5%8B%A4%E8%BF%9F%E5%88%B0+%E8%8D%89%E6%A0%B9%E6%AD%8C%E6%89%8B%E6%95%91%E5%9C%BA%E8%BF%9E%E5%94%B120%E9%A6%96&sa=fyb_news"
+   "title": "没有海却出海鲜 中国人怎么做到的",
+   "link": "https://m.baidu.com/s?word=%E6%B2%A1%E6%9C%89%E6%B5%B7%E5%8D%B4%E5%87%BA%E6%B5%B7%E9%B2%9C+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84&sa=fyb_news"
   }
  ],
  "ai": [
