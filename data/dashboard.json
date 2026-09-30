@@ -1,294 +1,333 @@
 {
- "date": "2026-09-29",
- "updatedAt": "2026-09-29 18:06",
+ "date": "2026-09-30",
+ "updatedAt": "2026-09-30 05:34",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3830.45",
-   "change": "+6.83",
-   "pct": "+0.18%",
+   "value": "3847.61",
+   "change": "+17.16",
+   "pct": "+0.45%",
    "up": true,
    "trend": [
-    3816.15,
-    3819.0,
-    3828.4,
-    3819.65,
-    3820.85,
-    3811.6,
-    3815.12,
-    3812.77,
-    3818.08,
-    3815.88,
-    3818.21,
-    3817.17,
-    3819.39,
-    3817.91,
-    3817.86,
-    3822.82,
-    3826.51,
-    3823.5,
-    3823.81,
-    3821.96,
-    3826.42,
-    3819.54,
-    3824.22,
-    3826.32,
-    3827.95,
-    3831.53,
-    3836.71,
-    3837.52,
-    3839.3,
-    3838.84,
-    3834.7,
-    3831.75
+    3839.25,
+    3839.37,
+    3839.43,
+    3843.25,
+    3843.82,
+    3845.76,
+    3843.88,
+    3845.51,
+    3846.02,
+    3842.52,
+    3840.37,
+    3840.79,
+    3837.74,
+    3835.07,
+    3836.28,
+    3835.92,
+    3843.04,
+    3843.65,
+    3843.17,
+    3841.69,
+    3840.39,
+    3842.6,
+    3842.68,
+    3840.22,
+    3840.58,
+    3843.14,
+    3838.46,
+    3840.77,
+    3837.72,
+    3839.78,
+    3840.63,
+    3842.81
    ]
   },
   {
    "name": "深证成指",
-   "value": "12901.95",
-   "change": "+43.20",
-   "pct": "+0.34%",
+   "value": "12937.51",
+   "change": "+35.56",
+   "pct": "+0.28%",
    "up": true,
    "trend": [
-    12839.61,
-    12845.23,
-    12914.41,
-    12868.52,
-    12873.16,
-    12842.05,
-    12870.85,
-    12849.4,
-    12893.31,
-    12874.67,
-    12901.8,
-    12872.86,
-    12869.95,
-    12864.81,
-    12864.14,
-    12889.48,
-    12911.78,
-    12881.87,
-    12871.61,
-    12864.04,
-    12875.81,
-    12846.41,
-    12863.58,
-    12880.81,
-    12881.73,
-    12891.51,
-    12922.51,
-    12934.96,
-    12936.99,
-    12927.09,
-    12910.13,
-    12900.05
+    12958.08,
+    12948.87,
+    12919.68,
+    12959.65,
+    12930.91,
+    12943.01,
+    12933.47,
+    12960.29,
+    12941.85,
+    12926.02,
+    12916.72,
+    12916.31,
+    12890.64,
+    12880.36,
+    12886.72,
+    12894.51,
+    12929.5,
+    12923.52,
+    12915.17,
+    12903.82,
+    12894.85,
+    12911.95,
+    12905.84,
+    12896.87,
+    12896.7,
+    12908.5,
+    12880.37,
+    12887.9,
+    12866.22,
+    12875.85,
+    12882.58,
+    12901.08
    ]
   },
   {
    "name": "创业板指",
-   "value": "3142.56",
-   "change": "+2.74",
-   "pct": "+0.09%",
+   "value": "3153.03",
+   "change": "+10.47",
+   "pct": "+0.33%",
    "up": true,
    "trend": [
-    3136.53,
-    3132.82,
-    3153.19,
-    3140.03,
-    3140.72,
-    3131.91,
-    3141.13,
-    3132.21,
-    3151.57,
-    3144.67,
-    3153.86,
+    3164.7,
+    3166.49,
+    3156.63,
+    3169.2,
+    3157.74,
+    3159.36,
+    3155.69,
+    3166.19,
+    3156.77,
+    3151.06,
+    3147.98,
+    3148.14,
+    3138.05,
+    3136.04,
+    3137.83,
+    3139.17,
+    3150.45,
+    3147.9,
+    3145.11,
     3142.1,
-    3138.97,
-    3139.04,
-    3137.41,
-    3145.38,
-    3150.37,
-    3140.78,
-    3137.98,
-    3136.28,
-    3139.02,
-    3131.06,
-    3135.89,
-    3140.5,
-    3140.45,
-    3140.78,
-    3147.93,
-    3152.39,
-    3152.08,
-    3148.09,
-    3143.97,
-    3141.44
+    3138.39,
+    3143.85,
+    3140.7,
+    3138.47,
+    3137.93,
+    3143.83,
+    3134.91,
+    3137.0,
+    3130.27,
+    3131.17,
+    3131.82,
+    3139.36
    ]
   },
   {
    "name": "恒生指数",
-   "value": "24523.57",
-   "change": "-118.94",
-   "pct": "-0.48%",
+   "value": "24515.60",
+   "change": "-7.97",
+   "pct": "-0.03%",
    "up": false,
    "trend": [
-    24648.64,
-    24516.33,
-    24563.99,
-    24585.48,
-    24523.13,
-    24513.76,
-    24499.95,
-    24482.99,
-    24496.29,
-    24504.04,
-    24490.72,
-    24512.27,
-    24511.7,
-    24517.63,
-    24473.4,
-    24456.39,
-    24486.63,
-    24516.75,
-    24474.49,
-    24462.33,
-    24492.53,
-    24534.44,
-    24567.56,
-    24544.15,
-    24569.6,
-    24569.2,
-    24555.35,
-    24551.45,
-    24543.37,
-    24559.8,
-    24551.45,
-    24528.27
+    24393.88,
+    24392.48,
+    24436.05,
+    24420.28,
+    24432.68,
+    24424.0,
+    24431.03,
+    24446.7,
+    24472.86,
+    24469.45,
+    24460.25,
+    24462.14,
+    24492.9,
+    24512.46,
+    24545.41,
+    24550.12,
+    24536.43,
+    24519.23,
+    24521.71,
+    24516.99,
+    24518.72,
+    24542.9,
+    24527.55,
+    24515.83,
+    24494.2,
+    24508.32,
+    24513.14,
+    24537.52,
+    24540.62,
+    24509.21,
+    24522.47,
+    24529.2
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4161.17",
+  "value": "4177.52",
   "unit": "美元/盎司",
-  "change": "+46.24",
-  "pct": "+1.12%",
-  "up": true
+  "change": "-4.35",
+  "pct": "-0.10%",
+  "up": false
  },
  "forex": [],
- "btc": null,
+ "btc": {
+  "usd": "83,413",
+  "cny": "559,200",
+  "pct": "+0.35%",
+  "up": true,
+  "trend": [
+   83002.17,
+   83771.85,
+   83913.29,
+   83995.89,
+   83993.84,
+   83791.28,
+   84169.22,
+   83984.39,
+   84225.04,
+   84252.8,
+   84284.39,
+   84158.21,
+   83899.9,
+   83277.66,
+   83043.15,
+   82984.12,
+   83163.85,
+   83397.83,
+   83622.74,
+   83534.44,
+   83568.31,
+   83452.47,
+   83523.56,
+   83563.51,
+   83674.42,
+   83426.63,
+   83383.99,
+   83412.64,
+   83327.79,
+   83175.35,
+   83360.49,
+   83255.67
+  ]
+ },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "三张照片 见证中美关系的刻度",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E5%BC%A0%E7%85%A7%E7%89%87+%E8%A7%81%E8%AF%81%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%9A%84%E5%88%BB%E5%BA%A6&sa=fyb_news"
+   "title": "习近平出席向人民英雄敬献花篮仪式",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%87%BA%E5%B8%AD%E5%90%91%E4%BA%BA%E6%B0%91%E8%8B%B1%E9%9B%84%E6%95%AC%E7%8C%AE%E8%8A%B1%E7%AF%AE%E4%BB%AA%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "房地产迎来史诗级大招",
-   "link": "https://m.baidu.com/s?word=%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E6%8B%9B&sa=fyb_news"
+   "title": "“免费试用”被扣738元",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%E2%80%9D%E8%A2%AB%E6%89%A3738%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "于和伟获金鹰奖最佳男主角",
-   "link": "https://m.baidu.com/s?word=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92&sa=fyb_news"
+   "title": "广州楼市新政",
+   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF&sa=fyb_news"
   },
   {
-   "title": "中国已建成世界规模最大的教育体系",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%BB%BA%E6%88%90%E4%B8%96%E7%95%8C%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB&sa=fyb_news"
+   "title": "山河永念 我们从未忘记",
+   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E6%B2%B3%E6%B0%B8%E5%BF%B5+%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9C%AA%E5%BF%98%E8%AE%B0&sa=fyb_news"
   },
   {
-   "title": "重大利好！央行“四箭齐发”",
-   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%EF%BC%81%E5%A4%AE%E8%A1%8C%E2%80%9C%E5%9B%9B%E7%AE%AD%E9%BD%90%E5%8F%91%E2%80%9D&sa=fyb_news"
+   "title": "蒂芙尼被一盒月饼绊倒了",
+   "link": "https://m.baidu.com/s?word=%E8%92%82%E8%8A%99%E5%B0%BC%E8%A2%AB%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E7%BB%8A%E5%80%92%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "金鹰奖获奖名单",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E9%B9%B0%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+   "title": "多次求张雪救命？凯越机车回应",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E6%AC%A1%E6%B1%82%E5%BC%A0%E9%9B%AA%E6%95%91%E5%91%BD%EF%BC%9F%E5%87%AF%E8%B6%8A%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94&sa=fyb_news"
   },
   {
-   "title": "朱亚文获奖 宋佳哭了",
-   "link": "https://m.baidu.com/s?word=%E6%9C%B1%E4%BA%9A%E6%96%87%E8%8E%B7%E5%A5%96+%E5%AE%8B%E4%BD%B3%E5%93%AD%E4%BA%86&sa=fyb_news"
+   "title": "台湾以东海域地震",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E4%BB%A5%E4%B8%9C%E6%B5%B7%E5%9F%9F%E5%9C%B0%E9%9C%87&sa=fyb_news"
   },
   {
-   "title": "“小孩姐”陈妤颉极限逆转",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%A7%90%E2%80%9D%E9%99%88%E5%A6%A4%E9%A2%89%E6%9E%81%E9%99%90%E9%80%86%E8%BD%AC&sa=fyb_news"
+   "title": "目击者称东航空姐向乘客跪了两三次",
+   "link": "https://m.baidu.com/s?word=%E7%9B%AE%E5%87%BB%E8%80%85%E7%A7%B0%E4%B8%9C%E8%88%AA%E7%A9%BA%E5%A7%90%E5%90%91%E4%B9%98%E5%AE%A2%E8%B7%AA%E4%BA%86%E4%B8%A4%E4%B8%89%E6%AC%A1&sa=fyb_news"
   },
   {
-   "title": "《生命树》获金鹰奖最佳电视剧",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E7%94%9F%E5%91%BD%E6%A0%91%E3%80%8B%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7&sa=fyb_news"
+   "title": "游本昌告别仪式",
+   "link": "https://m.baidu.com/s?word=%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "于和伟：奖项应该给吴石将军",
-   "link": "https://m.baidu.com/s?word=%E4%BA%8E%E5%92%8C%E4%BC%9F%EF%BC%9A%E5%A5%96%E9%A1%B9%E5%BA%94%E8%AF%A5%E7%BB%99%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B&sa=fyb_news"
+   "title": "缅甸妙瓦底电诈园公开招募成员",
+   "link": "https://m.baidu.com/s?word=%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E7%94%B5%E8%AF%88%E5%9B%AD%E5%85%AC%E5%BC%80%E6%8B%9B%E5%8B%9F%E6%88%90%E5%91%98&sa=fyb_news"
   },
   {
-   "title": "朋友圈的贷款广告 为啥突然没了",
-   "link": "https://m.baidu.com/s?word=%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E8%B4%B7%E6%AC%BE%E5%B9%BF%E5%91%8A+%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E6%B2%A1%E4%BA%86&sa=fyb_news"
+   "title": "胡歌现身游本昌告别仪式不时擦泪",
+   "link": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E7%8E%B0%E8%BA%AB%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E4%B8%8D%E6%97%B6%E6%93%A6%E6%B3%AA&sa=fyb_news"
   },
   {
-   "title": "网传“电竞将退出亚运会”不实",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B5%E7%AB%9E%E5%B0%86%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
+   "title": "弹力袜是静脉曲张治疗神器？系夸大",
+   "link": "https://m.baidu.com/s?word=%E5%BC%B9%E5%8A%9B%E8%A2%9C%E6%98%AF%E9%9D%99%E8%84%89%E6%9B%B2%E5%BC%A0%E6%B2%BB%E7%96%97%E7%A5%9E%E5%99%A8%EF%BC%9F%E7%B3%BB%E5%A4%B8%E5%A4%A7&sa=fyb_news"
   },
   {
-   "title": "老人报警丢4万民警找出23万",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%8A%A5%E8%AD%A6%E4%B8%A24%E4%B8%87%E6%B0%91%E8%AD%A6%E6%89%BE%E5%87%BA23%E4%B8%87&sa=fyb_news"
+   "title": "邓亚萍输给小山智丽收到死亡威胁",
+   "link": "https://m.baidu.com/s?word=%E9%82%93%E4%BA%9A%E8%90%8D%E8%BE%93%E7%BB%99%E5%B0%8F%E5%B1%B1%E6%99%BA%E4%B8%BD%E6%94%B6%E5%88%B0%E6%AD%BB%E4%BA%A1%E5%A8%81%E8%83%81&sa=fyb_news"
   },
   {
-   "title": "充电器忘拔烧毁整个家",
-   "link": "https://m.baidu.com/s?word=%E5%85%85%E7%94%B5%E5%99%A8%E5%BF%98%E6%8B%94%E7%83%A7%E6%AF%81%E6%95%B4%E4%B8%AA%E5%AE%B6&sa=fyb_news"
+   "title": "家中漏水 维修人员灌了50多斤胶水",
+   "link": "https://m.baidu.com/s?word=%E5%AE%B6%E4%B8%AD%E6%BC%8F%E6%B0%B4+%E7%BB%B4%E4%BF%AE%E4%BA%BA%E5%91%98%E7%81%8C%E4%BA%8650%E5%A4%9A%E6%96%A4%E8%83%B6%E6%B0%B4&sa=fyb_news"
   },
   {
-   "title": "荷兰2岁患病幼儿被安乐死",
-   "link": "https://m.baidu.com/s?word=%E8%8D%B7%E5%85%B02%E5%B2%81%E6%82%A3%E7%97%85%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%89%E4%B9%90%E6%AD%BB&sa=fyb_news"
+   "title": "日本与那国岛附近海域6.0级地震",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%B8%8E%E9%82%A3%E5%9B%BD%E5%B2%9B%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F6.0%E7%BA%A7%E5%9C%B0%E9%9C%87&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-   "link": "https://x.com/ArtificialAnlys/status/2104640155843989864"
+   "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+   "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
   },
   {
-   "title": "Claude Sonnet 5.5 达到 Artificial Analysis 智能指数第 2 名",
-   "link": "https://artificialanalysis.ai/articles/claude-sonnet-5-5"
+   "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+   "link": "https://x.com/arena/status/2104998408616558940"
   },
   {
-   "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%",
-   "link": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/"
+   "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
+   "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
   },
   {
-   "title": "Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05",
-   "link": "https://x.com/arena/status/2104673568776990762"
+   "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+   "link": "https://x.com/OpenAIDevs/status/2105073621144338660"
   },
   {
-   "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-   "link": "https://x.com/arena/status/2104617283679379704"
+   "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
+   "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
   },
   {
-   "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-   "link": "https://huggingface.co/blog/Hcompany/holo4"
+   "title": "GPT-6.1 上线 Arena 评测平台",
+   "link": "https://x.com/arena/status/2105006240363581728"
   },
   {
-   "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-   "link": "https://x.com/arena/status/2104640009232117859"
+   "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+   "link": "https://huggingface.co/blog/nvidia/kumo-tabular"
   },
   {
-   "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-   "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/"
+   "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+   "link": "https://openai.com/index/devday-2026-recap"
   },
   {
-   "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-   "link": "https://www.ithome.com/1/007/767.htm"
+   "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+   "link": "https://openai.com/index/introducing-dots/"
   },
   {
-   "title": "xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体",
-   "link": "https://x.ai/news/team-bots"
+   "title": "Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验",
+   "link": "https://every.to/vibe-check/vibe-check-openai-devday-2026"
   },
   {
-   "title": "Fireworks AI 推出 FireRouter with Opus，编码任务成本降 57%",
-   "link": "https://fireworks.ai/blog/introducing-firerouter-with-opus"
+   "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+   "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
   },
   {
-   "title": "Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元",
-   "link": "https://www.ithome.com/1/008/082.htm"
+   "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+   "link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd"
   }
  ]
 }
