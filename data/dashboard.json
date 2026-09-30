@@ -1,6 +1,6 @@
 {
  "date": "2026-09-30",
- "updatedAt": "2026-09-30 14:57",
+ "updatedAt": "2026-09-30 18:00",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4170.88",
+  "value": "4150.94",
   "unit": "美元/盎司",
-  "change": "-10.99",
-  "pct": "-0.26%",
+  "change": "-30.93",
+  "pct": "-0.74%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "83,916",
-  "cny": "562,521",
-  "pct": "+0.12%",
+  "usd": "84,007",
+  "cny": "563,273",
+  "pct": "+1.01%",
   "up": true,
   "trend": [
-   83728.78,
-   83181.15,
-   83230.25,
-   83131.52,
-   83095.02,
-   83610.88,
-   83525.55,
-   83517.59,
-   83591.61,
-   83463.86,
-   83556.07,
-   83802.92,
-   83640.1,
-   83458.76,
-   83351.62,
-   83454.77,
-   83354.75,
-   83335.82,
-   83334.47,
-   83213.89,
-   83337.73,
-   83065.56,
-   83275.77,
-   83113.01,
-   83022.41,
-   83520.41,
-   83765.75,
-   83777.37,
-   83857.98,
-   84838.13,
-   85161.97,
-   84295.47
+   83261.02,
+   83613.8,
+   83564.28,
+   83595.82,
+   83533.47,
+   83409.87,
+   83551.32,
+   83783.12,
+   83634.41,
+   83394.92,
+   83323.18,
+   83369.57,
+   83367.29,
+   83291.17,
+   83285.83,
+   83226.2,
+   83355.43,
+   82972.31,
+   83305.16,
+   83170.92,
+   83135.74,
+   83558.89,
+   83826.81,
+   83738.12,
+   83819.12,
+   85113.57,
+   85188.55,
+   84060.11,
+   83838.88,
+   84198.43,
+   84261.8,
+   84124.32
   ]
  },
  "weibo": [],
@@ -224,44 +224,44 @@
    "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
   },
   {
-   "title": "“一年举报1520次”就该及时叫停",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A51520%E6%AC%A1%E2%80%9D%E5%B0%B1%E8%AF%A5%E5%8F%8A%E6%97%B6%E5%8F%AB%E5%81%9C&sa=fyb_news"
+   "title": "去年中国25至29岁结婚人数最多",
+   "link": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
   },
   {
-   "title": "寒武纪：离职高管梁军索赔278.32亿元",
-   "link": "https://m.baidu.com/s?word=%E5%AF%92%E6%AD%A6%E7%BA%AA%EF%BC%9A%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E6%A2%81%E5%86%9B%E7%B4%A2%E8%B5%94278.32%E4%BA%BF%E5%85%83&sa=fyb_news"
+   "title": "警方破获跨国制毒案：退休教授参与",
+   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E8%B7%A8%E5%9B%BD%E5%88%B6%E6%AF%92%E6%A1%88%EF%BC%9A%E9%80%80%E4%BC%91%E6%95%99%E6%8E%88%E5%8F%82%E4%B8%8E&sa=fyb_news"
   },
   {
    "title": "感受各地浓厚国庆氛围",
    "link": "https://m.baidu.com/s?word=%E6%84%9F%E5%8F%97%E5%90%84%E5%9C%B0%E6%B5%93%E5%8E%9A%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4&sa=fyb_news"
   },
   {
-   "title": "美军撤离 伊拉克伤痕难愈",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%86%9B%E6%92%A4%E7%A6%BB+%E4%BC%8A%E6%8B%89%E5%85%8B%E4%BC%A4%E7%97%95%E9%9A%BE%E6%84%88&sa=fyb_news"
+   "title": "寒武纪：离职高管梁军索赔278.32亿元",
+   "link": "https://m.baidu.com/s?word=%E5%AF%92%E6%AD%A6%E7%BA%AA%EF%BC%9A%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E6%A2%81%E5%86%9B%E7%B4%A2%E8%B5%94278.32%E4%BA%BF%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "监控拍下云南地震瞬间",
-   "link": "https://m.baidu.com/s?word=%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4&sa=fyb_news"
+   "title": "国庆节",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E8%8A%82&sa=fyb_news"
   },
   {
-   "title": "中国队夺亚运电竞第五人格金牌",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E9%87%91%E7%89%8C&sa=fyb_news"
-  },
-  {
-   "title": "妈妈拿巨型碗劝2米01儿子好好吃饭",
-   "link": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E6%8B%BF%E5%B7%A8%E5%9E%8B%E7%A2%97%E5%8A%9D2%E7%B1%B301%E5%84%BF%E5%AD%90%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD&sa=fyb_news"
-  },
-  {
-   "title": "九毛九股价跌破“九毛九”",
-   "link": "https://m.baidu.com/s?word=%E4%B9%9D%E6%AF%9B%E4%B9%9D%E8%82%A1%E4%BB%B7%E8%B7%8C%E7%A0%B4%E2%80%9C%E4%B9%9D%E6%AF%9B%E4%B9%9D%E2%80%9D&sa=fyb_news"
-  },
-  {
-   "title": "赌王之女何超琼称遭骚扰恐吓",
-   "link": "https://m.baidu.com/s?word=%E8%B5%8C%E7%8E%8B%E4%B9%8B%E5%A5%B3%E4%BD%95%E8%B6%85%E7%90%BC%E7%A7%B0%E9%81%AD%E9%AA%9A%E6%89%B0%E6%81%90%E5%90%93&sa=fyb_news"
+   "title": "老兵在天安门不肯坐轮椅起身敬礼",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E5%85%B5%E5%9C%A8%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8D%E8%82%AF%E5%9D%90%E8%BD%AE%E6%A4%85%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC&sa=fyb_news"
   },
   {
    "title": "以总理称赴以航班飞行员“蓄意坠机”",
    "link": "https://m.baidu.com/s?word=%E4%BB%A5%E6%80%BB%E7%90%86%E7%A7%B0%E8%B5%B4%E4%BB%A5%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A1%8C%E5%91%98%E2%80%9C%E8%93%84%E6%84%8F%E5%9D%A0%E6%9C%BA%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "英国首相：希望有生之年重入欧盟",
+   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E9%87%8D%E5%85%A5%E6%AC%A7%E7%9B%9F&sa=fyb_news"
+  },
+  {
+   "title": "警号021544重启",
+   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
+  },
+  {
+   "title": "穆欣月成首位亚运电竞女子冠军",
+   "link": "https://m.baidu.com/s?word=%E7%A9%86%E6%AC%A3%E6%9C%88%E6%88%90%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
    "title": "小龙虾的谣言别再信了",
@@ -272,12 +272,12 @@
    "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
   },
   {
-   "title": "家中漏水 维修人员灌了50多斤胶水",
-   "link": "https://m.baidu.com/s?word=%E5%AE%B6%E4%B8%AD%E6%BC%8F%E6%B0%B4+%E7%BB%B4%E4%BF%AE%E4%BA%BA%E5%91%98%E7%81%8C%E4%BA%8650%E5%A4%9A%E6%96%A4%E8%83%B6%E6%B0%B4&sa=fyb_news"
+   "title": "赌王之女何超琼称遭骚扰恐吓",
+   "link": "https://m.baidu.com/s?word=%E8%B5%8C%E7%8E%8B%E4%B9%8B%E5%A5%B3%E4%BD%95%E8%B6%85%E7%90%BC%E7%A7%B0%E9%81%AD%E9%AA%9A%E6%89%B0%E6%81%90%E5%90%93&sa=fyb_news"
   },
   {
-   "title": "俄方警告：准备动用一切手段",
-   "link": "https://m.baidu.com/s?word=%E4%BF%84%E6%96%B9%E8%AD%A6%E5%91%8A%EF%BC%9A%E5%87%86%E5%A4%87%E5%8A%A8%E7%94%A8%E4%B8%80%E5%88%87%E6%89%8B%E6%AE%B5&sa=fyb_news"
+   "title": "昆明铁路区间行车秩序逐步恢复",
+   "link": "https://m.baidu.com/s?word=%E6%98%86%E6%98%8E%E9%93%81%E8%B7%AF%E5%8C%BA%E9%97%B4%E8%A1%8C%E8%BD%A6%E7%A7%A9%E5%BA%8F%E9%80%90%E6%AD%A5%E6%81%A2%E5%A4%8D&sa=fyb_news"
   }
  ],
  "ai": [
