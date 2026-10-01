@@ -1,6 +1,6 @@
 {
- "date": "2026-09-30",
- "updatedAt": "2026-09-30 18:00",
+ "date": "2026-10-01",
+ "updatedAt": "2026-10-01 05:57",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,165 +169,165 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4150.94",
+  "value": "4186.19",
   "unit": "美元/盎司",
-  "change": "-30.93",
-  "pct": "-0.74%",
-  "up": false
+  "change": "+29.34",
+  "pct": "+0.71%",
+  "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "84,007",
-  "cny": "563,273",
-  "pct": "+1.01%",
+  "usd": "84,294",
+  "cny": "565,201",
+  "pct": "+1.17%",
   "up": true,
   "trend": [
-   83261.02,
-   83613.8,
-   83564.28,
-   83595.82,
-   83533.47,
-   83409.87,
-   83551.32,
-   83783.12,
-   83634.41,
-   83394.92,
-   83323.18,
-   83369.57,
-   83367.29,
-   83291.17,
-   83285.83,
-   83226.2,
-   83355.43,
-   82972.31,
-   83305.16,
-   83170.92,
-   83135.74,
-   83558.89,
-   83826.81,
-   83738.12,
-   83819.12,
-   85113.57,
-   85188.55,
-   84060.11,
-   83838.88,
-   84198.43,
-   84261.8,
-   84124.32
+   83337.73,
+   83065.56,
+   83275.77,
+   83113.01,
+   83022.41,
+   83520.41,
+   83765.75,
+   83777.37,
+   83857.98,
+   84838.13,
+   85161.97,
+   84295.47,
+   83754.49,
+   84073.11,
+   84284.65,
+   84259.81,
+   84011.37,
+   83830.97,
+   83719.12,
+   83607.72,
+   83632.89,
+   83682.89,
+   83779.51,
+   83650.21,
+   83576.13,
+   83516.75,
+   83588.84,
+   83560.64,
+   83443.52,
+   83656.87,
+   83822.56,
+   84196.17
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "国庆77周年招待会在京举行",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%8677%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C&sa=fyb_news"
+   "title": "江山壮阔万象新",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E5%B1%B1%E5%A3%AE%E9%98%94%E4%B8%87%E8%B1%A1%E6%96%B0&sa=fyb_news"
   },
   {
-   "title": "去年中国25至29岁结婚人数最多",
-   "link": "https://m.baidu.com/s?word=%E5%8E%BB%E5%B9%B4%E4%B8%AD%E5%9B%BD25%E8%87%B329%E5%B2%81%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E6%9C%80%E5%A4%9A&sa=fyb_news"
+   "title": "华为Mate90系列价格",
+   "link": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC&sa=fyb_news"
   },
   {
-   "title": "警方破获跨国制毒案：退休教授参与",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E7%A0%B4%E8%8E%B7%E8%B7%A8%E5%9B%BD%E5%88%B6%E6%AF%92%E6%A1%88%EF%BC%9A%E9%80%80%E4%BC%91%E6%95%99%E6%8E%88%E5%8F%82%E4%B8%8E&sa=fyb_news"
+   "title": "国庆假期中国每天搬运一个美国",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%A4%A9%E6%90%AC%E8%BF%90%E4%B8%80%E4%B8%AA%E7%BE%8E%E5%9B%BD&sa=fyb_news"
   },
   {
-   "title": "感受各地浓厚国庆氛围",
-   "link": "https://m.baidu.com/s?word=%E6%84%9F%E5%8F%97%E5%90%84%E5%9C%B0%E6%B5%93%E5%8E%9A%E5%9B%BD%E5%BA%86%E6%B0%9B%E5%9B%B4&sa=fyb_news"
+   "title": "我爱你中国！庆祝新中国成立77周年",
+   "link": "https://m.baidu.com/s?word=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%EF%BC%81%E5%BA%86%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "寒武纪：离职高管梁军索赔278.32亿元",
-   "link": "https://m.baidu.com/s?word=%E5%AF%92%E6%AD%A6%E7%BA%AA%EF%BC%9A%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E6%A2%81%E5%86%9B%E7%B4%A2%E8%B5%94278.32%E4%BA%BF%E5%85%83&sa=fyb_news"
+   "title": "2025年全国办理结婚登记676.5万对",
+   "link": "https://m.baidu.com/s?word=2025%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%8A%9E%E7%90%86%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676.5%E4%B8%87%E5%AF%B9&sa=fyb_news"
   },
   {
-   "title": "国庆节",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E8%8A%82&sa=fyb_news"
+   "title": "成都天府广场6.2万人观看升旗仪式",
+   "link": "https://m.baidu.com/s?word=%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%B9%BF%E5%9C%BA6.2%E4%B8%87%E4%BA%BA%E8%A7%82%E7%9C%8B%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "老兵在天安门不肯坐轮椅起身敬礼",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E5%85%B5%E5%9C%A8%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8D%E8%82%AF%E5%9D%90%E8%BD%AE%E6%A4%85%E8%B5%B7%E8%BA%AB%E6%95%AC%E7%A4%BC&sa=fyb_news"
+   "title": "原央视主持人阿丘被通报",
+   "link": "https://m.baidu.com/s?word=%E5%8E%9F%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%BF%E4%B8%98%E8%A2%AB%E9%80%9A%E6%8A%A5&sa=fyb_news"
   },
   {
-   "title": "以总理称赴以航班飞行员“蓄意坠机”",
-   "link": "https://m.baidu.com/s?word=%E4%BB%A5%E6%80%BB%E7%90%86%E7%A7%B0%E8%B5%B4%E4%BB%A5%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%A1%8C%E5%91%98%E2%80%9C%E8%93%84%E6%84%8F%E5%9D%A0%E6%9C%BA%E2%80%9D&sa=fyb_news"
+   "title": "1小时只走500米 坐车坐到自闭",
+   "link": "https://m.baidu.com/s?word=1%E5%B0%8F%E6%97%B6%E5%8F%AA%E8%B5%B0500%E7%B1%B3+%E5%9D%90%E8%BD%A6%E5%9D%90%E5%88%B0%E8%87%AA%E9%97%AD&sa=fyb_news"
   },
   {
-   "title": "英国首相：希望有生之年重入欧盟",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%EF%BC%9A%E5%B8%8C%E6%9C%9B%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E9%87%8D%E5%85%A5%E6%AC%A7%E7%9B%9F&sa=fyb_news"
+   "title": "演员蓝琪因胰脏癌逝世",
+   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E8%93%9D%E7%90%AA%E5%9B%A0%E8%83%B0%E8%84%8F%E7%99%8C%E9%80%9D%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "警号021544重启",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E5%8F%B7021544%E9%87%8D%E5%90%AF&sa=fyb_news"
+   "title": "女子称去KTV后三台手机拍照出现紫斑",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8E%BBKTV%E5%90%8E%E4%B8%89%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7%E5%87%BA%E7%8E%B0%E7%B4%AB%E6%96%91&sa=fyb_news"
   },
   {
-   "title": "穆欣月成首位亚运电竞女子冠军",
-   "link": "https://m.baidu.com/s?word=%E7%A9%86%E6%AC%A3%E6%9C%88%E6%88%90%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B&sa=fyb_news"
+   "title": "中国选手0.002秒之差无缘冠军",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B0.002%E7%A7%92%E4%B9%8B%E5%B7%AE%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "小龙虾的谣言别再信了",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E9%BE%99%E8%99%BE%E7%9A%84%E8%B0%A3%E8%A8%80%E5%88%AB%E5%86%8D%E4%BF%A1%E4%BA%86&sa=fyb_news"
+   "title": "喝无醇啤酒开车不算酒驾？不实",
+   "link": "https://m.baidu.com/s?word=%E5%96%9D%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%BC%80%E8%BD%A6%E4%B8%8D%E7%AE%97%E9%85%92%E9%A9%BE%EF%BC%9F%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "男子用土豆当主食半年瘦25斤",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%94%A8%E5%9C%9F%E8%B1%86%E5%BD%93%E4%B8%BB%E9%A3%9F%E5%8D%8A%E5%B9%B4%E7%98%A625%E6%96%A4&sa=fyb_news"
+   "title": "农民交公粮能否视同缴社保",
+   "link": "https://m.baidu.com/s?word=%E5%86%9C%E6%B0%91%E4%BA%A4%E5%85%AC%E7%B2%AE%E8%83%BD%E5%90%A6%E8%A7%86%E5%90%8C%E7%BC%B4%E7%A4%BE%E4%BF%9D&sa=fyb_news"
   },
   {
-   "title": "赌王之女何超琼称遭骚扰恐吓",
-   "link": "https://m.baidu.com/s?word=%E8%B5%8C%E7%8E%8B%E4%B9%8B%E5%A5%B3%E4%BD%95%E8%B6%85%E7%90%BC%E7%A7%B0%E9%81%AD%E9%AA%9A%E6%89%B0%E6%81%90%E5%90%93&sa=fyb_news"
+   "title": "村田晃大不认罪",
+   "link": "https://m.baidu.com/s?word=%E6%9D%91%E7%94%B0%E6%99%83%E5%A4%A7%E4%B8%8D%E8%AE%A4%E7%BD%AA&sa=fyb_news"
   },
   {
-   "title": "昆明铁路区间行车秩序逐步恢复",
-   "link": "https://m.baidu.com/s?word=%E6%98%86%E6%98%8E%E9%93%81%E8%B7%AF%E5%8C%BA%E9%97%B4%E8%A1%8C%E8%BD%A6%E7%A7%A9%E5%BA%8F%E9%80%90%E6%AD%A5%E6%81%A2%E5%A4%8D&sa=fyb_news"
+   "title": "张译在人民日报撰文",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E8%AF%91%E5%9C%A8%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%92%B0%E6%96%87&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
-   "link": "https://openai.com/index/introducing-gpt-6-1-sol/"
+   "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+   "link": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/"
   },
   {
-   "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-   "link": "https://x.com/arena/status/2104998408616558940"
+   "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+   "link": "https://x.com/arena/status/2105411271525052418"
   },
   {
-   "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
-   "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities"
+   "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
   },
   {
-   "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-   "link": "https://x.com/OpenAIDevs/status/2105073621144338660"
+   "title": "Artificial Analysis 评测 Gemini 4 Argon：Google 重回智能前三梯队",
+   "link": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs"
   },
   {
-   "title": "GPT-6.1 Sol 发布 7 天后接替 GPT-6 Sol，智能指数距 GPT-6 Astra 仅 1 分",
-   "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence"
+   "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
+   "link": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd"
   },
   {
-   "title": "GPT-6.1 上线 Arena 评测平台",
-   "link": "https://x.com/arena/status/2105006240363581728"
+   "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+   "link": "https://x.com/arena/status/2105367591174995999"
   },
   {
-   "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
-   "link": "https://huggingface.co/blog/nvidia/kumo-tabular"
+   "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+   "link": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw==&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500#rd"
   },
   {
-   "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
-   "link": "https://openai.com/index/devday-2026-recap"
+   "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+   "link": "https://x.com/arena/status/2105311267619848419"
   },
   {
-   "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
-   "link": "https://openai.com/index/introducing-dots/"
+   "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+   "link": "https://deepmind.google/blog/introducing-synthid-bio/"
   },
   {
-   "title": "Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验",
-   "link": "https://every.to/vibe-check/vibe-check-openai-devday-2026"
+   "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+   "link": "https://x.com/AravSrinivas/status/2105369479190601754"
   },
   {
-   "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-   "link": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/"
+   "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
+   "link": "https://artificialanalysis.ai/articles/aa-agentperf-local"
   },
   {
-   "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-   "link": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd"
+   "title": "Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流",
+   "link": "https://factory.ai/news/automations"
   }
  ]
 }
