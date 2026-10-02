@@ -1,6 +1,6 @@
 {
  "date": "2026-10-02",
- "updatedAt": "2026-10-02 14:46",
+ "updatedAt": "2026-10-02 17:53",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4175.53",
+  "value": "4139.27",
   "unit": "美元/盎司",
-  "change": "-1.74",
-  "pct": "-0.04%",
+  "change": "-38.00",
+  "pct": "-0.91%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "85,914",
-  "cny": "576,031",
-  "pct": "+2.24%",
-  "up": true,
+  "usd": "84,770",
+  "cny": "568,383",
+  "pct": "-0.28%",
+  "up": false,
   "trend": [
-   83900.29,
-   83841.82,
-   84315.81,
-   84388.49,
-   84997.05,
-   84910.46,
-   84760.02,
-   84796.12,
-   84573.8,
-   84525.94,
-   84694.82,
-   84699.22,
-   84802.28,
-   84728.45,
-   84617.13,
-   84968.83,
-   85065.2,
-   85363.18,
-   85806.2,
-   86532.03,
-   86054.79,
-   86018.11,
-   85912.19,
-   86244.75,
-   86282.21,
-   86341.29,
-   86341.2,
-   86366.3,
-   86477.59,
-   86789.27,
-   86687.75,
-   86789.08
+   84870.28,
+   85139.04,
+   84600.55,
+   84763.26,
+   84613.03,
+   84496.79,
+   84708.01,
+   84667.83,
+   84811.01,
+   84724.33,
+   84613.14,
+   85058.94,
+   85061.2,
+   85369.82,
+   86355.19,
+   86551.7,
+   85969.4,
+   85967.22,
+   85908.33,
+   86276.06,
+   86235.65,
+   86348.93,
+   86192.06,
+   86458.47,
+   86485.88,
+   86793.3,
+   86680.23,
+   86522.74,
+   85564.34,
+   85391.55,
+   85161.97,
+   85098.77
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E8%BF%88%E6%AD%A5%E6%96%B0%E5%BE%81%E7%A8%8B+%E6%88%91%E4%BB%AC%E8%87%AA%E4%BF%A1%E8%80%8C%E7%AC%83%E8%A1%8C&sa=fyb_news"
   },
   {
-   "title": "亚运三金到手 归来仍是高中生",
-   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%88%B0%E6%89%8B+%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news"
+   "title": "全国各地为何都在“爆改地铁”",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E4%B8%BA%E4%BD%95%E9%83%BD%E5%9C%A8%E2%80%9C%E7%88%86%E6%94%B9%E5%9C%B0%E9%93%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "如此输球 国足交出糟糕答卷",
-   "link": "https://m.baidu.com/s?word=%E5%A6%82%E6%AD%A4%E8%BE%93%E7%90%83+%E5%9B%BD%E8%B6%B3%E4%BA%A4%E5%87%BA%E7%B3%9F%E7%B3%95%E7%AD%94%E5%8D%B7&sa=fyb_news"
+   "title": "亚运三金到手 归来仍是高中生",
+   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E5%88%B0%E6%89%8B+%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E9%AB%98%E4%B8%AD%E7%94%9F&sa=fyb_news"
   },
   {
    "title": "万里边关 同升五星红旗",
    "link": "https://m.baidu.com/s?word=%E4%B8%87%E9%87%8C%E8%BE%B9%E5%85%B3+%E5%90%8C%E5%8D%87%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97&sa=fyb_news"
   },
   {
-   "title": "全国各地为何都在“爆改地铁”",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E4%B8%BA%E4%BD%95%E9%83%BD%E5%9C%A8%E2%80%9C%E7%88%86%E6%94%B9%E5%9C%B0%E9%93%81%E2%80%9D&sa=fyb_news"
+   "title": "男子偶遇烈士纪念碑 留下国旗后哽咽",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%81%B6%E9%81%87%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E7%A2%91+%E7%95%99%E4%B8%8B%E5%9B%BD%E6%97%97%E5%90%8E%E5%93%BD%E5%92%BD&sa=fyb_news"
   },
   {
-   "title": "全球跑的中国游客 让老外过上黄金周",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2+%E8%AE%A9%E8%80%81%E5%A4%96%E8%BF%87%E4%B8%8A%E9%BB%84%E9%87%91%E5%91%A8&sa=fyb_news"
+   "title": "Zara新品裙子上线就售罄：6000多一条",
+   "link": "https://m.baidu.com/s?word=Zara%E6%96%B0%E5%93%81%E8%A3%99%E5%AD%90%E4%B8%8A%E7%BA%BF%E5%B0%B1%E5%94%AE%E7%BD%84%EF%BC%9A6000%E5%A4%9A%E4%B8%80%E6%9D%A1&sa=fyb_news"
   },
   {
    "title": "“饿死肿瘤”的方法竟然真找到了",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%A5%BF%E6%AD%BB%E8%82%BF%E7%98%A4%E2%80%9D%E7%9A%84%E6%96%B9%E6%B3%95%E7%AB%9F%E7%84%B6%E7%9C%9F%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "邵佳一回应国足0比5不敌巴勒斯坦",
-   "link": "https://m.baidu.com/s?word=%E9%82%B5%E4%BD%B3%E4%B8%80%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B30%E6%AF%945%E4%B8%8D%E6%95%8C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&sa=fyb_news"
+   "title": "全球跑的中国游客 让老外过上黄金周",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E8%B7%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2+%E8%AE%A9%E8%80%81%E5%A4%96%E8%BF%87%E4%B8%8A%E9%BB%84%E9%87%91%E5%91%A8&sa=fyb_news"
   },
   {
-   "title": "意大利公交中国人太多挤到刷不上卡",
-   "link": "https://m.baidu.com/s?word=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%85%AC%E4%BA%A4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%AA%E5%A4%9A%E6%8C%A4%E5%88%B0%E5%88%B7%E4%B8%8D%E4%B8%8A%E5%8D%A1&sa=fyb_news"
+   "title": "“这是国际社会前所未闻的恶性事件”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%99%E6%98%AF%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%89%8D%E6%89%80%E6%9C%AA%E9%97%BB%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "全世界都知道中国人放假了",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "巴勒斯坦主帅憋笑：不方便评价中国队",
-   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%B8%BB%E5%B8%85%E6%86%8B%E7%AC%91%EF%BC%9A%E4%B8%8D%E6%96%B9%E4%BE%BF%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E9%98%9F&sa=fyb_news"
-  },
-  {
-   "title": "这些涉及假期的网传信息都是假的",
-   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E5%81%87%E6%9C%9F%E7%9A%84%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news"
-  },
-  {
-   "title": "史上最大IPO要来了",
-   "link": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "“像造车一样盖房”真的来了",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%83%8F%E9%80%A0%E8%BD%A6%E4%B8%80%E6%A0%B7%E7%9B%96%E6%88%BF%E2%80%9D%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
    "title": "董路：国足这么踢日本可能要输0-15",
    "link": "https://m.baidu.com/s?word=%E8%91%A3%E8%B7%AF%EF%BC%9A%E5%9B%BD%E8%B6%B3%E8%BF%99%E4%B9%88%E8%B8%A2%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E8%A6%81%E8%BE%930-15&sa=fyb_news"
   },
   {
-   "title": "“这是国际社会前所未闻的恶性事件”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%99%E6%98%AF%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%89%8D%E6%89%80%E6%9C%AA%E9%97%BB%E7%9A%84%E6%81%B6%E6%80%A7%E4%BA%8B%E4%BB%B6%E2%80%9D&sa=fyb_news"
+   "title": "这些涉及假期的网传信息都是假的",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%B6%89%E5%8F%8A%E5%81%87%E6%9C%9F%E7%9A%84%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84&sa=fyb_news"
+  },
+  {
+   "title": "全世界都知道中国人放假了",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%94%BE%E5%81%87%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "两匹马高架狂奔 被笑称“宝马X2”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%A4%E5%8C%B9%E9%A9%AC%E9%AB%98%E6%9E%B6%E7%8B%82%E5%A5%94+%E8%A2%AB%E7%AC%91%E7%A7%B0%E2%80%9C%E5%AE%9D%E9%A9%ACX2%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "小猫误入天安门执勤岗哨 这一幕太暖",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%8C%AB%E8%AF%AF%E5%85%A5%E5%A4%A9%E5%AE%89%E9%97%A8%E6%89%A7%E5%8B%A4%E5%B2%97%E5%93%A8+%E8%BF%99%E4%B8%80%E5%B9%95%E5%A4%AA%E6%9A%96&sa=fyb_news"
   }
  ],
  "ai": [
