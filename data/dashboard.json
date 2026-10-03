@@ -1,6 +1,6 @@
 {
  "date": "2026-10-03",
- "updatedAt": "2026-10-03 13:27",
+ "updatedAt": "2026-10-03 16:25",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,15 +177,11 @@
  },
  "forex": [],
  "btc": {
-  "usd": "84,803",
-  "cny": "568,598",
-  "pct": "-2.11%",
+  "usd": "84,777",
+  "cny": "568,420",
+  "pct": "-0.47%",
   "up": false,
   "trend": [
-   86588.41,
-   86362.43,
-   85704.43,
-   85346.58,
    85203.05,
    84922.5,
    84775.31,
@@ -213,7 +209,11 @@
    84596.26,
    84622.65,
    84659.48,
-   84805.28
+   84805.28,
+   84799.35,
+   84779.55,
+   84828.06,
+   84816.69
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E6%80%80%E7%88%B1%E5%9B%BD%E4%B9%8B%E5%BF%83+%E7%AB%8B%E6%8A%A5%E5%9B%BD%E4%B9%8B%E5%BF%97&sa=fyb_news"
   },
   {
-   "title": "巴勒斯坦球员向国足道歉",
-   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
+   "title": "长假第3天不少家庭已“战火纷飞”",
+   "link": "https://m.baidu.com/s?word=%E9%95%BF%E5%81%87%E7%AC%AC3%E5%A4%A9%E4%B8%8D%E5%B0%91%E5%AE%B6%E5%BA%AD%E5%B7%B2%E2%80%9C%E6%88%98%E7%81%AB%E7%BA%B7%E9%A3%9E%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "中国队169金89银83铜",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
+   "title": "“聚是一栋楼 散是满地球”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%81%9A%E6%98%AF%E4%B8%80%E6%A0%8B%E6%A5%BC+%E6%95%A3%E6%98%AF%E6%BB%A1%E5%9C%B0%E7%90%83%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "国庆长假自驾出行 怎么开才安全",
    "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E8%87%AA%E9%A9%BE%E5%87%BA%E8%A1%8C+%E6%80%8E%E4%B9%88%E5%BC%80%E6%89%8D%E5%AE%89%E5%85%A8&sa=fyb_news"
   },
   {
-   "title": "中国男足时隔28年再夺亚运铜牌",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E6%97%B6%E9%9A%9428%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C&sa=fyb_news"
+   "title": "巴勒斯坦球员向国足道歉",
+   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89&sa=fyb_news"
   },
   {
-   "title": "AI面试 恐怖谷",
-   "link": "https://m.baidu.com/s?word=AI%E9%9D%A2%E8%AF%95+%E6%81%90%E6%80%96%E8%B0%B7&sa=fyb_news"
+   "title": "国庆出游用AI 第一批人已被坑惨",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%94%A8AI+%E7%AC%AC%E4%B8%80%E6%89%B9%E4%BA%BA%E5%B7%B2%E8%A2%AB%E5%9D%91%E6%83%A8&sa=fyb_news"
   },
   {
-   "title": "中国人解压包一样出现在世界各地",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A7%A3%E5%8E%8B%E5%8C%85%E4%B8%80%E6%A0%B7%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0&sa=fyb_news"
+   "title": "中国队169金89银83铜",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C&sa=fyb_news"
   },
   {
-   "title": "冷空气来袭 气温将大范围创新低",
-   "link": "https://m.baidu.com/s?word=%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD+%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%88%9B%E6%96%B0%E4%BD%8E&sa=fyb_news"
+   "title": "全网刷屏的天安门小猫 后续来了",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%E7%9A%84%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B0%8F%E7%8C%AB+%E5%90%8E%E7%BB%AD%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "小沈阳回应肿成蜜蜂小狗",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97&sa=fyb_news"
+   "title": "郭晓东陈若轩淘汰",
+   "link": "https://m.baidu.com/s?word=%E9%83%AD%E6%99%93%E4%B8%9C%E9%99%88%E8%8B%A5%E8%BD%A9%E6%B7%98%E6%B1%B0&sa=fyb_news"
   },
   {
-   "title": "安东尼奥谈国足0比5惨败",
-   "link": "https://m.baidu.com/s?word=%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E8%B0%88%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5&sa=fyb_news"
+   "title": "偏瘫婆婆被儿媳带练到生活自理",
+   "link": "https://m.baidu.com/s?word=%E5%81%8F%E7%98%AB%E5%A9%86%E5%A9%86%E8%A2%AB%E5%84%BF%E5%AA%B3%E5%B8%A6%E7%BB%83%E5%88%B0%E7%94%9F%E6%B4%BB%E8%87%AA%E7%90%86&sa=fyb_news"
   },
   {
-   "title": "特鲁姆普vs吴宜泽",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E9%B2%81%E5%A7%86%E6%99%AEvs%E5%90%B4%E5%AE%9C%E6%B3%BD&sa=fyb_news"
+   "title": "日本人遭遇餐桌危机",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%81%AD%E9%81%87%E9%A4%90%E6%A1%8C%E5%8D%B1%E6%9C%BA&sa=fyb_news"
   },
   {
    "title": "“水猴子拖人下水淹死”系谣言",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B0%B4%E7%8C%B4%E5%AD%90%E6%8B%96%E4%BA%BA%E4%B8%8B%E6%B0%B4%E6%B7%B9%E6%AD%BB%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "国足夺铜牌 安东尼奥抱起李昊欢呼",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E5%A4%BA%E9%93%9C%E7%89%8C+%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E6%8A%B1%E8%B5%B7%E6%9D%8E%E6%98%8A%E6%AC%A2%E5%91%BC&sa=fyb_news"
-  },
-  {
    "title": "73岁大爷心脏长反 每天乱跳超3万次",
    "link": "https://m.baidu.com/s?word=73%E5%B2%81%E5%A4%A7%E7%88%B7%E5%BF%83%E8%84%8F%E9%95%BF%E5%8F%8D+%E6%AF%8F%E5%A4%A9%E4%B9%B1%E8%B7%B3%E8%B6%853%E4%B8%87%E6%AC%A1&sa=fyb_news"
   },
   {
-   "title": "中俄等8国战略演习 普京前往视察",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%AD%898%E5%9B%BD%E6%88%98%E7%95%A5%E6%BC%94%E4%B9%A0+%E6%99%AE%E4%BA%AC%E5%89%8D%E5%BE%80%E8%A7%86%E5%AF%9F&sa=fyb_news"
+   "title": "国足0比5惨败却让小将接受采访",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF&sa=fyb_news"
+  },
+  {
+   "title": "小沈阳回应肿成蜜蜂小狗",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%9B%9E%E5%BA%94%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97&sa=fyb_news"
   }
  ],
  "ai": [
@@ -312,10 +312,6 @@
   {
    "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
    "link": "https://www.ithome.com/1/009/204.htm"
-  },
-  {
-   "title": "Epoch AI 估算 2025–27 年 HBM 可支撑 3000 万至 1.7 亿并发前沿模型智能体",
-   "link": "https://epoch.ai/publications/estimating-the-agent-population"
   },
   {
    "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
