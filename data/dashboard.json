@@ -1,6 +1,6 @@
 {
  "date": "2026-10-04",
- "updatedAt": "2026-10-04 10:36",
+ "updatedAt": "2026-10-04 14:07",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,107 +177,107 @@
  },
  "forex": [],
  "btc": {
-  "usd": "85,343",
-  "cny": "572,216",
-  "pct": "+0.89%",
+  "usd": "85,231",
+  "cny": "571,464",
+  "pct": "+0.53%",
   "up": true,
   "trend": [
-   84588.83,
-   84625.26,
-   84670.45,
-   84867.02,
-   84895.9,
-   84806.61,
-   84809.71,
-   84846.35,
-   84828.39,
-   84941.01,
-   85007.94,
-   84925.98,
-   84774.29,
-   84875.32,
-   84582.4,
-   84705.98,
-   84777.59,
-   84795.03,
-   84796.02,
-   84810.7,
-   84765.72,
-   84827.4,
-   84789.63,
-   84834.71,
-   84802.17,
-   84851.83,
-   84908.58,
-   85051.08,
-   84927.76,
-   85133.94,
-   85111.37,
-   85237.43
+   84799.54,
+   84828.81,
+   84809.3,
+   84776.99,
+   84870.53,
+   84964.29,
+   84913.33,
+   84833.23,
+   84868.35,
+   84735.24,
+   84689.66,
+   84758.32,
+   84747.7,
+   84716.17,
+   84807.45,
+   84721.2,
+   84803.19,
+   84779.4,
+   84836.05,
+   84803.13,
+   84823.18,
+   84909.42,
+   84970.14,
+   84975.05,
+   85099.33,
+   85086.07,
+   85209.47,
+   85361.33,
+   85247.86,
+   85288.32,
+   85236.7,
+   85188.7
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "总书记赞誉的爱国者",
-   "link": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%B5%9E%E8%AA%89%E7%9A%84%E7%88%B1%E5%9B%BD%E8%80%85&sa=fyb_news"
+   "title": "因为国 所以潮",
+   "link": "https://m.baidu.com/s?word=%E5%9B%A0%E4%B8%BA%E5%9B%BD+%E6%89%80%E4%BB%A5%E6%BD%AE&sa=fyb_news"
   },
   {
-   "title": "村民用近500斤辣椒拼出国旗",
-   "link": "https://m.baidu.com/s?word=%E6%9D%91%E6%B0%91%E7%94%A8%E8%BF%91500%E6%96%A4%E8%BE%A3%E6%A4%92%E6%8B%BC%E5%87%BA%E5%9B%BD%E6%97%97&sa=fyb_news"
+   "title": "10万游客涌入小县城 文旅局长给铺床",
+   "link": "https://m.baidu.com/s?word=10%E4%B8%87%E6%B8%B8%E5%AE%A2%E6%B6%8C%E5%85%A5%E5%B0%8F%E5%8E%BF%E5%9F%8E+%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E7%BB%99%E9%93%BA%E5%BA%8A&sa=fyb_news"
   },
   {
-   "title": "没人住的老房子 为什么老的快",
-   "link": "https://m.baidu.com/s?word=%E6%B2%A1%E4%BA%BA%E4%BD%8F%E7%9A%84%E8%80%81%E6%88%BF%E5%AD%90+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E7%9A%84%E5%BF%AB&sa=fyb_news"
+   "title": "两个孩子创作的这首歌 中国人都会唱",
+   "link": "https://m.baidu.com/s?word=%E4%B8%A4%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%88%9B%E4%BD%9C%E7%9A%84%E8%BF%99%E9%A6%96%E6%AD%8C+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%83%BD%E4%BC%9A%E5%94%B1&sa=fyb_news"
   },
   {
-   "title": "中国健儿追梦之路永不停歇",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E8%BF%BD%E6%A2%A6%E4%B9%8B%E8%B7%AF%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%AD%87&sa=fyb_news"
+   "title": "全国客流持续高位运行",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E5%9B%BD%E5%AE%A2%E6%B5%81%E6%8C%81%E7%BB%AD%E9%AB%98%E4%BD%8D%E8%BF%90%E8%A1%8C&sa=fyb_news"
   },
   {
-   "title": "酒店现巨型榻榻米房型 一张床半间房",
-   "link": "https://m.baidu.com/s?word=%E9%85%92%E5%BA%97%E7%8E%B0%E5%B7%A8%E5%9E%8B%E6%A6%BB%E6%A6%BB%E7%B1%B3%E6%88%BF%E5%9E%8B+%E4%B8%80%E5%BC%A0%E5%BA%8A%E5%8D%8A%E9%97%B4%E6%88%BF&sa=fyb_news"
+   "title": "第20届亚运会完整奖牌榜",
+   "link": "https://m.baidu.com/s?word=%E7%AC%AC20%E5%B1%8A%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%8C%E6%95%B4%E5%A5%96%E7%89%8C%E6%A6%9C&sa=fyb_news"
   },
   {
-   "title": "U23国足回国 大批球迷欢呼接机",
-   "link": "https://m.baidu.com/s?word=U23%E5%9B%BD%E8%B6%B3%E5%9B%9E%E5%9B%BD+%E5%A4%A7%E6%89%B9%E7%90%83%E8%BF%B7%E6%AC%A2%E5%91%BC%E6%8E%A5%E6%9C%BA&sa=fyb_news"
+   "title": "饭后腹痛难忍？可能是它在求救",
+   "link": "https://m.baidu.com/s?word=%E9%A5%AD%E5%90%8E%E8%85%B9%E7%97%9B%E9%9A%BE%E5%BF%8D%EF%BC%9F%E5%8F%AF%E8%83%BD%E6%98%AF%E5%AE%83%E5%9C%A8%E6%B1%82%E6%95%91&sa=fyb_news"
   },
   {
-   "title": "停止做这4件事 血管就能老得慢一点",
-   "link": "https://m.baidu.com/s?word=%E5%81%9C%E6%AD%A2%E5%81%9A%E8%BF%994%E4%BB%B6%E4%BA%8B+%E8%A1%80%E7%AE%A1%E5%B0%B1%E8%83%BD%E8%80%81%E5%BE%97%E6%85%A2%E4%B8%80%E7%82%B9&sa=fyb_news"
+   "title": "小孩哥在花坛发现2枚恐龙蛋化石",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A9%E5%93%A5%E5%9C%A8%E8%8A%B1%E5%9D%9B%E5%8F%91%E7%8E%B02%E6%9E%9A%E6%81%90%E9%BE%99%E8%9B%8B%E5%8C%96%E7%9F%B3&sa=fyb_news"
   },
   {
-   "title": "国庆档票房破6亿 你最想看哪一部",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF+%E4%BD%A0%E6%9C%80%E6%83%B3%E7%9C%8B%E5%93%AA%E4%B8%80%E9%83%A8&sa=fyb_news"
+   "title": "吴宜泽vs袁思俊",
+   "link": "https://m.baidu.com/s?word=%E5%90%B4%E5%AE%9C%E6%B3%BDvs%E8%A2%81%E6%80%9D%E4%BF%8A&sa=fyb_news"
   },
   {
-   "title": "游客打卡政府食堂吃了500斤饭400斤鹅",
-   "link": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E6%89%93%E5%8D%A1%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%90%83%E4%BA%86500%E6%96%A4%E9%A5%AD400%E6%96%A4%E9%B9%85&sa=fyb_news"
+   "title": "日本197人专案组连夜抓捕驻日美士兵",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC197%E4%BA%BA%E4%B8%93%E6%A1%88%E7%BB%84%E8%BF%9E%E5%A4%9C%E6%8A%93%E6%8D%95%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%A3%AB%E5%85%B5&sa=fyb_news"
   },
   {
-   "title": "韦世豪回应国足0比5输球",
-   "link": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%96%E8%B1%AA%E5%9B%9E%E5%BA%94%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%BE%93%E7%90%83&sa=fyb_news"
+   "title": "河南万岁山只见人不见“山”",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%B8%87%E5%B2%81%E5%B1%B1%E5%8F%AA%E8%A7%81%E4%BA%BA%E4%B8%8D%E8%A7%81%E2%80%9C%E5%B1%B1%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "撞死中国夫妇的澳洲司机仅17岁",
-   "link": "https://m.baidu.com/s?word=%E6%92%9E%E6%AD%BB%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E7%9A%84%E6%BE%B3%E6%B4%B2%E5%8F%B8%E6%9C%BA%E4%BB%8517%E5%B2%81&sa=fyb_news"
+   "title": "重庆市高院、检察院、公安局联合通告",
+   "link": "https://m.baidu.com/s?word=%E9%87%8D%E5%BA%86%E5%B8%82%E9%AB%98%E9%99%A2%E3%80%81%E6%A3%80%E5%AF%9F%E9%99%A2%E3%80%81%E5%85%AC%E5%AE%89%E5%B1%80%E8%81%94%E5%90%88%E9%80%9A%E5%91%8A&sa=fyb_news"
   },
   {
-   "title": "“野牛群保护徒步者”系谣言",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%87%8E%E7%89%9B%E7%BE%A4%E4%BF%9D%E6%8A%A4%E5%BE%92%E6%AD%A5%E8%80%85%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "国庆出行警惕票务诈骗陷阱",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%AD%A6%E6%83%95%E7%A5%A8%E5%8A%A1%E8%AF%88%E9%AA%97%E9%99%B7%E9%98%B1&sa=fyb_news"
   },
   {
-   "title": "网红慧慧饱饱被封号 巅峰期年入千万",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%85%A7%E6%85%A7%E9%A5%B1%E9%A5%B1%E8%A2%AB%E5%B0%81%E5%8F%B7+%E5%B7%85%E5%B3%B0%E6%9C%9F%E5%B9%B4%E5%85%A5%E5%8D%83%E4%B8%87&sa=fyb_news"
+   "title": "全世界都在找中国游客拍照",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E6%89%BE%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8B%8D%E7%85%A7&sa=fyb_news"
   },
   {
-   "title": "国安部提醒小心基因被窃",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8F%90%E9%86%92%E5%B0%8F%E5%BF%83%E5%9F%BA%E5%9B%A0%E8%A2%AB%E7%AA%83&sa=fyb_news"
+   "title": "江苏高速临时开放500公里应急车道",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E8%8B%8F%E9%AB%98%E9%80%9F%E4%B8%B4%E6%97%B6%E5%BC%80%E6%94%BE500%E5%85%AC%E9%87%8C%E5%BA%94%E6%80%A5%E8%BD%A6%E9%81%93&sa=fyb_news"
   },
   {
-   "title": "多名小孩用充电枪荡秋千 客服回应",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%90%8D%E5%B0%8F%E5%AD%A9%E7%94%A8%E5%85%85%E7%94%B5%E6%9E%AA%E8%8D%A1%E7%A7%8B%E5%8D%83+%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "菜市场成了年轻人旅游打卡地",
+   "link": "https://m.baidu.com/s?word=%E8%8F%9C%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%97%85%E6%B8%B8%E6%89%93%E5%8D%A1%E5%9C%B0&sa=fyb_news"
   }
  ],
  "ai": [
