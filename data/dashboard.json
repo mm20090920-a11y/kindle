@@ -1,6 +1,6 @@
 {
  "date": "2026-10-05",
- "updatedAt": "2026-10-05 11:32",
+ "updatedAt": "2026-10-05 17:11",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4165.01",
+  "value": "4125.95",
   "unit": "美元/盎司",
-  "change": "+25.73",
-  "pct": "+0.62%",
-  "up": true
+  "change": "-13.33",
+  "pct": "-0.32%",
+  "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "86,179",
-  "cny": "577,804",
-  "pct": "+1.03%",
-  "up": true,
+  "usd": "85,256",
+  "cny": "571,643",
+  "pct": "-0.08%",
+  "up": false,
   "trend": [
-   85299.63,
-   85234.22,
-   85118.75,
-   85277.87,
-   85170.43,
-   85415.92,
-   85180.07,
-   85402.17,
-   85356.32,
-   85310.13,
-   85369.74,
-   85441.91,
-   85532.61,
-   86003.03,
-   86116.8,
-   86305.92,
-   86555.54,
-   86461.12,
-   86569.02,
-   86702.32,
-   86435.11,
-   86397.13,
-   86043.4,
-   85626.98,
-   85581.33,
-   85994.43,
-   86250.84,
-   86251.89,
-   86348.71,
-   85859.81,
-   86026.2,
-   86082.79
+   85303.37,
+   85305.61,
+   85326.8,
+   85444.33,
+   85419.58,
+   85814.92,
+   85958.18,
+   86243.82,
+   86564.86,
+   86489.73,
+   86601.51,
+   86933.64,
+   86654.02,
+   86502.92,
+   86242.38,
+   85759.56,
+   85500.97,
+   85750.78,
+   85799.43,
+   86259.39,
+   86400.88,
+   86204.95,
+   85957.94,
+   86059.32,
+   85934.49,
+   86179.09,
+   85885.76,
+   86079.72,
+   86615.55,
+   85632.65,
+   85321.74,
+   85136.67
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "国庆时刻 感悟新时代治国理政之道",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%97%B6%E5%88%BB+%E6%84%9F%E6%82%9F%E6%96%B0%E6%97%B6%E4%BB%A3%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E4%B9%8B%E9%81%93&sa=fyb_news"
+   "title": "在旅游中感悟中华文化增强文化自信",
+   "link": "https://m.baidu.com/s?word=%E5%9C%A8%E6%97%85%E6%B8%B8%E4%B8%AD%E6%84%9F%E6%82%9F%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%A2%9E%E5%BC%BA%E6%96%87%E5%8C%96%E8%87%AA%E4%BF%A1&sa=fyb_news"
   },
   {
-   "title": "超3万人涌入吉林山沟沟博物馆看黄金",
-   "link": "https://m.baidu.com/s?word=%E8%B6%853%E4%B8%87%E4%BA%BA%E6%B6%8C%E5%85%A5%E5%90%89%E6%9E%97%E5%B1%B1%E6%B2%9F%E6%B2%9F%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9C%8B%E9%BB%84%E9%87%91&sa=fyb_news"
+   "title": "放假期间 这7种照片建议别发朋友圈",
+   "link": "https://m.baidu.com/s?word=%E6%94%BE%E5%81%87%E6%9C%9F%E9%97%B4+%E8%BF%997%E7%A7%8D%E7%85%A7%E7%89%87%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88&sa=fyb_news"
   },
   {
-   "title": "明珍珍临刑前讲述埋葬电诈人员细节",
-   "link": "https://m.baidu.com/s?word=%E6%98%8E%E7%8F%8D%E7%8F%8D%E4%B8%B4%E5%88%91%E5%89%8D%E8%AE%B2%E8%BF%B0%E5%9F%8B%E8%91%AC%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%BB%86%E8%8A%82&sa=fyb_news"
+   "title": "中国收废品的大爷可能已经赚翻了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%94%B6%E5%BA%9F%E5%93%81%E7%9A%84%E5%A4%A7%E7%88%B7%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B5%9A%E7%BF%BB%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "大国重器BEST、FAST公布最新消息",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8BEST%E3%80%81FAST%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&sa=fyb_news"
+   "title": "国庆假期返程 这份安全提示请收好",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B+%E8%BF%99%E4%BB%BD%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
   },
   {
-   "title": "为啥景区大门离景点越来越远",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E5%95%A5%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%97%A8%E7%A6%BB%E6%99%AF%E7%82%B9%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BF%9C&sa=fyb_news"
+   "title": "“黄金睡眠时长”出炉",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%BB%84%E9%87%91%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E2%80%9D%E5%87%BA%E7%82%89&sa=fyb_news"
   },
   {
-   "title": "这个器官厉害的人天生是“快乐体质”",
-   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E5%99%A8%E5%AE%98%E5%8E%89%E5%AE%B3%E7%9A%84%E4%BA%BA%E5%A4%A9%E7%94%9F%E6%98%AF%E2%80%9C%E5%BF%AB%E4%B9%90%E4%BD%93%E8%B4%A8%E2%80%9D&sa=fyb_news"
+   "title": "游客下地割出9000碗米饭",
+   "link": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E4%B8%8B%E5%9C%B0%E5%89%B2%E5%87%BA9000%E7%A2%97%E7%B1%B3%E9%A5%AD&sa=fyb_news"
   },
   {
-   "title": "民警进电诈园区取证 带回三具尸体",
-   "link": "https://m.baidu.com/s?word=%E6%B0%91%E8%AD%A6%E8%BF%9B%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%8F%96%E8%AF%81+%E5%B8%A6%E5%9B%9E%E4%B8%89%E5%85%B7%E5%B0%B8%E4%BD%93&sa=fyb_news"
+   "title": "中方曾三次约见缅北四大家族代表",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%9B%BE%E4%B8%89%E6%AC%A1%E7%BA%A6%E8%A7%81%E7%BC%85%E5%8C%97%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%E4%BB%A3%E8%A1%A8&sa=fyb_news"
   },
   {
-   "title": "特警礼貌拒绝老外过于热情的动作",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E8%AD%A6%E7%A4%BC%E8%B2%8C%E6%8B%92%E7%BB%9D%E8%80%81%E5%A4%96%E8%BF%87%E4%BA%8E%E7%83%AD%E6%83%85%E7%9A%84%E5%8A%A8%E4%BD%9C&sa=fyb_news"
+   "title": "男子收到短信吓懵：欠费16.1亿元",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%94%B6%E5%88%B0%E7%9F%AD%E4%BF%A1%E5%90%93%E6%87%B5%EF%BC%9A%E6%AC%A0%E8%B4%B916.1%E4%BA%BF%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "三个月宝宝打完针自己拿棉签按针眼",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E6%89%93%E5%AE%8C%E9%92%88%E8%87%AA%E5%B7%B1%E6%8B%BF%E6%A3%89%E7%AD%BE%E6%8C%89%E9%92%88%E7%9C%BC&sa=fyb_news"
+   "title": "巴黎现麻辣烫店：人均150排队半小时",
+   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E9%BB%8E%E7%8E%B0%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%BA%97%EF%BC%9A%E4%BA%BA%E5%9D%87150%E6%8E%92%E9%98%9F%E5%8D%8A%E5%B0%8F%E6%97%B6&sa=fyb_news"
   },
   {
-   "title": "外籍武打演员何麦去世",
-   "link": "https://m.baidu.com/s?word=%E5%A4%96%E7%B1%8D%E6%AD%A6%E6%89%93%E6%BC%94%E5%91%98%E4%BD%95%E9%BA%A6%E5%8E%BB%E4%B8%96&sa=fyb_news"
+   "title": "巨型“充电宝”驶进多地服务区",
+   "link": "https://m.baidu.com/s?word=%E5%B7%A8%E5%9E%8B%E2%80%9C%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D%E9%A9%B6%E8%BF%9B%E5%A4%9A%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%8C%BA&sa=fyb_news"
   },
   {
-   "title": "央视调查重庆落地签背后隐患",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E9%87%8D%E5%BA%86%E8%90%BD%E5%9C%B0%E7%AD%BE%E8%83%8C%E5%90%8E%E9%9A%90%E6%82%A3&sa=fyb_news"
+   "title": "孙心然0比2高芙无缘16强",
+   "link": "https://m.baidu.com/s?word=%E5%AD%99%E5%BF%83%E7%84%B60%E6%AF%942%E9%AB%98%E8%8A%99%E6%97%A0%E7%BC%9816%E5%BC%BA&sa=fyb_news"
   },
   {
    "title": "工人给乐山大佛掏耳朵鼻孔系AI生成",
    "link": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BA%BA%E7%BB%99%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%8E%8F%E8%80%B3%E6%9C%B5%E9%BC%BB%E5%AD%94%E7%B3%BBAI%E7%94%9F%E6%88%90&sa=fyb_news"
   },
   {
-   "title": "李一桐：这辈子不会再借钱给别人了",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E4%B8%80%E6%A1%90%EF%BC%9A%E8%BF%99%E8%BE%88%E5%AD%90%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%80%9F%E9%92%B1%E7%BB%99%E5%88%AB%E4%BA%BA%E4%BA%86&sa=fyb_news"
+   "title": "代露娃真的不吃香菜吗",
+   "link": "https://m.baidu.com/s?word=%E4%BB%A3%E9%9C%B2%E5%A8%83%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%90%83%E9%A6%99%E8%8F%9C%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "缅北明家称中国人为“行走的人民币”",
-   "link": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E2%80%9C%E8%A1%8C%E8%B5%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E5%B8%81%E2%80%9D&sa=fyb_news"
+   "title": "山东一景区推1元大锅菜配馒头",
+   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%99%AF%E5%8C%BA%E6%8E%A81%E5%85%83%E5%A4%A7%E9%94%85%E8%8F%9C%E9%85%8D%E9%A6%92%E5%A4%B4&sa=fyb_news"
   },
   {
-   "title": "一句“China”瞬间炸场 一呼百应",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%8F%A5%E2%80%9CChina%E2%80%9D%E7%9E%AC%E9%97%B4%E7%82%B8%E5%9C%BA+%E4%B8%80%E5%91%BC%E7%99%BE%E5%BA%94&sa=fyb_news"
+   "title": "代露娃掉粉",
+   "link": "https://m.baidu.com/s?word=%E4%BB%A3%E9%9C%B2%E5%A8%83%E6%8E%89%E7%B2%89&sa=fyb_news"
   }
  ],
  "ai": []
