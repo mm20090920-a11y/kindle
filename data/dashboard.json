@@ -1,6 +1,6 @@
 {
  "date": "2026-10-06",
- "updatedAt": "2026-10-06 06:23",
+ "updatedAt": "2026-10-06 11:18",
  "stocks": [
   {
    "name": "上证指数",
@@ -127,157 +127,157 @@
   },
   {
    "name": "恒生指数",
-   "value": "24188.79",
-   "change": "+148.45",
-   "pct": "+0.62%",
+   "value": "24280.56",
+   "change": "+240.22",
+   "pct": "+1.00%",
    "up": true,
    "trend": [
     24279.63,
-    24265.93,
-    24302.81,
-    24243.9,
-    24231.6,
-    24208.9,
-    24218.76,
+    24267.9,
+    24217.4,
+    24214.8,
+    24204.55,
     24229.67,
-    24232.22,
-    24228.88,
-    24213.63,
-    24233.62,
-    24229.24,
-    24232.84,
+    24247.56,
+    24208.97,
+    24226.51,
+    24220.18,
     24212.37,
-    24217.26,
-    24240.1,
-    24230.22,
-    24222.71,
-    24218.89,
-    24219.26,
-    24221.83,
-    24217.06,
-    24216.85,
-    24222.98,
-    24214.12,
-    24212.7,
-    24202.88,
-    24189.99,
-    24190.18,
-    24182.28,
-    24188.3
+    24245.0,
+    24229.97,
+    24224.19,
+    24216.56,
+    24217.92,
+    24211.24,
+    24219.69,
+    24216.41,
+    24202.2,
+    24190.77,
+    24194.67,
+    24188.3,
+    24207.05,
+    24223.39,
+    24227.92,
+    24229.15,
+    24217.0,
+    24223.72,
+    24216.03,
+    24221.5,
+    24232.51
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4128.71",
+  "value": "4163.22",
   "unit": "美元/盎司",
-  "change": "-11.57",
-  "pct": "-0.28%",
-  "up": false
+  "change": "+22.94",
+  "pct": "+0.55%",
+  "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "85,252",
-  "cny": "571,607",
-  "pct": "-0.77%",
-  "up": false,
+  "usd": "86,329",
+  "cny": "578,802",
+  "pct": "+0.43%",
+  "up": true,
   "trend": [
-   85961.09,
-   86342.1,
-   86274.85,
-   86302.3,
-   85905.08,
-   86017.62,
-   86129.49,
-   86061.05,
-   86029.96,
-   86089.73,
-   86337.8,
-   85595.37,
-   85518.4,
-   85272.11,
-   85274.66,
-   85314.88,
-   85507.79,
-   85582.12,
-   85666.68,
-   85779.19,
-   85815.41,
-   85874.13,
-   85889.89,
-   85854.36,
-   85927.71,
-   86014.67,
-   85640.51,
-   85628.23,
-   85516.44,
-   85575.02,
-   85577.11,
-   85627.17
+   85988.38,
+   86125.02,
+   85864.6,
+   85979.83,
+   86426.46,
+   85585.4,
+   85316.93,
+   85230.54,
+   85313.74,
+   85379.02,
+   85610.19,
+   85723.73,
+   85738.11,
+   85722.36,
+   85917.0,
+   85958.79,
+   85882.8,
+   85787.66,
+   85805.1,
+   85815.52,
+   85516.21,
+   85535.55,
+   85528.35,
+   85544.39,
+   85651.33,
+   85361.79,
+   85340.86,
+   85394.26,
+   85786.9,
+   86015.25,
+   85961.94,
+   86044.04
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "民生为大 把老百姓的事办实办好",
-   "link": "https://m.baidu.com/s?word=%E6%B0%91%E7%94%9F%E4%B8%BA%E5%A4%A7+%E6%8A%8A%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E4%BA%8B%E5%8A%9E%E5%AE%9E%E5%8A%9E%E5%A5%BD&sa=fyb_news"
+   "title": "为人民群众幸福生活拼搏奉献服务",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB%E6%8B%BC%E6%90%8F%E5%A5%89%E7%8C%AE%E6%9C%8D%E5%8A%A1&sa=fyb_news"
   },
   {
-   "title": "缅北电诈武装用AK47扫射逃跑人员",
-   "link": "https://m.baidu.com/s?word=%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%AD%A6%E8%A3%85%E7%94%A8AK47%E6%89%AB%E5%B0%84%E9%80%83%E8%B7%91%E4%BA%BA%E5%91%98&sa=fyb_news"
+   "title": "保时捷卡宴降20万 奥迪A8降30万",
+   "link": "https://m.baidu.com/s?word=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%8D%A1%E5%AE%B4%E9%99%8D20%E4%B8%87+%E5%A5%A5%E8%BF%AAA8%E9%99%8D30%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "10万人涌进5万人小城 考验才刚开始",
-   "link": "https://m.baidu.com/s?word=10%E4%B8%87%E4%BA%BA%E6%B6%8C%E8%BF%9B5%E4%B8%87%E4%BA%BA%E5%B0%8F%E5%9F%8E+%E8%80%83%E9%AA%8C%E6%89%8D%E5%88%9A%E5%BC%80%E5%A7%8B&sa=fyb_news"
+   "title": "首度披露！溶洞里找到白家犯罪证据",
+   "link": "https://m.baidu.com/s?word=%E9%A6%96%E5%BA%A6%E6%8A%AB%E9%9C%B2%EF%BC%81%E6%BA%B6%E6%B4%9E%E9%87%8C%E6%89%BE%E5%88%B0%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E8%AF%81%E6%8D%AE&sa=fyb_news"
   },
   {
-   "title": "“宝藏小城”藏不住了",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%9F%8E%E2%80%9D%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86&sa=fyb_news"
+   "title": "国庆假期返程9个小贴士请收好",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B9%E4%B8%AA%E5%B0%8F%E8%B4%B4%E5%A3%AB%E8%AF%B7%E6%94%B6%E5%A5%BD&sa=fyb_news"
   },
   {
-   "title": "电诈集团手段残忍 男子被逼到割腕",
-   "link": "https://m.baidu.com/s?word=%E7%94%B5%E8%AF%88%E9%9B%86%E5%9B%A2%E6%89%8B%E6%AE%B5%E6%AE%8B%E5%BF%8D+%E7%94%B7%E5%AD%90%E8%A2%AB%E9%80%BC%E5%88%B0%E5%89%B2%E8%85%95&sa=fyb_news"
+   "title": "孩子打印作业开销让家长直呼扛不住",
+   "link": "https://m.baidu.com/s?word=%E5%AD%A9%E5%AD%90%E6%89%93%E5%8D%B0%E4%BD%9C%E4%B8%9A%E5%BC%80%E9%94%80%E8%AE%A9%E5%AE%B6%E9%95%BF%E7%9B%B4%E5%91%BC%E6%89%9B%E4%B8%8D%E4%BD%8F&sa=fyb_news"
   },
   {
-   "title": "国庆最佳结婚日 酒店门口6个拱门",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E6%9C%80%E4%BD%B3%E7%BB%93%E5%A9%9A%E6%97%A5+%E9%85%92%E5%BA%97%E9%97%A8%E5%8F%A36%E4%B8%AA%E6%8B%B1%E9%97%A8&sa=fyb_news"
+   "title": "江面漂满白花花的馒头 鱼都快吃吐了",
+   "link": "https://m.baidu.com/s?word=%E6%B1%9F%E9%9D%A2%E6%BC%82%E6%BB%A1%E7%99%BD%E8%8A%B1%E8%8A%B1%E7%9A%84%E9%A6%92%E5%A4%B4+%E9%B1%BC%E9%83%BD%E5%BF%AB%E5%90%83%E5%90%90%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "全球纯油车份额跌破50% 中国跌最猛",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E7%BA%AF%E6%B2%B9%E8%BD%A6%E4%BB%BD%E9%A2%9D%E8%B7%8C%E7%A0%B450%25+%E4%B8%AD%E5%9B%BD%E8%B7%8C%E6%9C%80%E7%8C%9B&sa=fyb_news"
-  },
-  {
-   "title": "粤J2888T 战绩全网可查",
-   "link": "https://m.baidu.com/s?word=%E7%B2%A4J2888T+%E6%88%98%E7%BB%A9%E5%85%A8%E7%BD%91%E5%8F%AF%E6%9F%A5&sa=fyb_news"
-  },
-  {
-   "title": "景区回应合影小羊被累瘫",
-   "link": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%90%88%E5%BD%B1%E5%B0%8F%E7%BE%8A%E8%A2%AB%E7%B4%AF%E7%98%AB&sa=fyb_news"
+   "title": "睡眠开始出现这种问题说明你可能老了",
+   "link": "https://m.baidu.com/s?word=%E7%9D%A1%E7%9C%A0%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%E8%AF%B4%E6%98%8E%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%80%81%E4%BA%86&sa=fyb_news"
   },
   {
    "title": "年轻人婚礼 不早起不请司仪不办仪式",
    "link": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A9%9A%E7%A4%BC+%E4%B8%8D%E6%97%A9%E8%B5%B7%E4%B8%8D%E8%AF%B7%E5%8F%B8%E4%BB%AA%E4%B8%8D%E5%8A%9E%E4%BB%AA%E5%BC%8F&sa=fyb_news"
   },
   {
-   "title": "李勒优回应在拼豆店打工",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%8B%92%E4%BC%98%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%8B%BC%E8%B1%86%E5%BA%97%E6%89%93%E5%B7%A5&sa=fyb_news"
+   "title": "国庆长假为啥感觉比上班还累",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%BA%86%E9%95%BF%E5%81%87%E4%B8%BA%E5%95%A5%E6%84%9F%E8%A7%89%E6%AF%94%E4%B8%8A%E7%8F%AD%E8%BF%98%E7%B4%AF&sa=fyb_news"
   },
   {
-   "title": "警惕机票退改、低价订房骗局",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E3%80%81%E4%BD%8E%E4%BB%B7%E8%AE%A2%E6%88%BF%E9%AA%97%E5%B1%80&sa=fyb_news"
+   "title": "男孩买3瓶饮料连中71瓶 店主惊呆",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%A9%E4%B9%B03%E7%93%B6%E9%A5%AE%E6%96%99%E8%BF%9E%E4%B8%AD71%E7%93%B6+%E5%BA%97%E4%B8%BB%E6%83%8A%E5%91%86&sa=fyb_news"
   },
   {
-   "title": "中方放弃谈判直接抓佤邦副总司令",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E6%94%BE%E5%BC%83%E8%B0%88%E5%88%A4%E7%9B%B4%E6%8E%A5%E6%8A%93%E4%BD%A4%E9%82%A6%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4&sa=fyb_news"
+   "title": "亚运会冠军李巧巧吐槽金牌已被磨坏",
+   "link": "https://m.baidu.com/s?word=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%A0%E5%86%9B%E6%9D%8E%E5%B7%A7%E5%B7%A7%E5%90%90%E6%A7%BD%E9%87%91%E7%89%8C%E5%B7%B2%E8%A2%AB%E7%A3%A8%E5%9D%8F&sa=fyb_news"
   },
   {
-   "title": "用光控制大脑 诺奖成果解读来了",
-   "link": "https://m.baidu.com/s?word=%E7%94%A8%E5%85%89%E6%8E%A7%E5%88%B6%E5%A4%A7%E8%84%91+%E8%AF%BA%E5%A5%96%E6%88%90%E6%9E%9C%E8%A7%A3%E8%AF%BB%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "“稻城亚丁景区封闭”系谣言",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E5%B0%81%E9%97%AD%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "“大水时代”已经到来",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%A7%E6%B0%B4%E6%97%B6%E4%BB%A3%E2%80%9D%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5&sa=fyb_news"
+   "title": "曝邓紫棋结婚",
+   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E9%82%93%E7%B4%AB%E6%A3%8B%E7%BB%93%E5%A9%9A&sa=fyb_news"
+  },
+  {
+   "title": "央视曝光网红打卡地“牛奶湖”",
+   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B0%E2%80%9C%E7%89%9B%E5%A5%B6%E6%B9%96%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "“哈喽 你这个帽子在景区里不行的”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%93%88%E5%96%BD+%E4%BD%A0%E8%BF%99%E4%B8%AA%E5%B8%BD%E5%AD%90%E5%9C%A8%E6%99%AF%E5%8C%BA%E9%87%8C%E4%B8%8D%E8%A1%8C%E7%9A%84%E2%80%9D&sa=fyb_news"
   }
  ],
  "ai": [
