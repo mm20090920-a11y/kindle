@@ -1,6 +1,6 @@
 {
  "date": "2026-10-07",
- "updatedAt": "2026-10-07 15:35",
+ "updatedAt": "2026-10-07 18:58",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4109.30",
+  "value": "4109.85",
   "unit": "美元/盎司",
-  "change": "-54.48",
-  "pct": "-1.31%",
+  "change": "-53.93",
+  "pct": "-1.30%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "83,196",
-  "cny": "557,814",
-  "pct": "-3.73%",
+  "usd": "83,399",
+  "cny": "559,156",
+  "pct": "-2.47%",
   "up": false,
   "trend": [
-   86174.0,
-   85725.13,
-   85631.74,
-   85712.15,
-   85572.64,
-   85466.34,
-   85600.03,
-   85621.38,
-   85602.82,
-   85541.65,
-   85505.94,
-   85574.37,
-   85479.57,
-   85336.55,
-   83889.75,
-   83848.78,
-   84107.03,
-   84095.83,
-   84165.2,
-   84294.94,
-   84276.24,
-   84211.1,
-   84050.96,
-   83970.35,
-   83682.15,
-   83889.56,
-   83788.39,
-   83626.48,
-   83606.57,
-   83324.01,
-   83215.42,
-   82997.73
+   85502.91,
+   85491.4,
+   85602.63,
+   85553.68,
+   85597.01,
+   85556.26,
+   85491.91,
+   85567.88,
+   85526.87,
+   85284.83,
+   83822.77,
+   83958.83,
+   84138.91,
+   84084.22,
+   84181.94,
+   84282.25,
+   84217.38,
+   84275.13,
+   84034.55,
+   83904.92,
+   83771.48,
+   83636.12,
+   83702.71,
+   83626.25,
+   83463.54,
+   83084.53,
+   83055.28,
+   83044.07,
+   83419.11,
+   83399.81,
+   83184.47,
+   83315.14
   ]
  },
  "weibo": [],
@@ -240,8 +240,8 @@
    "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E4%B8%AD%E7%BD%91%E5%85%AB%E5%BC%BA&sa=fyb_news"
   },
   {
-   "title": "《兰香如故》还差了哪一步",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E8%BF%98%E5%B7%AE%E4%BA%86%E5%93%AA%E4%B8%80%E6%AD%A5&sa=fyb_news"
+   "title": "时隔14年进口片再夺国庆档票房日冠",
+   "link": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
   },
   {
    "title": "世界第1被世界第101淘汰",
@@ -252,32 +252,32 @@
    "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%B9%92%E6%B7%B7%E5%8F%8C%E7%BB%84%E5%90%88%E5%85%A8%E9%83%A8%E5%87%BA%E5%B1%80&sa=fyb_news"
   },
   {
-   "title": "离加油站20米燃油耗尽 车主求助被拒",
-   "link": "https://m.baidu.com/s?word=%E7%A6%BB%E5%8A%A0%E6%B2%B9%E7%AB%9920%E7%B1%B3%E7%87%83%E6%B2%B9%E8%80%97%E5%B0%BD+%E8%BD%A6%E4%B8%BB%E6%B1%82%E5%8A%A9%E8%A2%AB%E6%8B%92&sa=fyb_news"
+   "title": "广州粤菜师傅单间炒菜工位走红",
+   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E7%B2%A4%E8%8F%9C%E5%B8%88%E5%82%85%E5%8D%95%E9%97%B4%E7%82%92%E8%8F%9C%E5%B7%A5%E4%BD%8D%E8%B5%B0%E7%BA%A2&sa=fyb_news"
   },
   {
    "title": "孙颖莎：昨晚有点发烧 不用过度担心",
    "link": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E%EF%BC%9A%E6%98%A8%E6%99%9A%E6%9C%89%E7%82%B9%E5%8F%91%E7%83%A7+%E4%B8%8D%E7%94%A8%E8%BF%87%E5%BA%A6%E6%8B%85%E5%BF%83&sa=fyb_news"
   },
   {
-   "title": "王星失联前向女友求救发猫喂了没",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E5%90%91%E5%A5%B3%E5%8F%8B%E6%B1%82%E6%95%91%E5%8F%91%E7%8C%AB%E5%96%82%E4%BA%86%E6%B2%A1&sa=fyb_news"
+   "title": "苏轼墓前放眼药水蒸汽眼罩",
+   "link": "https://m.baidu.com/s?word=%E8%8B%8F%E8%BD%BC%E5%A2%93%E5%89%8D%E6%94%BE%E7%9C%BC%E8%8D%AF%E6%B0%B4%E8%92%B8%E6%B1%BD%E7%9C%BC%E7%BD%A9&sa=fyb_news"
   },
   {
    "title": "泰山辟谣网传躲雨80元1小时",
    "link": "https://m.baidu.com/s?word=%E6%B3%B0%E5%B1%B1%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E8%BA%B2%E9%9B%A880%E5%85%831%E5%B0%8F%E6%97%B6&sa=fyb_news"
   },
   {
-   "title": "时隔14年进口片再夺国庆档票房日冠",
-   "link": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9414%E5%B9%B4%E8%BF%9B%E5%8F%A3%E7%89%87%E5%86%8D%E5%A4%BA%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0&sa=fyb_news"
+   "title": "俄称鼠疫研究人员确诊不明原因肺炎",
+   "link": "https://m.baidu.com/s?word=%E4%BF%84%E7%A7%B0%E9%BC%A0%E7%96%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AF%8A%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E&sa=fyb_news"
   },
   {
-   "title": "李玉刚宣布《万疆》永久免费授权",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E7%8E%89%E5%88%9A%E5%AE%A3%E5%B8%83%E3%80%8A%E4%B8%87%E7%96%86%E3%80%8B%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E6%8E%88%E6%9D%83&sa=fyb_news"
+   "title": "C罗重磅声明",
+   "link": "https://m.baidu.com/s?word=C%E7%BD%97%E9%87%8D%E7%A3%85%E5%A3%B0%E6%98%8E&sa=fyb_news"
   },
   {
-   "title": "王星4天被卖3次",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%98%9F4%E5%A4%A9%E8%A2%AB%E5%8D%963%E6%AC%A1&sa=fyb_news"
+   "title": "吴奇隆 不赚钱也是这个立场",
+   "link": "https://m.baidu.com/s?word=%E5%90%B4%E5%A5%87%E9%9A%86+%E4%B8%8D%E8%B5%9A%E9%92%B1%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B8%AA%E7%AB%8B%E5%9C%BA&sa=fyb_news"
   }
  ],
  "ai": [
