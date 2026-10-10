@@ -1,6 +1,6 @@
 {
- "date": "2026-10-09",
- "updatedAt": "2026-10-09 18:23",
+ "date": "2026-10-10",
+ "updatedAt": "2026-10-10 05:54",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,165 +169,161 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4196.59",
+  "value": "4194.39",
   "unit": "美元/盎司",
-  "change": "+63.13",
-  "pct": "+1.53%",
+  "change": "+60.93",
+  "pct": "+1.47%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "82,533",
-  "cny": "553,162",
-  "pct": "+1.56%",
+  "usd": "82,713",
+  "cny": "553,573",
+  "pct": "+0.52%",
   "up": true,
   "trend": [
-   81339.27,
-   81435.25,
-   81722.98,
-   81755.37,
-   81637.94,
-   81748.83,
-   81786.36,
-   81789.37,
-   81689.8,
-   81704.33,
-   81894.26,
-   81924.54,
-   82159.65,
-   82419.16,
-   82195.5,
-   82471.23,
-   82392.32,
-   82484.24,
-   82498.21,
-   82491.62,
-   82588.29,
-   82608.49,
-   82422.81,
-   82948.02,
-   83083.88,
-   83053.81,
-   82620.36,
-   82990.55,
-   82869.4,
-   82810.74,
-   82713.12,
-   82626.05
+   82286.88,
+   82490.12,
+   82520.34,
+   82626.21,
+   82610.11,
+   82560.47,
+   82581.35,
+   82456.96,
+   83169.09,
+   83086.53,
+   82982.75,
+   82756.19,
+   82951.78,
+   82922.16,
+   82687.86,
+   82613.7,
+   82655.17,
+   82318.09,
+   82435.7,
+   82284.11,
+   82429.35,
+   82488.63,
+   82451.42,
+   82561.9,
+   82591.55,
+   82497.35,
+   82560.79,
+   82622.11,
+   82562.97,
+   82494.66,
+   82595.06,
+   82615.51
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "四重视角看中华民族的文化主体性",
-   "link": "https://m.baidu.com/s?word=%E5%9B%9B%E9%87%8D%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E7%9A%84%E6%96%87%E5%8C%96%E4%B8%BB%E4%BD%93%E6%80%A7&sa=fyb_news"
+   "title": "从“半条被子”到幸福日子",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8E%E2%80%9C%E5%8D%8A%E6%9D%A1%E8%A2%AB%E5%AD%90%E2%80%9D%E5%88%B0%E5%B9%B8%E7%A6%8F%E6%97%A5%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "宋佳集齐三大奖",
-   "link": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3%E9%9B%86%E9%BD%90%E4%B8%89%E5%A4%A7%E5%A5%96&sa=fyb_news"
+   "title": "男子ICU抢救 母亲取不出儿子存款救命",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90ICU%E6%8A%A2%E6%95%91+%E6%AF%8D%E4%BA%B2%E5%8F%96%E4%B8%8D%E5%87%BA%E5%84%BF%E5%AD%90%E5%AD%98%E6%AC%BE%E6%95%91%E5%91%BD&sa=fyb_news"
   },
   {
-   "title": "飞天奖获奖名单",
-   "link": "https://m.baidu.com/s?word=%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&sa=fyb_news"
+   "title": "13岁中国女孩的一封信获全球唯一金奖",
+   "link": "https://m.baidu.com/s?word=13%E5%B2%81%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%E8%8E%B7%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E9%87%91%E5%A5%96&sa=fyb_news"
   },
   {
-   "title": "为什么要花数万亿改造地下管网",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%8A%B1%E6%95%B0%E4%B8%87%E4%BA%BF%E6%94%B9%E9%80%A0%E5%9C%B0%E4%B8%8B%E7%AE%A1%E7%BD%91&sa=fyb_news"
+   "title": "广交会即将开幕",
+   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%8D%B3%E5%B0%86%E5%BC%80%E5%B9%95&sa=fyb_news"
   },
   {
-   "title": "王仁君获“飞天奖”优秀男演员奖",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E4%BB%81%E5%90%9B%E8%8E%B7%E2%80%9C%E9%A3%9E%E5%A4%A9%E5%A5%96%E2%80%9D%E4%BC%98%E7%A7%80%E7%94%B7%E6%BC%94%E5%91%98%E5%A5%96&sa=fyb_news"
+   "title": "雅思考试突发大范围停考",
+   "link": "https://m.baidu.com/s?word=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E7%AA%81%E5%8F%91%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%81%9C%E8%80%83&sa=fyb_news"
   },
   {
-   "title": "多家医院、卫生院暂停夜间门诊",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E3%80%81%E5%8D%AB%E7%94%9F%E9%99%A2%E6%9A%82%E5%81%9C%E5%A4%9C%E9%97%B4%E9%97%A8%E8%AF%8A&sa=fyb_news"
+   "title": "女子38元买到合成榴莲 塞满土豆年糕",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%9038%E5%85%83%E4%B9%B0%E5%88%B0%E5%90%88%E6%88%90%E6%A6%B4%E8%8E%B2+%E5%A1%9E%E6%BB%A1%E5%9C%9F%E8%B1%86%E5%B9%B4%E7%B3%95&sa=fyb_news"
   },
   {
-   "title": "倪萍：迟蓬今天不获奖也没关系",
-   "link": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%EF%BC%9A%E8%BF%9F%E8%93%AC%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%8E%B7%E5%A5%96%E4%B9%9F%E6%B2%A1%E5%85%B3%E7%B3%BB&sa=fyb_news"
+   "title": "女大学生校园内被电动车撞倒离世",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%9B%AD%E5%86%85%E8%A2%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%92%9E%E5%80%92%E7%A6%BB%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "最淡泊的福建首富 静静地走了",
-   "link": "https://m.baidu.com/s?word=%E6%9C%80%E6%B7%A1%E6%B3%8A%E7%9A%84%E7%A6%8F%E5%BB%BA%E9%A6%96%E5%AF%8C+%E9%9D%99%E9%9D%99%E5%9C%B0%E8%B5%B0%E4%BA%86&sa=fyb_news"
+   "title": "警方通报王皓遭围堵辱骂：3人被拘",
+   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%9A%93%E9%81%AD%E5%9B%B4%E5%A0%B5%E8%BE%B1%E9%AA%82%EF%BC%9A3%E4%BA%BA%E8%A2%AB%E6%8B%98&sa=fyb_news"
   },
   {
-   "title": "商场新“三件套”",
-   "link": "https://m.baidu.com/s?word=%E5%95%86%E5%9C%BA%E6%96%B0%E2%80%9C%E4%B8%89%E4%BB%B6%E5%A5%97%E2%80%9D&sa=fyb_news"
+   "title": "王曼昱反击摔倒",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8F%8D%E5%87%BB%E6%91%94%E5%80%92&sa=fyb_news"
   },
   {
-   "title": "马化腾姚顺雨罕见同框",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%A7%9A%E9%A1%BA%E9%9B%A8%E7%BD%95%E8%A7%81%E5%90%8C%E6%A1%86&sa=fyb_news"
+   "title": "王曼昱蒯曼卫冕中国大满贯女双冠军",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E5%8D%AB%E5%86%95%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8F%8C%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "倪萍祝福李乃文好好活着",
-   "link": "https://m.baidu.com/s?word=%E5%80%AA%E8%90%8D%E7%A5%9D%E7%A6%8F%E6%9D%8E%E4%B9%83%E6%96%87%E5%A5%BD%E5%A5%BD%E6%B4%BB%E7%9D%80&sa=fyb_news"
+   "title": "宋佳 获奖争议",
+   "link": "https://m.baidu.com/s?word=%E5%AE%8B%E4%BD%B3+%E8%8E%B7%E5%A5%96%E4%BA%89%E8%AE%AE&sa=fyb_news"
   },
   {
-   "title": "西游“打工人”被骗 妖精不一般",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E6%B8%B8%E2%80%9C%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D%E8%A2%AB%E9%AA%97+%E5%A6%96%E7%B2%BE%E4%B8%8D%E4%B8%80%E8%88%AC&sa=fyb_news"
+   "title": "AI生成内容不受版权约束？错！",
+   "link": "https://m.baidu.com/s?word=AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%97%E7%89%88%E6%9D%83%E7%BA%A6%E6%9D%9F%EF%BC%9F%E9%94%99%EF%BC%81&sa=fyb_news"
   },
   {
-   "title": "胡军李乃文架着欧豪走红毯",
-   "link": "https://m.baidu.com/s?word=%E8%83%A1%E5%86%9B%E6%9D%8E%E4%B9%83%E6%96%87%E6%9E%B6%E7%9D%80%E6%AC%A7%E8%B1%AA%E8%B5%B0%E7%BA%A2%E6%AF%AF&sa=fyb_news"
+   "title": "女子仅退款9斤蜜薯称有本事来拿",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE9%E6%96%A4%E8%9C%9C%E8%96%AF%E7%A7%B0%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%9D%A5%E6%8B%BF&sa=fyb_news"
   },
   {
-   "title": "“我不小心把丈夫落在高速上了”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%88%91%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8A%E4%B8%88%E5%A4%AB%E8%90%BD%E5%9C%A8%E9%AB%98%E9%80%9F%E4%B8%8A%E4%BA%86%E2%80%9D&sa=fyb_news"
+   "title": "44岁副院长下车避险 高架桥坠落去世",
+   "link": "https://m.baidu.com/s?word=44%E5%B2%81%E5%89%AF%E9%99%A2%E9%95%BF%E4%B8%8B%E8%BD%A6%E9%81%BF%E9%99%A9+%E9%AB%98%E6%9E%B6%E6%A1%A5%E5%9D%A0%E8%90%BD%E5%8E%BB%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "郭京飞瘦了好多",
-   "link": "https://m.baidu.com/s?word=%E9%83%AD%E4%BA%AC%E9%A3%9E%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A&sa=fyb_news"
+   "title": "樊振东回归救不了人才断档",
+   "link": "https://m.baidu.com/s?word=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BD%92%E6%95%91%E4%B8%8D%E4%BA%86%E4%BA%BA%E6%89%8D%E6%96%AD%E6%A1%A3&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
-   "link": "https://claude.com/blog/dashboards-and-motion"
+   "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
+   "link": "https://x.com/arcprize/status/2108578092558250148"
   },
   {
-   "title": "Anthropic 推出开源漏洞扫描服务 OSS Scanner，免费面向开源项目",
-   "link": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+   "title": "Prime Intellect 用 Rust 重写 Prime Agent，2000 多个智能体自主完成端到端迁移",
+   "link": "https://www.primeintellect.ai/blog/prime-agent-rust"
   },
   {
-   "title": "ts-rust 发布：由 LLM 将 TypeScript 编译器、检查器和 LSP 移植到 Rust",
-   "link": "https://github.com/pingdotgg/ts-rust"
+   "title": "Claude Managed Agents 动态工作流公开测试版上线",
+   "link": "https://x.com/ClaudeDevs/status/2108591328732856655"
   },
   {
-   "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-   "link": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/"
+   "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+   "link": "https://sierra.ai/blog/poppy"
   },
   {
-   "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-   "link": "https://www.ithome.com/1/010/751.htm"
+   "title": "微软发布 Decision-1 模型",
+   "link": "https://x.com/satyanadella/status/2108627925654503761"
   },
   {
-   "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-   "link": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/"
+   "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+   "link": "https://x.com/rohanpaul_ai/status/2108681738767740983"
   },
   {
-   "title": "Anthropic 发布 2026 年使用政策更新，11 月 12 日生效",
-   "link": "https://www.anthropic.com/news/2026-usage-policy-update"
+   "title": "OpenAI 研究负责人发声明回应三名员工离职争议",
+   "link": "https://x.com/OpenAINewsroom/status/2108441580806025712"
   },
   {
-   "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
-   "link": "https://x.com/thsottiaux/status/2108040921044639779"
+   "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+   "link": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/"
   },
   {
-   "title": "OpenAI 封禁俄罗斯与伊朗两个利用 ChatGPT 开展虚假前臆影响行动的账号集群",
-   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+   "title": "a16z 领投 TypeSafe AI，其 Jev 模型 3 天生成 1 万亿 tokens",
+   "link": "https://www.a16z.news/p/investing-in-typesafe"
   },
   {
-   "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
-   "link": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing"
+   "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+   "link": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination"
   },
   {
-   "title": "Goodfire 为 Kimi K3 和 GLM 5.3 训练并部署生产级网络安全监控器",
-   "link": "https://www.goodfire.com/research/production-cyber-monitors-on-kimi-k3"
-  },
-  {
-   "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
-   "link": "https://huggingface.co/blog/building-with-ml-intern"
+   "title": "Epoch AI 发布 InnovationEval 评测：前沿模型仅达到人类论文 SDPO 增益的 15%",
+   "link": "https://epochai.substack.com/p/can-ai-automate-ai-r-and-d-yet"
   }
  ]
 }
