@@ -1,6 +1,6 @@
 {
  "date": "2026-10-11",
- "updatedAt": "2026-10-11 14:56",
+ "updatedAt": "2026-10-11 17:41",
  "stocks": [
   {
    "name": "上证指数",
@@ -175,164 +175,49 @@
   "pct": "+1.47%",
   "up": true
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.707"
-  },
-  {
-   "name": "欧元",
-   "value": "7.507"
-  },
-  {
-   "name": "港币",
-   "value": "0.855"
-  },
-  {
-   "name": "100日元",
-   "value": "4.235"
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "83,084",
-  "cny": "556,055",
-  "pct": "+0.19%",
+  "usd": "84,019",
+  "cny": "562,311",
+  "pct": "+1.16%",
   "up": true,
   "trend": [
-   82914.78,
-   82962.35,
-   82933.32,
-   82989.95,
-   83042.56,
-   82962.28,
-   82968.05,
-   82984.96,
-   82970.46,
-   83008.6,
-   82979.85,
-   82988.87,
-   82917.9,
-   82893.68,
-   82950.4,
-   82975.52,
-   83025.14,
-   82909.74,
-   82828.49,
-   82963.37,
-   82976.73,
-   83053.25,
-   83002.04,
-   82977.12,
-   82974.49,
-   82971.33,
-   82925.07,
-   82934.51,
-   83094.47,
-   83081.95,
-   83015.81,
-   83014.22
+   83067.35,
+   82943.84,
+   82958.73,
+   83010.81,
+   82999.4,
+   82981.71,
+   82967.8,
+   83019.84,
+   82947.87,
+   82910.11,
+   82919.49,
+   82960.63,
+   83045.18,
+   82850.01,
+   82788.96,
+   82953.56,
+   82997.0,
+   82991.15,
+   83072.65,
+   82950.45,
+   83010.25,
+   82967.42,
+   82961.38,
+   82921.38,
+   82977.57,
+   83059.63,
+   83019.98,
+   83003.93,
+   83056.92,
+   83072.94,
+   83766.65,
+   83848.35
   ]
  },
- "weibo": [
-  {
-   "title": "郑钦文中网女单夺冠",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0"
-  },
-  {
-   "title": "中网奖金",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BD%91%E5%A5%96%E9%87%91"
-  },
-  {
-   "title": "我国经济回升向好态势持续巩固",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%E6%8C%81%E7%BB%AD%E5%B7%A9%E5%9B%BA"
-  },
-  {
-   "title": "郑钦文就差一个大满贯冠军了",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86"
-  },
-  {
-   "title": "中国人时隔14年再夺1000赛冠军",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%97%B6%E9%9A%9414%E5%B9%B4%E5%86%8D%E5%A4%BA1000%E8%B5%9B%E5%86%A0%E5%86%9B"
-  },
-  {
-   "title": "李娜 郑钦文",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C%20%E9%83%91%E9%92%A6%E6%96%87"
-  },
-  {
-   "title": "霸王茶姬买一送一",
-   "link": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80"
-  },
-  {
-   "title": "郑钦文夺冠后热泪盈眶",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6"
-  },
-  {
-   "title": "郑钦文夺冠瞬间现场视频",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E7%9E%AC%E9%97%B4%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91"
-  },
-  {
-   "title": "央视曝投资1.2亿项目仅建5个棚",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%8A%95%E8%B5%841.2%E4%BA%BF%E9%A1%B9%E7%9B%AE%E4%BB%85%E5%BB%BA5%E4%B8%AA%E6%A3%9A"
-  },
-  {
-   "title": "社保",
-   "link": "https://s.weibo.com/weibo?q=%E7%A4%BE%E4%BF%9D"
-  },
-  {
-   "title": "郑钦文爸爸妈妈现场见证女儿夺冠",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%A5%B3%E5%84%BF%E5%A4%BA%E5%86%A0"
-  }
- ],
- "zhihu": [
-  {
-   "title": "中网女单决赛，郑钦文 2-0 战胜安德列娃夺得冠军，如何评价本场比赛以及她的亮眼表现？",
-   "link": "https://www.zhihu.com/question/2092635424363476073"
-  },
-  {
-   "title": "大二专科生自述靠切片三年赚七百万，直播切片究竟是怎么赚钱的？这种赚钱模式能复制吗？",
-   "link": "https://www.zhihu.com/question/2092562681433514181"
-  },
-  {
-   "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响？",
-   "link": "https://www.zhihu.com/question/2092513467722719411"
-  },
-  {
-   "title": "为什么五子棋始终没有发展起来？",
-   "link": "https://www.zhihu.com/question/284634562"
-  },
-  {
-   "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤？",
-   "link": "https://www.zhihu.com/question/2092203524230754555"
-  },
-  {
-   "title": "岸本齐史的全新漫画《火影忍者：暗影崛起》正式公布，对此你有哪些期待？",
-   "link": "https://www.zhihu.com/question/2092554410895171870"
-  },
-  {
-   "title": "深圳中小学将迎春秋假且不调休，会对双职工家庭带来哪些影响？",
-   "link": "https://www.zhihu.com/question/2092006267560649453"
-  },
-  {
-   "title": "为什么大部分医院的院长副院长都是心外科胸外科上任的？",
-   "link": "https://www.zhihu.com/question/1904336392173093128"
-  },
-  {
-   "title": "WTT 中国大满贯女单决赛，王曼昱 4-0 佐藤瞳成功卫冕，如何评价本场比赛？",
-   "link": "https://www.zhihu.com/question/2092634676540039677"
-  },
-  {
-   "title": "广东 5 人吃野生红尾鲤确诊哈夫病，这种病是如何引发的？日常吃鱼该怎样防范？",
-   "link": "https://www.zhihu.com/question/2091593487581975365"
-  },
-  {
-   "title": "因长期辱骂江秋莲被判道歉+赔付，网红黄建生公开发文向江秋莲道歉，哪些信息值得关注？",
-   "link": "https://www.zhihu.com/question/2092373331072612285"
-  },
-  {
-   "title": "我国验证出一种全新抗癌疗法，一针纳米材料打进肿瘤可让癌细胞生锈死亡，原理是什么？这一成果具有哪些意义？",
-   "link": "https://www.zhihu.com/question/2092387652544589909"
-  }
- ],
+ "weibo": [],
+ "zhihu": [],
  "baidu": [
   {
    "title": "每一代人都要走好自己的长征路",
@@ -351,8 +236,8 @@
    "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E8%A7%81%E8%AF%81%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&sa=fyb_news"
   },
   {
-   "title": "郑钦文赛后唱王心凌《梦的光点》",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E5%94%B1%E7%8E%8B%E5%BF%83%E5%87%8C%E3%80%8A%E6%A2%A6%E7%9A%84%E5%85%89%E7%82%B9%E3%80%8B&sa=fyb_news"
+   "title": "郑钦文：自己太想赢 赛前不停呕吐",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%EF%BC%9A%E8%87%AA%E5%B7%B1%E5%A4%AA%E6%83%B3%E8%B5%A2+%E8%B5%9B%E5%89%8D%E4%B8%8D%E5%81%9C%E5%91%95%E5%90%90&sa=fyb_news"
   },
   {
    "title": "李娜之后苦等14年",
@@ -363,36 +248,36 @@
    "link": "https://m.baidu.com/s?word=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E4%BC%A4%E8%87%B4%E5%B7%A6%E8%86%9D%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98&sa=fyb_news"
   },
   {
-   "title": "郑钦文收获115万美元奖金",
-   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E8%8E%B7115%E4%B8%87%E7%BE%8E%E5%85%83%E5%A5%96%E9%87%91&sa=fyb_news"
-  },
-  {
    "title": "郑钦文夺冠后拥抱教练里巴",
    "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E6%8B%A5%E6%8A%B1%E6%95%99%E7%BB%83%E9%87%8C%E5%B7%B4&sa=fyb_news"
-  },
-  {
-   "title": "外地务工人员2元彩票中500万",
-   "link": "https://m.baidu.com/s?word=%E5%A4%96%E5%9C%B0%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%982%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87&sa=fyb_news"
   },
   {
    "title": "郑钦文决赛上演闪身步",
    "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%BC%94%E9%97%AA%E8%BA%AB%E6%AD%A5&sa=fyb_news"
   },
   {
+   "title": "郑钦文父母现场见证夺冠",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E7%88%B6%E6%AF%8D%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E5%A4%BA%E5%86%A0&sa=fyb_news"
+  },
+  {
+   "title": "中央考核巡查专家：你们这么挂灯没用",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%AE%E8%80%83%E6%A0%B8%E5%B7%A1%E6%9F%A5%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E6%8C%82%E7%81%AF%E6%B2%A1%E7%94%A8&sa=fyb_news"
+  },
+  {
    "title": "亲子鉴定32份报告21个非亲生？假的",
    "link": "https://m.baidu.com/s?word=%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A32%E4%BB%BD%E6%8A%A5%E5%91%8A21%E4%B8%AA%E9%9D%9E%E4%BA%B2%E7%94%9F%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news"
   },
   {
-   "title": "王婆说媒现场29岁女舞蹈老师火了",
-   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E5%A9%86%E8%AF%B4%E5%AA%92%E7%8E%B0%E5%9C%BA29%E5%B2%81%E5%A5%B3%E8%88%9E%E8%B9%88%E8%80%81%E5%B8%88%E7%81%AB%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "特朗普：俄乌双方同意“能源停火”",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E2%80%9C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E2%80%9D&sa=fyb_news"
-  },
-  {
    "title": "二十年夫妻因1万元打斗致丈夫死亡",
    "link": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%A4%AB%E5%A6%BB%E5%9B%A01%E4%B8%87%E5%85%83%E6%89%93%E6%96%97%E8%87%B4%E4%B8%88%E5%A4%AB%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+  },
+  {
+   "title": "胖东来施工现场 干净得像AI",
+   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA+%E5%B9%B2%E5%87%80%E5%BE%97%E5%83%8FAI&sa=fyb_news"
+  },
+  {
+   "title": "外地务工人员2元彩票中500万",
+   "link": "https://m.baidu.com/s?word=%E5%A4%96%E5%9C%B0%E5%8A%A1%E5%B7%A5%E4%BA%BA%E5%91%982%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87&sa=fyb_news"
   }
  ],
  "ai": [
