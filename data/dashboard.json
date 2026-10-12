@@ -1,6 +1,6 @@
 {
  "date": "2026-10-12",
- "updatedAt": "2026-10-12 12:02",
+ "updatedAt": "2026-10-12 17:59",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4168.77",
+  "value": "4170.40",
   "unit": "美元/盎司",
-  "change": "-25.62",
-  "pct": "-0.61%",
+  "change": "-23.99",
+  "pct": "-0.57%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "83,333",
-  "cny": "557,703",
-  "pct": "+0.26%",
-  "up": true,
+  "usd": "82,447",
+  "cny": "551,749",
+  "pct": "-1.67%",
+  "up": false,
   "trend": [
-   83122.45,
-   83054.88,
-   83016.05,
-   83005.9,
-   83050.73,
-   83390.18,
-   83757.48,
-   83871.27,
-   83745.95,
-   83522.57,
-   83655.43,
-   83611.32,
-   83541.43,
-   83417.5,
-   83581.65,
-   83619.58,
-   83685.59,
-   83861.7,
-   83685.56,
-   83868.09,
-   83676.23,
-   83547.82,
-   83708.46,
-   84076.74,
-   83845.05,
-   83924.83,
-   83934.56,
-   83530.04,
-   83477.26,
-   83297.69,
-   83443.01,
-   83374.43
+   83765.31,
+   83710.89,
+   83608.22,
+   83633.25,
+   83580.97,
+   83447.45,
+   83565.96,
+   83624.17,
+   83690.87,
+   83791.77,
+   83727.47,
+   83676.87,
+   83760.24,
+   83522.29,
+   83614.57,
+   84111.69,
+   83936.65,
+   83901.48,
+   84050.58,
+   83658.34,
+   83437.71,
+   83305.22,
+   83434.9,
+   83346.57,
+   83331.17,
+   82765.57,
+   82492.42,
+   82897.16,
+   82522.76,
+   82629.99,
+   82760.88,
+   82534.21
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "长征是一次理想信念的伟大远征",
-   "link": "https://m.baidu.com/s?word=%E9%95%BF%E5%BE%81%E6%98%AF%E4%B8%80%E6%AC%A1%E7%90%86%E6%83%B3%E4%BF%A1%E5%BF%B5%E7%9A%84%E4%BC%9F%E5%A4%A7%E8%BF%9C%E5%BE%81&sa=fyb_news"
+   "title": "习近平同达达埃互致贺电",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E8%BE%BE%E8%BE%BE%E5%9F%83%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_news"
   },
   {
-   "title": "霸王茶姬买一送一：自己接不住的营销",
-   "link": "https://m.baidu.com/s?word=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%EF%BC%9A%E8%87%AA%E5%B7%B1%E6%8E%A5%E4%B8%8D%E4%BD%8F%E7%9A%84%E8%90%A5%E9%94%80&sa=fyb_news"
+   "title": "两款燃油车重回销量榜前十",
+   "link": "https://m.baidu.com/s?word=%E4%B8%A4%E6%AC%BE%E7%87%83%E6%B2%B9%E8%BD%A6%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E6%A6%9C%E5%89%8D%E5%8D%81&sa=fyb_news"
   },
   {
-   "title": "奥迪全系买一赠一？上汽奥迪回应",
-   "link": "https://m.baidu.com/s?word=%E5%A5%A5%E8%BF%AA%E5%85%A8%E7%B3%BB%E4%B9%B0%E4%B8%80%E8%B5%A0%E4%B8%80%EF%BC%9F%E4%B8%8A%E6%B1%BD%E5%A5%A5%E8%BF%AA%E5%9B%9E%E5%BA%94&sa=fyb_news"
+   "title": "“共享儿女”你能接受吗",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3%E2%80%9D%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "“进厂游”为何火了起来",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E8%BF%9B%E5%8E%82%E6%B8%B8%E2%80%9D%E4%B8%BA%E4%BD%95%E7%81%AB%E4%BA%86%E8%B5%B7%E6%9D%A5&sa=fyb_news"
+   "title": "外国游客爱上中国科技",
+   "link": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80&sa=fyb_news"
   },
   {
-   "title": "景区回应一家三口坐摩天轮舱门未关",
-   "link": "https://m.baidu.com/s?word=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%9D%90%E6%91%A9%E5%A4%A9%E8%BD%AE%E8%88%B1%E9%97%A8%E6%9C%AA%E5%85%B3&sa=fyb_news"
+   "title": "小学门口的水钻贴纸在外网火了",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E7%9A%84%E6%B0%B4%E9%92%BB%E8%B4%B4%E7%BA%B8%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "老人被撞拒绝搀扶：你走 你们也不容易",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E8%A2%AB%E6%92%9E%E6%8B%92%E7%BB%9D%E6%90%80%E6%89%B6%EF%BC%9A%E4%BD%A0%E8%B5%B0+%E4%BD%A0%E4%BB%AC%E4%B9%9F%E4%B8%8D%E5%AE%B9%E6%98%93&sa=fyb_news"
+   "title": "李娜自曝宣布退役后一个月怀孕",
+   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%A8%9C%E8%87%AA%E6%9B%9D%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%E5%90%8E%E4%B8%80%E4%B8%AA%E6%9C%88%E6%80%80%E5%AD%95&sa=fyb_news"
   },
   {
-   "title": "赵露思监制短剧演员：被认可才有工资",
-   "link": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%91%E5%88%B6%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%EF%BC%9A%E8%A2%AB%E8%AE%A4%E5%8F%AF%E6%89%8D%E6%9C%89%E5%B7%A5%E8%B5%84&sa=fyb_news"
+   "title": "女子左臀疼1个月挤出发黑注射针头",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4&sa=fyb_news"
   },
   {
-   "title": "霸王茶姬将发1350万元奖励店员",
-   "link": "https://m.baidu.com/s?word=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%86%E5%8F%911350%E4%B8%87%E5%85%83%E5%A5%96%E5%8A%B1%E5%BA%97%E5%91%98&sa=fyb_news"
+   "title": "郑钦文收入97%来自品牌代言",
+   "link": "https://m.baidu.com/s?word=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E5%85%A597%25%E6%9D%A5%E8%87%AA%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "水杯、闹钟被改造成藏手机神器 违规吗",
-   "link": "https://m.baidu.com/s?word=%E6%B0%B4%E6%9D%AF%E3%80%81%E9%97%B9%E9%92%9F%E8%A2%AB%E6%94%B9%E9%80%A0%E6%88%90%E8%97%8F%E6%89%8B%E6%9C%BA%E7%A5%9E%E5%99%A8+%E8%BF%9D%E8%A7%84%E5%90%97&sa=fyb_news"
+   "title": "老板轻拍顾客提醒上菜 顾客摔盘离开",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E8%BD%BB%E6%8B%8D%E9%A1%BE%E5%AE%A2%E6%8F%90%E9%86%92%E4%B8%8A%E8%8F%9C+%E9%A1%BE%E5%AE%A2%E6%91%94%E7%9B%98%E7%A6%BB%E5%BC%80&sa=fyb_news"
   },
   {
-   "title": "退休返聘的总裁被留置 哈药股价跌停",
-   "link": "https://m.baidu.com/s?word=%E9%80%80%E4%BC%91%E8%BF%94%E8%81%98%E7%9A%84%E6%80%BB%E8%A3%81%E8%A2%AB%E7%95%99%E7%BD%AE+%E5%93%88%E8%8D%AF%E8%82%A1%E4%BB%B7%E8%B7%8C%E5%81%9C&sa=fyb_news"
+   "title": "内娱来了五位AI艺人",
+   "link": "https://m.baidu.com/s?word=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "走路 运动延寿“第一名”",
-   "link": "https://m.baidu.com/s?word=%E8%B5%B0%E8%B7%AF+%E8%BF%90%E5%8A%A8%E5%BB%B6%E5%AF%BF%E2%80%9C%E7%AC%AC%E4%B8%80%E5%90%8D%E2%80%9D&sa=fyb_news"
+   "title": "蛋价跌回“4元时代”",
+   "link": "https://m.baidu.com/s?word=%E8%9B%8B%E4%BB%B7%E8%B7%8C%E5%9B%9E%E2%80%9C4%E5%85%83%E6%97%B6%E4%BB%A3%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "关于厄尔尼诺的三个认识误区",
-   "link": "https://m.baidu.com/s?word=%E5%85%B3%E4%BA%8E%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E7%9A%84%E4%B8%89%E4%B8%AA%E8%AE%A4%E8%AF%86%E8%AF%AF%E5%8C%BA&sa=fyb_news"
+   "title": "北京热力辟谣代缴采暖费能打折",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E7%83%AD%E5%8A%9B%E8%BE%9F%E8%B0%A3%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%93%E6%8A%98&sa=fyb_news"
   },
   {
-   "title": "男子同酒楼同时与2女子办婚宴百日宴",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%90%8C%E9%85%92%E6%A5%BC%E5%90%8C%E6%97%B6%E4%B8%8E2%E5%A5%B3%E5%AD%90%E5%8A%9E%E5%A9%9A%E5%AE%B4%E7%99%BE%E6%97%A5%E5%AE%B4&sa=fyb_news"
+   "title": "女子长假把宠物鸡寄养在养鸡场",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%95%BF%E5%81%87%E6%8A%8A%E5%AE%A0%E7%89%A9%E9%B8%A1%E5%AF%84%E5%85%BB%E5%9C%A8%E5%85%BB%E9%B8%A1%E5%9C%BA&sa=fyb_news"
   },
   {
-   "title": "徐良 脱粉",
-   "link": "https://m.baidu.com/s?word=%E5%BE%90%E8%89%AF+%E8%84%B1%E7%B2%89&sa=fyb_news"
+   "title": "董卿丈夫密春雷卸任上海人寿董事长",
+   "link": "https://m.baidu.com/s?word=%E8%91%A3%E5%8D%BF%E4%B8%88%E5%A4%AB%E5%AF%86%E6%98%A5%E9%9B%B7%E5%8D%B8%E4%BB%BB%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%AF%BF%E8%91%A3%E4%BA%8B%E9%95%BF&sa=fyb_news"
   },
   {
-   "title": "31岁抗癌博主东东离世 去世前狂吃冰",
-   "link": "https://m.baidu.com/s?word=31%E5%B2%81%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E4%B8%9C%E4%B8%9C%E7%A6%BB%E4%B8%96+%E5%8E%BB%E4%B8%96%E5%89%8D%E7%8B%82%E5%90%83%E5%86%B0&sa=fyb_news"
+   "title": "撒贝宁龙凤胎长这么大了",
+   "link": "https://m.baidu.com/s?word=%E6%92%92%E8%B4%9D%E5%AE%81%E9%BE%99%E5%87%A4%E8%83%8E%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86&sa=fyb_news"
   }
  ],
  "ai": [
