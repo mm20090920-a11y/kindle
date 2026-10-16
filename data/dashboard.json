@@ -1,333 +1,333 @@
 {
- "date": "2026-10-15",
- "updatedAt": "2026-10-15 17:05",
+ "date": "2026-10-16",
+ "updatedAt": "2026-10-16 04:34",
  "stocks": [
   {
    "name": "上证指数",
-   "value": "3707.48",
-   "change": "-59.75",
-   "pct": "-1.59%",
-   "up": false,
+   "value": "3742.66",
+   "change": "+35.18",
+   "pct": "+0.95%",
+   "up": true,
    "trend": [
-    3710.7,
-    3705.37,
-    3705.94,
-    3719.72,
-    3704.48,
-    3711.33,
-    3702.5,
-    3707.74,
-    3708.78,
-    3704.65,
-    3699.78,
-    3706.25,
-    3709.24,
-    3702.43,
-    3704.77,
-    3698.91,
-    3692.65,
-    3690.8,
-    3687.53,
-    3687.83,
-    3677.73,
-    3699.04,
-    3704.99,
-    3693.27,
-    3683.77,
-    3689.47,
-    3690.09,
-    3682.91,
-    3688.06,
-    3708.25,
-    3705.71,
-    3710.91
+    3723.8,
+    3721.17,
+    3721.55,
+    3725.9,
+    3727.4,
+    3728.46,
+    3734.83,
+    3730.88,
+    3728.19,
+    3724.61,
+    3723.6,
+    3724.07,
+    3722.46,
+    3725.83,
+    3727.72,
+    3729.53,
+    3736.68,
+    3733.79,
+    3731.72,
+    3737.15,
+    3737.25,
+    3731.61,
+    3733.21,
+    3735.96,
+    3735.75,
+    3745.23,
+    3742.88,
+    3747.96,
+    3750.77,
+    3749.12,
+    3745.7,
+    3742.82
    ]
   },
   {
    "name": "深证成指",
-   "value": "11816.79",
-   "change": "-293.80",
-   "pct": "-2.43%",
-   "up": false,
+   "value": "11957.07",
+   "change": "+140.28",
+   "pct": "+1.19%",
+   "up": true,
    "trend": [
-    11819.99,
-    11868.93,
-    11872.61,
-    11898.32,
-    11815.14,
-    11884.85,
-    11840.49,
-    11866.18,
-    11871.0,
-    11848.38,
-    11821.09,
-    11821.85,
-    11838.19,
-    11805.14,
-    11831.17,
-    11799.76,
-    11773.45,
-    11791.45,
-    11761.52,
-    11746.82,
-    11727.95,
-    11823.36,
-    11855.36,
-    11801.66,
-    11763.06,
-    11756.72,
-    11759.4,
-    11735.34,
-    11751.0,
-    11836.29,
-    11814.52,
-    11829.12
+    11965.57,
+    11934.09,
+    11924.41,
+    11901.91,
+    11897.4,
+    11887.67,
+    11923.06,
+    11887.1,
+    11871.53,
+    11863.42,
+    11841.34,
+    11836.59,
+    11820.28,
+    11845.05,
+    11858.36,
+    11881.23,
+    11920.17,
+    11906.32,
+    11884.74,
+    11910.28,
+    11894.95,
+    11865.52,
+    11874.33,
+    11893.89,
+    11889.69,
+    11940.1,
+    11937.67,
+    11968.31,
+    11983.17,
+    11977.78,
+    11970.38,
+    11950.53
    ]
   },
   {
    "name": "创业板指",
-   "value": "2783.17",
-   "change": "-83.59",
-   "pct": "-2.92%",
-   "up": false,
+   "value": "2809.90",
+   "change": "+26.73",
+   "pct": "+0.96%",
+   "up": true,
    "trend": [
-    2776.92,
-    2796.71,
-    2796.99,
-    2800.77,
-    2775.87,
-    2801.85,
-    2785.38,
-    2790.2,
-    2794.26,
-    2787.95,
-    2780.97,
-    2780.95,
-    2783.96,
-    2773.93,
-    2783.61,
-    2775.51,
-    2768.63,
-    2774.09,
-    2766.31,
-    2760.52,
-    2758.11,
-    2783.87,
-    2790.22,
-    2776.51,
-    2766.18,
-    2760.73,
-    2762.29,
-    2756.89,
-    2763.8,
+    2831.89,
+    2816.2,
+    2812.85,
+    2800.9,
+    2800.46,
+    2794.52,
+    2809.26,
+    2796.41,
+    2792.98,
+    2788.98,
+    2781.47,
+    2780.64,
+    2776.73,
+    2784.28,
     2788.46,
-    2780.81,
-    2789.1
+    2796.21,
+    2807.25,
+    2802.96,
+    2793.25,
+    2800.25,
+    2794.12,
+    2785.82,
+    2786.61,
+    2791.96,
+    2790.24,
+    2804.35,
+    2804.79,
+    2813.26,
+    2818.14,
+    2815.78,
+    2813.9,
+    2807.93
    ]
   },
   {
    "name": "恒生指数",
-   "value": "24062.72",
-   "change": "-251.45",
-   "pct": "-1.03%",
-   "up": false,
+   "value": "24353.69",
+   "change": "+290.97",
+   "pct": "+1.21%",
+   "up": true,
    "trend": [
-    24119.14,
-    24101.47,
-    24121.07,
-    24022.69,
-    24022.78,
-    24094.21,
-    24044.74,
-    24035.54,
-    24079.99,
-    24058.03,
-    24033.45,
-    24049.71,
-    24024.48,
-    24017.2,
-    23952.07,
-    23978.72,
-    24002.39,
-    23976.66,
-    23988.4,
-    24021.29,
-    23965.05,
-    23965.93,
-    23976.9,
-    23963.31,
-    23993.89,
-    23982.67,
-    23986.5,
-    24003.9,
-    23996.41,
-    24020.65,
-    24043.18,
-    24052.9
+    24321.45,
+    24358.91,
+    24358.86,
+    24364.63,
+    24354.04,
+    24315.4,
+    24292.21,
+    24265.96,
+    24278.75,
+    24288.49,
+    24280.22,
+    24283.05,
+    24285.85,
+    24297.49,
+    24330.32,
+    24376.97,
+    24383.68,
+    24358.57,
+    24356.75,
+    24378.54,
+    24359.62,
+    24367.5,
+    24364.05,
+    24360.48,
+    24339.58,
+    24315.21,
+    24321.49,
+    24298.63,
+    24301.38,
+    24323.69,
+    24363.76,
+    24360.77
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4147.35",
+  "value": "4177.86",
   "unit": "美元/盎司",
-  "change": "+42.15",
-  "pct": "+1.03%",
+  "change": "+7.28",
+  "pct": "+0.17%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "82,061",
-  "cny": "549,219",
-  "pct": "+0.09%",
+  "usd": "82,048",
+  "cny": "548,886",
+  "pct": "+0.73%",
   "up": true,
   "trend": [
-   81959.93,
-   81536.12,
-   81568.59,
-   81773.71,
-   81842.57,
-   81718.81,
-   81811.14,
-   81510.97,
-   81512.07,
-   81514.11,
-   81552.95,
-   81550.1,
-   81538.59,
-   81379.38,
-   80794.78,
-   81188.89,
-   81279.69,
-   80493.39,
-   80921.23,
-   81032.15,
-   81192.04,
-   81250.59,
-   81217.83,
-   80921.63,
-   80855.93,
-   80978.55,
-   80920.83,
-   80340.01,
-   80987.05,
-   81770.75,
-   82385.24,
-   82180.22
+   81414.69,
+   81163.05,
+   80497.63,
+   80709.71,
+   81124.99,
+   81147.73,
+   81272.99,
+   81184.46,
+   81041.06,
+   80946.52,
+   80815.8,
+   80731.18,
+   80300.0,
+   81231.4,
+   82118.53,
+   82300.61,
+   81977.59,
+   82476.99,
+   82225.56,
+   82268.21,
+   82337.83,
+   82307.69,
+   82061.73,
+   82254.15,
+   82392.43,
+   82102.73,
+   82192.29,
+   82243.13,
+   82151.9,
+   82087.63,
+   81993.41,
+   82015.28
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "总书记强调这个关键词",
-   "link": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%BA%E8%B0%83%E8%BF%99%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D&sa=fyb_news"
+   "title": "确保健康中国建设取得决定性进展",
+   "link": "https://m.baidu.com/s?word=%E7%A1%AE%E4%BF%9D%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%8F%96%E5%BE%97%E5%86%B3%E5%AE%9A%E6%80%A7%E8%BF%9B%E5%B1%95&sa=fyb_news"
   },
   {
-   "title": "地铁也抢健身房生意了",
-   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E4%B9%9F%E6%8A%A2%E5%81%A5%E8%BA%AB%E6%88%BF%E7%94%9F%E6%84%8F%E4%BA%86&sa=fyb_news"
+   "title": "教师“耻辱”合影事件调查结果公布",
+   "link": "https://m.baidu.com/s?word=%E6%95%99%E5%B8%88%E2%80%9C%E8%80%BB%E8%BE%B1%E2%80%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83&sa=fyb_news"
   },
   {
-   "title": "新郎新娘送完宾客后对视泪崩刷屏全网",
-   "link": "https://m.baidu.com/s?word=%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E9%80%81%E5%AE%8C%E5%AE%BE%E5%AE%A2%E5%90%8E%E5%AF%B9%E8%A7%86%E6%B3%AA%E5%B4%A9%E5%88%B7%E5%B1%8F%E5%85%A8%E7%BD%91&sa=fyb_news"
+   "title": "中国肯德基门店回应“换可口可乐”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E2%80%9C%E6%8D%A2%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "中国外贸何以“加速跑”",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E4%BD%95%E4%BB%A5%E2%80%9C%E5%8A%A0%E9%80%9F%E8%B7%91%E2%80%9D&sa=fyb_news"
+   "title": "今年汽车出口有望突破1000万辆",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B41000%E4%B8%87%E8%BE%86&sa=fyb_news"
   },
   {
-   "title": "人民日报：严打“公考围岗”",
-   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%A5%E6%89%93%E2%80%9C%E5%85%AC%E8%80%83%E5%9B%B4%E5%B2%97%E2%80%9D&sa=fyb_news"
+   "title": "阳朔：对全县桂花各环节拉网式排查",
+   "link": "https://m.baidu.com/s?word=%E9%98%B3%E6%9C%94%EF%BC%9A%E5%AF%B9%E5%85%A8%E5%8E%BF%E6%A1%82%E8%8A%B1%E5%90%84%E7%8E%AF%E8%8A%82%E6%8B%89%E7%BD%91%E5%BC%8F%E6%8E%92%E6%9F%A5&sa=fyb_news"
   },
   {
-   "title": "13岁男孩身高195cm 全网求长高食谱",
-   "link": "https://m.baidu.com/s?word=13%E5%B2%81%E7%94%B7%E5%AD%A9%E8%BA%AB%E9%AB%98195cm+%E5%85%A8%E7%BD%91%E6%B1%82%E9%95%BF%E9%AB%98%E9%A3%9F%E8%B0%B1&sa=fyb_news"
+   "title": "以色列总统发言 28国中13国代表离席",
+   "link": "https://m.baidu.com/s?word=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A8%80+28%E5%9B%BD%E4%B8%AD13%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%A6%BB%E5%B8%AD&sa=fyb_news"
   },
   {
-   "title": "婴儿飞机上全程哭闹 乘客无一人抱怨",
-   "link": "https://m.baidu.com/s?word=%E5%A9%B4%E5%84%BF%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%85%A8%E7%A8%8B%E5%93%AD%E9%97%B9+%E4%B9%98%E5%AE%A2%E6%97%A0%E4%B8%80%E4%BA%BA%E6%8A%B1%E6%80%A8&sa=fyb_news"
+   "title": "机器人猥亵少女 主人被德国警方抓获",
+   "link": "https://m.baidu.com/s?word=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8C%A5%E4%BA%B5%E5%B0%91%E5%A5%B3+%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%BE%B7%E5%9B%BD%E8%AD%A6%E6%96%B9%E6%8A%93%E8%8E%B7&sa=fyb_news"
   },
   {
-   "title": "年轻人开始整顿婚礼",
-   "link": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E5%A9%9A%E7%A4%BC&sa=fyb_news"
+   "title": "特斯拉Roadster 2",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89Roadster+2&sa=fyb_news"
   },
   {
-   "title": "羊肉标价每克19元引吐槽 店家致歉",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8A%E8%82%89%E6%A0%87%E4%BB%B7%E6%AF%8F%E5%85%8B19%E5%85%83%E5%BC%95%E5%90%90%E6%A7%BD+%E5%BA%97%E5%AE%B6%E8%87%B4%E6%AD%89&sa=fyb_news"
+   "title": "又一个千万人口大市要来了",
+   "link": "https://m.baidu.com/s?word=%E5%8F%88%E4%B8%80%E4%B8%AA%E5%8D%83%E4%B8%87%E4%BA%BA%E5%8F%A3%E5%A4%A7%E5%B8%82%E8%A6%81%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "7岁女孩用电话手表给姨妈拍婚礼大片",
-   "link": "https://m.baidu.com/s?word=7%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%BB%99%E5%A7%A8%E5%A6%88%E6%8B%8D%E5%A9%9A%E7%A4%BC%E5%A4%A7%E7%89%87&sa=fyb_news"
+   "title": "男子花11万拿乌克兰硕士文凭成废纸",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%8A%B111%E4%B8%87%E6%8B%BF%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A1%95%E5%A3%AB%E6%96%87%E5%87%AD%E6%88%90%E5%BA%9F%E7%BA%B8&sa=fyb_news"
   },
   {
-   "title": "香港警方通报珠宝大劫案：拘捕1男1女",
-   "link": "https://m.baidu.com/s?word=%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E5%AE%9D%E5%A4%A7%E5%8A%AB%E6%A1%88%EF%BC%9A%E6%8B%98%E6%8D%951%E7%94%B71%E5%A5%B3&sa=fyb_news"
+   "title": "深圳3小时超2万人申报停驶",
+   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B33%E5%B0%8F%E6%97%B6%E8%B6%852%E4%B8%87%E4%BA%BA%E7%94%B3%E6%8A%A5%E5%81%9C%E9%A9%B6&sa=fyb_news"
   },
   {
-   "title": "网传超级工程隧洞“挖偏”系谣言",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E8%B6%85%E7%BA%A7%E5%B7%A5%E7%A8%8B%E9%9A%A7%E6%B4%9E%E2%80%9C%E6%8C%96%E5%81%8F%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "两医护赴泰旅游遭谋杀摘器官系谣言",
+   "link": "https://m.baidu.com/s?word=%E4%B8%A4%E5%8C%BB%E6%8A%A4%E8%B5%B4%E6%B3%B0%E6%97%85%E6%B8%B8%E9%81%AD%E8%B0%8B%E6%9D%80%E6%91%98%E5%99%A8%E5%AE%98%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "医生回应女子健身后尿液变成深褐色",
-   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E5%90%8E%E5%B0%BF%E6%B6%B2%E5%8F%98%E6%88%90%E6%B7%B1%E8%A4%90%E8%89%B2&sa=fyb_news"
+   "title": "为病妻做的游戏全世界都嗑到了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E7%97%85%E5%A6%BB%E5%81%9A%E7%9A%84%E6%B8%B8%E6%88%8F%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%97%91%E5%88%B0%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "A股“市值一哥”再度易主",
-   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E2%80%9C%E5%B8%82%E5%80%BC%E4%B8%80%E5%93%A5%E2%80%9D%E5%86%8D%E5%BA%A6%E6%98%93%E4%B8%BB&sa=fyb_news"
+   "title": "母子衣衫不整街头游荡 官方回应",
+   "link": "https://m.baidu.com/s?word=%E6%AF%8D%E5%AD%90%E8%A1%A3%E8%A1%AB%E4%B8%8D%E6%95%B4%E8%A1%97%E5%A4%B4%E6%B8%B8%E8%8D%A1+%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94&sa=fyb_news"
   },
   {
-   "title": "“流浪大师”沈巍将退休 病休超30年",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B5%81%E6%B5%AA%E5%A4%A7%E5%B8%88%E2%80%9D%E6%B2%88%E5%B7%8D%E5%B0%86%E9%80%80%E4%BC%91+%E7%97%85%E4%BC%91%E8%B6%8530%E5%B9%B4&sa=fyb_news"
+   "title": "A股",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
-   "link": "https://x.com/GeminiApp/status/2110491358498865638"
+   "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+   "link": "https://pytorch.org/blog/muse-spark-open/"
   },
   {
-   "title": "xAI 发布 Grok Voice 3.0 语音模型",
-   "link": "https://x.ai/news/grok-voice-3"
+   "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+   "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
   },
   {
-   "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
-   "link": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+   "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+   "link": "https://bfl.ai/blog/flux-3-image-klein"
   },
   {
-   "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-   "link": "https://lovable.dev/blog/introducing-growth-tools"
+   "title": "阶跃星辰开放 Step 5 Preview 权重",
+   "link": "https://x.com/StepFun_ai/status/2110717330657616092"
   },
   {
-   "title": "Modal 年化收入突破 10 亿美元并完成 7.5 亿美元 D 轮融资",
-   "link": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+   "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
+   "link": "https://x.com/ChatGPT/status/2110823738531037651"
   },
   {
-   "title": "欧盟就模型越狱事件调查 OpenAI 和 Anthropic，最高可罚全球营业额 3%",
-   "link": "https://www.ithome.com/1/013/154.htm"
+   "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+   "link": "https://x.com/Kling_ai/status/2110747537187709424"
   },
   {
-   "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-   "link": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/"
+   "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+   "link": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner"
   },
   {
-   "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-   "link": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014"
+   "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+   "link": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/"
   },
   {
-   "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-   "link": "https://x.com/lydiahallie/status/2110484841926152622"
+   "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+   "link": "https://www.ithome.com/1/013/160.htm"
   },
   {
-   "title": "Claude Code 云端会话介绍，支持手机发起和并行运行",
-   "link": "https://www.youtube.com/shorts/nJMwXtD56mA"
+   "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+   "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"
   },
   {
-   "title": "OpenAI 团队分享如何用 GPT-6 系列模型维护大型代码库",
-   "link": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
+   "title": "Anthropic 公布独立评估机制细节，METR 团队获类员工访问权限",
+   "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
   },
   {
-   "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-   "link": "https://www.langchain.com/blog/context-engineering-deep-agents-remember"
+   "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+   "link": "https://x.com/Khazix0918/status/2110587546271191166"
   }
  ]
 }
