@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updatedAt": "2026-10-21 13:52",
+ "updatedAt": "2026-10-21 17:16",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4134.55",
+  "value": "4132.55",
   "unit": "美元/盎司",
-  "change": "+9.47",
-  "pct": "+0.23%",
+  "change": "+7.47",
+  "pct": "+0.18%",
   "up": true
  },
  "forex": [
@@ -206,93 +206,93 @@
   }
  ],
  "btc": {
-  "usd": "83,788",
-  "cny": "559,349",
-  "pct": "+2.49%",
+  "usd": "84,358",
+  "cny": "563,309",
+  "pct": "+1.97%",
   "up": true,
   "trend": [
-   81815.32,
-   83079.61,
-   82405.21,
-   82512.02,
-   82661.19,
-   82756.7,
-   82532.24,
-   82463.21,
-   82545.18,
-   82679.33,
-   82837.13,
-   83024.13,
-   83061.09,
-   82839.04,
-   83124.45,
-   82760.88,
-   83016.85,
-   82719.99,
-   82685.4,
-   82738.18,
-   82697.63,
-   82773.83,
-   82626.3,
-   82723.82,
-   83097.65,
-   83095.58,
-   83413.47,
-   83315.8,
-   83317.23,
-   83327.28,
-   83461.77,
-   83667.91
+   82695.99,
+   82644.08,
+   82454.02,
+   82421.79,
+   82518.29,
+   82773.68,
+   82848.79,
+   82985.36,
+   82901.02,
+   82905.56,
+   83061.79,
+   82915.54,
+   82784.8,
+   82744.09,
+   82731.44,
+   82743.15,
+   82815.48,
+   82607.51,
+   82725.42,
+   83050.74,
+   83041.15,
+   83170.55,
+   83309.02,
+   83252.77,
+   83341.68,
+   83467.46,
+   83421.61,
+   83329.91,
+   83795.19,
+   84450.18,
+   84409.93,
+   84553.24
   ]
  },
  "weibo": [
   {
-   "title": "一诺状态",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E7%8A%B6%E6%80%81"
-  },
-  {
-   "title": "AG年总止步突围赛",
-   "link": "https://s.weibo.com/weibo?q=AG%E5%B9%B4%E6%80%BB%E6%AD%A2%E6%AD%A5%E7%AA%81%E5%9B%B4%E8%B5%9B"
-  },
-  {
-   "title": "他们走过二万五千里换来今天",
-   "link": "https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%AC%E8%B5%B0%E8%BF%87%E4%BA%8C%E4%B8%87%E4%BA%94%E5%8D%83%E9%87%8C%E6%8D%A2%E6%9D%A5%E4%BB%8A%E5%A4%A9"
+   "title": "和女同事相处真的要小心分寸",
+   "link": "https://s.weibo.com/weibo?q=%E5%92%8C%E5%A5%B3%E5%90%8C%E4%BA%8B%E7%9B%B8%E5%A4%84%E7%9C%9F%E7%9A%84%E8%A6%81%E5%B0%8F%E5%BF%83%E5%88%86%E5%AF%B8"
   },
   {
    "title": "红果短剧自砍摇钱树",
    "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E8%87%AA%E7%A0%8D%E6%91%87%E9%92%B1%E6%A0%91"
   },
   {
-   "title": "小城良方收视冲顶",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E5%86%B2%E9%A1%B6"
+   "title": "长征硬核知识点十问十答",
+   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E7%A1%AC%E6%A0%B8%E7%9F%A5%E8%AF%86%E7%82%B9%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94"
   },
   {
-   "title": "一生断句的中国人",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%94%9F%E6%96%AD%E5%8F%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA"
+   "title": "AG 退役",
+   "link": "https://s.weibo.com/weibo?q=AG%20%E9%80%80%E5%BD%B9"
   },
   {
-   "title": "小城良方收视率走势",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E7%8E%87%E8%B5%B0%E5%8A%BF"
+   "title": "长生 AG",
+   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%94%9F%20AG"
   },
   {
-   "title": "芭莎盛典红毯",
-   "link": "https://s.weibo.com/weibo?q=%E8%8A%AD%E8%8E%8E%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF"
-  },
-  {
-   "title": "肖战刘铮亮当群演了",
-   "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%BD%93%E7%BE%A4%E6%BC%94%E4%BA%86"
-  },
-  {
-   "title": "钟意长生拥抱",
-   "link": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E9%95%BF%E7%94%9F%E6%8B%A5%E6%8A%B1"
+   "title": "张小斐 救场",
+   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%95%91%E5%9C%BA"
   },
   {
    "title": "曝自费高定艺人名字",
    "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97"
   },
   {
-   "title": "张小斐 救场",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%95%91%E5%9C%BA"
+   "title": "芭莎 有人在后台不出来",
+   "link": "https://s.weibo.com/weibo?q=%E8%8A%AD%E8%8E%8E%20%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%90%8E%E5%8F%B0%E4%B8%8D%E5%87%BA%E6%9D%A5"
+  },
+  {
+   "title": "蔡文静在张小斐之前走完红毯了",
+   "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E6%96%87%E9%9D%99%E5%9C%A8%E5%BC%A0%E5%B0%8F%E6%96%90%E4%B9%8B%E5%89%8D%E8%B5%B0%E5%AE%8C%E7%BA%A2%E6%AF%AF%E4%BA%86"
+  },
+  {
+   "title": "肖战小城良方路人进场",
+   "link": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%B7%AF%E4%BA%BA%E8%BF%9B%E5%9C%BA"
+  },
+  {
+   "title": "泽连斯基愿保留75%领土以达和平",
+   "link": "https://s.weibo.com/weibo?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E4%BB%A5%E8%BE%BE%E5%92%8C%E5%B9%B3"
+  },
+  {
+   "title": "网友物理推导问界M9车速",
+   "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%89%A9%E7%90%86%E6%8E%A8%E5%AF%BC%E9%97%AE%E7%95%8CM9%E8%BD%A6%E9%80%9F"
   }
  ],
  "zhihu": [
@@ -309,20 +309,32 @@
    "link": "https://www.zhihu.com/question/2095917714824853457"
   },
   {
+   "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？",
+   "link": "https://www.zhihu.com/question/2095840965227561820"
+  },
+  {
+   "title": "印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响？",
+   "link": "https://www.zhihu.com/question/2096267545154172328"
+  },
+  {
+   "title": "泽连斯基表示，乌克兰愿在保留至少75%领土控制权的基础上达成和平协议，你怎么看？",
+   "link": "https://www.zhihu.com/question/2096328160241633097"
+  },
+  {
+   "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+   "link": "https://www.zhihu.com/question/2095674841978488596"
+  },
+  {
    "title": "网友高铁偶遇自称114岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到AI时代的人生会是怎样的？",
    "link": "https://www.zhihu.com/question/2095844033167716971"
   },
   {
-   "title": "如何看待电视剧《兰香如故》兵部尚书韩粱被冻死这一情节？",
-   "link": "https://www.zhihu.com/question/2095950891564151540"
+   "title": "为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗？",
+   "link": "https://www.zhihu.com/question/2095972167292643045"
   },
   {
-   "title": "如何看待武志红和李雪公开互撕，互相指控对方是 NPD？他们之间有什么恩怨？",
-   "link": "https://www.zhihu.com/question/2096232556978860735"
-  },
-  {
-   "title": "星巴克中国称10月22日起将在全国开始施行消费入座，你支持吗？消费入座对门店业绩和顾客体验有哪些影响？",
-   "link": "https://www.zhihu.com/question/2096194931823830459"
+   "title": "如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行？",
+   "link": "https://www.zhihu.com/question/2096332490944110660"
   },
   {
    "title": "如何看待 52 岁刘恺威与 32 岁黎纪君恋情公开，两人因匹克球互生情愫，已秘密恋爱两个月？",
@@ -331,18 +343,6 @@
   {
    "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
    "link": "https://www.zhihu.com/question/2096169041811478462"
-  },
-  {
-   "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号？",
-   "link": "https://www.zhihu.com/question/2095840965227561820"
-  },
-  {
-   "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
-   "link": "https://www.zhihu.com/question/2096182082548523173"
-  },
-  {
-   "title": "日本年轻人流行「取消吃饭」，背后折射出怎样的现实困境？",
-   "link": "https://www.zhihu.com/question/2095145716528291950"
   }
  ],
  "baidu": [
@@ -351,40 +351,40 @@
    "link": "https://m.baidu.com/s?word=%E8%B5%B0%E5%A5%BD%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E9%95%BF%E5%BE%81%E8%B7%AF&sa=fyb_news"
   },
   {
-   "title": "泽连斯基：愿保留75%领土控制权达协议",
-   "link": "https://m.baidu.com/s?word=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E6%8E%A7%E5%88%B6%E6%9D%83%E8%BE%BE%E5%8D%8F%E8%AE%AE&sa=fyb_news"
+   "title": "年轻人盯上养老院里的新职业",
+   "link": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%85%BB%E8%80%81%E9%99%A2%E9%87%8C%E7%9A%84%E6%96%B0%E8%81%8C%E4%B8%9A&sa=fyb_news"
   },
   {
-   "title": "高校通知：老师上课严禁全程依赖PPT",
-   "link": "https://m.baidu.com/s?word=%E9%AB%98%E6%A0%A1%E9%80%9A%E7%9F%A5%EF%BC%9A%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E4%B8%A5%E7%A6%81%E5%85%A8%E7%A8%8B%E4%BE%9D%E8%B5%96PPT&sa=fyb_news"
+   "title": "王虹再获大奖",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E8%99%B9%E5%86%8D%E8%8E%B7%E5%A4%A7%E5%A5%96&sa=fyb_news"
   },
   {
    "title": "它们为什么都叫“长征”",
    "link": "https://m.baidu.com/s?word=%E5%AE%83%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E2%80%9C%E9%95%BF%E5%BE%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "钟睒睒押注医美",
-   "link": "https://m.baidu.com/s?word=%E9%92%9F%E7%9D%92%E7%9D%92%E6%8A%BC%E6%B3%A8%E5%8C%BB%E7%BE%8E&sa=fyb_news"
+   "title": "PHP出现严重漏洞 多国紧急下线",
+   "link": "https://m.baidu.com/s?word=PHP%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E+%E5%A4%9A%E5%9B%BD%E7%B4%A7%E6%80%A5%E4%B8%8B%E7%BA%BF&sa=fyb_news"
   },
   {
-   "title": "央视曝光新型黑恶劳务碰瓷",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E9%BB%91%E6%81%B6%E5%8A%B3%E5%8A%A1%E7%A2%B0%E7%93%B7&sa=fyb_news"
+   "title": "红果把观众的时间标好了价",
+   "link": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E6%8A%8A%E8%A7%82%E4%BC%97%E7%9A%84%E6%97%B6%E9%97%B4%E6%A0%87%E5%A5%BD%E4%BA%86%E4%BB%B7&sa=fyb_news"
+  },
+  {
+   "title": "地铁站内看书5小时被扣15元",
+   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E9%93%81%E7%AB%99%E5%86%85%E7%9C%8B%E4%B9%A65%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%89%A315%E5%85%83&sa=fyb_news"
+  },
+  {
+   "title": "赵露思被质疑自费购买高定",
+   "link": "https://m.baidu.com/s?word=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%A2%AB%E8%B4%A8%E7%96%91%E8%87%AA%E8%B4%B9%E8%B4%AD%E4%B9%B0%E9%AB%98%E5%AE%9A&sa=fyb_news"
   },
   {
    "title": "董明珠：喊我奶奶 我听了很不开心",
    "link": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E5%96%8A%E6%88%91%E5%A5%B6%E5%A5%B6+%E6%88%91%E5%90%AC%E4%BA%86%E5%BE%88%E4%B8%8D%E5%BC%80%E5%BF%83&sa=fyb_news"
   },
   {
-   "title": "SpaceX绩后大涨8%",
-   "link": "https://m.baidu.com/s?word=SpaceX%E7%BB%A9%E5%90%8E%E5%A4%A7%E6%B6%A88%25&sa=fyb_news"
-  },
-  {
-   "title": "马天宇张萌十年后重聚 节目中大哭",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%E5%8D%81%E5%B9%B4%E5%90%8E%E9%87%8D%E8%81%9A+%E8%8A%82%E7%9B%AE%E4%B8%AD%E5%A4%A7%E5%93%AD&sa=fyb_news"
-  },
-  {
-   "title": "14家银行叫停或限制个人异地存款",
-   "link": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news"
+   "title": "曝张小斐芭莎红毯救场",
+   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E5%BC%A0%E5%B0%8F%E6%96%90%E8%8A%AD%E8%8E%8E%E7%BA%A2%E6%AF%AF%E6%95%91%E5%9C%BA&sa=fyb_news"
   },
   {
    "title": "纪念活动男子吹响冲锋号 全场沸腾",
@@ -395,16 +395,16 @@
    "link": "https://m.baidu.com/s?word=%E4%BA%94%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%AA%97%E5%B1%80%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news"
   },
   {
-   "title": "3小时内连杀3人 49岁男子被判死刑",
-   "link": "https://m.baidu.com/s?word=3%E5%B0%8F%E6%97%B6%E5%86%85%E8%BF%9E%E6%9D%803%E4%BA%BA+49%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91&sa=fyb_news"
+   "title": "14家银行叫停或限制个人异地存款",
+   "link": "https://m.baidu.com/s?word=14%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AB%E5%81%9C%E6%88%96%E9%99%90%E5%88%B6%E4%B8%AA%E4%BA%BA%E5%BC%82%E5%9C%B0%E5%AD%98%E6%AC%BE&sa=fyb_news"
   },
   {
-   "title": "毛不易在朋友婚礼上真诚致辞",
-   "link": "https://m.baidu.com/s?word=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%9C%9F%E8%AF%9A%E8%87%B4%E8%BE%9E&sa=fyb_news"
+   "title": "小沈阳重现甩刘海名场面",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E6%B2%88%E9%98%B3%E9%87%8D%E7%8E%B0%E7%94%A9%E5%88%98%E6%B5%B7%E5%90%8D%E5%9C%BA%E9%9D%A2&sa=fyb_news"
   },
   {
-   "title": "网红国货“被迫”改名 亏损6000万",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E5%9B%BD%E8%B4%A7%E2%80%9C%E8%A2%AB%E8%BF%AB%E2%80%9D%E6%94%B9%E5%90%8D+%E4%BA%8F%E6%8D%9F6000%E4%B8%87&sa=fyb_news"
+   "title": "全世界年轻人都不爱接陌生电话",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E4%B8%96%E7%95%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E4%B8%8D%E7%88%B1%E6%8E%A5%E9%99%8C%E7%94%9F%E7%94%B5%E8%AF%9D&sa=fyb_news"
   }
  ],
  "ai": [
