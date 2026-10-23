@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "updatedAt": "2026-10-23 13:31",
+ "updatedAt": "2026-10-23 17:12",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,65 +169,31 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4026.39",
+  "value": "3997.90",
   "unit": "美元/盎司",
-  "change": "+2.13",
-  "pct": "+0.05%",
-  "up": true
+  "change": "-26.36",
+  "pct": "-0.66%",
+  "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.688",
-   "change": "+0.0002",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "欧元",
-   "value": "7.497",
-   "change": "+0.0004",
-   "pct": "+0.01%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.853",
-   "change": "+0.0003",
-   "pct": "+0.03%",
-   "up": true
-  },
-  {
-   "name": "100日元",
-   "value": "4.257",
-   "change": "+0.0003",
-   "pct": "+0.01%",
-   "up": true
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "81,642",
-  "cny": "544,755",
-  "pct": "-0.05%",
-  "up": false,
+  "usd": "81,681",
+  "cny": "545,168",
+  "pct": "+0.68%",
+  "up": true,
   "trend": [
-   81928.47,
-   81602.17,
-   81810.36,
-   81461.04,
-   81516.11,
-   81312.55,
-   81048.66,
-   81275.78,
-   81331.4,
-   81253.5,
-   81307.93,
-   81376.42,
-   81312.12,
-   81255.47,
-   81180.54,
-   81431.57,
-   81202.77,
+   81113.83,
+   80996.16,
+   81252.66,
+   81407.04,
+   81269.11,
+   81166.71,
+   81387.98,
+   81284.98,
+   81256.4,
+   81211.39,
+   81427.68,
+   81294.49,
    81330.54,
    81813.9,
    81842.38,
@@ -242,169 +208,76 @@
    81611.32,
    81542.53,
    81589.09,
-   81655.23
+   81655.23,
+   81695.2,
+   81130.8,
+   81497.04,
+   81514.22,
+   81631.63
   ]
  },
- "weibo": [
-  {
-   "title": "人一旦在有地铁的城市待久了",
-   "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E5%9C%A8%E6%9C%89%E5%9C%B0%E9%93%81%E7%9A%84%E5%9F%8E%E5%B8%82%E5%BE%85%E4%B9%85%E4%BA%86"
-  },
-  {
-   "title": "iPhoneDuo 华为",
-   "link": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%8D%8E%E4%B8%BA"
-  },
-  {
-   "title": "从消费数据看经济向好态势",
-   "link": "https://s.weibo.com/weibo?q=%E4%BB%8E%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E7%9C%8B%E7%BB%8F%E6%B5%8E%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF"
-  },
-  {
-   "title": "最高法通报牟某虐待案细节",
-   "link": "https://s.weibo.com/weibo?q=%E6%9C%80%E9%AB%98%E6%B3%95%E9%80%9A%E6%8A%A5%E7%89%9F%E6%9F%90%E8%99%90%E5%BE%85%E6%A1%88%E7%BB%86%E8%8A%82"
-  },
-  {
-   "title": "李昌钰发妻离世后与蒋霞萍频繁通信",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8C%E9%92%B0%E5%8F%91%E5%A6%BB%E7%A6%BB%E4%B8%96%E5%90%8E%E4%B8%8E%E8%92%8B%E9%9C%9E%E8%90%8D%E9%A2%91%E7%B9%81%E9%80%9A%E4%BF%A1"
-  },
-  {
-   "title": "尚公主首播反响",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D"
-  },
-  {
-   "title": "减缓人工智能应用就业替代影响",
-   "link": "https://s.weibo.com/weibo?q=%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D"
-  },
-  {
-   "title": "李昌钰妻子落泪喊我带你回家",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8C%E9%92%B0%E5%A6%BB%E5%AD%90%E8%90%BD%E6%B3%AA%E5%96%8A%E6%88%91%E5%B8%A6%E4%BD%A0%E5%9B%9E%E5%AE%B6"
-  },
-  {
-   "title": "台风",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E"
-  },
-  {
-   "title": "普京称乌领导层想继续打那就打",
-   "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B9%8C%E9%A2%86%E5%AF%BC%E5%B1%82%E6%83%B3%E7%BB%A7%E7%BB%AD%E6%89%93%E9%82%A3%E5%B0%B1%E6%89%93"
-  },
-  {
-   "title": "迪丽热巴 毯神",
-   "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%AF%AF%E7%A5%9E"
-  },
-  {
-   "title": "白鹿 神之九秒",
-   "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E7%A5%9E%E4%B9%8B%E4%B9%9D%E7%A7%92"
-  }
- ],
- "zhihu": [
-  {
-   "title": "原「死了么」App 年费最高 199 元，由政府采购供独居老人免费使用，收费高吗？政府采购有必要吗？",
-   "link": "https://www.zhihu.com/question/2096880010871007016"
-  },
-  {
-   "title": "如何评价莫大「旭日旗事件」涉事学生开除文件已下达，但因涉及隐私法律规定或将不对外公开？",
-   "link": "https://www.zhihu.com/question/2096969379007000835"
-  },
-  {
-   "title": "DeepSeek拟新融资1000亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-   "link": "https://www.zhihu.com/question/2096713518582179306"
-  },
-  {
-   "title": "一顺风车司机困了让乘客开车，自己睡到目的地还照常收钱，平台最初只赔20元代金券，最后全额退款，合理吗？",
-   "link": "https://www.zhihu.com/question/2096650914333566731"
-  },
-  {
-   "title": "为什么我国在黄海要进行持续 47 天的实弹射击？释放了哪些信号？",
-   "link": "https://www.zhihu.com/question/2096358861804511510"
-  },
-  {
-   "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
-   "link": "https://www.zhihu.com/question/2096564979164095426"
-  },
-  {
-   "title": "真的有公司裁员裁到“大动脉”，最后不得不花高价把人请回来的吗？",
-   "link": "https://www.zhihu.com/question/2095467399596266995"
-  },
-  {
-   "title": "如何评价Shams 爆料勇士探索交易波尔津吉斯，后者若无法康复可能永久退役？这算是诈骗行为吗？",
-   "link": "https://www.zhihu.com/question/2096510150119106153"
-  },
-  {
-   "title": "外媒发文称「如 BLG 无法在 S16 夺冠，LPL 将无法保持第二赛区地位」如何评价他的观点？",
-   "link": "https://www.zhihu.com/question/2095888059124249103"
-  },
-  {
-   "title": "孩子在幼儿园被抢玩具后推倒了同学，对方家长要求道歉，但孩子坚决拒绝，我该强迫他道歉吗？",
-   "link": "https://www.zhihu.com/question/2096911163732779810"
-  },
-  {
-   "title": "曝波兰爆发大规模抗议活动，数百万人涌上街头，具体什么情况？为啥欧洲最近都在陆续爆发大规模的抗议活动？",
-   "link": "https://www.zhihu.com/question/2096731185820819857"
-  },
-  {
-   "title": "推荐一本好书可以吗？",
-   "link": "https://www.zhihu.com/question/1896299040670454569"
-  }
- ],
+ "weibo": [],
+ "zhihu": [],
  "baidu": [
   {
    "title": "党和人民军队铿锵前进的制胜之道",
    "link": "https://m.baidu.com/s?word=%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%E9%93%BF%E9%94%B5%E5%89%8D%E8%BF%9B%E7%9A%84%E5%88%B6%E8%83%9C%E4%B9%8B%E9%81%93&sa=fyb_news"
   },
   {
-   "title": "西藏巴青地震为一次拉张型破裂",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E4%B8%BA%E4%B8%80%E6%AC%A1%E6%8B%89%E5%BC%A0%E5%9E%8B%E7%A0%B4%E8%A3%82&sa=fyb_news"
+   "title": "网红拼豆店 倒闭潮",
+   "link": "https://m.baidu.com/s?word=%E7%BD%91%E7%BA%A2%E6%8B%BC%E8%B1%86%E5%BA%97+%E5%80%92%E9%97%AD%E6%BD%AE&sa=fyb_news"
   },
   {
-   "title": "许家印被曝曾花13亿港元买艺术品",
-   "link": "https://m.baidu.com/s?word=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E6%9B%9D%E6%9B%BE%E8%8A%B113%E4%BA%BF%E6%B8%AF%E5%85%83%E4%B9%B0%E8%89%BA%E6%9C%AF%E5%93%81&sa=fyb_news"
+   "title": "哈啰顺风车 涉黄",
+   "link": "https://m.baidu.com/s?word=%E5%93%88%E5%95%B0%E9%A1%BA%E9%A3%8E%E8%BD%A6+%E6%B6%89%E9%BB%84&sa=fyb_news"
   },
   {
    "title": "人民子弟兵投入西藏巴青抗震救灾",
    "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E6%8A%95%E5%85%A5%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE&sa=fyb_news"
   },
   {
-   "title": "“想挣我钱 又喊我老登”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%83%B3%E6%8C%A3%E6%88%91%E9%92%B1+%E5%8F%88%E5%96%8A%E6%88%91%E8%80%81%E7%99%BB%E2%80%9D&sa=fyb_news"
+   "title": "未成年人向火锅小便 家长被判赔220万",
+   "link": "https://m.baidu.com/s?word=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%91%E7%81%AB%E9%94%85%E5%B0%8F%E4%BE%BF+%E5%AE%B6%E9%95%BF%E8%A2%AB%E5%88%A4%E8%B5%94220%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "顾客理发时死亡 店员施救被索赔46万",
-   "link": "https://m.baidu.com/s?word=%E9%A1%BE%E5%AE%A2%E7%90%86%E5%8F%91%E6%97%B6%E6%AD%BB%E4%BA%A1+%E5%BA%97%E5%91%98%E6%96%BD%E6%95%91%E8%A2%AB%E7%B4%A2%E8%B5%9446%E4%B8%87&sa=fyb_news"
+   "title": "13岁女孩卖妈妈金项链 金店当面熔化",
+   "link": "https://m.baidu.com/s?word=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E5%A6%88%E5%A6%88%E9%87%91%E9%A1%B9%E9%93%BE+%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96&sa=fyb_news"
   },
   {
-   "title": "9岁孩子“开门杀” 司机获刑",
-   "link": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E2%80%9C%E5%BC%80%E9%97%A8%E6%9D%80%E2%80%9D+%E5%8F%B8%E6%9C%BA%E8%8E%B7%E5%88%91&sa=fyb_news"
+   "title": "红果短剧开始“筛人”",
+   "link": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%BC%80%E5%A7%8B%E2%80%9C%E7%AD%9B%E4%BA%BA%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "朱亚文在《人民日报》撰文",
-   "link": "https://m.baidu.com/s?word=%E6%9C%B1%E4%BA%9A%E6%96%87%E5%9C%A8%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E6%92%B0%E6%96%87&sa=fyb_news"
+   "title": "新人结婚 大鹏：这照片就是我随的份子",
+   "link": "https://m.baidu.com/s?word=%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A+%E5%A4%A7%E9%B9%8F%EF%BC%9A%E8%BF%99%E7%85%A7%E7%89%87%E5%B0%B1%E6%98%AF%E6%88%91%E9%9A%8F%E7%9A%84%E4%BB%BD%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "巨额打赏女主播的“陈哥”年仅15岁",
-   "link": "https://m.baidu.com/s?word=%E5%B7%A8%E9%A2%9D%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9A%84%E2%80%9C%E9%99%88%E5%93%A5%E2%80%9D%E5%B9%B4%E4%BB%8515%E5%B2%81&sa=fyb_news"
+   "title": "福建前首富林秀成被批捕",
+   "link": "https://m.baidu.com/s?word=%E7%A6%8F%E5%BB%BA%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9E%97%E7%A7%80%E6%88%90%E8%A2%AB%E6%89%B9%E6%8D%95&sa=fyb_news"
   },
   {
-   "title": "1996版三毛扮演者回应走红时突然消失",
-   "link": "https://m.baidu.com/s?word=1996%E7%89%88%E4%B8%89%E6%AF%9B%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%E6%97%B6%E7%AA%81%E7%84%B6%E6%B6%88%E5%A4%B1&sa=fyb_news"
+   "title": "欧阳娜娜红毯变装创意太妙了",
+   "link": "https://m.baidu.com/s?word=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%BA%A2%E6%AF%AF%E5%8F%98%E8%A3%85%E5%88%9B%E6%84%8F%E5%A4%AA%E5%A6%99%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "研究生毕业 不用写论文",
-   "link": "https://m.baidu.com/s?word=%E7%A0%94%E7%A9%B6%E7%94%9F%E6%AF%95%E4%B8%9A+%E4%B8%8D%E7%94%A8%E5%86%99%E8%AE%BA%E6%96%87&sa=fyb_news"
+   "title": "S16",
+   "link": "https://m.baidu.com/s?word=S16&sa=fyb_news"
   },
   {
    "title": "警惕涉西藏巴青7.0级地震不实信息",
    "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%83%95%E6%B6%89%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%927.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF&sa=fyb_news"
   },
   {
-   "title": "贾乃亮1天卖5.7亿",
-   "link": "https://m.baidu.com/s?word=%E8%B4%BE%E4%B9%83%E4%BA%AE1%E5%A4%A9%E5%8D%965.7%E4%BA%BF&sa=fyb_news"
+   "title": "避孕药 避孕只是它的用途之一",
+   "link": "https://m.baidu.com/s?word=%E9%81%BF%E5%AD%95%E8%8D%AF+%E9%81%BF%E5%AD%95%E5%8F%AA%E6%98%AF%E5%AE%83%E7%9A%84%E7%94%A8%E9%80%94%E4%B9%8B%E4%B8%80&sa=fyb_news"
   },
   {
-   "title": "熊猫血孕妇孕39周在医院胎死腹中",
-   "link": "https://m.baidu.com/s?word=%E7%86%8A%E7%8C%AB%E8%A1%80%E5%AD%95%E5%A6%87%E5%AD%9539%E5%91%A8%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%83%8E%E6%AD%BB%E8%85%B9%E4%B8%AD&sa=fyb_news"
+   "title": "男子突发脑梗 140多只猫狗急得直叫",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97+140%E5%A4%9A%E5%8F%AA%E7%8C%AB%E7%8B%97%E6%80%A5%E5%BE%97%E7%9B%B4%E5%8F%AB&sa=fyb_news"
   },
   {
-   "title": "A股惊天逆转 到底发生了什么",
-   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
+   "title": "刘亦菲 凤凰神女",
+   "link": "https://m.baidu.com/s?word=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%87%A4%E5%87%B0%E7%A5%9E%E5%A5%B3&sa=fyb_news"
   }
  ],
  "ai": [
