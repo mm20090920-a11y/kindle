@@ -1,6 +1,6 @@
 {
- "date": "2026-10-24",
- "updatedAt": "2026-10-24 16:00",
+ "date": "2026-10-25",
+ "updatedAt": "2026-10-25 04:43",
  "stocks": [
   {
    "name": "上证指数",
@@ -178,283 +178,190 @@
  "forex": [
   {
    "name": "美元",
-   "value": "6.685",
-   "change": "-0.0002",
-   "pct": "-0.00%",
-   "up": false
+   "value": "6.689",
+   "change": "+0.0041",
+   "pct": "+0.06%",
+   "up": true
   },
   {
    "name": "欧元",
-   "value": "7.480",
-   "change": "+0.0001",
-   "pct": "+0.00%",
+   "value": "7.486",
+   "change": "+0.0064",
+   "pct": "+0.09%",
    "up": true
   },
   {
    "name": "港币",
-   "value": "0.852",
-   "change": "+0.0005",
-   "pct": "+0.05%",
+   "value": "0.853",
+   "change": "+0.0012",
+   "pct": "+0.14%",
    "up": true
   },
   {
    "name": "100日元",
-   "value": "4.261",
-   "change": "+0.0000",
-   "pct": "+0.00%",
+   "value": "4.265",
+   "change": "+0.0037",
+   "pct": "+0.09%",
    "up": true
   }
  ],
  "btc": {
-  "usd": "79,729",
-  "cny": "532,109",
-  "pct": "-2.26%",
-  "up": false,
+  "usd": "80,849",
+  "cny": "539,587",
+  "pct": "+0.05%",
+  "up": true,
   "trend": [
-   81612.16,
-   81682.7,
-   81571.15,
-   81533.91,
-   81343.44,
-   81250.67,
-   81326.8,
-   81361.49,
-   81330.56,
-   80888.88,
-   80870.51,
-   80778.65,
-   80588.35,
-   80811.63,
-   80871.4,
-   80895.42,
-   80989.25,
-   80811.13,
-   80681.55,
-   80702.68,
-   80806.82,
-   80753.24,
-   80739.58,
-   80511.96,
-   80569.65,
-   80594.7,
-   80523.43,
-   80621.88,
-   80751.63,
-   80613.85,
-   80313.48,
-   79278.82
+   80808.36,
+   80684.59,
+   80695.7,
+   80702.94,
+   80760.36,
+   80723.09,
+   80565.9,
+   80547.46,
+   80594.75,
+   80504.3,
+   80554.47,
+   80709.72,
+   80619.94,
+   80183.98,
+   79679.58,
+   79730.04,
+   79792.77,
+   80138.17,
+   80291.67,
+   80463.98,
+   80472.42,
+   80461.36,
+   80258.6,
+   80348.48,
+   80512.1,
+   80549.86,
+   80703.52,
+   80803.45,
+   80782.64,
+   80766.58,
+   80890.2,
+   80784.78
   ]
  },
  "weibo": [
   {
-   "title": "女生不要谈太久的恋爱",
-   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E8%B0%88%E5%A4%AA%E4%B9%85%E7%9A%84%E6%81%8B%E7%88%B1"
+   "title": "日剧Vivant抹黑中国",
+   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD"
   },
   {
-   "title": "小说里为什么没有广东霸总",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%AF%B4%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%B9%BF%E4%B8%9C%E9%9C%B8%E6%80%BB"
+   "title": "张雪刷新吉尼斯纪录",
+   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95"
   },
   {
-   "title": "以信心汇聚力量以合作破解难题",
-   "link": "https://s.weibo.com/weibo?q=%E4%BB%A5%E4%BF%A1%E5%BF%83%E6%B1%87%E8%81%9A%E5%8A%9B%E9%87%8F%E4%BB%A5%E5%90%88%E4%BD%9C%E7%A0%B4%E8%A7%A3%E9%9A%BE%E9%A2%98"
+   "title": "向英雄致敬迎英雄回家",
+   "link": "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6"
   },
   {
-   "title": "王俊凯 甲乙丙丁",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E7%94%B2%E4%B9%99%E4%B8%99%E4%B8%81"
+   "title": "深圳水贝被挤爆",
+   "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86"
   },
   {
-   "title": "徐嘉余50米仰泳破世界纪录",
-   "link": "https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95"
+   "title": "2025年出生人口男孩多于女孩",
+   "link": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9"
   },
   {
-   "title": "尚公主编剧水平",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%9A%E5%85%AC%E4%B8%BB%E7%BC%96%E5%89%A7%E6%B0%B4%E5%B9%B3"
+   "title": "2026共创之夜节目单",
+   "link": "https://s.weibo.com/weibo?q=2026%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95"
   },
   {
-   "title": "二十届五中全会是什么会",
-   "link": "https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BC%9A"
+   "title": "江苏姑娘网购鹤岗房搬进去后傻眼",
+   "link": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC"
   },
   {
-   "title": "iPhoneDuo破发",
-   "link": "https://s.weibo.com/weibo?q=iPhoneDuo%E7%A0%B4%E5%8F%91"
+   "title": "178平房改6个套间楼下邻居崩溃",
+   "link": "https://s.weibo.com/weibo?q=178%E5%B9%B3%E6%88%BF%E6%94%B96%E4%B8%AA%E5%A5%97%E9%97%B4%E6%A5%BC%E4%B8%8B%E9%82%BB%E5%B1%85%E5%B4%A9%E6%BA%83"
   },
   {
-   "title": "小城良方 辽宁养蚂蚁骗局",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%20%E8%BE%BD%E5%AE%81%E5%85%BB%E8%9A%82%E8%9A%81%E9%AA%97%E5%B1%80"
+   "title": "柯淳李柯以短剧顶流首搭",
+   "link": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B7%B3%E6%9D%8E%E6%9F%AF%E4%BB%A5%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E9%A6%96%E6%90%AD"
   },
   {
-   "title": "去年全国结婚登记676万对",
-   "link": "https://s.weibo.com/weibo?q=%E5%8E%BB%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0676%E4%B8%87%E5%AF%B9"
+   "title": "县委书记拒绝张雪为家乡打广告",
+   "link": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A"
   },
   {
    "title": "毛不易婚礼发言引网友争议",
    "link": "https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE"
   },
   {
-   "title": "曝刘学义张予曦差点结婚",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A"
+   "title": "迪丽热巴全平台爆出圈",
+   "link": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E5%87%BA%E5%9C%88"
   }
  ],
- "zhihu": [
-  {
-   "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
-   "link": "https://www.zhihu.com/question/2097043375547536464"
-  },
-  {
-   "title": "9 月日产本田在华销量均跌超五成，为何日系车遭遇大幅下滑？",
-   "link": "https://www.zhihu.com/question/2095176252785157261"
-  },
-  {
-   "title": "为什么腾讯有了QQ这么庞大的用户基础群之后要开发微信呢？",
-   "link": "https://www.zhihu.com/question/1926924740225922646"
-  },
-  {
-   "title": "2026年中国票房第三名《功夫女足》跌至 5.9 分，是否可以印证冯小刚当年的话是对的？",
-   "link": "https://www.zhihu.com/question/2097104543138030945"
-  },
-  {
-   "title": "为什么现在很多公立的幼儿园不教拼音，但是到了小学默认你是会拼音的状态？",
-   "link": "https://www.zhihu.com/question/1911014119206818889"
-  },
-  {
-   "title": "男孩偷超市饮料，被父亲拿着戒尺送到派出所「自首」，感受手铐重量后向店主道歉，你支持这种教育方式吗？",
-   "link": "https://www.zhihu.com/question/2097008886175872404"
-  },
-  {
-   "title": "宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？",
-   "link": "https://www.zhihu.com/question/2097252062257832354"
-  },
-  {
-   "title": "古代到处是荒地，穷人为何不自己开荒？",
-   "link": "https://www.zhihu.com/question/2060324924493936499"
-  },
-  {
-   "title": "年轻人吐槽扔垃圾时小区老人当面翻垃圾、伸手拿纸箱，这种「扔垃圾羞耻症」背后折射出什么？",
-   "link": "https://www.zhihu.com/question/2096151804308189971"
-  },
-  {
-   "title": "有哪些科学家，在专业领域之外还有一个令人意想不到的身份？",
-   "link": "https://www.zhihu.com/question/2093041245459149973"
-  },
-  {
-   "title": "证监会核准设立花旗证券（中国）有限公司，将对国内券商行业带来哪些影响？",
-   "link": "https://www.zhihu.com/question/2097003942836007767"
-  },
-  {
-   "title": "S16 瑞士轮首日 AL 0:1 不敌 KC，如何评价这场比赛？",
-   "link": "https://www.zhihu.com/question/2097178251756050133"
-  }
- ],
+ "zhihu": [],
  "baidu": [
   {
-   "title": "总书记这样“数”说长征",
-   "link": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E2%80%9C%E6%95%B0%E2%80%9D%E8%AF%B4%E9%95%BF%E5%BE%81&sa=fyb_news"
+   "title": "三个维度读懂全面从严治党",
+   "link": "https://m.baidu.com/s?word=%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E8%AF%BB%E6%87%82%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A&sa=fyb_news"
   },
   {
-   "title": "金正恩访问丹东",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E6%AD%A3%E6%81%A9%E8%AE%BF%E9%97%AE%E4%B8%B9%E4%B8%9C&sa=fyb_news"
+   "title": "张雪在家乡刷新吉尼斯纪录",
+   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95&sa=fyb_news"
   },
   {
-   "title": "广州新规：“电鸡”多次违法可扣车",
-   "link": "https://m.baidu.com/s?word=%E5%B9%BF%E5%B7%9E%E6%96%B0%E8%A7%84%EF%BC%9A%E2%80%9C%E7%94%B5%E9%B8%A1%E2%80%9D%E5%A4%9A%E6%AC%A1%E8%BF%9D%E6%B3%95%E5%8F%AF%E6%89%A3%E8%BD%A6&sa=fyb_news"
+   "title": "“中国桂花第一村”5天收花7万斤",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E6%A1%82%E8%8A%B1%E7%AC%AC%E4%B8%80%E6%9D%91%E2%80%9D5%E5%A4%A9%E6%94%B6%E8%8A%B17%E4%B8%87%E6%96%A4&sa=fyb_news"
   },
   {
-   "title": "出口首破8万亿 “新”字挑大梁",
-   "link": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E9%A6%96%E7%A0%B48%E4%B8%87%E4%BA%BF+%E2%80%9C%E6%96%B0%E2%80%9D%E5%AD%97%E6%8C%91%E5%A4%A7%E6%A2%81&sa=fyb_news"
+   "title": "这不是科幻这是中国智造",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%8D%E6%98%AF%E7%A7%91%E5%B9%BB%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%99%BA%E9%80%A0&sa=fyb_news"
   },
   {
-   "title": "菲防长提着纸糊的盾牌对中国发起冲锋",
-   "link": "https://m.baidu.com/s?word=%E8%8F%B2%E9%98%B2%E9%95%BF%E6%8F%90%E7%9D%80%E7%BA%B8%E7%B3%8A%E7%9A%84%E7%9B%BE%E7%89%8C%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%B5%B7%E5%86%B2%E9%94%8B&sa=fyb_news"
+   "title": "“所有人在等张雪上厕所”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%89%80%E6%9C%89%E4%BA%BA%E5%9C%A8%E7%AD%89%E5%BC%A0%E9%9B%AA%E4%B8%8A%E5%8E%95%E6%89%80%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "哪些省份的结婚人数多",
-   "link": "https://m.baidu.com/s?word=%E5%93%AA%E4%BA%9B%E7%9C%81%E4%BB%BD%E7%9A%84%E7%BB%93%E5%A9%9A%E4%BA%BA%E6%95%B0%E5%A4%9A&sa=fyb_news"
+   "title": "178平方豪宅6个套间 每间都有马桶",
+   "link": "https://m.baidu.com/s?word=178%E5%B9%B3%E6%96%B9%E8%B1%AA%E5%AE%856%E4%B8%AA%E5%A5%97%E9%97%B4+%E6%AF%8F%E9%97%B4%E9%83%BD%E6%9C%89%E9%A9%AC%E6%A1%B6&sa=fyb_news"
   },
   {
-   "title": "全麻手术后记性会变差吗",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E9%BA%BB%E6%89%8B%E6%9C%AF%E5%90%8E%E8%AE%B0%E6%80%A7%E4%BC%9A%E5%8F%98%E5%B7%AE%E5%90%97&sa=fyb_news"
+   "title": "奥巴马中期选举首秀火力全开",
+   "link": "https://m.baidu.com/s?word=%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%A6%96%E7%A7%80%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80&sa=fyb_news"
   },
   {
-   "title": "徐嘉余50米仰泳破世界纪录",
-   "link": "https://m.baidu.com/s?word=%E5%BE%90%E5%98%89%E4%BD%9950%E7%B1%B3%E4%BB%B0%E6%B3%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95&sa=fyb_news"
+   "title": "朱婷夺职业生涯第二十七冠",
+   "link": "https://m.baidu.com/s?word=%E6%9C%B1%E5%A9%B7%E5%A4%BA%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E5%86%A0&sa=fyb_news"
   },
   {
-   "title": "乌鸦喝水不扔石子了直接找人帮忙",
-   "link": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B8%A6%E5%96%9D%E6%B0%B4%E4%B8%8D%E6%89%94%E7%9F%B3%E5%AD%90%E4%BA%86%E7%9B%B4%E6%8E%A5%E6%89%BE%E4%BA%BA%E5%B8%AE%E5%BF%99&sa=fyb_news"
+   "title": "“喝大水、睡大觉、练薄肌”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%96%9D%E5%A4%A7%E6%B0%B4%E3%80%81%E7%9D%A1%E5%A4%A7%E8%A7%89%E3%80%81%E7%BB%83%E8%96%84%E8%82%8C%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "李健演唱会结束反复向观众道谢",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%81%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%8F%8D%E5%A4%8D%E5%90%91%E8%A7%82%E4%BC%97%E9%81%93%E8%B0%A2&sa=fyb_news"
+   "title": "日剧《Vivant》把日军罪行嫁接给中国人",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E5%89%A7%E3%80%8AVivant%E3%80%8B%E6%8A%8A%E6%97%A5%E5%86%9B%E7%BD%AA%E8%A1%8C%E5%AB%81%E6%8E%A5%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "英语阅读题中果园老板手机号是真的",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E8%AF%AD%E9%98%85%E8%AF%BB%E9%A2%98%E4%B8%AD%E6%9E%9C%E5%9B%AD%E8%80%81%E6%9D%BF%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%98%AF%E7%9C%9F%E7%9A%84&sa=fyb_news"
+   "title": "S16瑞士轮第三轮抽签结果",
+   "link": "https://m.baidu.com/s?word=S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C&sa=fyb_news"
   },
   {
-   "title": "地震躲“生命三角”避险不靠谱",
-   "link": "https://m.baidu.com/s?word=%E5%9C%B0%E9%9C%87%E8%BA%B2%E2%80%9C%E7%94%9F%E5%91%BD%E4%B8%89%E8%A7%92%E2%80%9D%E9%81%BF%E9%99%A9%E4%B8%8D%E9%9D%A0%E8%B0%B1&sa=fyb_news"
+   "title": "辽宁锦州大暴雨致街道成海是谣言",
+   "link": "https://m.baidu.com/s?word=%E8%BE%BD%E5%AE%81%E9%94%A6%E5%B7%9E%E5%A4%A7%E6%9A%B4%E9%9B%A8%E8%87%B4%E8%A1%97%E9%81%93%E6%88%90%E6%B5%B7%E6%98%AF%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "曹操头风病的病根找到了",
-   "link": "https://m.baidu.com/s?word=%E6%9B%B9%E6%93%8D%E5%A4%B4%E9%A3%8E%E7%97%85%E7%9A%84%E7%97%85%E6%A0%B9%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
+   "title": "国考排名第一的岗位竞争超6000:1",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%80%83%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E5%B2%97%E4%BD%8D%E7%AB%9E%E4%BA%89%E8%B6%856000%3A1&sa=fyb_news"
   },
   {
-   "title": "女子离婚12年后接前婆婆一起生活",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A12%E5%B9%B4%E5%90%8E%E6%8E%A5%E5%89%8D%E5%A9%86%E5%A9%86%E4%B8%80%E8%B5%B7%E7%94%9F%E6%B4%BB&sa=fyb_news"
+   "title": "熬夜对大脑的损害不可逆",
+   "link": "https://m.baidu.com/s?word=%E7%86%AC%E5%A4%9C%E5%AF%B9%E5%A4%A7%E8%84%91%E7%9A%84%E6%8D%9F%E5%AE%B3%E4%B8%8D%E5%8F%AF%E9%80%86&sa=fyb_news"
   },
   {
-   "title": "曝刘学义张予曦差点结婚",
-   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E5%88%98%E5%AD%A6%E4%B9%89%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%B7%AE%E7%82%B9%E7%BB%93%E5%A9%9A&sa=fyb_news"
+   "title": "保洁大叔撞脸多位明星 本人：没有混血",
+   "link": "https://m.baidu.com/s?word=%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F+%E6%9C%AC%E4%BA%BA%EF%BC%9A%E6%B2%A1%E6%9C%89%E6%B7%B7%E8%A1%80&sa=fyb_news"
   }
  ],
  "ai": [
   {
-   "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-   "link": "https://www.kimi.com/blog/kimi-k3-1-pro"
-  },
-  {
-   "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
-   "link": "https://x.com/MiniMax_AI/status/2113436864904610008"
-  },
-  {
-   "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-   "link": "https://x.com/fal/status/2113646807997620396"
-  },
-  {
-   "title": "禾赛发布三维世界数据引擎 Kosmo 及 8K AI 空间相机 Kosmo One",
-   "link": "https://www.hesaitech.com/cn/news/1526"
-  },
-  {
-   "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-   "link": "https://openai.com/index/securing-our-frontier-model-training-environment"
-  },
-  {
-   "title": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
-   "link": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/"
-  },
-  {
-   "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-   "link": "https://www.ithome.com/1/017/113.htm"
-  },
-  {
-   "title": "Latent Space 梳理 PHP2Shell 漏洞事件：OpenAI Patch the Planet 与 Wiz 各自发现 PHP 核心漏洞",
-   "link": "https://latent.space/p/ainews-openais-patch-the-planet-program/"
-  },
-  {
-   "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-   "link": "https://x.com/rohanpaul_ai/status/2113511968112042349"
-  },
-  {
-   "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
-   "link": "https://www.anthropic.com/research/alignment-assessment-ukaisi"
-  },
-  {
-   "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-   "link": "https://claude.com/blog/claude-duet-safety-privacy-and-security"
-  },
-  {
-   "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-   "link": "https://x.com/alexeheath/status/2113706585348600220"
+   "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+   "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
   }
  ]
 }
