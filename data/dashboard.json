@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "updatedAt": "2026-10-26 15:15",
+ "updatedAt": "2026-10-26 18:42",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4021.87",
+  "value": "4015.27",
   "unit": "美元/盎司",
-  "change": "+24.08",
-  "pct": "+0.60%",
+  "change": "+17.48",
+  "pct": "+0.44%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "80,356",
-  "cny": "536,033",
-  "pct": "-0.33%",
+  "usd": "80,146",
+  "cny": "534,576",
+  "pct": "-0.59%",
   "up": false,
   "trend": [
-   80614.29,
-   80556.8,
-   80524.39,
-   80690.25,
-   80620.83,
-   80581.49,
-   80530.38,
-   80465.21,
-   80413.72,
-   80182.21,
-   80472.48,
-   79965.41,
-   80058.56,
-   80068.01,
-   79466.13,
-   79531.3,
-   79623.02,
-   79514.19,
-   79909.17,
-   80082.1,
-   80009.12,
-   80027.97,
-   80024.3,
-   80106.61,
-   80151.84,
-   80449.49,
-   80343.17,
-   80247.12,
-   80294.12,
-   80233.4,
-   79646.21,
-   79740.23
+   80597.33,
+   80470.76,
+   80517.92,
+   80402.65,
+   80324.82,
+   80417.6,
+   80362.02,
+   80048.85,
+   80090.64,
+   79917.77,
+   79727.53,
+   79489.87,
+   79509.69,
+   79838.63,
+   80058.8,
+   80172.67,
+   79902.75,
+   79938.66,
+   79653.65,
+   80157.14,
+   80458.72,
+   80314.59,
+   80177.82,
+   80312.41,
+   80236.11,
+   79858.96,
+   79858.01,
+   80267.93,
+   80607.43,
+   79905.15,
+   80400.43,
+   80235.1
   ]
  },
  "weibo": [],
@@ -244,40 +244,40 @@
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%96%B0%E6%88%BF%E6%9C%AA%E5%85%A5%E4%BD%8F%E8%A2%AB%E4%BB%96%E4%BA%BA%E8%A3%85%E4%BF%AE%E5%87%BA%E7%A7%9F20%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "夫妻俩看不见世界却培养出博士女儿",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E7%9C%8B%E4%B8%8D%E8%A7%81%E4%B8%96%E7%95%8C%E5%8D%B4%E5%9F%B9%E5%85%BB%E5%87%BA%E5%8D%9A%E5%A3%AB%E5%A5%B3%E5%84%BF&sa=fyb_news"
+   "title": "Kimi致歉",
+   "link": "https://m.baidu.com/s?word=Kimi%E8%87%B4%E6%AD%89&sa=fyb_news"
   },
   {
-   "title": "三颗“本不该存在”的行星被发现",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E9%A2%97%E2%80%9C%E6%9C%AC%E4%B8%8D%E8%AF%A5%E5%AD%98%E5%9C%A8%E2%80%9D%E7%9A%84%E8%A1%8C%E6%98%9F%E8%A2%AB%E5%8F%91%E7%8E%B0&sa=fyb_news"
+   "title": "150万开无烟酒吧倒闭 当事人回应",
+   "link": "https://m.baidu.com/s?word=150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD+%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94&sa=fyb_news"
   },
   {
-   "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
+   "title": "女子驾车过高架车顶被风筝线割破",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%A9%BE%E8%BD%A6%E8%BF%87%E9%AB%98%E6%9E%B6%E8%BD%A6%E9%A1%B6%E8%A2%AB%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%89%B2%E7%A0%B4&sa=fyb_news"
   },
   {
    "title": "“何以中国”的答案在哪里",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E2%80%9D%E7%9A%84%E7%AD%94%E6%A1%88%E5%9C%A8%E5%93%AA%E9%87%8C&sa=fyb_news"
   },
   {
-   "title": "那些用开塞露涂脸的人怎么样了",
-   "link": "https://m.baidu.com/s?word=%E9%82%A3%E4%BA%9B%E7%94%A8%E5%BC%80%E5%A1%9E%E9%9C%B2%E6%B6%82%E8%84%B8%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86&sa=fyb_news"
+   "title": "超长预售45天原来是在等退货回来",
+   "link": "https://m.baidu.com/s?word=%E8%B6%85%E9%95%BF%E9%A2%84%E5%94%AE45%E5%A4%A9%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9C%A8%E7%AD%89%E9%80%80%E8%B4%A7%E5%9B%9E%E6%9D%A5&sa=fyb_news"
   },
   {
    "title": "长期吃素能“排毒”系谣言",
    "link": "https://m.baidu.com/s?word=%E9%95%BF%E6%9C%9F%E5%90%83%E7%B4%A0%E8%83%BD%E2%80%9C%E6%8E%92%E6%AF%92%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
+   "title": "不刷牙睡觉vs不刷牙吃早餐哪个更伤身",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8D%E5%88%B7%E7%89%99%E7%9D%A1%E8%A7%89vs%E4%B8%8D%E5%88%B7%E7%89%99%E5%90%83%E6%97%A9%E9%A4%90%E5%93%AA%E4%B8%AA%E6%9B%B4%E4%BC%A4%E8%BA%AB&sa=fyb_news"
+  },
+  {
+   "title": "越造越大越卖越贵 纯电小车变味了吗",
+   "link": "https://m.baidu.com/s?word=%E8%B6%8A%E9%80%A0%E8%B6%8A%E5%A4%A7%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5+%E7%BA%AF%E7%94%B5%E5%B0%8F%E8%BD%A6%E5%8F%98%E5%91%B3%E4%BA%86%E5%90%97&sa=fyb_news"
+  },
+  {
    "title": "62岁女子坚持健身5年多",
    "link": "https://m.baidu.com/s?word=62%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9D%9A%E6%8C%81%E5%81%A5%E8%BA%AB5%E5%B9%B4%E5%A4%9A&sa=fyb_news"
-  },
-  {
-   "title": "熬夜熬的是甲状腺寿命",
-   "link": "https://m.baidu.com/s?word=%E7%86%AC%E5%A4%9C%E7%86%AC%E7%9A%84%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E5%AF%BF%E5%91%BD&sa=fyb_news"
-  },
-  {
-   "title": "县委书记被扔下水 舆论为何一片叫好",
-   "link": "https://m.baidu.com/s?word=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%89%94%E4%B8%8B%E6%B0%B4+%E8%88%86%E8%AE%BA%E4%B8%BA%E4%BD%95%E4%B8%80%E7%89%87%E5%8F%AB%E5%A5%BD&sa=fyb_news"
   }
  ],
  "ai": []
