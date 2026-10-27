@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27 14:35",
+ "updatedAt": "2026-10-27 18:03",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,132 +169,54 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4044.23",
+  "value": "4058.11",
   "unit": "美元/盎司",
-  "change": "+27.26",
-  "pct": "+0.68%",
+  "change": "+41.14",
+  "pct": "+1.02%",
   "up": true
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.684",
-   "change": "-0.0003",
-   "pct": "-0.00%",
-   "up": false
-  },
-  {
-   "name": "欧元",
-   "value": "7.472",
-   "change": "+0.0001",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.852",
-   "change": "+0.0001",
-   "pct": "+0.01%",
-   "up": true
-  },
-  {
-   "name": "100日元",
-   "value": "4.245",
-   "change": "-0.0003",
-   "pct": "-0.01%",
-   "up": false
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "80,173",
-  "cny": "534,611",
-  "pct": "+0.70%",
+  "usd": "80,419",
+  "cny": "536,224",
+  "pct": "+0.16%",
   "up": true,
   "trend": [
-   79854.56,
-   80561.75,
-   80225.54,
-   79988.14,
-   80239.45,
-   80171.5,
-   79933.41,
-   79892.8,
-   79784.22,
-   79912.65,
-   79937.85,
-   79864.34,
-   80032.36,
-   80144.8,
-   80179.96,
-   79955.78,
-   79788.37,
-   79660.2,
-   79699.85,
-   79562.87,
-   79752.0,
-   79639.58,
-   79601.96,
-   79765.71,
-   79710.87,
-   79624.39,
-   79506.58,
-   79850.07,
-   79810.62,
-   79982.46,
-   80080.05,
-   79941.41
+   80266.58,
+   80028.54,
+   79894.07,
+   79796.91,
+   79835.87,
+   80084.33,
+   79827.81,
+   79821.63,
+   80083.41,
+   80126.17,
+   80009.67,
+   79954.56,
+   79637.56,
+   79745.59,
+   79628.91,
+   79768.5,
+   79807.84,
+   79547.51,
+   79590.82,
+   79748.56,
+   79705.63,
+   79556.62,
+   79551.72,
+   79798.03,
+   79749.4,
+   80289.05,
+   80015.43,
+   79912.72,
+   80306.19,
+   80554.76,
+   80545.82,
+   80516.67
   ]
  },
- "weibo": [
-  {
-   "title": "中国足协与皇马俱乐部严正交涉",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89"
-  },
-  {
-   "title": "外交部回应姆巴佩涉华不当言论",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA"
-  },
-  {
-   "title": "从多组硬核数据透视高质量发展成绩单",
-   "link": "https://s.weibo.com/weibo?q=%E4%BB%8E%E5%A4%9A%E7%BB%84%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E9%80%8F%E8%A7%86%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%88%90%E7%BB%A9%E5%8D%95"
-  },
-  {
-   "title": "中央广播电视总台回应姆巴佩道歉",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%A4%AE%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E6%80%BB%E5%8F%B0%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89"
-  },
-  {
-   "title": "孙颖莎把卢茨全算住了",
-   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E5%8D%A2%E8%8C%A8%E5%85%A8%E7%AE%97%E4%BD%8F%E4%BA%86"
-  },
-  {
-   "title": "麒麟9050峰值仅A20Pro一半",
-   "link": "https://s.weibo.com/weibo?q=%E9%BA%92%E9%BA%9F9050%E5%B3%B0%E5%80%BC%E4%BB%85A20Pro%E4%B8%80%E5%8D%8A"
-  },
-  {
-   "title": "红米K100提前发布",
-   "link": "https://s.weibo.com/weibo?q=%E7%BA%A2%E7%B1%B3K100%E6%8F%90%E5%89%8D%E5%8F%91%E5%B8%83"
-  },
-  {
-   "title": "刘铮亮没有被吊销医师证",
-   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E9%93%AE%E4%BA%AE%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%90%8A%E9%94%80%E5%8C%BB%E5%B8%88%E8%AF%81"
-  },
-  {
-   "title": "长征中的隐蔽斗争",
-   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E4%B8%AD%E7%9A%84%E9%9A%90%E8%94%BD%E6%96%97%E4%BA%89"
-  },
-  {
-   "title": "小城良方被指医学漏洞百出",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E8%A2%AB%E6%8C%87%E5%8C%BB%E5%AD%A6%E6%BC%8F%E6%B4%9E%E7%99%BE%E5%87%BA"
-  },
-  {
-   "title": "网友不接受姆巴佩道歉",
-   "link": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%93%E6%AD%89"
-  },
-  {
-   "title": "郭晓婷王天辰三搭",
-   "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%93%E5%A9%B7%E7%8E%8B%E5%A4%A9%E8%BE%B0%E4%B8%89%E6%90%AD"
-  }
- ],
+ "weibo": [],
  "zhihu": [],
  "baidu": [
   {
@@ -306,40 +228,40 @@
    "link": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "央视就姆巴佩事件发声",
-   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0&sa=fyb_news"
+   "title": "中国足协第一时间与皇马严正交涉",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E4%B8%8E%E7%9A%87%E9%A9%AC%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89&sa=fyb_news"
   },
   {
    "title": "不断开创新时代管党治党新局面",
    "link": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E7%AE%A1%E5%85%9A%E6%B2%BB%E5%85%9A%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
   },
   {
-   "title": "杂牌电动自行车要凉",
-   "link": "https://m.baidu.com/s?word=%E6%9D%82%E7%89%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%A6%81%E5%87%89&sa=fyb_news"
+   "title": "台风烟花：是的 我又重生回来了",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B0%E9%A3%8E%E7%83%9F%E8%8A%B1%EF%BC%9A%E6%98%AF%E7%9A%84+%E6%88%91%E5%8F%88%E9%87%8D%E7%94%9F%E5%9B%9E%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "中国足协要求姆巴佩和皇马道歉",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%A6%81%E6%B1%82%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%92%8C%E7%9A%87%E9%A9%AC%E9%81%93%E6%AD%89&sa=fyb_news"
+   "title": "大体老师不是取乐玩物",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9&sa=fyb_news"
+  },
+  {
+   "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
+   "link": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95&sa=fyb_news"
   },
   {
    "title": "比亚迪版“劳斯莱斯”来了",
    "link": "https://m.baidu.com/s?word=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%89%88%E2%80%9C%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "中长期大额存单密集返场",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E9%95%BF%E6%9C%9F%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%AF%86%E9%9B%86%E8%BF%94%E5%9C%BA&sa=fyb_news"
-  },
-  {
-   "title": "为悬挂婚庆气球 水库大坝公路被钻孔",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E6%82%AC%E6%8C%82%E5%A9%9A%E5%BA%86%E6%B0%94%E7%90%83+%E6%B0%B4%E5%BA%93%E5%A4%A7%E5%9D%9D%E5%85%AC%E8%B7%AF%E8%A2%AB%E9%92%BB%E5%AD%94&sa=fyb_news"
+   "title": "中国人不开的全地形车在美国有多挣钱",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%8D%E5%BC%80%E7%9A%84%E5%85%A8%E5%9C%B0%E5%BD%A2%E8%BD%A6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%A4%9A%E6%8C%A3%E9%92%B1&sa=fyb_news"
   },
   {
    "title": "丰收时节 看稻香里的新品种",
    "link": "https://m.baidu.com/s?word=%E4%B8%B0%E6%94%B6%E6%97%B6%E8%8A%82+%E7%9C%8B%E7%A8%BB%E9%A6%99%E9%87%8C%E7%9A%84%E6%96%B0%E5%93%81%E7%A7%8D&sa=fyb_news"
   },
   {
-   "title": "红米K100开启预售 售价3499元起",
-   "link": "https://m.baidu.com/s?word=%E7%BA%A2%E7%B1%B3K100%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE+%E5%94%AE%E4%BB%B73499%E5%85%83%E8%B5%B7&sa=fyb_news"
+   "title": "彩民花10元中682万大奖",
+   "link": "https://m.baidu.com/s?word=%E5%BD%A9%E6%B0%91%E8%8A%B110%E5%85%83%E4%B8%AD682%E4%B8%87%E5%A4%A7%E5%A5%96&sa=fyb_news"
   },
   {
    "title": "深山救助流浪女 实为造假博流量",
@@ -350,12 +272,12 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E7%BD%91%E5%91%B8%E5%A7%86%E5%B7%B4%E4%BD%A9&sa=fyb_news"
   },
   {
-   "title": "妻子用米饭炒菜给丈夫做生日蛋糕",
-   "link": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E7%94%A8%E7%B1%B3%E9%A5%AD%E7%82%92%E8%8F%9C%E7%BB%99%E4%B8%88%E5%A4%AB%E5%81%9A%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95&sa=fyb_news"
+   "title": "山东大哥捕获268斤鲅鱼王",
+   "link": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%93%A5%E6%8D%95%E8%8E%B7268%E6%96%A4%E9%B2%85%E9%B1%BC%E7%8E%8B&sa=fyb_news"
   },
   {
-   "title": "大体老师不是取乐玩物",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E5%8F%96%E4%B9%90%E7%8E%A9%E7%89%A9&sa=fyb_news"
+   "title": "方媛晒全家福为郭富城庆祝61岁生日",
+   "link": "https://m.baidu.com/s?word=%E6%96%B9%E5%AA%9B%E6%99%92%E5%85%A8%E5%AE%B6%E7%A6%8F%E4%B8%BA%E9%83%AD%E5%AF%8C%E5%9F%8E%E5%BA%86%E7%A5%9D61%E5%B2%81%E7%94%9F%E6%97%A5&sa=fyb_news"
   }
  ],
  "ai": [
