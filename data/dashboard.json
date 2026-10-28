@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28 15:10",
+ "updatedAt": "2026-10-28 18:21",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,10 +169,10 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4043.09",
+  "value": "4033.17",
   "unit": "美元/盎司",
-  "change": "-17.04",
-  "pct": "-0.42%",
+  "change": "-26.96",
+  "pct": "-0.66%",
   "up": false
  },
  "forex": [
@@ -206,96 +206,145 @@
   }
  ],
  "btc": {
-  "usd": "80,550",
-  "cny": "537,050",
-  "pct": "+0.43%",
+  "usd": "80,695",
+  "cny": "537,932",
+  "pct": "+0.18%",
   "up": true,
   "trend": [
-   80203.03,
-   80472.57,
-   80481.95,
-   80664.42,
-   80528.28,
-   80533.75,
-   80724.63,
-   80598.24,
-   80637.32,
-   80824.58,
-   80785.46,
-   80827.85,
-   80687.51,
-   80639.79,
-   80850.92,
-   80833.21,
-   80846.95,
-   81029.84,
-   80896.91,
-   80844.39,
-   80857.34,
-   80776.66,
-   80862.41,
-   81340.22,
-   81437.96,
-   81445.16,
-   81458.13,
-   81296.31,
-   80859.46,
-   80641.01,
-   80663.74,
-   80447.25
+   80570.67,
+   80654.8,
+   80636.07,
+   80579.47,
+   80582.43,
+   80795.69,
+   80811.0,
+   80791.36,
+   80663.6,
+   80543.98,
+   80791.25,
+   80822.79,
+   80872.99,
+   80907.64,
+   80861.84,
+   80835.66,
+   80861.51,
+   80824.92,
+   80942.71,
+   81543.78,
+   81389.45,
+   81389.01,
+   81445.19,
+   81343.72,
+   80890.06,
+   80628.02,
+   80451.86,
+   80421.6,
+   80635.75,
+   80462.19,
+   80572.99,
+   80569.76
   ]
  },
  "weibo": [
   {
-   "title": "理想i6首销挤爆APP",
-   "link": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i6%E9%A6%96%E9%94%80%E6%8C%A4%E7%88%86APP"
-  },
-  {
-   "title": "西班牙列车相撞已致50死",
-   "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B450%E6%AD%BB"
-  },
-  {
-   "title": "数说中国经济澎湃动能",
-   "link": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD"
-  },
-  {
-   "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
-   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA"
-  },
-  {
-   "title": "刘延东同志逝世",
-   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96"
-  },
-  {
-   "title": "2026款理想i6售价24.98万元",
-   "link": "https://s.weibo.com/weibo?q=2026%E6%AC%BE%E7%90%86%E6%83%B3i6%E5%94%AE%E4%BB%B724.98%E4%B8%87%E5%85%83"
-  },
-  {
-   "title": "现在就出发5原班人马",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%915%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC"
-  },
-  {
    "title": "女子欠1700元被限高公开照片",
    "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%AC%A01700%E5%85%83%E8%A2%AB%E9%99%90%E9%AB%98%E5%85%AC%E5%BC%80%E7%85%A7%E7%89%87"
-  },
-  {
-   "title": "共产党员是最闪亮的名字",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%98%AF%E6%9C%80%E9%97%AA%E4%BA%AE%E7%9A%84%E5%90%8D%E5%AD%97"
-  },
-  {
-   "title": "剑来赢了",
-   "link": "https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A5%E8%B5%A2%E4%BA%86"
   },
   {
    "title": "巴基斯坦对台湾航司关闭领空",
    "link": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA"
   },
   {
-   "title": "现在就出发5 金晨",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%915%20%E9%87%91%E6%99%A8"
+   "title": "数说中国经济澎湃动能",
+   "link": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD"
+  },
+  {
+   "title": "西班牙列车相撞已致68死",
+   "link": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B468%E6%AD%BB"
+  },
+  {
+   "title": "开始推理吧官宣第五季",
+   "link": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%94%E5%AD%A3"
+  },
+  {
+   "title": "剑来",
+   "link": "https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A5"
+  },
+  {
+   "title": "理想i6首销挤爆APP",
+   "link": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i6%E9%A6%96%E9%94%80%E6%8C%A4%E7%88%86APP"
+  },
+  {
+   "title": "华为麒麟9050芯片发布",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F9050%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83"
+  },
+  {
+   "title": "刘延东同志逝世",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96"
+  },
+  {
+   "title": "华为",
+   "link": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA"
+  },
+  {
+   "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
+   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA"
+  },
+  {
+   "title": "三丽鸥将与抹黑中国日剧再次联名",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%B0%86%E4%B8%8E%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%E6%97%A5%E5%89%A7%E5%86%8D%E6%AC%A1%E8%81%94%E5%90%8D"
   }
  ],
- "zhihu": [],
+ "zhihu": [
+  {
+   "title": "外交部回应姆巴佩道歉，「我们重视当事人作出的道歉」，姆巴佩事件的后续走向还有哪些可能性？",
+   "link": "https://www.zhihu.com/question/2098798235125019683"
+  },
+  {
+   "title": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何？",
+   "link": "https://www.zhihu.com/question/2098832855782482837"
+  },
+  {
+   "title": "小米首个住宅小区正式开售，仅面向内部员工销售，为何小米开始卖房了？未来会推出更多楼盘向大众销售吗？",
+   "link": "https://www.zhihu.com/question/2098438230131433476"
+  },
+  {
+   "title": "「酱油」一词为什么正在被「生抽」和「老抽」替代？",
+   "link": "https://www.zhihu.com/question/618083427"
+  },
+  {
+   "title": "如何评价秦朔发文《可怕的红果与中国互联网的字节时间》？",
+   "link": "https://www.zhihu.com/question/2098759832840794159"
+  },
+  {
+   "title": "央媒称不认可皇马表态，此前皇马称姆巴佩仅代表个人，俱乐部和中国赞助商合作照常，皇马为何敢如此「傲慢」？",
+   "link": "https://www.zhihu.com/question/2098687138820616288"
+  },
+  {
+   "title": "如何评价樊振东首次解说MLB（美国职业棒球大联盟）比赛？",
+   "link": "https://www.zhihu.com/question/2098851131489260284"
+  },
+  {
+   "title": "自媒体称澳大利亚每年花费巨额从中国进口屎壳郎，这是真吗？中国的屎壳郎真的如此兢兢业业、不挑食吗？",
+   "link": "https://www.zhihu.com/question/626416441"
+  },
+  {
+   "title": "如果鸡能长到100千克重，那人是不是就有巨大的鸡翅可以吃了？",
+   "link": "https://www.zhihu.com/question/2083553210300625403"
+  },
+  {
+   "title": "很多年轻人「对工作的容忍度只有两年」，这反映出怎样的职场心态？",
+   "link": "https://www.zhihu.com/question/2065927971630855888"
+  },
+  {
+   "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重？",
+   "link": "https://www.zhihu.com/question/2098377875137062370"
+  },
+  {
+   "title": "安徽女子赴泰失联近 3 个月，家属称被拐至园区 50 万元遭转走，警方已立案，具体情况如何？",
+   "link": "https://www.zhihu.com/question/2098549728707178919"
+  }
+ ],
  "baidu": [
   {
    "title": "关键密码",
@@ -314,24 +363,24 @@
    "link": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E9%87%8D%E8%A6%81%E5%80%9F%E9%89%B4&sa=fyb_news"
   },
   {
-   "title": "今年双十一 电视遥控器爆火",
-   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80+%E7%94%B5%E8%A7%86%E9%81%A5%E6%8E%A7%E5%99%A8%E7%88%86%E7%81%AB&sa=fyb_news"
+   "title": "巴基斯坦对台湾地区航司关闭领空",
+   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA&sa=fyb_news"
   },
   {
-   "title": "雷军晒照爆料新车 尾翼大到夸张",
-   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E6%99%92%E7%85%A7%E7%88%86%E6%96%99%E6%96%B0%E8%BD%A6+%E5%B0%BE%E7%BF%BC%E5%A4%A7%E5%88%B0%E5%A4%B8%E5%BC%A0&sa=fyb_news"
+   "title": "人民日报评“高校教学严禁全程PPT”",
+   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9C%E9%AB%98%E6%A0%A1%E6%95%99%E5%AD%A6%E4%B8%A5%E7%A6%81%E5%85%A8%E7%A8%8BPPT%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "刘延东遗像",
-   "link": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%81%97%E5%83%8F&sa=fyb_news"
-  },
-  {
-   "title": "妈妈称男孩1米75没法见人",
-   "link": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
+   "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA&sa=fyb_news"
   },
   {
    "title": "唱哭薛之谦的贵州小伙被签约",
    "link": "https://m.baidu.com/s?word=%E5%94%B1%E5%93%AD%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%9A%84%E8%B4%B5%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E7%AD%BE%E7%BA%A6&sa=fyb_news"
+  },
+  {
+   "title": "姆巴佩的道歉没发1.35亿粉的iG上",
+   "link": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9A%84%E9%81%93%E6%AD%89%E6%B2%A1%E5%8F%911.35%E4%BA%BF%E7%B2%89%E7%9A%84iG%E4%B8%8A&sa=fyb_news"
   },
   {
    "title": "中国“智造家”加速出海",
@@ -346,16 +395,16 @@
    "link": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E8%A7%81%E8%AF%81%E7%94%B0%E5%A4%B4%E2%80%9C%E5%89%B2%E9%BA%A6%E8%AF%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "巴基斯坦对台湾地区航司关闭领空",
-   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA&sa=fyb_news"
+   "title": "妈妈称男孩1米75没法见人",
+   "link": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%A7%B0%E7%94%B7%E5%AD%A91%E7%B1%B375%E6%B2%A1%E6%B3%95%E8%A7%81%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "《玉簟秋》尺度",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E7%8E%89%E7%B0%9F%E7%A7%8B%E3%80%8B%E5%B0%BA%E5%BA%A6&sa=fyb_news"
+   "title": "西媒就姆巴佩闯下大祸算了笔账",
+   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E5%AA%92%E5%B0%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%97%AF%E4%B8%8B%E5%A4%A7%E7%A5%B8%E7%AE%97%E4%BA%86%E7%AC%94%E8%B4%A6&sa=fyb_news"
   },
   {
-   "title": "离职别忘了这笔钱",
-   "link": "https://m.baidu.com/s?word=%E7%A6%BB%E8%81%8C%E5%88%AB%E5%BF%98%E4%BA%86%E8%BF%99%E7%AC%94%E9%92%B1&sa=fyb_news"
+   "title": "雷军晒照爆料新车 尾翼大到夸张",
+   "link": "https://m.baidu.com/s?word=%E9%9B%B7%E5%86%9B%E6%99%92%E7%85%A7%E7%88%86%E6%96%99%E6%96%B0%E8%BD%A6+%E5%B0%BE%E7%BF%BC%E5%A4%A7%E5%88%B0%E5%A4%B8%E5%BC%A0&sa=fyb_news"
   }
  ],
  "ai": [
