@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29 10:54",
+ "updatedAt": "2026-10-29 15:16",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,193 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4029.31",
+  "value": "4022.72",
   "unit": "美元/盎司",
-  "change": "-37.85",
-  "pct": "-0.93%",
+  "change": "-44.44",
+  "pct": "-1.09%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.680",
-   "change": "+0.0005",
-   "pct": "+0.01%",
-   "up": true
-  },
-  {
-   "name": "欧元",
-   "value": "7.437",
-   "change": "+0.0003",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.852",
-   "change": "-0.0004",
-   "pct": "-0.05%",
-   "up": false
-  },
-  {
-   "name": "100日元",
-   "value": "4.229",
-   "change": "-0.0001",
-   "pct": "-0.00%",
-   "up": false
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "80,260",
-  "cny": "534,774",
-  "pct": "-1.46%",
-  "up": false,
+  "usd": "81,404",
+  "cny": "542,243",
+  "pct": "+1.03%",
+  "up": true,
   "trend": [
-   81445.19,
-   81343.72,
-   80890.06,
-   80628.02,
-   80451.86,
-   80421.6,
-   80635.75,
-   80462.19,
-   80572.99,
-   80569.76,
-   80734.24,
-   81071.52,
-   81416.09,
-   81083.64,
-   81340.01,
-   81204.11,
-   81214.54,
-   81240.83,
-   81128.97,
-   80878.25,
-   80154.36,
-   79715.3,
-   79782.62,
-   79726.64,
-   80169.4,
-   80233.81,
-   79978.7,
-   79866.51,
-   79778.91,
-   79951.72,
-   80160.69,
-   80088.8
+   80603.26,
+   80461.94,
+   80374.1,
+   80574.84,
+   80695.48,
+   81104.23,
+   81356.0,
+   81121.23,
+   81326.48,
+   81197.38,
+   81218.86,
+   81276.5,
+   81191.59,
+   80946.55,
+   80044.47,
+   79778.12,
+   79850.94,
+   79717.11,
+   80051.58,
+   80249.21,
+   80014.53,
+   79860.82,
+   79752.16,
+   79975.21,
+   80126.69,
+   80088.83,
+   80231.11,
+   80069.92,
+   80033.69,
+   80082.09,
+   79998.53,
+   80735.26
   ]
  },
  "weibo": [],
- "zhihu": [
-  {
-   "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
-   "link": "https://www.zhihu.com/question/2098733383778149122"
-  },
-  {
-   "title": "媒体曝撒尿牛肉味丸原料多为鸡脖泥，牛肉味纯靠牛肉膏，这类速冻肉丸存在哪些食品安全隐患？这算违法吗？",
-   "link": "https://www.zhihu.com/question/2098700998789304471"
-  },
-  {
-   "title": "姆巴佩在道歉声明中说「ill-judged」，这个词具体什么意思？体现出诚意了吗？",
-   "link": "https://www.zhihu.com/question/2099101019997323833"
-  },
-  {
-   "title": "科普书出现「双头虾」图片，出版社称正在下架召回，为何出现如此明显错误？科普类出版该限制 AI 配图吗？",
-   "link": "https://www.zhihu.com/question/2098771415411291576"
-  },
-  {
-   "title": "如何看待2026年10月28日，比亚迪员工数突破102万人？",
-   "link": "https://www.zhihu.com/question/2098833611659154592"
-  },
-  {
-   "title": "华为制药军团表态，其公司定位是医药行业的AI赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
-   "link": "https://www.zhihu.com/question/2099103184987714518"
-  },
-  {
-   "title": "餐馆「三五而栗」全门店将停业，曾因优先招聘35岁以上及残障人士出圈，问题出在哪？善意和盈利该怎么平衡？",
-   "link": "https://www.zhihu.com/question/2099092803179628343"
-  },
-  {
-   "title": "大一新生将「大体老师」头骨当道具摆拍发朋友圈，如何看待此事？会带来哪些影响？",
-   "link": "https://www.zhihu.com/question/2097051860653831381"
-  },
-  {
-   "title": "兵部尚书冻死在御书房外会引发藩王造反？历史上真的发生过类似的事吗？",
-   "link": "https://www.zhihu.com/question/2098035011463148222"
-  },
-  {
-   "title": "江苏一医生被曝用「豆包」查药，患者家属因此拒绝其开具处方，你看诊时能接受医生使用 AI 工具吗？",
-   "link": "https://www.zhihu.com/question/2098804738414399591"
-  },
-  {
-   "title": "为什么男性会保留乳头？是不是基因偷懒不想另起炉灶和留条可能性后路？",
-   "link": "https://www.zhihu.com/question/2088034202138813741"
-  },
-  {
-   "title": "怎样看待上海一小区多名幼童裸体在公共区域跑动，妈妈称管不住？父母这种「不作为」需要承担法律责任吗？",
-   "link": "https://www.zhihu.com/question/2098856386176054045"
-  }
- ],
+ "zhihu": [],
  "baidu": [
   {
    "title": "二十届五中全会公报",
    "link": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5&sa=fyb_news"
   },
   {
-   "title": "工资改发数字人民币了 有啥变化",
-   "link": "https://m.baidu.com/s?word=%E5%B7%A5%E8%B5%84%E6%94%B9%E5%8F%91%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E4%BA%86+%E6%9C%89%E5%95%A5%E5%8F%98%E5%8C%96&sa=fyb_news"
+   "title": "养老金要崩盘？用三本账穿越认知迷雾",
+   "link": "https://m.baidu.com/s?word=%E5%85%BB%E8%80%81%E9%87%91%E8%A6%81%E5%B4%A9%E7%9B%98%EF%BC%9F%E7%94%A8%E4%B8%89%E6%9C%AC%E8%B4%A6%E7%A9%BF%E8%B6%8A%E8%AE%A4%E7%9F%A5%E8%BF%B7%E9%9B%BE&sa=fyb_news"
   },
   {
-   "title": "国防部评电视剧《交锋》",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E9%98%B2%E9%83%A8%E8%AF%84%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%BA%A4%E9%94%8B%E3%80%8B&sa=fyb_news"
+   "title": "10元快剪正暴打全国的“设计总监”",
+   "link": "https://m.baidu.com/s?word=10%E5%85%83%E5%BF%AB%E5%89%AA%E6%AD%A3%E6%9A%B4%E6%89%93%E5%85%A8%E5%9B%BD%E7%9A%84%E2%80%9C%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "“三张桌子”看作风",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%89%E5%BC%A0%E6%A1%8C%E5%AD%90%E2%80%9D%E7%9C%8B%E4%BD%9C%E9%A3%8E&sa=fyb_news"
+   "title": "征途之上",
+   "link": "https://m.baidu.com/s?word=%E5%BE%81%E9%80%94%E4%B9%8B%E4%B8%8A&sa=fyb_news"
   },
   {
-   "title": "巴基斯坦禁飞 “台独”像热锅上蚂蚁",
-   "link": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A6%81%E9%A3%9E+%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%83%8F%E7%83%AD%E9%94%85%E4%B8%8A%E8%9A%82%E8%9A%81&sa=fyb_news"
+   "title": "一条牛仔裤20万 克罗心还能撑多久",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%A1%E7%89%9B%E4%BB%94%E8%A3%A420%E4%B8%87+%E5%85%8B%E7%BD%97%E5%BF%83%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85&sa=fyb_news"
   },
   {
-   "title": "国产3A又一个大学生来了",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A73A%E5%8F%88%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9D%A5%E4%BA%86&sa=fyb_news"
+   "title": "这些地方将有大暴雪、特大暴雪",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E5%9C%B0%E6%96%B9%E5%B0%86%E6%9C%89%E5%A4%A7%E6%9A%B4%E9%9B%AA%E3%80%81%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%AA&sa=fyb_news"
   },
   {
-   "title": "早上五点的机场全是家长和孩子",
-   "link": "https://m.baidu.com/s?word=%E6%97%A9%E4%B8%8A%E4%BA%94%E7%82%B9%E7%9A%84%E6%9C%BA%E5%9C%BA%E5%85%A8%E6%98%AF%E5%AE%B6%E9%95%BF%E5%92%8C%E5%AD%A9%E5%AD%90&sa=fyb_news"
+   "title": "岳父回应女婿“小小徐”娶女儿走红",
+   "link": "https://m.baidu.com/s?word=%E5%B2%B3%E7%88%B6%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%A9%BF%E2%80%9C%E5%B0%8F%E5%B0%8F%E5%BE%90%E2%80%9D%E5%A8%B6%E5%A5%B3%E5%84%BF%E8%B5%B0%E7%BA%A2&sa=fyb_news"
   },
   {
-   "title": "中国武侠 这次真站到世界面前了",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%AD%A6%E4%BE%A0+%E8%BF%99%E6%AC%A1%E7%9C%9F%E7%AB%99%E5%88%B0%E4%B8%96%E7%95%8C%E9%9D%A2%E5%89%8D%E4%BA%86&sa=fyb_news"
+   "title": "姆巴佩翻车 西甲主席考虑来中国",
+   "link": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%BF%BB%E8%BD%A6+%E8%A5%BF%E7%94%B2%E4%B8%BB%E5%B8%AD%E8%80%83%E8%99%91%E6%9D%A5%E4%B8%AD%E5%9B%BD&sa=fyb_news"
   },
   {
-   "title": "9点半买的手机 10点50就坏了",
-   "link": "https://m.baidu.com/s?word=9%E7%82%B9%E5%8D%8A%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA+10%E7%82%B950%E5%B0%B1%E5%9D%8F%E4%BA%86&sa=fyb_news"
+   "title": "高秀敏被印上祭品 何庆魁愤怒发声",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E7%A7%80%E6%95%8F%E8%A2%AB%E5%8D%B0%E4%B8%8A%E7%A5%AD%E5%93%81+%E4%BD%95%E5%BA%86%E9%AD%81%E6%84%A4%E6%80%92%E5%8F%91%E5%A3%B0&sa=fyb_news"
   },
   {
-   "title": "让群众真切体会到清风正气在身边",
-   "link": "https://m.baidu.com/s?word=%E8%AE%A9%E7%BE%A4%E4%BC%97%E7%9C%9F%E5%88%87%E4%BD%93%E4%BC%9A%E5%88%B0%E6%B8%85%E9%A3%8E%E6%AD%A3%E6%B0%94%E5%9C%A8%E8%BA%AB%E8%BE%B9&sa=fyb_news"
+   "title": "全面从严治党就在身边",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E5%B0%B1%E5%9C%A8%E8%BA%AB%E8%BE%B9&sa=fyb_news"
   },
   {
-   "title": "女儿看到爸爸白发心疼落泪",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%84%BF%E7%9C%8B%E5%88%B0%E7%88%B8%E7%88%B8%E7%99%BD%E5%8F%91%E5%BF%83%E7%96%BC%E8%90%BD%E6%B3%AA&sa=fyb_news"
+   "title": "邀全网喝喜酒小伙打工3年攒近17万",
+   "link": "https://m.baidu.com/s?word=%E9%82%80%E5%85%A8%E7%BD%91%E5%96%9D%E5%96%9C%E9%85%92%E5%B0%8F%E4%BC%99%E6%89%93%E5%B7%A53%E5%B9%B4%E6%94%92%E8%BF%9117%E4%B8%87&sa=fyb_news"
   },
   {
-   "title": "理财产品要变相保本系误读政策",
-   "link": "https://m.baidu.com/s?word=%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81%E8%A6%81%E5%8F%98%E7%9B%B8%E4%BF%9D%E6%9C%AC%E7%B3%BB%E8%AF%AF%E8%AF%BB%E6%94%BF%E7%AD%96&sa=fyb_news"
+   "title": "打破“茅台洗脚”污名谣言",
+   "link": "https://m.baidu.com/s?word=%E6%89%93%E7%A0%B4%E2%80%9C%E8%8C%85%E5%8F%B0%E6%B4%97%E8%84%9A%E2%80%9D%E6%B1%A1%E5%90%8D%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "78个学生共用一个针头 官方通报",
-   "link": "https://m.baidu.com/s?word=78%E4%B8%AA%E5%AD%A6%E7%94%9F%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E9%92%88%E5%A4%B4+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5&sa=fyb_news"
-  },
-  {
-   "title": "乌干达吃掉38人的“食人魔”落网",
-   "link": "https://m.baidu.com/s?word=%E4%B9%8C%E5%B9%B2%E8%BE%BE%E5%90%83%E6%8E%8938%E4%BA%BA%E7%9A%84%E2%80%9C%E9%A3%9F%E4%BA%BA%E9%AD%94%E2%80%9D%E8%90%BD%E7%BD%91&sa=fyb_news"
+   "title": "30万年轻人 排队求陌生人管住钱包",
+   "link": "https://m.baidu.com/s?word=30%E4%B8%87%E5%B9%B4%E8%BD%BB%E4%BA%BA+%E6%8E%92%E9%98%9F%E6%B1%82%E9%99%8C%E7%94%9F%E4%BA%BA%E7%AE%A1%E4%BD%8F%E9%92%B1%E5%8C%85&sa=fyb_news"
   },
   {
    "title": "“逮不住随便偷 逮住200元1棵”",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%80%AE%E4%B8%8D%E4%BD%8F%E9%9A%8F%E4%BE%BF%E5%81%B7+%E9%80%AE%E4%BD%8F200%E5%85%831%E6%A3%B5%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "姆巴佩曾代言的饮品单日销量为0",
+   "link": "https://m.baidu.com/s?word=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%9B%BE%E4%BB%A3%E8%A8%80%E7%9A%84%E9%A5%AE%E5%93%81%E5%8D%95%E6%97%A5%E9%94%80%E9%87%8F%E4%B8%BA0&sa=fyb_news"
   }
  ],
  "ai": [
