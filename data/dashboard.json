@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updatedAt": "2026-11-01 06:08",
+ "updatedAt": "2026-11-01 11:17",
  "stocks": [
   {
    "name": "上证指数",
@@ -179,23 +179,23 @@
   {
    "name": "美元",
    "value": "6.671",
-   "change": "+0.0009",
-   "pct": "+0.01%",
-   "up": true
+   "change": "-0.0001",
+   "pct": "-0.00%",
+   "up": false
   },
   {
    "name": "欧元",
    "value": "7.440",
-   "change": "-0.0040",
-   "pct": "-0.05%",
+   "change": "-0.0000",
+   "pct": "-0.00%",
    "up": false
   },
   {
    "name": "港币",
    "value": "0.851",
-   "change": "+0.0005",
-   "pct": "+0.06%",
-   "up": true
+   "change": "-0.0005",
+   "pct": "-0.06%",
+   "up": false
   },
   {
    "name": "100日元",
@@ -206,156 +206,156 @@
   }
  ],
  "btc": {
-  "usd": "77,824",
-  "cny": "518,105",
-  "pct": "+0.69%",
+  "usd": "77,912",
+  "cny": "518,688",
+  "pct": "+0.72%",
   "up": true,
   "trend": [
-   77216.9,
-   77340.15,
-   77280.96,
-   77316.88,
-   77329.73,
-   77355.49,
-   77408.28,
-   77382.63,
-   77534.34,
-   77480.05,
-   77382.8,
-   77393.9,
-   77302.82,
-   77508.95,
-   77503.54,
-   77523.1,
-   77607.34,
-   77538.64,
-   77508.01,
-   77491.78,
-   77370.05,
-   77493.05,
-   77568.79,
-   77469.19,
-   77462.31,
-   77585.01,
-   77652.1,
-   77637.41,
-   77698.99,
-   77733.12,
-   77721.47,
-   77740.47
+   77374.42,
+   77485.07,
+   77455.55,
+   77372.57,
+   77394.08,
+   77307.58,
+   77505.52,
+   77492.96,
+   77596.72,
+   77604.0,
+   77586.85,
+   77497.61,
+   77533.1,
+   77444.13,
+   77474.09,
+   77552.62,
+   77454.16,
+   77454.06,
+   77556.97,
+   77651.47,
+   77687.43,
+   77661.84,
+   77703.32,
+   77728.78,
+   77743.66,
+   77812.0,
+   77853.99,
+   77788.4,
+   77827.62,
+   78126.21,
+   78012.89,
+   77961.32
   ]
  },
  "weibo": [
   {
-   "title": "玉簟秋be",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8Bbe"
+   "title": "W盛典红毯",
+   "link": "https://s.weibo.com/weibo?q=W%E7%9B%9B%E5%85%B8%E7%BA%A2%E6%AF%AF"
   },
   {
-   "title": "成人感染幽门螺杆菌很难自愈",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88"
+   "title": "明年春节可连休9天",
+   "link": "https://s.weibo.com/weibo?q=%E6%98%8E%E5%B9%B4%E6%98%A5%E8%8A%82%E5%8F%AF%E8%BF%9E%E4%BC%919%E5%A4%A9"
   },
   {
-   "title": "解读持之以恒推进全面从严治党",
-   "link": "https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%BB%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A"
+   "title": "专家解读全面从严治党新部署",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E6%96%B0%E9%83%A8%E7%BD%B2"
   },
   {
-   "title": "我起床了厉娜",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%91%E8%B5%B7%E5%BA%8A%E4%BA%86%E5%8E%89%E5%A8%9C"
+   "title": "比亚迪销量",
+   "link": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F"
   },
   {
-   "title": "金价",
-   "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7"
+   "title": "2026APEC中国年东道主城市主题歌",
+   "link": "https://s.weibo.com/weibo?q=2026APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%B8%9C%E9%81%93%E4%B8%BB%E5%9F%8E%E5%B8%82%E4%B8%BB%E9%A2%98%E6%AD%8C"
   },
   {
-   "title": "虞书欣演唱会官宣",
-   "link": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3"
+   "title": "AI短剧为何放弃清宫戏",
+   "link": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E6%94%BE%E5%BC%83%E6%B8%85%E5%AE%AB%E6%88%8F"
   },
   {
-   "title": "法定放假总数已增至13天",
-   "link": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9"
+   "title": "怀孕38周遇瓷砖掉落查出胎心异常",
+   "link": "https://s.weibo.com/weibo?q=%E6%80%80%E5%AD%9538%E5%91%A8%E9%81%87%E7%93%B7%E7%A0%96%E6%8E%89%E8%90%BD%E6%9F%A5%E5%87%BA%E8%83%8E%E5%BF%83%E5%BC%82%E5%B8%B8"
   },
   {
-   "title": "嫁金钗大婚吻戏",
-   "link": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%A4%A7%E5%A9%9A%E5%90%BB%E6%88%8F"
+   "title": "央行证监会将研究支持资本市场工具",
+   "link": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E7%A0%94%E7%A9%B6%E6%94%AF%E6%8C%81%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%B7%A5%E5%85%B7"
   },
   {
-   "title": "人会在某一刻突然理解塞翁失马",
-   "link": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%BC%9A%E5%9C%A8%E6%9F%90%E4%B8%80%E5%88%BB%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E5%A1%9E%E7%BF%81%E5%A4%B1%E9%A9%AC"
+   "title": "GLASS盛典",
+   "link": "https://s.weibo.com/weibo?q=GLASS%E7%9B%9B%E5%85%B8"
   },
   {
-   "title": "金价长期走势将转向",
-   "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%95%BF%E6%9C%9F%E8%B5%B0%E5%8A%BF%E5%B0%86%E8%BD%AC%E5%90%91"
+   "title": "Bin说打Siwoo没压力",
+   "link": "https://s.weibo.com/weibo?q=Bin%E8%AF%B4%E6%89%93Siwoo%E6%B2%A1%E5%8E%8B%E5%8A%9B"
   },
   {
-   "title": "长沙经济排名咋了",
-   "link": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E7%BB%8F%E6%B5%8E%E6%8E%92%E5%90%8D%E5%92%8B%E4%BA%86"
+   "title": "郭宇欣你真的牛大了",
+   "link": "https://s.weibo.com/weibo?q=%E9%83%AD%E5%AE%87%E6%AC%A3%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%89%9B%E5%A4%A7%E4%BA%86"
   },
   {
-   "title": "侯卓成杨汝晴官宣分手",
-   "link": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B"
+   "title": "王子璇关晓彤是大学同班同学",
+   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E5%85%B3%E6%99%93%E5%BD%A4%E6%98%AF%E5%A4%A7%E5%AD%A6%E5%90%8C%E7%8F%AD%E5%90%8C%E5%AD%A6"
   }
  ],
  "zhihu": [],
  "baidu": [
   {
-   "title": "近5000字公报 “严”字贯穿始终",
-   "link": "https://m.baidu.com/s?word=%E8%BF%915000%E5%AD%97%E5%85%AC%E6%8A%A5+%E2%80%9C%E4%B8%A5%E2%80%9D%E5%AD%97%E8%B4%AF%E7%A9%BF%E5%A7%8B%E7%BB%88&sa=fyb_news"
+   "title": "以恒心守初心 从胜利走向新的胜利",
+   "link": "https://m.baidu.com/s?word=%E4%BB%A5%E6%81%92%E5%BF%83%E5%AE%88%E5%88%9D%E5%BF%83+%E4%BB%8E%E8%83%9C%E5%88%A9%E8%B5%B0%E5%90%91%E6%96%B0%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news"
   },
   {
-   "title": "“黄金平替”全球爆单",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95&sa=fyb_news"
+   "title": "二十届五中全会决定",
+   "link": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A&sa=fyb_news"
   },
   {
-   "title": "导演上街举牌求人看电影：没钱宣发",
-   "link": "https://m.baidu.com/s?word=%E5%AF%BC%E6%BC%94%E4%B8%8A%E8%A1%97%E4%B8%BE%E7%89%8C%E6%B1%82%E4%BA%BA%E7%9C%8B%E7%94%B5%E5%BD%B1%EF%BC%9A%E6%B2%A1%E9%92%B1%E5%AE%A3%E5%8F%91&sa=fyb_news"
+   "title": "爱喝茶的人赚了",
+   "link": "https://m.baidu.com/s?word=%E7%88%B1%E5%96%9D%E8%8C%B6%E7%9A%84%E4%BA%BA%E8%B5%9A%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "深海好鱼如何“游”上百姓餐桌",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E6%B5%B7%E5%A5%BD%E9%B1%BC%E5%A6%82%E4%BD%95%E2%80%9C%E6%B8%B8%E2%80%9D%E4%B8%8A%E7%99%BE%E5%A7%93%E9%A4%90%E6%A1%8C&sa=fyb_news"
+   "title": "秋日文旅热 赏秋正当时",
+   "link": "https://m.baidu.com/s?word=%E7%A7%8B%E6%97%A5%E6%96%87%E6%97%85%E7%83%AD+%E8%B5%8F%E7%A7%8B%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news"
   },
   {
-   "title": "史上最大IPO真要来了么",
-   "link": "https://m.baidu.com/s?word=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%E7%9C%9F%E8%A6%81%E6%9D%A5%E4%BA%86%E4%B9%88&sa=fyb_news"
+   "title": "“接初中生放学就像特务接头”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%8E%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E6%94%BE%E5%AD%A6%E5%B0%B1%E5%83%8F%E7%89%B9%E5%8A%A1%E6%8E%A5%E5%A4%B4%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "公司误将5000元工资发给已离职员工",
-   "link": "https://m.baidu.com/s?word=%E5%85%AC%E5%8F%B8%E8%AF%AF%E5%B0%865000%E5%85%83%E5%B7%A5%E8%B5%84%E5%8F%91%E7%BB%99%E5%B7%B2%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5&sa=fyb_news"
+   "title": "向谢霆锋扔荧光棒男子被行政处罚",
+   "link": "https://m.baidu.com/s?word=%E5%90%91%E8%B0%A2%E9%9C%86%E9%94%8B%E6%89%94%E8%8D%A7%E5%85%89%E6%A3%92%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A&sa=fyb_news"
   },
   {
-   "title": "2027年春节有望连休9天",
-   "link": "https://m.baidu.com/s?word=2027%E5%B9%B4%E6%98%A5%E8%8A%82%E6%9C%89%E6%9C%9B%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news"
+   "title": "成人感染幽门螺杆菌很难自愈",
+   "link": "https://m.baidu.com/s?word=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88&sa=fyb_news"
   },
   {
-   "title": "做完胃镜没问题 一个月后胃癌晚期",
-   "link": "https://m.baidu.com/s?word=%E5%81%9A%E5%AE%8C%E8%83%83%E9%95%9C%E6%B2%A1%E9%97%AE%E9%A2%98+%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%8E%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F&sa=fyb_news"
+   "title": "陪看：孙颖莎vs王艺迪",
+   "link": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%EF%BC%9A%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA&sa=fyb_news"
   },
   {
-   "title": "李一桐 闪身步嫡传弟子",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E4%B8%80%E6%A1%90+%E9%97%AA%E8%BA%AB%E6%AD%A5%E5%AB%A1%E4%BC%A0%E5%BC%9F%E5%AD%90&sa=fyb_news"
+   "title": "为什么市面上猪尾巴越来越少见了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%8C%AA%E5%B0%BE%E5%B7%B4%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E8%A7%81%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "12万招985硕士 3000万给一个专科生",
-   "link": "https://m.baidu.com/s?word=12%E4%B8%87%E6%8B%9B985%E7%A1%95%E5%A3%AB+3000%E4%B8%87%E7%BB%99%E4%B8%80%E4%B8%AA%E4%B8%93%E7%A7%91%E7%94%9F&sa=fyb_news"
+   "title": "全运会“最美女记者”刘琰官宣离职",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E8%BF%90%E4%BC%9A%E2%80%9C%E6%9C%80%E7%BE%8E%E5%A5%B3%E8%AE%B0%E8%80%85%E2%80%9D%E5%88%98%E7%90%B0%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C&sa=fyb_news"
   },
   {
-   "title": "金价波动 水贝市场像“菜市场”",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8+%E6%B0%B4%E8%B4%9D%E5%B8%82%E5%9C%BA%E5%83%8F%E2%80%9C%E8%8F%9C%E5%B8%82%E5%9C%BA%E2%80%9D&sa=fyb_news"
+   "title": "央行、证监会将于明天召开座谈会",
+   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E3%80%81%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%A4%A9%E5%8F%AC%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news"
   },
   {
-   "title": "禾木野生猴群下山抢手机系谣言",
-   "link": "https://m.baidu.com/s?word=%E7%A6%BE%E6%9C%A8%E9%87%8E%E7%94%9F%E7%8C%B4%E7%BE%A4%E4%B8%8B%E5%B1%B1%E6%8A%A2%E6%89%8B%E6%9C%BA%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
+   "title": "乌鲁木齐辟谣“禁售马肉马肠制品”",
+   "link": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%A6%81%E5%94%AE%E9%A9%AC%E8%82%89%E9%A9%AC%E8%82%A0%E5%88%B6%E5%93%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "国家公务员局发布郑重提醒",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8A%A1%E5%91%98%E5%B1%80%E5%8F%91%E5%B8%83%E9%83%91%E9%87%8D%E6%8F%90%E9%86%92&sa=fyb_news"
+   "title": "婚礼当晚新郎车祸进ICU 新娘查出怀孕",
+   "link": "https://m.baidu.com/s?word=%E5%A9%9A%E7%A4%BC%E5%BD%93%E6%99%9A%E6%96%B0%E9%83%8E%E8%BD%A6%E7%A5%B8%E8%BF%9BICU+%E6%96%B0%E5%A8%98%E6%9F%A5%E5%87%BA%E6%80%80%E5%AD%95&sa=fyb_news"
   },
   {
-   "title": "胡歌参加女儿幼儿园拔河比赛",
-   "link": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E5%8F%82%E5%8A%A0%E5%A5%B3%E5%84%BF%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%94%E6%B2%B3%E6%AF%94%E8%B5%9B&sa=fyb_news"
+   "title": "法定放假总数已增至13天",
+   "link": "https://m.baidu.com/s?word=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9&sa=fyb_news"
   },
   {
-   "title": "这些食物吃一点都是在往嘴里倒油",
-   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%90%83%E4%B8%80%E7%82%B9%E9%83%BD%E6%98%AF%E5%9C%A8%E5%BE%80%E5%98%B4%E9%87%8C%E5%80%92%E6%B2%B9&sa=fyb_news"
+   "title": "短剧《太奶奶5》上线首日热度破亿",
+   "link": "https://m.baidu.com/s?word=%E7%9F%AD%E5%89%A7%E3%80%8A%E5%A4%AA%E5%A5%B6%E5%A5%B65%E3%80%8B%E4%B8%8A%E7%BA%BF%E9%A6%96%E6%97%A5%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF&sa=fyb_news"
   }
  ],
  "ai": [
