@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updatedAt": "2026-11-01 15:15",
+ "updatedAt": "2026-11-01 17:56",
  "stocks": [
   {
    "name": "上证指数",
@@ -206,96 +206,96 @@
   }
  ],
  "btc": {
-  "usd": "78,009",
-  "cny": "519,334",
-  "pct": "+0.84%",
+  "usd": "77,991",
+  "cny": "519,216",
+  "pct": "+0.43%",
   "up": true,
   "trend": [
-   77356.5,
-   77511.1,
-   77504.0,
-   77500.4,
-   77615.26,
-   77532.33,
-   77515.32,
-   77486.49,
-   77372.81,
-   77559.51,
-   77562.88,
-   77447.22,
-   77441.3,
-   77577.87,
-   77685.11,
-   77647.89,
-   77704.69,
-   77725.13,
-   77755.83,
-   77748.98,
-   77917.54,
-   77932.55,
-   77794.44,
-   77903.76,
-   78120.91,
-   78037.44,
-   77973.6,
-   77925.01,
-   77863.38,
-   77816.34,
-   77885.85,
-   77949.6
+   77645.92,
+   77603.43,
+   77496.33,
+   77524.31,
+   77462.6,
+   77431.89,
+   77544.39,
+   77446.74,
+   77474.08,
+   77553.66,
+   77603.34,
+   77670.84,
+   77669.08,
+   77750.11,
+   77733.72,
+   77745.71,
+   77803.51,
+   77824.38,
+   77796.24,
+   77825.18,
+   78121.94,
+   77980.96,
+   78038.06,
+   77910.03,
+   77879.28,
+   77822.56,
+   77885.25,
+   77943.61,
+   77971.57,
+   77992.39,
+   78044.37,
+   78084.2
   ]
  },
- "weibo": [],
- "zhihu": [
+ "weibo": [
   {
-   "title": "如何评价 2026 年 10 月小米汽车交付量超过 50000 台？",
-   "link": "https://www.zhihu.com/question/2100160196362384887"
+   "title": "画地为牢",
+   "link": "https://s.weibo.com/weibo?q=%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2"
   },
   {
-   "title": "四川华蓥大摆荡致1名16岁游客死亡调查报告公布，2名责任人已移送司法机关处理，哪些信息值得关注？",
-   "link": "https://www.zhihu.com/question/2099965221775173414"
+   "title": "85花很刻意避免同台了",
+   "link": "https://s.weibo.com/weibo?q=85%E8%8A%B1%E5%BE%88%E5%88%BB%E6%84%8F%E9%81%BF%E5%85%8D%E5%90%8C%E5%8F%B0%E4%BA%86"
   },
   {
-   "title": "怎么看百度搜索降价千次4.9元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-   "link": "https://www.zhihu.com/question/2099967799934313950"
+   "title": "被一棵棵红军树背后的故事感动了",
+   "link": "https://s.weibo.com/weibo?q=%E8%A2%AB%E4%B8%80%E6%A3%B5%E6%A3%B5%E7%BA%A2%E5%86%9B%E6%A0%91%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%E6%84%9F%E5%8A%A8%E4%BA%86"
   },
   {
-   "title": "如何看待鸿蒙智行五界2026年10月销量合计33537辆？五界是否能生存下去？",
-   "link": "https://www.zhihu.com/question/2100246281591510431"
+   "title": "孙颖莎vs蒯曼",
+   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC"
   },
   {
-   "title": "巴菲特天天吃麦当劳还喝那么多可乐为何还那么长寿？",
-   "link": "https://www.zhihu.com/question/279093295"
+   "title": "曝王子璇录制结束抱着经纪人流泪",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%8E%8B%E5%AD%90%E7%92%87%E5%BD%95%E5%88%B6%E7%BB%93%E6%9D%9F%E6%8A%B1%E7%9D%80%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%B5%81%E6%B3%AA"
   },
   {
-   "title": "法国爆发第三轮抗议活动，抗议人数从55万降至32万，是意味着这轮社会抗议正在降温吗？抗议还会持续多久？",
-   "link": "https://www.zhihu.com/question/2100178342901019827"
+   "title": "吴磊婉拒蔡徐坤",
+   "link": "https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E5%A9%89%E6%8B%92%E8%94%A1%E5%BE%90%E5%9D%A4"
   },
   {
-   "title": "张雪称最怕遇到 「玻璃心」年轻人，遇到挫折是100%的，要有接受挫折的勇气，年轻人抗压能力变差了吗？",
-   "link": "https://www.zhihu.com/question/2099177192760595220"
+   "title": "马天宇张萌 和好",
+   "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%BC%A0%E8%90%8C%20%E5%92%8C%E5%A5%BD"
   },
   {
-   "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿IPO，背后的原因是什么？",
-   "link": "https://www.zhihu.com/question/2099683580964352612"
+   "title": "影视行业真的来春天了",
+   "link": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9C%9F%E7%9A%84%E6%9D%A5%E6%98%A5%E5%A4%A9%E4%BA%86"
   },
   {
-   "title": "鲁迅在《孔乙己》中写民国的普通打工人傍午就下班，下班后喝黄酒，吃盐煮笋、茴香豆是否符合历史？",
-   "link": "https://www.zhihu.com/question/2100159022481532058"
+   "title": "孙颖莎蒯曼蒙彼利埃争冠",
+   "link": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%92%AF%E6%9B%BC%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83%E4%BA%89%E5%86%A0"
   },
   {
-   "title": "如何评价比亚迪 10 月新能源汽车销量 49.02 万辆，海外销量翻倍？横向对比这一销量属于什么水平？",
-   "link": "https://www.zhihu.com/question/2100317442232644379"
+   "title": "35岁保时捷女销售登顶全国销冠",
+   "link": "https://s.weibo.com/weibo?q=35%E5%B2%81%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0"
   },
   {
-   "title": "如何评价懂车帝MPV爬坡测试视频？",
-   "link": "https://www.zhihu.com/question/2099981621046859004"
+   "title": "中国女生借卫生巾震撼外国网友",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%80%9F%E5%8D%AB%E7%94%9F%E5%B7%BE%E9%9C%87%E6%92%BC%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B"
   },
   {
-   "title": "如何评价山东东营80后男子用枯枝搭建巨型齐天大圣走红？为什么这件私人创作能引发这么大共鸣？",
-   "link": "https://www.zhihu.com/question/2098799350503699522"
+   "title": "刘冲可以放心睡觉了",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%86%B2%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%BF%83%E7%9D%A1%E8%A7%89%E4%BA%86"
   }
  ],
+ "zhihu": [],
  "baidu": [
   {
    "title": "二十届五中全会决定全文",
@@ -322,36 +322,36 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BD%BF%E9%A6%86%EF%BC%9A%E5%90%AC%E8%9D%B2%E8%9D%B2%E8%9B%84%E5%8F%AB%E8%BF%98%E4%B8%8D%E7%A7%8D%E5%BA%84%E7%A8%BC%E4%BA%86%EF%BC%9F&sa=fyb_news"
   },
   {
-   "title": "10岁女孩身高1米8基本每晚9点睡觉",
-   "link": "https://m.baidu.com/s?word=10%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%981%E7%B1%B38%E5%9F%BA%E6%9C%AC%E6%AF%8F%E6%99%9A9%E7%82%B9%E7%9D%A1%E8%A7%89&sa=fyb_news"
+   "title": "246万买邮轮永居权2年后被要求离船",
+   "link": "https://m.baidu.com/s?word=246%E4%B8%87%E4%B9%B0%E9%82%AE%E8%BD%AE%E6%B0%B8%E5%B1%85%E6%9D%832%E5%B9%B4%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E8%88%B9&sa=fyb_news"
   },
   {
    "title": "孙颖莎4比3王艺迪晋级决赛",
    "link": "https://m.baidu.com/s?word=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E7%8E%8B%E8%89%BA%E8%BF%AA%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B&sa=fyb_news"
   },
   {
-   "title": "全运会“最美女记者”刘琰官宣离职",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E8%BF%90%E4%BC%9A%E2%80%9C%E6%9C%80%E7%BE%8E%E5%A5%B3%E8%AE%B0%E8%80%85%E2%80%9D%E5%88%98%E7%90%B0%E5%AE%98%E5%AE%A3%E7%A6%BB%E8%81%8C&sa=fyb_news"
-  },
-  {
-   "title": "贷款利率尺子要变了",
-   "link": "https://m.baidu.com/s?word=%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E5%B0%BA%E5%AD%90%E8%A6%81%E5%8F%98%E4%BA%86&sa=fyb_news"
-  },
-  {
    "title": "刘亦菲婚纱造型好像新娘子",
    "link": "https://m.baidu.com/s?word=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A9%9A%E7%BA%B1%E9%80%A0%E5%9E%8B%E5%A5%BD%E5%83%8F%E6%96%B0%E5%A8%98%E5%AD%90&sa=fyb_news"
+  },
+  {
+   "title": "大衣哥被举报风波后首场线下演出",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%A1%A3%E5%93%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%9C%BA%E7%BA%BF%E4%B8%8B%E6%BC%94%E5%87%BA&sa=fyb_news"
+  },
+  {
+   "title": "吃火锅未点鸭血锅底现鸭血残渣",
+   "link": "https://m.baidu.com/s?word=%E5%90%83%E7%81%AB%E9%94%85%E6%9C%AA%E7%82%B9%E9%B8%AD%E8%A1%80%E9%94%85%E5%BA%95%E7%8E%B0%E9%B8%AD%E8%A1%80%E6%AE%8B%E6%B8%A3&sa=fyb_news"
   },
   {
    "title": "乌鲁木齐辟谣“禁售马肉马肠制品”",
    "link": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%A6%81%E5%94%AE%E9%A9%AC%E8%82%89%E9%A9%AC%E8%82%A0%E5%88%B6%E5%93%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "男子每天吃海参 肿瘤指标翻了500倍",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%90%83%E6%B5%B7%E5%8F%82+%E8%82%BF%E7%98%A4%E6%8C%87%E6%A0%87%E7%BF%BB%E4%BA%86500%E5%80%8D&sa=fyb_news"
+   "title": "多个地方行业协会宣布自行解散",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E4%B8%AA%E5%9C%B0%E6%96%B9%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E5%AE%A3%E5%B8%83%E8%87%AA%E8%A1%8C%E8%A7%A3%E6%95%A3&sa=fyb_news"
   },
   {
-   "title": "大衣哥被举报风波后首场线下演出",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E8%A1%A3%E5%93%A5%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%A3%8E%E6%B3%A2%E5%90%8E%E9%A6%96%E5%9C%BA%E7%BA%BF%E4%B8%8B%E6%BC%94%E5%87%BA&sa=fyb_news"
+   "title": "10岁女孩身高1米8基本每晚9点睡觉",
+   "link": "https://m.baidu.com/s?word=10%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%BA%AB%E9%AB%981%E7%B1%B38%E5%9F%BA%E6%9C%AC%E6%AF%8F%E6%99%9A9%E7%82%B9%E7%9D%A1%E8%A7%89&sa=fyb_news"
   },
   {
    "title": "中俄“过江神器”再现界江",
