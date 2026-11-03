@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03 11:58",
+ "updatedAt": "2026-11-03 16:18",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,193 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3905.57",
+  "value": "3932.89",
   "unit": "美元/盎司",
-  "change": "-40.90",
-  "pct": "-1.04%",
+  "change": "-13.58",
+  "pct": "-0.34%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.665",
-   "change": "+0.0003",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "欧元",
-   "value": "7.453",
-   "change": "+0.0002",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.850",
-   "change": "-0.0005",
-   "pct": "-0.05%",
-   "up": false
-  },
-  {
-   "name": "100日元",
-   "value": "4.219",
-   "change": "-0.0002",
-   "pct": "-0.00%",
-   "up": false
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "76,983",
-  "cny": "513,229",
-  "pct": "-1.05%",
-  "up": false,
+  "usd": "77,486",
+  "cny": "516,488",
+  "pct": "+0.19%",
+  "up": true,
   "trend": [
-   77807.6,
-   77768.66,
-   77605.28,
-   77787.66,
-   77772.02,
-   77897.88,
-   77265.97,
-   77335.41,
-   77062.58,
-   76846.44,
-   76940.76,
-   76813.0,
-   76674.54,
-   76855.33,
-   76766.63,
-   76688.86,
-   76709.41,
-   76967.16,
-   77184.13,
-   76903.7,
-   76636.67,
-   76646.55,
-   76993.56,
-   76703.11,
-   76552.71,
-   76572.54,
-   76760.91,
-   76691.55,
-   76526.71,
-   76932.52,
-   76942.37,
-   77097.89
+   77349.59,
+   77413.39,
+   76906.08,
+   76885.74,
+   76879.82,
+   76905.76,
+   76868.46,
+   76730.83,
+   76875.95,
+   76660.92,
+   76725.31,
+   77022.91,
+   77167.42,
+   76994.63,
+   76801.59,
+   76665.05,
+   76770.75,
+   76739.51,
+   76596.14,
+   76677.22,
+   76588.34,
+   76600.15,
+   76438.71,
+   76793.67,
+   76987.25,
+   77046.28,
+   77036.15,
+   77326.69,
+   77293.0,
+   77089.46,
+   77240.06,
+   77248.62
   ]
  },
  "weibo": [],
- "zhihu": [
-  {
-   "title": "红果短剧登顶台湾 App 下载榜首，有人退订 Netflix，背后的原因是什么？",
-   "link": "https://www.zhihu.com/question/2100527984583222149"
-  },
-  {
-   "title": "如何看待10元快剪正暴打全国的「设计总监」？",
-   "link": "https://www.zhihu.com/question/2099419745036650047"
-  },
-  {
-   "title": "男子32元买彩票中1113万，过期两天兑奖被拒，起诉索赔被驳回承担8.8万诉讼费，怎样从法律角度解读？",
-   "link": "https://www.zhihu.com/question/2100595209889497221"
-  },
-  {
-   "title": "2026 年美国中期选举，共和党与民主党谁能最终获胜？",
-   "link": "https://www.zhihu.com/question/2100152878602131100"
-  },
-  {
-   "title": "如果当初中国没做电动汽车，而是在发动机上玩命追赶会怎样？",
-   "link": "https://www.zhihu.com/question/2099832629952565725"
-  },
-  {
-   "title": "如何看待新华社公众号在11月2日发表的文章《国乒男队怎么了？》中表示：男子乒坛多极格局已成?",
-   "link": "https://www.zhihu.com/question/2100718638814720770"
-  },
-  {
-   "title": "基于DeepSeek Harness的手机插件 DSH Go上线后 Star 破4千，实际体验如何？",
-   "link": "https://www.zhihu.com/question/2099981630773400745"
-  },
-  {
-   "title": "保时捷女销冠再夺第一，所属公司却半年亏 2.7 亿，个人业绩拉满、公司疯狂失血，传统豪华车市场怎么了？",
-   "link": "https://www.zhihu.com/question/2100560990764889476"
-  },
-  {
-   "title": "古代的苦水水质口感相当于现在的自来水吗？",
-   "link": "https://www.zhihu.com/question/2098924793349288862"
-  },
-  {
-   "title": "如何看待张雪机车在重庆大学宣讲开的薪资，92毕业研发人员年薪12-15万元？在当地和业内算什么水平？",
-   "link": "https://www.zhihu.com/question/2098392850639730523"
-  },
-  {
-   "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
-   "link": "https://www.zhihu.com/question/2100704253669069587"
-  },
-  {
-   "title": "洛阳一卤蛋店爆火，每天能卖 3000 多个，老板称太累跪求顾客少来，为啥能这么火爆？",
-   "link": "https://www.zhihu.com/question/2099216071949382738"
-  }
- ],
+ "zhihu": [],
  "baidu": [
   {
-   "title": "党的二十届五中全会《决定》诞生记",
-   "link": "https://m.baidu.com/s?word=%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E3%80%8A%E5%86%B3%E5%AE%9A%E3%80%8B%E8%AF%9E%E7%94%9F%E8%AE%B0&sa=fyb_news"
-  },
-  {
-   "title": "刘延东遗体在京火化",
-   "link": "https://m.baidu.com/s?word=%E5%88%98%E5%BB%B6%E4%B8%9C%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96&sa=fyb_news"
-  },
-  {
-   "title": "长鑫科技、寒武纪发声",
-   "link": "https://m.baidu.com/s?word=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E3%80%81%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%A3%B0&sa=fyb_news"
-  },
-  {
-   "title": "9组数字 速览第九届进博会",
-   "link": "https://m.baidu.com/s?word=9%E7%BB%84%E6%95%B0%E5%AD%97+%E9%80%9F%E8%A7%88%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A&sa=fyb_news"
-  },
-  {
-   "title": "中国不申办2036年奥运会",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A&sa=fyb_news"
-  },
-  {
-   "title": "加200元油开了2公里发现没加上",
-   "link": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
-  },
-  {
-   "title": "迪士尼大裁员",
-   "link": "https://m.baidu.com/s?word=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A7%E8%A3%81%E5%91%98&sa=fyb_news"
-  },
-  {
-   "title": "西乙一球员与对方门将相撞 伤重离世",
-   "link": "https://m.baidu.com/s?word=%E8%A5%BF%E4%B9%99%E4%B8%80%E7%90%83%E5%91%98%E4%B8%8E%E5%AF%B9%E6%96%B9%E9%97%A8%E5%B0%86%E7%9B%B8%E6%92%9E+%E4%BC%A4%E9%87%8D%E7%A6%BB%E4%B8%96&sa=fyb_news"
+   "title": "全面从严治党的根本性任务",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%E7%9A%84%E6%A0%B9%E6%9C%AC%E6%80%A7%E4%BB%BB%E5%8A%A1&sa=fyb_news"
   },
   {
    "title": "10月新能源汽车销量榜：特斯拉跌至第8",
    "link": "https://m.baidu.com/s?word=10%E6%9C%88%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E6%A6%9C%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%87%B3%E7%AC%AC8&sa=fyb_news"
   },
   {
-   "title": "日本物价涨涨涨",
-   "link": "https://m.baidu.com/s?word=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E6%B6%A8%E6%B6%A8%E6%B6%A8&sa=fyb_news"
+   "title": "南京多所高中推迟上学时间",
+   "link": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E4%B8%AD%E6%8E%A8%E8%BF%9F%E4%B8%8A%E5%AD%A6%E6%97%B6%E9%97%B4&sa=fyb_news"
   },
   {
-   "title": "莫斯科遭大规模无人机袭击",
-   "link": "https://m.baidu.com/s?word=%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB&sa=fyb_news"
-  },
-  {
-   "title": "网传“四川一机场飞机着火”不实",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E4%BC%A0%E2%80%9C%E5%9B%9B%E5%B7%9D%E4%B8%80%E6%9C%BA%E5%9C%BA%E9%A3%9E%E6%9C%BA%E7%9D%80%E7%81%AB%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
-  },
-  {
-   "title": "感染终身携带 这种病毒进入高发期",
-   "link": "https://m.baidu.com/s?word=%E6%84%9F%E6%9F%93%E7%BB%88%E8%BA%AB%E6%90%BA%E5%B8%A6+%E8%BF%99%E7%A7%8D%E7%97%85%E6%AF%92%E8%BF%9B%E5%85%A5%E9%AB%98%E5%8F%91%E6%9C%9F&sa=fyb_news"
+   "title": "6G来了 离我们还有多远",
+   "link": "https://m.baidu.com/s?word=6G%E6%9D%A5%E4%BA%86+%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C&sa=fyb_news"
   },
   {
    "title": "女子每天玩手机10小时患手机痴呆症",
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E6%AF%8F%E5%A4%A9%E7%8E%A9%E6%89%8B%E6%9C%BA10%E5%B0%8F%E6%97%B6%E6%82%A3%E6%89%8B%E6%9C%BA%E7%97%B4%E5%91%86%E7%97%87&sa=fyb_news"
   },
   {
-   "title": "老人横穿快速路致多车追尾不担责",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%A8%AA%E7%A9%BF%E5%BF%AB%E9%80%9F%E8%B7%AF%E8%87%B4%E5%A4%9A%E8%BD%A6%E8%BF%BD%E5%B0%BE%E4%B8%8D%E6%8B%85%E8%B4%A3&sa=fyb_news"
+   "title": "最近的国产剧 被东北包圆了",
+   "link": "https://m.baidu.com/s?word=%E6%9C%80%E8%BF%91%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7+%E8%A2%AB%E4%B8%9C%E5%8C%97%E5%8C%85%E5%9C%86%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "今后买菜逛超市 将有这些新变化",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E5%90%8E%E4%B9%B0%E8%8F%9C%E9%80%9B%E8%B6%85%E5%B8%82+%E5%B0%86%E6%9C%89%E8%BF%99%E4%BA%9B%E6%96%B0%E5%8F%98%E5%8C%96&sa=fyb_news"
+  },
+  {
+   "title": "加200元油开了2公里发现没加上",
+   "link": "https://m.baidu.com/s?word=%E5%8A%A0200%E5%85%83%E6%B2%B9%E5%BC%80%E4%BA%862%E5%85%AC%E9%87%8C%E5%8F%91%E7%8E%B0%E6%B2%A1%E5%8A%A0%E4%B8%8A&sa=fyb_news"
+  },
+  {
+   "title": "佳能要涨价了",
+   "link": "https://m.baidu.com/s?word=%E4%BD%B3%E8%83%BD%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86&sa=fyb_news"
+  },
+  {
+   "title": "德米格尔死亡事件肇事门将被立案",
+   "link": "https://m.baidu.com/s?word=%E5%BE%B7%E7%B1%B3%E6%A0%BC%E5%B0%94%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E8%82%87%E4%BA%8B%E9%97%A8%E5%B0%86%E8%A2%AB%E7%AB%8B%E6%A1%88&sa=fyb_news"
+  },
+  {
+   "title": "加湿器这么用 可能“喷射”细菌霉菌",
+   "link": "https://m.baidu.com/s?word=%E5%8A%A0%E6%B9%BF%E5%99%A8%E8%BF%99%E4%B9%88%E7%94%A8+%E5%8F%AF%E8%83%BD%E2%80%9C%E5%96%B7%E5%B0%84%E2%80%9D%E7%BB%86%E8%8F%8C%E9%9C%89%E8%8F%8C&sa=fyb_news"
+  },
+  {
+   "title": "治网这件事需要你我共“举”",
+   "link": "https://m.baidu.com/s?word=%E6%B2%BB%E7%BD%91%E8%BF%99%E4%BB%B6%E4%BA%8B%E9%9C%80%E8%A6%81%E4%BD%A0%E6%88%91%E5%85%B1%E2%80%9C%E4%B8%BE%E2%80%9D&sa=fyb_news"
+  },
+  {
+   "title": "王毅同菲律宾外长拉扎罗通电话",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AF%85%E5%90%8C%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%96%E9%95%BF%E6%8B%89%E6%89%8E%E7%BD%97%E9%80%9A%E7%94%B5%E8%AF%9D&sa=fyb_news"
+  },
+  {
+   "title": "英伟达涨3% 总市值重回5万亿美元",
+   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A83%25+%E6%80%BB%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news"
+  },
+  {
+   "title": "婆婆为乳腺癌儿媳种10年蒲公英",
+   "link": "https://m.baidu.com/s?word=%E5%A9%86%E5%A9%86%E4%B8%BA%E4%B9%B3%E8%85%BA%E7%99%8C%E5%84%BF%E5%AA%B3%E7%A7%8D10%E5%B9%B4%E8%92%B2%E5%85%AC%E8%8B%B1&sa=fyb_news"
   }
  ],
  "ai": [
