@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updatedAt": "2026-11-04 12:11",
+ "updatedAt": "2026-11-04 16:22",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,193 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4035.19",
+  "value": "4041.62",
   "unit": "美元/盎司",
-  "change": "+105.10",
-  "pct": "+2.67%",
+  "change": "+111.53",
+  "pct": "+2.84%",
   "up": true
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.684",
-   "change": "+0.0000",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "欧元",
-   "value": "7.471",
-   "change": "+0.0001",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.852",
-   "change": "-0.0001",
-   "pct": "-0.01%",
-   "up": false
-  },
-  {
-   "name": "100日元",
-   "value": "4.217",
-   "change": "-0.0005",
-   "pct": "-0.01%",
-   "up": false
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "78,195",
-  "cny": "521,895",
-  "pct": "+1.59%",
+  "usd": "80,578",
+  "cny": "537,864",
+  "pct": "+4.20%",
   "up": true,
   "trend": [
-   77055.88,
-   77305.05,
-   77518.48,
-   77078.54,
-   77305.79,
-   77623.44,
-   77399.53,
-   77598.46,
-   77629.53,
-   77513.49,
-   77540.54,
-   77695.23,
-   77792.94,
-   77830.35,
-   77742.15,
-   77847.1,
-   77291.57,
-   77148.12,
-   76830.85,
-   76691.54,
-   75836.93,
-   76410.47,
-   76874.54,
-   77320.45,
-   77694.07,
-   77909.65,
-   78076.94,
-   78283.96,
-   78344.27,
-   78312.05,
-   78433.57,
-   78571.35
+   77347.88,
+   77671.1,
+   77618.08,
+   77681.41,
+   77530.51,
+   77646.77,
+   77791.74,
+   77871.74,
+   77759.89,
+   77743.91,
+   77612.42,
+   76868.42,
+   76999.49,
+   77024.57,
+   76523.0,
+   76160.4,
+   76603.97,
+   77301.54,
+   77887.77,
+   77887.8,
+   78077.24,
+   78302.71,
+   78401.59,
+   78374.23,
+   78484.43,
+   78536.25,
+   78538.05,
+   78193.13,
+   78293.09,
+   78217.26,
+   79156.02,
+   80574.96
   ]
  },
  "weibo": [],
- "zhihu": [
-  {
-   "title": "女子在公司吃早餐摔骨折花 2.5 万元治疗，不予认定工伤，人社部称只有午餐被纳入认定范围，这合理吗？",
-   "link": "https://www.zhihu.com/question/2101045355492263432"
-  },
-  {
-   "title": "苹果手机显示13日多地气温低至-30℃，这是怎么回事？是什么问题导致了这种bug？",
-   "link": "https://www.zhihu.com/question/2101126085631009295"
-  },
-  {
-   "title": "我请客的饭局席间一人感谢主赐他日用的饮食，我开玩笑说那这顿我不买单了，他为何会生气？",
-   "link": "https://www.zhihu.com/question/406887759"
-  },
-  {
-   "title": "《海贼王》路飞被曝解锁「黑色猿猴」新形态，如何评价这一设定？",
-   "link": "https://www.zhihu.com/question/2101250269363319000"
-  },
-  {
-   "title": "抖音副总裁李亮发文称「我真心认为秦朔不是蠢就是坏」，如何看待双方观点及指控？",
-   "link": "https://www.zhihu.com/question/2101258456724402498"
-  },
-  {
-   "title": "豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？",
-   "link": "https://www.zhihu.com/question/2100943272122250679"
-  },
-  {
-   "title": "儿子沉迷看电视，爸爸「魔改」电视系统，看 10 分钟抽查一道题，这招怎么样？对孩子管用吗？",
-   "link": "https://www.zhihu.com/question/2101035704512005455"
-  },
-  {
-   "title": "如何评价王小利、赵本山电视剧《走马上任》？",
-   "link": "https://www.zhihu.com/question/2100667554176020533"
-  },
-  {
-   "title": "《西游记》真假美猴王之后，唐僧再也没有念过紧箍咒，是孙悟空真的被换掉了吗？",
-   "link": "https://www.zhihu.com/question/2098427617066103119"
-  },
-  {
-   "title": "《英雄联盟》S16 首场八强赛决胜局遭遇超长暂停，现场发生了什么？",
-   "link": "https://www.zhihu.com/question/2101252648439476700"
-  },
-  {
-   "title": "如何看待券商投行称 IPO 已经实质暂停，直至市场恢复稳定，上市公司的大笔减持也被同步叫停？",
-   "link": "https://www.zhihu.com/question/2101251200125329978"
-  },
-  {
-   "title": "如何评价 369 在 S16 全球总决赛上的整体表现？",
-   "link": "https://www.zhihu.com/question/2101266705678694183"
-  }
- ],
+ "zhihu": [],
  "baidu": [
   {
-   "title": "“做强做优做大实体经济”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E2%80%9D&sa=fyb_news"
+   "title": "不断开创黄河保护治理工作新局面",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8D%E6%96%AD%E5%BC%80%E5%88%9B%E9%BB%84%E6%B2%B3%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%E5%B7%A5%E4%BD%9C%E6%96%B0%E5%B1%80%E9%9D%A2&sa=fyb_news"
   },
   {
-   "title": "A股大反攻原因找到了",
-   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E5%A4%A7%E5%8F%8D%E6%94%BB%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&sa=fyb_news"
+   "title": "“如果这钱能提出来 我警察不当了”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A6%82%E6%9E%9C%E8%BF%99%E9%92%B1%E8%83%BD%E6%8F%90%E5%87%BA%E6%9D%A5+%E6%88%91%E8%AD%A6%E5%AF%9F%E4%B8%8D%E5%BD%93%E4%BA%86%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "三甲医院医生推荐患者去三乙医院",
-   "link": "https://m.baidu.com/s?word=%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%89%E4%B9%99%E5%8C%BB%E9%99%A2&sa=fyb_news"
+   "title": "央视曝光新型兼职骗局",
+   "link": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%96%B0%E5%9E%8B%E5%85%BC%E8%81%8C%E9%AA%97%E5%B1%80&sa=fyb_news"
   },
   {
    "title": "中国智能经济新形态加速崛起",
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BD%A2%E6%80%81%E5%8A%A0%E9%80%9F%E5%B4%9B%E8%B5%B7&sa=fyb_news"
   },
   {
-   "title": "女子点一杯饮品入座 店家称需点两杯",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E7%82%B9%E4%B8%80%E6%9D%AF%E9%A5%AE%E5%93%81%E5%85%A5%E5%BA%A7+%E5%BA%97%E5%AE%B6%E7%A7%B0%E9%9C%80%E7%82%B9%E4%B8%A4%E6%9D%AF&sa=fyb_news"
+   "title": "“社恐”到这种程度 可能是生病了",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A4%BE%E6%81%90%E2%80%9D%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6+%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%9F%E7%97%85%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "开心果大涨价",
-   "link": "https://m.baidu.com/s?word=%E5%BC%80%E5%BF%83%E6%9E%9C%E5%A4%A7%E6%B6%A8%E4%BB%B7&sa=fyb_news"
+   "title": "红果超越豆包",
+   "link": "https://m.baidu.com/s?word=%E7%BA%A2%E6%9E%9C%E8%B6%85%E8%B6%8A%E8%B1%86%E5%8C%85&sa=fyb_news"
   },
   {
-   "title": "51岁阿姨参加健美比赛 体脂率12%",
-   "link": "https://m.baidu.com/s?word=51%E5%B2%81%E9%98%BF%E5%A7%A8%E5%8F%82%E5%8A%A0%E5%81%A5%E7%BE%8E%E6%AF%94%E8%B5%9B+%E4%BD%93%E8%84%82%E7%8E%8712%25&sa=fyb_news"
+   "title": "陈建平教授逝世享年63岁",
+   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%BB%BA%E5%B9%B3%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B463%E5%B2%81&sa=fyb_news"
   },
   {
-   "title": "老伯遗失绑有1500万购房款的手机",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BC%AF%E9%81%97%E5%A4%B1%E7%BB%91%E6%9C%891500%E4%B8%87%E8%B4%AD%E6%88%BF%E6%AC%BE%E7%9A%84%E6%89%8B%E6%9C%BA&sa=fyb_news"
+   "title": "河南奶奶用废品做墩墩卖到美国",
+   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E5%A5%B6%E5%A5%B6%E7%94%A8%E5%BA%9F%E5%93%81%E5%81%9A%E5%A2%A9%E5%A2%A9%E5%8D%96%E5%88%B0%E7%BE%8E%E5%9B%BD&sa=fyb_news"
   },
   {
-   "title": "男子诈骗被抓后因无法考公崩溃",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E8%AF%88%E9%AA%97%E8%A2%AB%E6%8A%93%E5%90%8E%E5%9B%A0%E6%97%A0%E6%B3%95%E8%80%83%E5%85%AC%E5%B4%A9%E6%BA%83&sa=fyb_news"
+   "title": "长时间刷手机 大脑里发生了什么",
+   "link": "https://m.baidu.com/s?word=%E9%95%BF%E6%97%B6%E9%97%B4%E5%88%B7%E6%89%8B%E6%9C%BA+%E5%A4%A7%E8%84%91%E9%87%8C%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
   },
   {
-   "title": "英特尔正面硬刚台积电",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E7%89%B9%E5%B0%94%E6%AD%A3%E9%9D%A2%E7%A1%AC%E5%88%9A%E5%8F%B0%E7%A7%AF%E7%94%B5&sa=fyb_news"
+   "title": "杨议演出时骂观众 当地文旅仍在核查",
+   "link": "https://m.baidu.com/s?word=%E6%9D%A8%E8%AE%AE%E6%BC%94%E5%87%BA%E6%97%B6%E9%AA%82%E8%A7%82%E4%BC%97+%E5%BD%93%E5%9C%B0%E6%96%87%E6%97%85%E4%BB%8D%E5%9C%A8%E6%A0%B8%E6%9F%A5&sa=fyb_news"
   },
   {
-   "title": "卫龙老板的35岁表弟接过出海难题",
-   "link": "https://m.baidu.com/s?word=%E5%8D%AB%E9%BE%99%E8%80%81%E6%9D%BF%E7%9A%8435%E5%B2%81%E8%A1%A8%E5%BC%9F%E6%8E%A5%E8%BF%87%E5%87%BA%E6%B5%B7%E9%9A%BE%E9%A2%98&sa=fyb_news"
+   "title": "中概股集体走强 百度大涨超4%",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E5%A4%A7%E6%B6%A8%E8%B6%854%25&sa=fyb_news"
   },
   {
    "title": "气象部门辟谣多地气温-32℃",
    "link": "https://m.baidu.com/s?word=%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E8%BE%9F%E8%B0%A3%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9-32%E2%84%83&sa=fyb_news"
   },
   {
-   "title": "贺兰山失联22岁女孩确认死亡",
-   "link": "https://m.baidu.com/s?word=%E8%B4%BA%E5%85%B0%E5%B1%B1%E5%A4%B1%E8%81%9422%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%A1&sa=fyb_news"
+   "title": "陕西教育厅通报“延安大学教师离世”",
+   "link": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E6%95%99%E8%82%B2%E5%8E%85%E9%80%9A%E6%8A%A5%E2%80%9C%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "中方就中俄美元首会晤保持着沟通",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E6%96%B9%E5%B0%B1%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A&sa=fyb_news"
+   "title": "高市早苗面见日本天皇姿势被批丢人",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E5%A7%BF%E5%8A%BF%E8%A2%AB%E6%89%B9%E4%B8%A2%E4%BA%BA&sa=fyb_news"
   },
   {
-   "title": "沈阳保洁大叔称儿子长相随妈",
-   "link": "https://m.baidu.com/s?word=%E6%B2%88%E9%98%B3%E4%BF%9D%E6%B4%81%E5%A4%A7%E5%8F%94%E7%A7%B0%E5%84%BF%E5%AD%90%E9%95%BF%E7%9B%B8%E9%9A%8F%E5%A6%88&sa=fyb_news"
+   "title": "杨坤自曝患抑郁症20年",
+   "link": "https://m.baidu.com/s?word=%E6%9D%A8%E5%9D%A4%E8%87%AA%E6%9B%9D%E6%82%A3%E6%8A%91%E9%83%81%E7%97%8720%E5%B9%B4&sa=fyb_news"
   }
  ],
  "ai": [
