@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updatedAt": "2026-11-05 16:30",
+ "updatedAt": "2026-11-05 20:00",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "4112.35",
+  "value": "4113.08",
   "unit": "美元/盎司",
-  "change": "+52.34",
-  "pct": "+1.29%",
+  "change": "+53.07",
+  "pct": "+1.31%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "76,669",
-  "cny": "511,353",
-  "pct": "-4.73%",
+  "usd": "76,300",
+  "cny": "509,943",
+  "pct": "-4.60%",
   "up": false,
   "trend": [
-   80534.89,
-   80310.71,
-   80597.31,
-   80364.39,
-   80181.04,
-   80119.74,
-   80110.6,
-   80145.22,
-   80648.12,
-   80431.51,
-   80520.0,
-   80680.57,
-   80496.78,
-   80660.0,
-   80515.64,
-   80558.88,
-   80515.18,
-   80404.82,
-   80355.77,
-   80618.74,
-   80366.28,
-   80524.19,
-   80370.1,
-   80315.08,
-   80335.53,
-   80287.7,
-   80184.11,
-   79638.83,
-   79629.21,
-   79376.88,
-   77788.91,
-   76082.94
+   79960.05,
+   80098.92,
+   80055.09,
+   80398.17,
+   80668.65,
+   80640.69,
+   80641.68,
+   80477.81,
+   80637.24,
+   80583.99,
+   80627.59,
+   80382.63,
+   80477.41,
+   80433.79,
+   80495.45,
+   80598.47,
+   80297.23,
+   80482.58,
+   80265.16,
+   80338.52,
+   80221.62,
+   80304.46,
+   80030.18,
+   79631.94,
+   79599.71,
+   78878.82,
+   76341.52,
+   76257.58,
+   76339.2,
+   75888.72,
+   76082.84,
+   76137.13
   ]
  },
  "weibo": [],
@@ -240,28 +240,28 @@
    "link": "https://m.baidu.com/s?word=2027%E5%B9%B4%E5%81%87%E6%9C%9F%E5%AE%89%E6%8E%92%E5%87%BA%E7%82%89+%E6%98%A5%E8%8A%82%E8%BF%9E%E4%BC%919%E5%A4%A9&sa=fyb_news"
   },
   {
-   "title": "警惕“到手刀”套路",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%83%95%E2%80%9C%E5%88%B0%E6%89%8B%E5%88%80%E2%80%9D%E5%A5%97%E8%B7%AF&sa=fyb_news"
-  },
-  {
-   "title": "只因“懒得下楼” 一对父女双双被抓",
-   "link": "https://m.baidu.com/s?word=%E5%8F%AA%E5%9B%A0%E2%80%9C%E6%87%92%E5%BE%97%E4%B8%8B%E6%A5%BC%E2%80%9D+%E4%B8%80%E5%AF%B9%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8A%93&sa=fyb_news"
-  },
-  {
-   "title": "独生子女不一定能继承父母全部遗产",
-   "link": "https://m.baidu.com/s?word=%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3%E4%B8%8D%E4%B8%80%E5%AE%9A%E8%83%BD%E7%BB%A7%E6%89%BF%E7%88%B6%E6%AF%8D%E5%85%A8%E9%83%A8%E9%81%97%E4%BA%A7&sa=fyb_news"
+   "title": "特斯拉暴跌超10% SpaceX跌超7%",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news"
   },
   {
    "title": "普京签令：俄方临时接管日本4座工厂",
    "link": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E7%AD%BE%E4%BB%A4%EF%BC%9A%E4%BF%84%E6%96%B9%E4%B8%B4%E6%97%B6%E6%8E%A5%E7%AE%A1%E6%97%A5%E6%9C%AC4%E5%BA%A7%E5%B7%A5%E5%8E%82&sa=fyb_news"
   },
   {
-   "title": "全球首个仿生人形机器人新闻主播发布",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83&sa=fyb_news"
+   "title": "大众中国发布声明",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BC%97%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&sa=fyb_news"
   },
   {
-   "title": "特斯拉暴跌超10% SpaceX跌超7%",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E8%B7%8C%E8%B6%8510%25+SpaceX%E8%B7%8C%E8%B6%857%25&sa=fyb_news"
+   "title": "美股存储板块大跌 闪迪跌超17%",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8517%25&sa=fyb_news"
+  },
+  {
+   "title": "北京中小学将全部取消外送餐",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E5%85%A8%E9%83%A8%E5%8F%96%E6%B6%88%E5%A4%96%E9%80%81%E9%A4%90&sa=fyb_news"
+  },
+  {
+   "title": "美股",
+   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1&sa=fyb_news"
   },
   {
    "title": "多地禁用电动车挡风被系误读",
@@ -272,12 +272,12 @@
    "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E8%87%B34.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "黄之锋再获刑10年",
-   "link": "https://m.baidu.com/s?word=%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E8%8E%B7%E5%88%9110%E5%B9%B4&sa=fyb_news"
+   "title": "只因“懒得下楼” 一对父女双双被抓",
+   "link": "https://m.baidu.com/s?word=%E5%8F%AA%E5%9B%A0%E2%80%9C%E6%87%92%E5%BE%97%E4%B8%8B%E6%A5%BC%E2%80%9D+%E4%B8%80%E5%AF%B9%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%8F%8C%E8%A2%AB%E6%8A%93&sa=fyb_news"
   },
   {
-   "title": "美股存储板块大跌 闪迪跌超17%",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8517%25&sa=fyb_news"
+   "title": "C罗宣布从葡萄牙国家队退役",
+   "link": "https://m.baidu.com/s?word=C%E7%BD%97%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%91%A1%E8%90%84%E7%89%99%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9&sa=fyb_news"
   }
  ],
  "ai": [
