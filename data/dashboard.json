@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updatedAt": "2026-11-08 15:19",
+ "updatedAt": "2026-11-08 17:57",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,43 +177,43 @@
  },
  "forex": [],
  "btc": {
-  "usd": "75,956",
-  "cny": "507,011",
-  "pct": "+0.19%",
-  "up": true,
+  "usd": "75,699",
+  "cny": "505,298",
+  "pct": "-0.13%",
+  "up": false,
   "trend": [
-   75800.07,
-   75700.76,
-   75672.88,
-   75747.45,
-   75812.82,
-   75751.45,
-   75707.54,
-   75676.64,
-   75579.91,
-   75684.33,
-   75693.93,
-   75733.32,
-   75723.54,
-   75711.1,
-   75685.5,
-   75640.32,
-   75806.86,
-   75841.48,
-   75768.79,
-   75791.7,
-   75742.84,
-   75773.36,
-   75861.79,
-   75803.21,
-   75800.64,
-   75819.61,
-   75818.55,
-   75905.07,
-   75872.88,
-   75922.04,
-   75848.6,
-   75914.89
+   75786.96,
+   75762.54,
+   75731.21,
+   75736.72,
+   75625.3,
+   75623.52,
+   75646.99,
+   75694.39,
+   75776.38,
+   75671.1,
+   75691.91,
+   75617.74,
+   75695.02,
+   75786.12,
+   75859.71,
+   75822.94,
+   75726.56,
+   75705.7,
+   75771.32,
+   75835.39,
+   75853.49,
+   75871.2,
+   75797.71,
+   75865.35,
+   75895.99,
+   75851.41,
+   75975.77,
+   75886.47,
+   75955.06,
+   75997.69,
+   75974.15,
+   75642.01
   ]
  },
  "weibo": [],
@@ -244,14 +244,6 @@
    "link": "https://m.baidu.com/s?word=%E8%93%89%E5%9F%8E%E4%B8%BB%E5%B8%85%EF%BC%9A%E6%88%91%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B%E9%9D%9E%E5%B8%B8%E7%BB%9D%E6%9C%9B&sa=fyb_news"
   },
   {
-   "title": "立冬后建议改一下睡觉时间",
-   "link": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E5%90%8E%E5%BB%BA%E8%AE%AE%E6%94%B9%E4%B8%80%E4%B8%8B%E7%9D%A1%E8%A7%89%E6%97%B6%E9%97%B4&sa=fyb_news"
-  },
-  {
-   "title": "陈妍希 还是当年那个沈佳宜",
-   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%A6%8D%E5%B8%8C+%E8%BF%98%E6%98%AF%E5%BD%93%E5%B9%B4%E9%82%A3%E4%B8%AA%E6%B2%88%E4%BD%B3%E5%AE%9C&sa=fyb_news"
-  },
-  {
    "title": "20公斤陨石砸进石家庄农田",
    "link": "https://m.baidu.com/s?word=20%E5%85%AC%E6%96%A4%E9%99%A8%E7%9F%B3%E7%A0%B8%E8%BF%9B%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%86%9C%E7%94%B0&sa=fyb_news"
   },
@@ -260,24 +252,32 @@
    "link": "https://m.baidu.com/s?word=72%E5%B2%81%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8E%9F%E7%9B%B8%E6%9C%BA%E7%8A%B6%E6%80%81&sa=fyb_news"
   },
   {
-   "title": "秦皇岛暴雪160斤男子被吹出电音",
-   "link": "https://m.baidu.com/s?word=%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%9A%B4%E9%9B%AA160%E6%96%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%90%B9%E5%87%BA%E7%94%B5%E9%9F%B3&sa=fyb_news"
+   "title": "陈妍希 还是当年那个沈佳宜",
+   "link": "https://m.baidu.com/s?word=%E9%99%88%E5%A6%8D%E5%B8%8C+%E8%BF%98%E6%98%AF%E5%BD%93%E5%B9%B4%E9%82%A3%E4%B8%AA%E6%B2%88%E4%BD%B3%E5%AE%9C&sa=fyb_news"
+  },
+  {
+   "title": "武磊梅开二度",
+   "link": "https://m.baidu.com/s?word=%E6%AD%A6%E7%A3%8A%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&sa=fyb_news"
+  },
+  {
+   "title": "李若彤怼脸拍毫无年龄感",
+   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%80%BC%E8%84%B8%E6%8B%8D%E6%AF%AB%E6%97%A0%E5%B9%B4%E9%BE%84%E6%84%9F&sa=fyb_news"
   },
   {
    "title": "南京辟谣“31岁医生被刺身亡”",
    "link": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E8%BE%9F%E8%B0%A3%E2%80%9C31%E5%B2%81%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "金晨透露已举家搬迁至三亚",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E6%99%A8%E9%80%8F%E9%9C%B2%E5%B7%B2%E4%B8%BE%E5%AE%B6%E6%90%AC%E8%BF%81%E8%87%B3%E4%B8%89%E4%BA%9A&sa=fyb_news"
+   "title": "马斯克突爆孙正义猛料",
+   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AA%81%E7%88%86%E5%AD%99%E6%AD%A3%E4%B9%89%E7%8C%9B%E6%96%99&sa=fyb_news"
   },
   {
-   "title": "老君山现“一山两季”奇观",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E5%90%9B%E5%B1%B1%E7%8E%B0%E2%80%9C%E4%B8%80%E5%B1%B1%E4%B8%A4%E5%AD%A3%E2%80%9D%E5%A5%87%E8%A7%82&sa=fyb_news"
+   "title": "毛晓彤暗黑风造型被说有违和感",
+   "link": "https://m.baidu.com/s?word=%E6%AF%9B%E6%99%93%E5%BD%A4%E6%9A%97%E9%BB%91%E9%A3%8E%E9%80%A0%E5%9E%8B%E8%A2%AB%E8%AF%B4%E6%9C%89%E8%BF%9D%E5%92%8C%E6%84%9F&sa=fyb_news"
   },
   {
-   "title": "多地追缴社保和公积金不设时效限制",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E8%BF%BD%E7%BC%B4%E7%A4%BE%E4%BF%9D%E5%92%8C%E5%85%AC%E7%A7%AF%E9%87%91%E4%B8%8D%E8%AE%BE%E6%97%B6%E6%95%88%E9%99%90%E5%88%B6&sa=fyb_news"
+   "title": "《持械入宋》背后的6人“草台班子”",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B%E3%80%8B%E8%83%8C%E5%90%8E%E7%9A%846%E4%BA%BA%E2%80%9C%E8%8D%89%E5%8F%B0%E7%8F%AD%E5%AD%90%E2%80%9D&sa=fyb_news"
   }
  ],
  "ai": [
