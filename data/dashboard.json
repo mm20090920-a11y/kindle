@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updatedAt": "2026-11-14 15:08",
+ "updatedAt": "2026-11-14 18:11",
  "stocks": [
   {
    "name": "上证指数",
@@ -175,126 +175,48 @@
   "pct": "+0.06%",
   "up": true
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.685",
-   "change": "-0.0001",
-   "pct": "-0.00%",
-   "up": false
-  },
-  {
-   "name": "欧元",
-   "value": "7.374",
-   "change": "+0.0005",
-   "pct": "+0.01%",
-   "up": true
-  },
-  {
-   "name": "港币",
-   "value": "0.852",
-   "change": "+0.0000",
-   "pct": "+0.00%",
-   "up": true
-  },
-  {
-   "name": "100日元",
-   "value": "4.181",
-   "change": "-0.0004",
-   "pct": "-0.01%",
-   "up": false
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "65,870",
-  "cny": "439,463",
-  "pct": "-4.30%",
+  "usd": "65,899",
+  "cny": "439,659",
+  "pct": "-4.23%",
   "up": false,
   "trend": [
-   68731.54,
-   68646.35,
-   68656.21,
-   68559.06,
-   68842.08,
-   68896.23,
-   68998.75,
-   68964.68,
-   68578.84,
-   68345.82,
-   68332.29,
-   67926.99,
-   68362.96,
-   68266.76,
-   68228.87,
-   67762.86,
-   67605.85,
-   66923.27,
-   66937.34,
-   67105.92,
-   67224.14,
-   67336.21,
-   67043.76,
-   67195.0,
-   67096.84,
-   67399.89,
-   67210.02,
-   67205.16,
-   67163.57,
-   67040.64,
-   66661.69,
-   66208.36
+   68810.53,
+   68930.61,
+   68985.82,
+   68888.43,
+   68542.96,
+   68337.06,
+   68360.53,
+   68059.04,
+   68274.74,
+   68274.26,
+   68297.29,
+   67219.99,
+   67505.3,
+   66690.7,
+   67039.52,
+   67067.82,
+   67229.93,
+   67327.37,
+   66994.19,
+   67180.9,
+   67134.81,
+   67362.92,
+   67238.49,
+   67204.03,
+   67146.61,
+   66955.09,
+   66725.68,
+   66209.06,
+   65606.61,
+   65673.07,
+   65330.51,
+   65592.62
   ]
  },
- "weibo": [
-  {
-   "title": "WB夺冠",
-   "link": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0"
-  },
-  {
-   "title": "梓墨FMVP",
-   "link": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP"
-  },
-  {
-   "title": "来自深圳的邀请函",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%A5%E8%87%AA%E6%B7%B1%E5%9C%B3%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD"
-  },
-  {
-   "title": "国足马来西亚爆发冲突",
-   "link": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81"
-  },
-  {
-   "title": "司空震",
-   "link": "https://s.weibo.com/weibo?q=%E5%8F%B8%E7%A9%BA%E9%9C%87"
-  },
-  {
-   "title": "无畏的心率",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E7%9A%84%E5%BF%83%E7%8E%87"
-  },
-  {
-   "title": "Gemini压谁谁输",
-   "link": "https://s.weibo.com/weibo?q=Gemini%E5%8E%8B%E8%B0%81%E8%B0%81%E8%BE%93"
-  },
-  {
-   "title": "JDG巅峰对决WB",
-   "link": "https://s.weibo.com/weibo?q=JDG%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3WB"
-  },
-  {
-   "title": "2026KPL年总决赛",
-   "link": "https://s.weibo.com/weibo?q=2026KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B"
-  },
-  {
-   "title": "打印店老板堪比AI",
-   "link": "https://s.weibo.com/weibo?q=%E6%89%93%E5%8D%B0%E5%BA%97%E8%80%81%E6%9D%BF%E5%A0%AA%E6%AF%94AI"
-  },
-  {
-   "title": "梓墨FMVP皮肤",
-   "link": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP%E7%9A%AE%E8%82%A4"
-  },
-  {
-   "title": "朱天天 梓墨",
-   "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9%20%E6%A2%93%E5%A2%A8"
-  }
- ],
+ "weibo": [],
  "zhihu": [],
  "baidu": [
   {
@@ -302,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%A6%99%E8%AE%BA%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E4%B9%8B%E9%81%93&sa=fyb_news"
   },
   {
-   "title": "国足马来西亚爆发大规模冲突",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81&sa=fyb_news"
+   "title": "多地中小学宣布调整作息",
+   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E4%BD%9C%E6%81%AF&sa=fyb_news"
   },
   {
-   "title": "国足比赛裁判惹众怒",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E8%B6%B3%E6%AF%94%E8%B5%9B%E8%A3%81%E5%88%A4%E6%83%B9%E4%BC%97%E6%80%92&sa=fyb_news"
+   "title": "两天17款新车 车企年底扎堆冲量",
+   "link": "https://m.baidu.com/s?word=%E4%B8%A4%E5%A4%A917%E6%AC%BE%E6%96%B0%E8%BD%A6+%E8%BD%A6%E4%BC%81%E5%B9%B4%E5%BA%95%E6%89%8E%E5%A0%86%E5%86%B2%E9%87%8F&sa=fyb_news"
   },
   {
    "title": "一束光 改写中国电力版图",
    "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%9D%9F%E5%85%89+%E6%94%B9%E5%86%99%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B%E7%89%88%E5%9B%BE&sa=fyb_news"
   },
   {
-   "title": "博物馆被挑错数十处 闭馆3天核查",
-   "link": "https://m.baidu.com/s?word=%E5%8D%9A%E7%89%A9%E9%A6%86%E8%A2%AB%E6%8C%91%E9%94%99%E6%95%B0%E5%8D%81%E5%A4%84+%E9%97%AD%E9%A6%863%E5%A4%A9%E6%A0%B8%E6%9F%A5&sa=fyb_news"
+   "title": "冷空气“排班表”来了",
+   "link": "https://m.baidu.com/s?word=%E5%86%B7%E7%A9%BA%E6%B0%94%E2%80%9C%E6%8E%92%E7%8F%AD%E8%A1%A8%E2%80%9D%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "一袋垃圾能给手机充电50次",
-   "link": "https://m.baidu.com/s?word=%E4%B8%80%E8%A2%8B%E5%9E%83%E5%9C%BE%E8%83%BD%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B550%E6%AC%A1&sa=fyb_news"
+   "title": "洗发水陷假洋牌争议 于东来正面回应",
+   "link": "https://m.baidu.com/s?word=%E6%B4%97%E5%8F%91%E6%B0%B4%E9%99%B7%E5%81%87%E6%B4%8B%E7%89%8C%E4%BA%89%E8%AE%AE+%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%AD%A3%E9%9D%A2%E5%9B%9E%E5%BA%94&sa=fyb_news"
   },
   {
    "title": "终结三连败！国足2比0战胜马来西亚",
    "link": "https://m.baidu.com/s?word=%E7%BB%88%E7%BB%93%E4%B8%89%E8%BF%9E%E8%B4%A5%EF%BC%81%E5%9B%BD%E8%B6%B32%E6%AF%940%E6%88%98%E8%83%9C%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A&sa=fyb_news"
   },
   {
+   "title": "S16总决赛",
+   "link": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news"
+  },
+  {
+   "title": "女子遭陌生人泼汽油全身90%烧伤",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%81%AD%E9%99%8C%E7%94%9F%E4%BA%BA%E6%B3%BC%E6%B1%BD%E6%B2%B9%E5%85%A8%E8%BA%AB90%25%E7%83%A7%E4%BC%A4&sa=fyb_news"
+  },
+  {
    "title": "北京WB斩获KPL年度总冠军",
    "link": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%ACWB%E6%96%A9%E8%8E%B7KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "中纪委罕见通报高官一把手职权腐败",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5&sa=fyb_news"
-  },
-  {
-   "title": "医生：糖尿病根源是原始营养摄入不均",
-   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%B3%96%E5%B0%BF%E7%97%85%E6%A0%B9%E6%BA%90%E6%98%AF%E5%8E%9F%E5%A7%8B%E8%90%A5%E5%85%BB%E6%91%84%E5%85%A5%E4%B8%8D%E5%9D%87&sa=fyb_news"
-  },
-  {
-   "title": "S16总决赛",
-   "link": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B&sa=fyb_news"
+   "title": "S16总决赛首发名单",
+   "link": "https://m.baidu.com/s?word=S16%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95&sa=fyb_news"
   },
   {
    "title": "MCN摆拍骑手悲惨遭遇实为卖翡翠",
    "link": "https://m.baidu.com/s?word=MCN%E6%91%86%E6%8B%8D%E9%AA%91%E6%89%8B%E6%82%B2%E6%83%A8%E9%81%AD%E9%81%87%E5%AE%9E%E4%B8%BA%E5%8D%96%E7%BF%A1%E7%BF%A0&sa=fyb_news"
   },
   {
-   "title": "58岁男子性侵上门推拿技师获刑",
-   "link": "https://m.baidu.com/s?word=58%E5%B2%81%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%B8%8A%E9%97%A8%E6%8E%A8%E6%8B%BF%E6%8A%80%E5%B8%88%E8%8E%B7%E5%88%91&sa=fyb_news"
+   "title": "梓墨FMVP",
+   "link": "https://m.baidu.com/s?word=%E6%A2%93%E5%A2%A8FMVP&sa=fyb_news"
   },
   {
    "title": "海陆瘦20斤再扮紫薇",
    "link": "https://m.baidu.com/s?word=%E6%B5%B7%E9%99%86%E7%98%A620%E6%96%A4%E5%86%8D%E6%89%AE%E7%B4%AB%E8%96%87&sa=fyb_news"
   },
   {
-   "title": "院长称每年拒绝超10万想做飞秒患者",
-   "link": "https://m.baidu.com/s?word=%E9%99%A2%E9%95%BF%E7%A7%B0%E6%AF%8F%E5%B9%B4%E6%8B%92%E7%BB%9D%E8%B6%8510%E4%B8%87%E6%83%B3%E5%81%9A%E9%A3%9E%E7%A7%92%E6%82%A3%E8%80%85&sa=fyb_news"
+   "title": "医生：糖尿病根源是原始营养摄入不均",
+   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%EF%BC%9A%E7%B3%96%E5%B0%BF%E7%97%85%E6%A0%B9%E6%BA%90%E6%98%AF%E5%8E%9F%E5%A7%8B%E8%90%A5%E5%85%BB%E6%91%84%E5%85%A5%E4%B8%8D%E5%9D%87&sa=fyb_news"
   }
  ],
  "ai": [
