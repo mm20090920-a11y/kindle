@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updatedAt": "2026-11-15 15:41",
+ "updatedAt": "2026-11-15 18:54",
  "stocks": [
   {
    "name": "上证指数",
@@ -175,127 +175,49 @@
   "pct": "+0.06%",
   "up": true
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.690",
-   "change": "-0.0004",
-   "pct": "-0.01%",
-   "up": false
-  },
-  {
-   "name": "欧元",
-   "value": "7.384",
-   "change": "-0.0003",
-   "pct": "-0.00%",
-   "up": false
-  },
-  {
-   "name": "港币",
-   "value": "0.853",
-   "change": "-0.0002",
-   "pct": "-0.03%",
-   "up": false
-  },
-  {
-   "name": "100日元",
-   "value": "4.183",
-   "change": "+0.0002",
-   "pct": "+0.01%",
-   "up": true
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "64,735",
-  "cny": "431,895",
-  "pct": "-1.16%",
+  "usd": "64,573",
+  "cny": "430,814",
+  "pct": "-1.41%",
   "up": false,
   "trend": [
-   65626.55,
-   65307.26,
-   65158.02,
-   65845.01,
-   65758.88,
-   65510.19,
-   65531.57,
-   64831.89,
-   64831.91,
-   64008.45,
-   63728.94,
-   64120.24,
-   63794.42,
-   62535.96,
-   63792.35,
-   64899.03,
-   65091.59,
-   64899.0,
-   64900.28,
-   64506.16,
-   64485.58,
-   64335.13,
-   63881.69,
-   65072.59,
-   65436.79,
-   65455.76,
-   65290.0,
-   65345.32,
-   65460.12,
-   65556.55,
-   65279.41,
-   64764.0
+   65491.23,
+   65592.27,
+   65479.43,
+   64467.01,
+   64415.86,
+   63679.35,
+   63819.09,
+   64014.32,
+   63513.33,
+   62214.22,
+   64237.15,
+   65285.72,
+   64761.67,
+   64786.44,
+   64940.39,
+   64186.33,
+   64362.35,
+   64059.12,
+   64268.88,
+   65861.54,
+   65347.5,
+   65511.34,
+   65393.92,
+   65350.82,
+   65462.38,
+   65362.55,
+   65307.13,
+   64648.19,
+   64731.1,
+   64463.25,
+   64830.65,
+   64576.01
   ]
  },
  "weibo": [],
- "zhihu": [
-  {
-   "title": "GEN 总决赛不敌 BLG 止步亚军，这场比赛他们输在哪？",
-   "link": "https://www.zhihu.com/question/2105209509492822064"
-  },
-  {
-   "title": "外媒曝中国男足再度收紧纹身限制，国脚需佩戴肤色护臂遮盖，对此你怎么看，国家队限制纹身外露是否合理？",
-   "link": "https://www.zhihu.com/question/2104152081246282219"
-  },
-  {
-   "title": "「圣枪哥」因未在 S16 全球总决赛上场无缘冠军皮肤，对此你有什么想说的？",
-   "link": "https://www.zhihu.com/question/2105213477421950521"
-  },
-  {
-   "title": "WTT伊斯坦布尔站男单决赛，方博4-1姜东硕，夺得男单冠军，从复出到夺冠仅5个月，如何评价他的表现？",
-   "link": "https://www.zhihu.com/question/2105407072649078141"
-  },
-  {
-   "title": "如何评价 Chovy 在 S16 全球总决赛上的表现？",
-   "link": "https://www.zhihu.com/question/2105146373834104989"
-  },
-  {
-   "title": "山姆靠399元羽绒服、低价始祖鸟/加拿大鹅频频出圈，这类产品真的是市场稀缺品吗？山姆真正在「卖什么」？",
-   "link": "https://www.zhihu.com/question/2104931349115228975"
-  },
-  {
-   "title": "Riot 宣布《英雄联盟》即将全面升级为《英雄联盟:曙光》，你觉得此举对于这款游戏意味着什么？",
-   "link": "https://www.zhihu.com/question/2105179283391866247"
-  },
-  {
-   "title": "炸串摊主遭差评后轻生去世，当地警方不予立案，死者家属称将对避雷贴发帖人提起诉讼，如何从法律角度解读？",
-   "link": "https://www.zhihu.com/question/2104546575322183440"
-  },
-  {
-   "title": "BLG 成功逆袭夺冠，雷鸟达成不退款条件，如何评价这一波营销策略？",
-   "link": "https://www.zhihu.com/question/2105217978186691603"
-  },
-  {
-   "title": "小学生在回答里写「吃饭打包很丢脸」，老师打叉并扣其4分，你觉得这个回答到底该不该被扣分？",
-   "link": "https://www.zhihu.com/question/2105107042067392301"
-  },
-  {
-   "title": "中国新能源企业在芬建厂涉人口贩运调查，出海中企该如何规避海外用工合规风险？",
-   "link": "https://www.zhihu.com/question/2105092208948933353"
-  },
-  {
-   "title": "开拓者官号发赛场照，唯独单放1张杨瀚森通道离去背影图，是否预示截止日会交易杨瀚森，去哪个队好？",
-   "link": "https://www.zhihu.com/question/2105121212687037327"
-  }
- ],
+ "zhihu": [],
  "baidu": [
   {
    "title": "创新是亚太经济腾飞的翅膀",
@@ -322,40 +244,40 @@
    "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E9%99%A2%E8%B0%83%E6%95%B4%E9%85%8D%E7%BD%AE+%E9%83%A8%E5%88%86%E9%99%A2%E5%8C%BA%E5%81%9C%E6%8E%A5%E6%80%A5%E8%AF%8A&sa=fyb_news"
   },
   {
-   "title": "北大羽绒外套卖断货",
-   "link": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E7%BE%BD%E7%BB%92%E5%A4%96%E5%A5%97%E5%8D%96%E6%96%AD%E8%B4%A7&sa=fyb_news"
-  },
-  {
    "title": "方博复出到夺冠仅5个月",
    "link": "https://m.baidu.com/s?word=%E6%96%B9%E5%8D%9A%E5%A4%8D%E5%87%BA%E5%88%B0%E5%A4%BA%E5%86%A0%E4%BB%855%E4%B8%AA%E6%9C%88&sa=fyb_news"
   },
   {
-   "title": "沙漠腹地发现一棵巨型千年胡杨",
-   "link": "https://m.baidu.com/s?word=%E6%B2%99%E6%BC%A0%E8%85%B9%E5%9C%B0%E5%8F%91%E7%8E%B0%E4%B8%80%E6%A3%B5%E5%B7%A8%E5%9E%8B%E5%8D%83%E5%B9%B4%E8%83%A1%E6%9D%A8&sa=fyb_news"
+   "title": "老板开零元面馆 被挤压的生计谁买单",
+   "link": "https://m.baidu.com/s?word=%E8%80%81%E6%9D%BF%E5%BC%80%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86+%E8%A2%AB%E6%8C%A4%E5%8E%8B%E7%9A%84%E7%94%9F%E8%AE%A1%E8%B0%81%E4%B9%B0%E5%8D%95&sa=fyb_news"
   },
   {
-   "title": "脑瘫女孩摆摊卖烤肠赵传与其合唱",
-   "link": "https://m.baidu.com/s?word=%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E6%91%86%E6%91%8A%E5%8D%96%E7%83%A4%E8%82%A0%E8%B5%B5%E4%BC%A0%E4%B8%8E%E5%85%B6%E5%90%88%E5%94%B1&sa=fyb_news"
+   "title": "北大羽绒外套卖断货",
+   "link": "https://m.baidu.com/s?word=%E5%8C%97%E5%A4%A7%E7%BE%BD%E7%BB%92%E5%A4%96%E5%A5%97%E5%8D%96%E6%96%AD%E8%B4%A7&sa=fyb_news"
   },
   {
-   "title": "吴彦祖街头邀请路人吃饭被拒",
-   "link": "https://m.baidu.com/s?word=%E5%90%B4%E5%BD%A6%E7%A5%96%E8%A1%97%E5%A4%B4%E9%82%80%E8%AF%B7%E8%B7%AF%E4%BA%BA%E5%90%83%E9%A5%AD%E8%A2%AB%E6%8B%92&sa=fyb_news"
+   "title": "约翰逊自曝被普京拒见",
+   "link": "https://m.baidu.com/s?word=%E7%BA%A6%E7%BF%B0%E9%80%8A%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%99%AE%E4%BA%AC%E6%8B%92%E8%A7%81&sa=fyb_news"
+  },
+  {
+   "title": "“你再小众文艺逃得过红果引力吗”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E4%BD%A0%E5%86%8D%E5%B0%8F%E4%BC%97%E6%96%87%E8%89%BA%E9%80%83%E5%BE%97%E8%BF%87%E7%BA%A2%E6%9E%9C%E5%BC%95%E5%8A%9B%E5%90%97%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "“烤红薯香是加了香精”系捕风捉影",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%83%A4%E7%BA%A2%E8%96%AF%E9%A6%99%E6%98%AF%E5%8A%A0%E4%BA%86%E9%A6%99%E7%B2%BE%E2%80%9D%E7%B3%BB%E6%8D%95%E9%A3%8E%E6%8D%89%E5%BD%B1&sa=fyb_news"
   },
   {
-   "title": "女子随手拍让偏僻小店爆火",
-   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E9%9A%8F%E6%89%8B%E6%8B%8D%E8%AE%A9%E5%81%8F%E5%83%BB%E5%B0%8F%E5%BA%97%E7%88%86%E7%81%AB&sa=fyb_news"
-  },
-  {
    "title": "曝“国民火腿肠”要被卖了",
    "link": "https://m.baidu.com/s?word=%E6%9B%9D%E2%80%9C%E5%9B%BD%E6%B0%91%E7%81%AB%E8%85%BF%E8%82%A0%E2%80%9D%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "出口暴涨116.6%！国产新顶流爆单",
-   "link": "https://m.baidu.com/s?word=%E5%87%BA%E5%8F%A3%E6%9A%B4%E6%B6%A8116.6%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E6%96%B0%E9%A1%B6%E6%B5%81%E7%88%86%E5%8D%95&sa=fyb_news"
+   "title": "深圳水贝金价跌三分之一",
+   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E9%87%91%E4%BB%B7%E8%B7%8C%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80&sa=fyb_news"
+  },
+  {
+   "title": "全美航班停飞 乐队万米高空即兴演出",
+   "link": "https://m.baidu.com/s?word=%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9E+%E4%B9%90%E9%98%9F%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%8D%B3%E5%85%B4%E6%BC%94%E5%87%BA&sa=fyb_news"
   }
  ],
  "ai": [
