@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updatedAt": "2026-11-18 07:30",
+ "updatedAt": "2026-11-18 13:06",
  "stocks": [
   {
    "name": "上证指数",
@@ -127,272 +127,157 @@
   },
   {
    "name": "恒生指数",
-   "value": "23293.36",
-   "change": "-214.81",
+   "value": "23294.75",
+   "change": "-213.42",
    "pct": "-0.91%",
    "up": false,
    "trend": [
     23428.72,
-    23403.37,
-    23389.18,
-    23395.16,
-    23387.37,
-    23391.87,
-    23385.28,
-    23373.7,
-    23314.48,
-    23286.35,
-    23275.28,
-    23290.46,
-    23262.15,
-    23276.07,
-    23274.38,
-    23249.13,
-    23241.48,
-    23238.58,
-    23285.59,
-    23265.52,
-    23255.06,
-    23274.37,
-    23263.73,
+    23395.06,
+    23362.47,
+    23393.16,
+    23373.95,
+    23389.4,
+    23386.24,
+    23325.28,
+    23289.71,
+    23275.67,
+    23293.9,
+    23270.12,
+    23275.03,
+    23277.45,
+    23249.01,
+    23219.34,
+    23259.12,
+    23260.73,
+    23254.89,
+    23267.19,
+    23273.02,
     23270.18,
-    23253.23,
-    23251.88,
-    23252.5,
-    23256.52,
-    23242.6,
-    23242.61,
-    23270.09,
-    23311.22
+    23247.81,
+    23255.59,
+    23254.02,
+    23260.15,
+    23240.69,
+    23263.94,
+    23297.16,
+    23299.66,
+    23273.31,
+    23291.75
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3771.84",
+  "value": "3755.70",
   "unit": "美元/盎司",
-  "change": "-77.33",
-  "pct": "-2.01%",
+  "change": "-93.47",
+  "pct": "-2.43%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.680"
-  },
-  {
-   "name": "欧元",
-   "value": "7.340"
-  },
-  {
-   "name": "港币",
-   "value": "0.851"
-  },
-  {
-   "name": "100日元",
-   "value": "4.189"
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "64,668",
-  "cny": "431,081",
-  "pct": "+0.03%",
-  "up": true,
+  "usd": "64,018",
+  "cny": "426,799",
+  "pct": "-1.57%",
+  "up": false,
   "trend": [
-   64602.55,
-   64495.97,
-   64151.3,
-   64335.29,
-   64212.48,
-   64376.76,
-   64827.84,
-   64888.18,
-   64920.42,
-   64970.4,
-   64781.68,
-   63652.07,
-   63892.82,
-   63995.15,
-   63748.69,
-   63638.12,
-   63680.34,
-   63864.9,
-   64016.1,
-   64286.89,
-   64613.25,
-   64968.76,
-   64814.83,
-   64715.83,
-   64535.77,
-   64302.73,
-   64368.63,
-   64454.41,
-   64454.11,
-   64635.99,
-   64594.73,
-   64578.72
+   65038.03,
+   64890.44,
+   65205.7,
+   64984.14,
+   64349.66,
+   63531.41,
+   63592.25,
+   63906.56,
+   63748.1,
+   63721.49,
+   63994.75,
+   64357.99,
+   64344.74,
+   64768.6,
+   65020.73,
+   64770.02,
+   64566.04,
+   64383.09,
+   64370.63,
+   64353.98,
+   64352.75,
+   64372.02,
+   64697.05,
+   64604.1,
+   64696.41,
+   64787.44,
+   64653.01,
+   64618.67,
+   64567.92,
+   64302.68,
+   64155.7,
+   64268.99
   ]
  },
- "weibo": [
-  {
-   "title": "APEC",
-   "link": "https://s.weibo.com/weibo?q=APEC"
-  },
-  {
-   "title": "文莱领导人握手中方安保1秒摘手套",
-   "link": "https://s.weibo.com/weibo?q=%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8F%A1%E6%89%8B%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D1%E7%A7%92%E6%91%98%E6%89%8B%E5%A5%97"
-  },
-  {
-   "title": "APEC中国年这些知识点不容错过",
-   "link": "https://s.weibo.com/weibo?q=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%99%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87"
-  },
-  {
-   "title": "深圳机场一眼望去全是专机",
-   "link": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%9C%BA%E4%B8%80%E7%9C%BC%E6%9C%9B%E5%8E%BB%E5%85%A8%E6%98%AF%E4%B8%93%E6%9C%BA"
-  },
-  {
-   "title": "湖人黄蜂加时",
-   "link": "https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E9%BB%84%E8%9C%82%E5%8A%A0%E6%97%B6"
-  },
-  {
-   "title": "普京说感谢中国",
-   "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E8%AF%B4%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD"
-  },
-  {
-   "title": "BLG为Viper保留位置",
-   "link": "https://s.weibo.com/weibo?q=BLG%E4%B8%BAViper%E4%BF%9D%E7%95%99%E4%BD%8D%E7%BD%AE"
-  },
-  {
-   "title": "普京盛赞深圳",
-   "link": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E7%9B%9B%E8%B5%9E%E6%B7%B1%E5%9C%B3"
-  },
-  {
-   "title": "峨眉山来了群女弟子",
-   "link": "https://s.weibo.com/weibo?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%9D%A5%E4%BA%86%E7%BE%A4%E5%A5%B3%E5%BC%9F%E5%AD%90"
-  },
-  {
-   "title": "宝珠",
-   "link": "https://s.weibo.com/weibo?q=%E5%AE%9D%E7%8F%A0"
-  },
-  {
-   "title": "冯薪朵钟正未婚先孕",
-   "link": "https://s.weibo.com/weibo?q=%E5%86%AF%E8%96%AA%E6%9C%B5%E9%92%9F%E6%AD%A3%E6%9C%AA%E5%A9%9A%E5%85%88%E5%AD%95"
-  },
-  {
-   "title": "内娱第一个把孩子说成是子宫肌瘤的",
-   "link": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8A%8A%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%88%90%E6%98%AF%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%E7%9A%84"
-  }
- ],
- "zhihu": [
-  {
-   "title": "中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？",
-   "link": "https://www.zhihu.com/question/2105702944855287688"
-  },
-  {
-   "title": "雷军APEC发言称过去几年挣到钱的 AI 公司很少，认为具身智能产业想象力将超汽车产业，对此你怎么看？",
-   "link": "https://www.zhihu.com/question/2106085808956560064"
-  },
-  {
-   "title": "女子在盒马下单四百多次全部申请仅退款，称「刺激解压」，明知不光彩还是忍不住下单，如何从心理学角度解读？",
-   "link": "https://www.zhihu.com/question/2106047811234030236"
-  },
-  {
-   "title": "曝《GTA6》PC 版将于 2027 年第一季度发售，为何 R 星双平台间隔会进一步缩短？",
-   "link": "https://www.zhihu.com/question/2093489092713526519"
-  },
-  {
-   "title": "APEC工商领导人峰会开始，曾毓群、李彦宏、王兴兴、王传福、雷军、董明珠等参会，有哪些看点值得关注？",
-   "link": "https://www.zhihu.com/question/2105984976449527824"
-  },
-  {
-   "title": "劝表弟读博，他说现在的博士已经不是前几年了，真是这样吗？",
-   "link": "https://www.zhihu.com/question/2104959116976329045"
-  },
-  {
-   "title": "十斤木头只能烧出一斤炭，古人为什么还要把柴烧成炭再卖？",
-   "link": "https://www.zhihu.com/question/2105266981108766020"
-  },
-  {
-   "title": "网传生菜「塌房」了，看似健康其实膳食纤维的含量很低，是真的吗？",
-   "link": "https://www.zhihu.com/question/2105731473911146426"
-  },
-  {
-   "title": "工信部严抓 60 天账期落地，17 家车企被要求定期报送数据，该举措对保障供应链回款作用有多大？",
-   "link": "https://www.zhihu.com/question/2105764026307306180"
-  },
-  {
-   "title": "游客曝 1600 的烤全羊剥不出 1 两肉，民宿称是火候过大烤干了，烤全羊真的会缩水吗？商家要担责吗？",
-   "link": "https://www.zhihu.com/question/2106346811304534022"
-  },
-  {
-   "title": "48 岁律师与法援对象沟通时突发脑溢血去世，交五险却无法享受工亡待遇，为啥会出现这种情况？",
-   "link": "https://www.zhihu.com/question/2106058517216024001"
-  },
-  {
-   "title": "2627赛季NBA常规赛开拓者 105:106 森林狼，如何评价这场比赛？",
-   "link": "https://www.zhihu.com/question/2106313615280174716"
-  }
- ],
+ "weibo": [],
+ "zhihu": [],
  "baidu": [
   {
-   "title": "元首外交“深圳时间”开启",
-   "link": "https://m.baidu.com/s?word=%E5%85%83%E9%A6%96%E5%A4%96%E4%BA%A4%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E9%97%B4%E2%80%9D%E5%BC%80%E5%90%AF&sa=fyb_news"
+   "title": "习近平会见韩国总统李在明",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E&sa=fyb_news"
   },
   {
-   "title": "习近平会见俄罗斯总统普京",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC&sa=fyb_news"
+   "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1&sa=fyb_news"
   },
   {
-   "title": "李在明随行人员开启“拍拍拍”模式",
-   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E5%BC%80%E5%90%AF%E2%80%9C%E6%8B%8D%E6%8B%8D%E6%8B%8D%E2%80%9D%E6%A8%A1%E5%BC%8F&sa=fyb_news"
+   "title": "习近平在欢迎晚宴上的祝酒辞",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%B8%8A%E7%9A%84%E7%A5%9D%E9%85%92%E8%BE%9E&sa=fyb_news"
   },
   {
-   "title": "什么是亚太共同体 如何促进共同繁荣",
-   "link": "https://m.baidu.com/s?word=%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93+%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news"
+   "title": "APEC工商领导人峰会什么话题最热",
+   "link": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD&sa=fyb_news"
   },
   {
-   "title": "文莱领导人握手前 中方安保1秒摘手套",
-   "link": "https://m.baidu.com/s?word=%E6%96%87%E8%8E%B1%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8F%A1%E6%89%8B%E5%89%8D+%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D1%E7%A7%92%E6%91%98%E6%89%8B%E5%A5%97&sa=fyb_news"
+   "title": "习近平迎接特朗普",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news"
   },
   {
-   "title": "上万斤爱媛无人收 博主包下请网友摘",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E4%B8%87%E6%96%A4%E7%88%B1%E5%AA%9B%E6%97%A0%E4%BA%BA%E6%94%B6+%E5%8D%9A%E4%B8%BB%E5%8C%85%E4%B8%8B%E8%AF%B7%E7%BD%91%E5%8F%8B%E6%91%98&sa=fyb_news"
+   "title": "特朗普：感谢习近平主席亲赴机场迎接",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%BA%B2%E8%B5%B4%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5&sa=fyb_news"
   },
   {
-   "title": "深圳宝安机场停满领导人专机",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%AE%9D%E5%AE%89%E6%9C%BA%E5%9C%BA%E5%81%9C%E6%BB%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%93%E6%9C%BA&sa=fyb_news"
+   "title": "国台办回应“两岸2032年统一货币”",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%A4%E5%B2%B82032%E5%B9%B4%E7%BB%9F%E4%B8%80%E8%B4%A7%E5%B8%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "魏建军回应于东来复购310辆坦克700",
-   "link": "https://m.baidu.com/s?word=%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%9B%9E%E5%BA%94%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%A4%8D%E8%B4%AD310%E8%BE%86%E5%9D%A6%E5%85%8B700&sa=fyb_news"
+   "title": "水果当饭吃会怎么样",
+   "link": "https://m.baidu.com/s?word=%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&sa=fyb_news"
   },
   {
-   "title": "包3000个饺子囤够东北猫冬",
-   "link": "https://m.baidu.com/s?word=%E5%8C%853000%E4%B8%AA%E9%A5%BA%E5%AD%90%E5%9B%A4%E5%A4%9F%E4%B8%9C%E5%8C%97%E7%8C%AB%E5%86%AC&sa=fyb_news"
+   "title": "母亲找回33年前失踪被拐儿子",
+   "link": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E6%89%BE%E5%9B%9E33%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%8B%90%E5%84%BF%E5%AD%90&sa=fyb_news"
   },
   {
-   "title": "从一份议程单看亚太新机遇",
-   "link": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%80%E4%BB%BD%E8%AE%AE%E7%A8%8B%E5%8D%95%E7%9C%8B%E4%BA%9A%E5%A4%AA%E6%96%B0%E6%9C%BA%E9%81%87&sa=fyb_news"
+   "title": "为何都说“APEC需要中国”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E2%80%9CAPEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "博主回村拍老人涨粉400万",
-   "link": "https://m.baidu.com/s?word=%E5%8D%9A%E4%B8%BB%E5%9B%9E%E6%9D%91%E6%8B%8D%E8%80%81%E4%BA%BA%E6%B6%A8%E7%B2%89400%E4%B8%87&sa=fyb_news"
+   "title": "历史时刻：普京特朗普同日抵达深圳",
+   "link": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E6%97%B6%E5%88%BB%EF%BC%9A%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%97%A5%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
   },
   {
-   "title": "小獬豸捉“妖”记",
-   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E7%8D%AC%E8%B1%B8%E6%8D%89%E2%80%9C%E5%A6%96%E2%80%9D%E8%AE%B0&sa=fyb_news"
+   "title": "“养老保险缴15年就能退休”系谣言",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "游客曝1600的烤全羊剥不出1两肉",
-   "link": "https://m.baidu.com/s?word=%E6%B8%B8%E5%AE%A2%E6%9B%9D1600%E7%9A%84%E7%83%A4%E5%85%A8%E7%BE%8A%E5%89%A5%E4%B8%8D%E5%87%BA1%E4%B8%A4%E8%82%89&sa=fyb_news"
+   "title": "特朗普抵达深圳中方战机拉起彩烟",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F&sa=fyb_news"
   },
   {
-   "title": "男子结婚8年给妻子买10柜子衣服",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A8%E5%B9%B4%E7%BB%99%E5%A6%BB%E5%AD%90%E4%B9%B010%E6%9F%9C%E5%AD%90%E8%A1%A3%E6%9C%8D&sa=fyb_news"
+   "title": "特朗普出席欢迎宴会观赏音乐表演",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%A7%82%E8%B5%8F%E9%9F%B3%E4%B9%90%E8%A1%A8%E6%BC%94&sa=fyb_news"
   },
   {
-   "title": "美官员用中文表白：来了就是深圳人",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E5%AE%98%E5%91%98%E7%94%A8%E4%B8%AD%E6%96%87%E8%A1%A8%E7%99%BD%EF%BC%9A%E6%9D%A5%E4%BA%86%E5%B0%B1%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%BA%BA&sa=fyb_news"
+   "title": "深圳学生被智利总统夫人投喂车厘子",
+   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E6%8A%95%E5%96%82%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news"
   }
  ],
  "ai": [
