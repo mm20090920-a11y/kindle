@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updatedAt": "2026-11-18 13:06",
+ "updatedAt": "2026-11-18 17:18",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,115 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3755.70",
+  "value": "3745.54",
   "unit": "美元/盎司",
-  "change": "-93.47",
-  "pct": "-2.43%",
+  "change": "-103.63",
+  "pct": "-2.69%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "64,018",
-  "cny": "426,799",
-  "pct": "-1.57%",
+  "usd": "62,687",
+  "cny": "417,896",
+  "pct": "-1.88%",
   "up": false,
   "trend": [
-   65038.03,
-   64890.44,
-   65205.7,
-   64984.14,
-   64349.66,
-   63531.41,
-   63592.25,
-   63906.56,
-   63748.1,
-   63721.49,
-   63994.75,
-   64357.99,
-   64344.74,
-   64768.6,
-   65020.73,
-   64770.02,
-   64566.04,
-   64383.09,
-   64370.63,
-   64353.98,
-   64352.75,
-   64372.02,
-   64697.05,
-   64604.1,
-   64696.41,
-   64787.44,
-   64653.01,
-   64618.67,
-   64567.92,
-   64302.68,
-   64155.7,
-   64268.99
+   63995.15,
+   63748.69,
+   63638.12,
+   63680.34,
+   63864.9,
+   64016.1,
+   64286.89,
+   64613.25,
+   64968.76,
+   64814.83,
+   64715.83,
+   64535.77,
+   64302.73,
+   64368.63,
+   64454.41,
+   64454.11,
+   64635.99,
+   64594.73,
+   64578.72,
+   64583.26,
+   64531.31,
+   64680.31,
+   64542.5,
+   64164.19,
+   64156.66,
+   64104.3,
+   63975.34,
+   64083.94,
+   63957.51,
+   63651.39,
+   63000.89,
+   62472.72
   ]
  },
  "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "习近平会见韩国总统李在明",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E&sa=fyb_news"
+   "title": "在大湾区看如何促进亚太共同繁荣",
+   "link": "https://m.baidu.com/s?word=%E5%9C%A8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%9C%8B%E5%A6%82%E4%BD%95%E4%BF%83%E8%BF%9B%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E7%B9%81%E8%8D%A3&sa=fyb_news"
+  },
+  {
+   "title": "中俄美元首同框",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86&sa=fyb_news"
   },
   {
    "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
    "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1&sa=fyb_news"
   },
   {
-   "title": "习近平在欢迎晚宴上的祝酒辞",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E4%B8%8A%E7%9A%84%E7%A5%9D%E9%85%92%E8%BE%9E&sa=fyb_news"
-  },
-  {
    "title": "APEC工商领导人峰会什么话题最热",
    "link": "https://m.baidu.com/s?word=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD&sa=fyb_news"
   },
   {
-   "title": "习近平迎接特朗普",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news"
+   "title": "普京和特朗普互动握手",
+   "link": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B&sa=fyb_news"
   },
   {
-   "title": "特朗普：感谢习近平主席亲赴机场迎接",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%BA%B2%E8%B5%B4%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5&sa=fyb_news"
+   "title": "中国军人在空军一号轰鸣声前岿然不动",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%9C%A8%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BD%B0%E9%B8%A3%E5%A3%B0%E5%89%8D%E5%B2%BF%E7%84%B6%E4%B8%8D%E5%8A%A8&sa=fyb_news"
+  },
+  {
+   "title": "普京：难怪您会选这里作为APEC举办地",
+   "link": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%9A%BE%E6%80%AA%E6%82%A8%E4%BC%9A%E9%80%89%E8%BF%99%E9%87%8C%E4%BD%9C%E4%B8%BAAPEC%E4%B8%BE%E5%8A%9E%E5%9C%B0&sa=fyb_news"
+  },
+  {
+   "title": "现场见证深圳APEC的首张“全家福”",
+   "link": "https://m.baidu.com/s?word=%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D&sa=fyb_news"
   },
   {
    "title": "国台办回应“两岸2032年统一货币”",
    "link": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%A4%E5%B2%B82032%E5%B9%B4%E7%BB%9F%E4%B8%80%E8%B4%A7%E5%B8%81%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "水果当饭吃会怎么样",
-   "link": "https://m.baidu.com/s?word=%E6%B0%B4%E6%9E%9C%E5%BD%93%E9%A5%AD%E5%90%83%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&sa=fyb_news"
-  },
-  {
-   "title": "母亲找回33年前失踪被拐儿子",
-   "link": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E6%89%BE%E5%9B%9E33%E5%B9%B4%E5%89%8D%E5%A4%B1%E8%B8%AA%E8%A2%AB%E6%8B%90%E5%84%BF%E5%AD%90&sa=fyb_news"
-  },
-  {
    "title": "为何都说“APEC需要中国”",
    "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E2%80%9CAPEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "历史时刻：普京特朗普同日抵达深圳",
-   "link": "https://m.baidu.com/s?word=%E5%8E%86%E5%8F%B2%E6%97%B6%E5%88%BB%EF%BC%9A%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%97%A5%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+   "title": "大件旧家具“扔比买难”？九部门出手",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E4%BB%B6%E6%97%A7%E5%AE%B6%E5%85%B7%E2%80%9C%E6%89%94%E6%AF%94%E4%B9%B0%E9%9A%BE%E2%80%9D%EF%BC%9F%E4%B9%9D%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B&sa=fyb_news"
   },
   {
    "title": "“养老保险缴15年就能退休”系谣言",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "特朗普抵达深圳中方战机拉起彩烟",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E4%B8%AD%E6%96%B9%E6%88%98%E6%9C%BA%E6%8B%89%E8%B5%B7%E5%BD%A9%E7%83%9F&sa=fyb_news"
+   "title": "特朗普车内未拉窗帘沉浸式欣赏深圳",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3&sa=fyb_news"
   },
   {
-   "title": "特朗普出席欢迎宴会观赏音乐表演",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%B8%AD%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%A7%82%E8%B5%8F%E9%9F%B3%E4%B9%90%E8%A1%A8%E6%BC%94&sa=fyb_news"
+   "title": "叶连平老师逝世",
+   "link": "https://m.baidu.com/s?word=%E5%8F%B6%E8%BF%9E%E5%B9%B3%E8%80%81%E5%B8%88%E9%80%9D%E4%B8%96&sa=fyb_news"
   },
   {
-   "title": "深圳学生被智利总统夫人投喂车厘子",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%99%BA%E5%88%A9%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E6%8A%95%E5%96%82%E8%BD%A6%E5%8E%98%E5%AD%90&sa=fyb_news"
+   "title": "经常朝左边睡觉对心脏的影响",
+   "link": "https://m.baidu.com/s?word=%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D&sa=fyb_news"
   }
  ],
  "ai": [
