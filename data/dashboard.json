@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updatedAt": "2026-11-19 07:28",
+ "updatedAt": "2026-11-19 13:14",
  "stocks": [
   {
    "name": "上证指数",
@@ -127,272 +127,157 @@
   },
   {
    "name": "恒生指数",
-   "value": "22830.37",
-   "change": "-464.38",
-   "pct": "-1.99%",
+   "value": "22841.62",
+   "change": "-453.13",
+   "pct": "-1.95%",
    "up": false,
    "trend": [
     23049.65,
-    22967.54,
-    22977.86,
-    22931.92,
-    22876.34,
-    22918.09,
-    22871.61,
-    22909.84,
-    22896.61,
-    22886.45,
-    22857.82,
+    22976.86,
+    22978.31,
+    22910.56,
+    22885.81,
+    22912.79,
+    22902.61,
+    22917.09,
+    22897.76,
+    22860.74,
     22807.12,
-    22844.02,
-    22853.58,
-    22842.3,
-    22858.84,
-    22855.46,
-    22868.36,
-    22843.9,
-    22846.83,
-    22843.23,
+    22853.37,
+    22853.16,
+    22848.58,
+    22862.5,
+    22842.16,
+    22852.41,
+    22842.82,
+    22828.41,
     22826.44,
-    22811.65,
-    22814.77,
-    22790.39,
-    22788.25,
-    22805.79,
-    22782.34,
-    22801.23,
-    22835.08,
-    22833.44,
-    22845.91
+    22811.59,
+    22813.34,
+    22791.32,
+    22784.2,
+    22785.27,
+    22796.7,
+    22815.9,
+    22841.43,
+    22855.91,
+    22851.35,
+    22812.62,
+    22821.97
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3736.98",
+  "value": "3718.77",
   "unit": "美元/盎司",
-  "change": "+12.31",
-  "pct": "+0.33%",
-  "up": true
+  "change": "-5.90",
+  "pct": "-0.16%",
+  "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.681"
-  },
-  {
-   "name": "欧元",
-   "value": "7.328"
-  },
-  {
-   "name": "港币",
-   "value": "0.852"
-  },
-  {
-   "name": "100日元",
-   "value": "4.190"
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "63,538",
-  "cny": "423,563",
-  "pct": "-1.74%",
+  "usd": "63,741",
+  "cny": "424,990",
+  "pct": "-0.49%",
   "up": false,
   "trend": [
-   64675.17,
-   64542.49,
-   64619.33,
-   64603.52,
-   64281.3,
-   64114.08,
-   64166.29,
-   63987.93,
-   64008.28,
-   63859.92,
-   63586.73,
-   63203.92,
-   62484.83,
-   62606.89,
-   63051.11,
-   63201.13,
-   62804.98,
-   62703.31,
-   62503.28,
-   62271.42,
-   62447.25,
-   62517.09,
-   62996.68,
-   63103.16,
-   62598.47,
-   62816.46,
-   62552.97,
-   62941.37,
-   63291.44,
-   63410.67,
-   63291.87,
-   63479.25
+   64034.49,
+   63873.83,
+   63233.19,
+   63515.24,
+   62744.05,
+   62656.52,
+   63147.48,
+   63094.47,
+   62786.53,
+   62688.61,
+   62472.26,
+   62363.83,
+   62312.27,
+   62181.04,
+   62995.64,
+   62809.57,
+   63094.99,
+   62782.36,
+   62578.33,
+   62883.89,
+   63287.46,
+   63525.89,
+   63288.14,
+   63472.24,
+   63585.34,
+   63676.55,
+   63549.57,
+   63645.4,
+   63760.47,
+   63747.05,
+   63916.68,
+   63682.77
   ]
  },
- "weibo": [
-  {
-   "title": "中俄美三国元首会晤",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4"
-  },
-  {
-   "title": "APEC领导人休息室温馨画面",
-   "link": "https://s.weibo.com/weibo?q=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2"
-  },
-  {
-   "title": "共创亚太光明未来",
-   "link": "https://s.weibo.com/weibo?q=%E5%85%B1%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%85%89%E6%98%8E%E6%9C%AA%E6%9D%A5"
-  },
-  {
-   "title": "中美元首深圳会晤",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4"
-  },
-  {
-   "title": "马斯克小儿子玩具都是中国制造",
-   "link": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0"
-  },
-  {
-   "title": "微博竞燃之夜",
-   "link": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C"
-  },
-  {
-   "title": "APEC重要讲话",
-   "link": "https://s.weibo.com/weibo?q=APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D"
-  },
-  {
-   "title": "许飞 我们没有掰",
-   "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E6%8E%B0"
-  },
-  {
-   "title": "APEC中国年亚太共同体建设启新程",
-   "link": "https://s.weibo.com/weibo?q=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E5%BB%BA%E8%AE%BE%E5%90%AF%E6%96%B0%E7%A8%8B"
-  },
-  {
-   "title": "甄嬛传剧组故意没让颖儿学礼仪",
-   "link": "https://s.weibo.com/weibo?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E5%89%A7%E7%BB%84%E6%95%85%E6%84%8F%E6%B2%A1%E8%AE%A9%E9%A2%96%E5%84%BF%E5%AD%A6%E7%A4%BC%E4%BB%AA"
-  },
-  {
-   "title": "胖东来撤走后降到四百万依然没有人接盘",
-   "link": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%92%A4%E8%B5%B0%E5%90%8E%E9%99%8D%E5%88%B0%E5%9B%9B%E7%99%BE%E4%B8%87%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%8E%A5%E7%9B%98"
-  },
-  {
-   "title": "王子璇白眼",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E7%9C%BC"
-  }
- ],
- "zhihu": [
-  {
-   "title": "为什么大家这么关注APEC会议？",
-   "link": "https://www.zhihu.com/question/2105936986515171184"
-  },
-  {
-   "title": "网友让豆包生成一张「盒子里有13个鸡蛋」的图片，豆包连续十几次纠错仍未能数清，这是为什么？",
-   "link": "https://www.zhihu.com/question/2106466938230501933"
-  },
-  {
-   "title": "为什么绿皮火车硬座长久以来都是和别人面对面的布局？没有考虑过社恐人士的心情吗？",
-   "link": "https://www.zhihu.com/question/2105548043621773338"
-  },
-  {
-   "title": "WorkBuddy日活用户超1000万，它是怎么做到的？AI Agent已经成为工作刚需了吗？",
-   "link": "https://www.zhihu.com/question/2106443459233932915"
-  },
-  {
-   "title": "离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？",
-   "link": "https://www.zhihu.com/question/2106406907846182253"
-  },
-  {
-   "title": "中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？",
-   "link": "https://www.zhihu.com/question/2105702944855287688"
-  },
-  {
-   "title": "上海 10 月社零同比跌 4.5%，其中汽车类跌 39.4%，还有哪些细节值得关注？",
-   "link": "https://www.zhihu.com/question/2106344557927297862"
-  },
-  {
-   "title": "儿子拿笔在墙上乱画，儿子爸爸极力反对说要有规矩，姥姥说让孩子画是保护他的探索欲，谁说得对我该站谁？",
-   "link": "https://www.zhihu.com/question/2106047742212686624"
-  },
-  {
-   "title": "如何看待比亚迪王传福称「我赢你输」不可能长期发展，中国企业在海外绝不是「抢饭碗」？",
-   "link": "https://www.zhihu.com/question/2106321090909951453"
-  },
-  {
-   "title": "男朋友一被领导说就离职，频繁裸辞后长期空窗，是我太计较吗？",
-   "link": "https://www.zhihu.com/question/2105339041600349938"
-  },
-  {
-   "title": "人在谷底的时候如何爬出来？",
-   "link": "https://www.zhihu.com/question/660927288"
-  },
-  {
-   "title": "工信部同意北京市等 8 个省（市）开展 6G 创新发展部省协同试点工作，如何看待这次试点布局？",
-   "link": "https://www.zhihu.com/question/2106044813778994147"
-  }
- ],
+ "weibo": [],
+ "zhihu": [],
  "baidu": [
   {
    "title": "习近平对老龄工作作出重要指示",
    "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E8%80%81%E9%BE%84%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news"
   },
   {
-   "title": "习近平会见美国总统特朗普",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news"
+   "title": "中俄美元首会晤",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4&sa=fyb_news"
   },
   {
-   "title": "APEC领导人互相整理围巾",
-   "link": "https://m.baidu.com/s?word=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E5%9B%B4%E5%B7%BE&sa=fyb_news"
+   "title": "中俄美元首和平宣言",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80&sa=fyb_news"
   },
   {
-   "title": "APEC时间 外媒记者点赞深圳",
-   "link": "https://m.baidu.com/s?word=APEC%E6%97%B6%E9%97%B4+%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+   "title": "30年 第一次叫“倡议”",
+   "link": "https://m.baidu.com/s?word=30%E5%B9%B4+%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AB%E2%80%9C%E5%80%A1%E8%AE%AE%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "马斯克：我是中国的超级粉丝",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D&sa=fyb_news"
+   "title": "特朗普：美国不支持“台独”",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "深圳市民在街头偶遇各国政要",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E5%9C%A8%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E5%90%84%E5%9B%BD%E6%94%BF%E8%A6%81&sa=fyb_news"
+   "title": "中俄美元首会晤高清大图",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE&sa=fyb_news"
   },
   {
-   "title": "特朗普见普京时开玩笑问“他是谁”",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%99%AE%E4%BA%AC%E6%97%B6%E5%BC%80%E7%8E%A9%E7%AC%91%E9%97%AE%E2%80%9C%E4%BB%96%E6%98%AF%E8%B0%81%E2%80%9D&sa=fyb_news"
+   "title": "特朗普离开深圳做标志性挥拳动作",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E6%B7%B1%E5%9C%B3%E5%81%9A%E6%A0%87%E5%BF%97%E6%80%A7%E6%8C%A5%E6%8B%B3%E5%8A%A8%E4%BD%9C&sa=fyb_news"
   },
   {
-   "title": "“多让孩子啃苹果能省下一个金镯子”",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%9A%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%95%83%E8%8B%B9%E6%9E%9C%E8%83%BD%E7%9C%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E9%95%AF%E5%AD%90%E2%80%9D&sa=fyb_news"
+   "title": "墨西哥总统在深圳练“八段锦”",
+   "link": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%BB%83%E2%80%9C%E5%85%AB%E6%AE%B5%E9%94%A6%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "APEC围巾图案取自“中国年”会标",
-   "link": "https://m.baidu.com/s?word=APEC%E5%9B%B4%E5%B7%BE%E5%9B%BE%E6%A1%88%E5%8F%96%E8%87%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E4%BC%9A%E6%A0%87&sa=fyb_news"
+   "title": "应该全面禁止并彻底销毁核武器",
+   "link": "https://m.baidu.com/s?word=%E5%BA%94%E8%AF%A5%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%B9%B6%E5%BD%BB%E5%BA%95%E9%94%80%E6%AF%81%E6%A0%B8%E6%AD%A6%E5%99%A8&sa=fyb_news"
   },
   {
-   "title": "从一枚车厘子读懂亚太合作的甜头",
-   "link": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%80%E6%9E%9A%E8%BD%A6%E5%8E%98%E5%AD%90%E8%AF%BB%E6%87%82%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E7%9A%84%E7%94%9C%E5%A4%B4&sa=fyb_news"
+   "title": "APEC礼物别出心裁",
+   "link": "https://m.baidu.com/s?word=APEC%E7%A4%BC%E7%89%A9%E5%88%AB%E5%87%BA%E5%BF%83%E8%A3%81&sa=fyb_news"
   },
   {
-   "title": "二手房价格连涨8个月",
-   "link": "https://m.baidu.com/s?word=%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%BF%9E%E6%B6%A88%E4%B8%AA%E6%9C%88&sa=fyb_news"
+   "title": "特朗普点赞深圳：这座城市近乎完美",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3%EF%BC%9A%E8%BF%99%E5%BA%A7%E5%9F%8E%E5%B8%82%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E&sa=fyb_news"
   },
   {
-   "title": "摘掉小番茄“甜=长胖”标签",
-   "link": "https://m.baidu.com/s?word=%E6%91%98%E6%8E%89%E5%B0%8F%E7%95%AA%E8%8C%84%E2%80%9C%E7%94%9C%3D%E9%95%BF%E8%83%96%E2%80%9D%E6%A0%87%E7%AD%BE&sa=fyb_news"
+   "title": "“监管要求上报基金AI敞口”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%9B%91%E7%AE%A1%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%9F%BA%E9%87%91AI%E6%95%9E%E5%8F%A3%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "马斯克小儿子玩具都是中国制造",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0&sa=fyb_news"
+   "title": "王毅机场送别特朗普 二人长时间交谈",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E6%AF%85%E6%9C%BA%E5%9C%BA%E9%80%81%E5%88%AB%E7%89%B9%E6%9C%97%E6%99%AE+%E4%BA%8C%E4%BA%BA%E9%95%BF%E6%97%B6%E9%97%B4%E4%BA%A4%E8%B0%88&sa=fyb_news"
   },
   {
-   "title": "参加中美元首会晤的美方代表都有谁",
-   "link": "https://m.baidu.com/s?word=%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E9%83%BD%E6%9C%89%E8%B0%81&sa=fyb_news"
+   "title": "中俄美会晤为何选在麒麟山庄",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%BC%9A%E6%99%A4%E4%B8%BA%E4%BD%95%E9%80%89%E5%9C%A8%E9%BA%92%E9%BA%9F%E5%B1%B1%E5%BA%84&sa=fyb_news"
   },
   {
-   "title": "宁德向理想一天发3封要钱邮件",
-   "link": "https://m.baidu.com/s?word=%E5%AE%81%E5%BE%B7%E5%90%91%E7%90%86%E6%83%B3%E4%B8%80%E5%A4%A9%E5%8F%913%E5%B0%81%E8%A6%81%E9%92%B1%E9%82%AE%E4%BB%B6&sa=fyb_news"
+   "title": "APEC晚宴用荔枝冰酒销量暴增900倍",
+   "link": "https://m.baidu.com/s?word=APEC%E6%99%9A%E5%AE%B4%E7%94%A8%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E9%94%80%E9%87%8F%E6%9A%B4%E5%A2%9E900%E5%80%8D&sa=fyb_news"
   }
  ],
  "ai": [
