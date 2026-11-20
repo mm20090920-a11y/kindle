@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updatedAt": "2026-11-20 07:18",
+ "updatedAt": "2026-11-20 12:56",
  "stocks": [
   {
    "name": "上证指数",
@@ -127,223 +127,235 @@
   },
   {
    "name": "恒生指数",
-   "value": "22330.94",
-   "change": "-510.68",
-   "pct": "-2.24%",
+   "value": "22410.80",
+   "change": "-430.82",
+   "pct": "-1.89%",
    "up": false,
    "trend": [
     22482.39,
-    22569.42,
-    22535.48,
-    22460.97,
-    22417.57,
-    22447.28,
-    22403.56,
-    22409.78,
+    22566.64,
+    22497.83,
+    22466.91,
+    22405.75,
+    22402.09,
+    22416.41,
     22378.45,
-    22400.63,
-    22382.38,
-    22350.12,
-    22404.24,
-    22447.21,
-    22398.94,
-    22433.1,
+    22397.06,
+    22355.28,
+    22355.97,
+    22431.81,
+    22424.94,
+    22451.52,
     22436.44,
-    22404.17,
-    22388.5,
-    22368.72,
-    22342.38,
-    22313.47,
-    22336.53,
-    22328.33,
-    22349.16,
-    22353.32,
-    22355.07,
-    22363.99,
-    22311.97,
-    22325.46,
-    22349.51,
-    22334.04
+    22399.0,
+    22378.67,
+    22327.68,
+    22318.29,
+    22322.58,
+    22342.63,
+    22342.69,
+    22356.3,
+    22341.19,
+    22344.69,
+    22330.3,
+    22343.49,
+    22340.65,
+    22362.55,
+    22324.5,
+    22356.66,
+    22386.17
    ]
   }
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3558.07",
+  "value": "3573.82",
   "unit": "美元/盎司",
-  "change": "-66.94",
-  "pct": "-1.85%",
+  "change": "-51.19",
+  "pct": "-1.41%",
   "up": false
  },
  "forex": [
   {
    "name": "美元",
-   "value": "6.692"
+   "value": "6.692",
+   "change": "-0.0000",
+   "pct": "-0.00%",
+   "up": false
   },
   {
    "name": "欧元",
-   "value": "7.342"
+   "value": "7.342",
+   "change": "+0.0003",
+   "pct": "+0.00%",
+   "up": true
   },
   {
    "name": "港币",
-   "value": "0.853"
+   "value": "0.853",
+   "change": "+0.0001",
+   "pct": "+0.01%",
+   "up": true
   },
   {
    "name": "100日元",
-   "value": "4.188"
+   "value": "4.188",
+   "change": "+0.0001",
+   "pct": "+0.00%",
+   "up": true
   }
  ],
  "btc": {
-  "usd": "61,937",
-  "cny": "413,116",
-  "pct": "-2.61%",
+  "usd": "61,614",
+  "cny": "411,280",
+  "pct": "-3.47%",
   "up": false,
   "trend": [
-   63557.52,
-   63592.76,
-   63524.34,
-   63790.76,
-   63823.52,
-   63720.65,
-   63986.04,
-   63712.64,
-   63704.13,
-   63959.77,
-   63906.7,
-   63119.84,
-   63069.19,
-   62464.14,
-   62858.59,
-   63187.19,
-   62648.66,
-   62185.63,
-   62113.77,
-   61462.53,
-   61804.94,
-   62064.65,
-   61878.79,
-   62064.53,
-   62416.96,
-   61651.79,
-   61572.21,
-   61949.61,
-   61693.51,
-   61477.49,
-   61850.04,
-   61765.47
+   63826.69,
+   63674.54,
+   63885.41,
+   63520.92,
+   63031.38,
+   63145.51,
+   62942.81,
+   62666.86,
+   62825.89,
+   62534.46,
+   61882.03,
+   61943.81,
+   61491.24,
+   62180.28,
+   61911.53,
+   61992.43,
+   62051.58,
+   61967.72,
+   61397.8,
+   61896.99,
+   62088.47,
+   61487.4,
+   61652.96,
+   61823.44,
+   62000.44,
+   61690.38,
+   61912.62,
+   61713.31,
+   61599.25,
+   62213.08,
+   61813.52,
+   61347.55
   ]
  },
  "weibo": [
   {
-   "title": "泽连斯基回应特朗普称普京为朋友",
-   "link": "https://s.weibo.com/weibo?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%99%AE%E4%BA%AC%E4%B8%BA%E6%9C%8B%E5%8F%8B"
+   "title": "特朗普刚返美就发重大预告",
+   "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A"
   },
   {
-   "title": "12306迎来重大更新",
-   "link": "https://s.weibo.com/weibo?q=12306%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0"
+   "title": "天霸独狼吃鸡",
+   "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E7%8B%AC%E7%8B%BC%E5%90%83%E9%B8%A1"
   },
   {
-   "title": "APCE深圳会场里的亚太心声",
-   "link": "https://s.weibo.com/weibo?q=APCE%E6%B7%B1%E5%9C%B3%E4%BC%9A%E5%9C%BA%E9%87%8C%E7%9A%84%E4%BA%9A%E5%A4%AA%E5%BF%83%E5%A3%B0"
+   "title": "从细节读懂中国带给亚太的确定性",
+   "link": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%BB%86%E8%8A%82%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%BB%99%E4%BA%9A%E5%A4%AA%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7"
   },
   {
-   "title": "文吉儿一靠近王子璇就转身",
-   "link": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E4%B8%80%E9%9D%A0%E8%BF%91%E7%8E%8B%E5%AD%90%E7%92%87%E5%B0%B1%E8%BD%AC%E8%BA%AB"
+   "title": "DK官宣Doran和Kanavi加入",
+   "link": "https://s.weibo.com/weibo?q=DK%E5%AE%98%E5%AE%A3Doran%E5%92%8CKanavi%E5%8A%A0%E5%85%A5"
   },
   {
-   "title": "Knight黄金左手是这样来的",
-   "link": "https://s.weibo.com/weibo?q=Knight%E9%BB%84%E9%87%91%E5%B7%A6%E6%89%8B%E6%98%AF%E8%BF%99%E6%A0%B7%E6%9D%A5%E7%9A%84"
+   "title": "腾讯因仙逆动画索赔1亿",
+   "link": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E5%9B%A0%E4%BB%99%E9%80%86%E5%8A%A8%E7%94%BB%E7%B4%A2%E8%B5%941%E4%BA%BF"
   },
   {
-   "title": "文班亚马跳投式扣篮",
-   "link": "https://s.weibo.com/weibo?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E8%B7%B3%E6%8A%95%E5%BC%8F%E6%89%A3%E7%AF%AE"
+   "title": "韩网谈Viper加入KRX的原因",
+   "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E8%B0%88Viper%E5%8A%A0%E5%85%A5KRX%E7%9A%84%E5%8E%9F%E5%9B%A0"
   },
   {
-   "title": "金价跌至7字头专家不建议盲目抄底",
-   "link": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B37%E5%AD%97%E5%A4%B4%E4%B8%93%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9B%B2%E7%9B%AE%E6%8A%84%E5%BA%95"
+   "title": "两京十五日首播反响",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D"
   },
   {
-   "title": "小米18",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318"
+   "title": "曝青稚被联盟要求上节目",
+   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E8%A2%AB%E8%81%94%E7%9B%9F%E8%A6%81%E6%B1%82%E4%B8%8A%E8%8A%82%E7%9B%AE"
   },
   {
-   "title": "2026APEC东道主成果清单",
-   "link": "https://s.weibo.com/weibo?q=2026APEC%E4%B8%9C%E9%81%93%E4%B8%BB%E6%88%90%E6%9E%9C%E6%B8%85%E5%8D%95"
+   "title": "中国航天从神1走到了神24",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BB%8E%E7%A5%9E1%E8%B5%B0%E5%88%B0%E4%BA%86%E7%A5%9E24"
   },
   {
-   "title": "曝青稚选择白小纯的原因",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E9%80%89%E6%8B%A9%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9A%84%E5%8E%9F%E5%9B%A0"
+   "title": "APEC国宴430人份蒸鱼45分钟出餐",
+   "link": "https://s.weibo.com/weibo?q=APEC%E5%9B%BD%E5%AE%B4430%E4%BA%BA%E4%BB%BD%E8%92%B8%E9%B1%BC45%E5%88%86%E9%92%9F%E5%87%BA%E9%A4%90"
   },
   {
-   "title": "股市",
-   "link": "https://s.weibo.com/weibo?q=%E8%82%A1%E5%B8%82"
+   "title": "荔枝冰酒断货居然是因为没酒瓶了",
+   "link": "https://s.weibo.com/weibo?q=%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%96%AD%E8%B4%A7%E5%B1%85%E7%84%B6%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%85%92%E7%93%B6%E4%BA%86"
   },
   {
-   "title": "曝郑恺高中成绩一直班级倒数十名",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%83%91%E6%81%BA%E9%AB%98%E4%B8%AD%E6%88%90%E7%BB%A9%E4%B8%80%E7%9B%B4%E7%8F%AD%E7%BA%A7%E5%80%92%E6%95%B0%E5%8D%81%E5%90%8D"
+   "title": "许飞我愿意给你花钱你知道不",
+   "link": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E6%88%91%E6%84%BF%E6%84%8F%E7%BB%99%E4%BD%A0%E8%8A%B1%E9%92%B1%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%8D"
   }
  ],
  "zhihu": [],
  "baidu": [
   {
-   "title": "大国外交的“深圳时刻”",
-   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news"
+   "title": "习近平会见新加坡总理黄循财",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E7%90%86%E9%BB%84%E5%BE%AA%E8%B4%A2&sa=fyb_news"
   },
   {
-   "title": "全妆深圳美得像小说里的A市",
-   "link": "https://m.baidu.com/s?word=%E5%85%A8%E5%A6%86%E6%B7%B1%E5%9C%B3%E7%BE%8E%E5%BE%97%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84A%E5%B8%82&sa=fyb_news"
+   "title": "中国最大饺子店要上市了",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "12306迎来重大更新",
-   "link": "https://m.baidu.com/s?word=12306%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0&sa=fyb_news"
+   "title": "特朗普刚返美就发重大预告",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A&sa=fyb_news"
   },
   {
-   "title": "APEC合作如何惠及百姓生活",
-   "link": "https://m.baidu.com/s?word=APEC%E5%90%88%E4%BD%9C%E5%A6%82%E4%BD%95%E6%83%A0%E5%8F%8A%E7%99%BE%E5%A7%93%E7%94%9F%E6%B4%BB&sa=fyb_news"
+   "title": "科技新国货成“深圳特产”",
+   "link": "https://m.baidu.com/s?word=%E7%A7%91%E6%8A%80%E6%96%B0%E5%9B%BD%E8%B4%A7%E6%88%90%E2%80%9C%E6%B7%B1%E5%9C%B3%E7%89%B9%E4%BA%A7%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "外国人在华强北买“疯”了",
-   "link": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%8D%8E%E5%BC%BA%E5%8C%97%E4%B9%B0%E2%80%9C%E7%96%AF%E2%80%9D%E4%BA%86&sa=fyb_news"
+   "title": "胖东来搬离后原址所开新商场几乎倒闭",
+   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%90%AC%E7%A6%BB%E5%90%8E%E5%8E%9F%E5%9D%80%E6%89%80%E5%BC%80%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD&sa=fyb_news"
   },
   {
-   "title": "河南人这几天都快被风吹麻了",
-   "link": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%BF%99%E5%87%A0%E5%A4%A9%E9%83%BD%E5%BF%AB%E8%A2%AB%E9%A3%8E%E5%90%B9%E9%BA%BB%E4%BA%86&sa=fyb_news"
+   "title": "飞天茅台溢价缩至70元 黄牛退场",
+   "link": "https://m.baidu.com/s?word=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E6%BA%A2%E4%BB%B7%E7%BC%A9%E8%87%B370%E5%85%83+%E9%BB%84%E7%89%9B%E9%80%80%E5%9C%BA&sa=fyb_news"
   },
   {
-   "title": "厦门大学收到捐款1亿元",
-   "link": "https://m.baidu.com/s?word=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E6%94%B6%E5%88%B0%E6%8D%90%E6%AC%BE1%E4%BA%BF%E5%85%83&sa=fyb_news"
+   "title": "房子没人住该不该交供暖费",
+   "link": "https://m.baidu.com/s?word=%E6%88%BF%E5%AD%90%E6%B2%A1%E4%BA%BA%E4%BD%8F%E8%AF%A5%E4%B8%8D%E8%AF%A5%E4%BA%A4%E4%BE%9B%E6%9A%96%E8%B4%B9&sa=fyb_news"
   },
   {
-   "title": "鸿蒙智行 享界V8及星芒品牌发布会",
-   "link": "https://m.baidu.com/s?word=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C+%E4%BA%AB%E7%95%8CV8%E5%8F%8A%E6%98%9F%E8%8A%92%E5%93%81%E7%89%8C%E5%8F%91%E5%B8%83%E4%BC%9A&sa=fyb_news"
+   "title": "沈腾拿最佳男主角了",
+   "link": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE%E6%8B%BF%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "网店挂出1分钱睡衣引200万人下单",
-   "link": "https://m.baidu.com/s?word=%E7%BD%91%E5%BA%97%E6%8C%82%E5%87%BA1%E5%88%86%E9%92%B1%E7%9D%A1%E8%A1%A3%E5%BC%95200%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%8D%95&sa=fyb_news"
+   "title": "高市早苗拍特朗普试图搭话被无视",
+   "link": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E5%9B%BE%E6%90%AD%E8%AF%9D%E8%A2%AB%E6%97%A0%E8%A7%86&sa=fyb_news"
   },
   {
-   "title": "看50年的中国 为什么要来深圳",
-   "link": "https://m.baidu.com/s?word=%E7%9C%8B50%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD+%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9D%A5%E6%B7%B1%E5%9C%B3&sa=fyb_news"
+   "title": "深圳 一个有大故事的地方",
+   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3+%E4%B8%80%E4%B8%AA%E6%9C%89%E5%A4%A7%E6%95%85%E4%BA%8B%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news"
   },
   {
-   "title": "为何会无意识长时间看手机",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%97%A0%E6%84%8F%E8%AF%86%E9%95%BF%E6%97%B6%E9%97%B4%E7%9C%8B%E6%89%8B%E6%9C%BA&sa=fyb_news"
+   "title": "工商银行发布风险提示",
+   "link": "https://m.baidu.com/s?word=%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA&sa=fyb_news"
   },
   {
-   "title": "解锁食物背后的健康真相",
-   "link": "https://m.baidu.com/s?word=%E8%A7%A3%E9%94%81%E9%A3%9F%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9C%9F%E7%9B%B8&sa=fyb_news"
+   "title": "“社保断缴三个月账户清零”不实",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A4%BE%E4%BF%9D%E6%96%AD%E7%BC%B4%E4%B8%89%E4%B8%AA%E6%9C%88%E8%B4%A6%E6%88%B7%E6%B8%85%E9%9B%B6%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "上证50指数探底回升收红",
-   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E8%AF%8150%E6%8C%87%E6%95%B0%E6%8E%A2%E5%BA%95%E5%9B%9E%E5%8D%87%E6%94%B6%E7%BA%A2&sa=fyb_news"
+   "title": "特朗普：我完全可以理解普京的愤怒",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E7%90%86%E8%A7%A3%E6%99%AE%E4%BA%AC%E7%9A%84%E6%84%A4%E6%80%92&sa=fyb_news"
   },
   {
-   "title": "《GTA6》一天营收超皇马一年",
-   "link": "https://m.baidu.com/s?word=%E3%80%8AGTA6%E3%80%8B%E4%B8%80%E5%A4%A9%E8%90%A5%E6%94%B6%E8%B6%85%E7%9A%87%E9%A9%AC%E4%B8%80%E5%B9%B4&sa=fyb_news"
+   "title": "一家四口自驾遇落石36岁父亲被砸身亡",
+   "link": "https://m.baidu.com/s?word=%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%87%AA%E9%A9%BE%E9%81%87%E8%90%BD%E7%9F%B336%E5%B2%81%E7%88%B6%E4%BA%B2%E8%A2%AB%E7%A0%B8%E8%BA%AB%E4%BA%A1&sa=fyb_news"
   },
   {
-   "title": "“全球最大医院”原党委书记被双开",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E2%80%9D%E5%8E%9F%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news"
+   "title": "特朗普深圳下榻酒店房间内部曝光",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89&sa=fyb_news"
   }
  ],
  "ai": [
