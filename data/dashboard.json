@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updatedAt": "2026-11-20 17:00",
+ "updatedAt": "2026-11-20 20:27",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3547.08",
+  "value": "3513.80",
   "unit": "美元/盎司",
-  "change": "-77.93",
-  "pct": "-2.15%",
+  "change": "-111.21",
+  "pct": "-3.07%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "59,400",
-  "cny": "396,161",
-  "pct": "-5.37%",
+  "usd": "58,572",
+  "cny": "390,958",
+  "pct": "-5.78%",
   "up": false,
   "trend": [
-   62751.68,
-   62892.13,
-   63208.27,
-   62680.73,
-   62258.69,
-   62059.61,
-   61522.77,
-   61760.97,
-   62126.33,
-   61949.28,
-   62024.82,
-   62299.23,
-   61494.47,
-   61632.29,
-   62051.79,
-   61764.93,
-   61463.64,
-   61648.64,
-   61759.0,
-   61922.16,
-   61804.25,
-   61888.12,
-   61651.82,
-   61745.94,
-   61997.97,
-   61731.94,
-   61615.29,
-   61484.83,
-   61818.49,
-   61448.88,
-   60317.59,
-   59653.67
+   61882.03,
+   61943.81,
+   61491.24,
+   62180.28,
+   61911.53,
+   61992.43,
+   62051.58,
+   61967.72,
+   61397.8,
+   61896.99,
+   62088.47,
+   61487.4,
+   61652.96,
+   61823.44,
+   62000.44,
+   61690.38,
+   61912.62,
+   61713.31,
+   61599.25,
+   62213.08,
+   61813.52,
+   61347.55,
+   61520.21,
+   61402.76,
+   61992.95,
+   60900.35,
+   59402.03,
+   59436.07,
+   59231.31,
+   58828.2,
+   58416.65,
+   58741.26
   ]
  },
  "weibo": [],
@@ -248,36 +248,36 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%A5%BA%E5%AD%90%E5%BA%97%E8%A6%81%E4%B8%8A%E5%B8%82%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "购车一年多次维修 车主成功退车",
-   "link": "https://m.baidu.com/s?word=%E8%B4%AD%E8%BD%A6%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%AC%A1%E7%BB%B4%E4%BF%AE+%E8%BD%A6%E4%B8%BB%E6%88%90%E5%8A%9F%E9%80%80%E8%BD%A6&sa=fyb_news"
+   "title": "《两京十五日》开播",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E5%BC%80%E6%92%AD&sa=fyb_news"
   },
   {
-   "title": "飞天茅台溢价缩至70元 黄牛退场",
-   "link": "https://m.baidu.com/s?word=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E6%BA%A2%E4%BB%B7%E7%BC%A9%E8%87%B370%E5%85%83+%E9%BB%84%E7%89%9B%E9%80%80%E5%9C%BA&sa=fyb_news"
+   "title": "A股有望迎估值修复窗口",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E6%9C%89%E6%9C%9B%E8%BF%8E%E4%BC%B0%E5%80%BC%E4%BF%AE%E5%A4%8D%E7%AA%97%E5%8F%A3&sa=fyb_news"
   },
   {
    "title": "深圳 一个有大故事的地方",
    "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3+%E4%B8%80%E4%B8%AA%E6%9C%89%E5%A4%A7%E6%95%85%E4%BA%8B%E7%9A%84%E5%9C%B0%E6%96%B9&sa=fyb_news"
   },
   {
-   "title": "沈腾拿最佳男主角了",
-   "link": "https://m.baidu.com/s?word=%E6%B2%88%E8%85%BE%E6%8B%BF%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E4%BA%86&sa=fyb_news"
+   "title": "羽毛球世界冠军周昊东兴奋剂检测阳性",
+   "link": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E5%91%A8%E6%98%8A%E4%B8%9C%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7&sa=fyb_news"
   },
   {
    "title": "“社保断缴三个月账户清零”不实",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A4%BE%E4%BF%9D%E6%96%AD%E7%BC%B4%E4%B8%89%E4%B8%AA%E6%9C%88%E8%B4%A6%E6%88%B7%E6%B8%85%E9%9B%B6%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "马斯克收到特斯拉上海工厂特别礼物",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E5%88%B0%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E7%89%B9%E5%88%AB%E7%A4%BC%E7%89%A9&sa=fyb_news"
+   "title": "李亚鹏回应王菲窦靖童李嫣合唱",
+   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8F%B2%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%9D%8E%E5%AB%A3%E5%90%88%E5%94%B1&sa=fyb_news"
   },
   {
-   "title": "18岁女孩打减肥针暴瘦40斤被送急诊",
-   "link": "https://m.baidu.com/s?word=18%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%89%93%E5%87%8F%E8%82%A5%E9%92%88%E6%9A%B4%E7%98%A640%E6%96%A4%E8%A2%AB%E9%80%81%E6%80%A5%E8%AF%8A&sa=fyb_news"
+   "title": "荔枝冰酒每瓶用了168颗荔枝",
+   "link": "https://m.baidu.com/s?word=%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E6%AF%8F%E7%93%B6%E7%94%A8%E4%BA%86168%E9%A2%97%E8%8D%94%E6%9E%9D&sa=fyb_news"
   },
   {
-   "title": "27岁庞众望完成博士论文答辩",
-   "link": "https://m.baidu.com/s?word=27%E5%B2%81%E5%BA%9E%E4%BC%97%E6%9C%9B%E5%AE%8C%E6%88%90%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87%E7%AD%94%E8%BE%A9&sa=fyb_news"
+   "title": "花坛藏尸案凶手不服死刑判决提起上诉",
+   "link": "https://m.baidu.com/s?word=%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%B6%E6%89%8B%E4%B8%8D%E6%9C%8D%E6%AD%BB%E5%88%91%E5%88%A4%E5%86%B3%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%AF%89&sa=fyb_news"
   }
  ],
  "ai": [
