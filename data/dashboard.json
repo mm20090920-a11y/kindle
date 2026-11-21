@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updatedAt": "2026-11-21 12:41",
+ "updatedAt": "2026-11-21 16:11",
  "stocks": [
   {
    "name": "上证指数",
@@ -206,156 +206,156 @@
   }
  ],
  "btc": {
-  "usd": "58,795",
-  "cny": "392,445",
-  "pct": "-4.38%",
-  "up": false,
+  "usd": "59,758",
+  "cny": "398,871",
+  "pct": "+0.64%",
+  "up": true,
   "trend": [
-   61521.75,
-   61444.32,
-   61857.82,
-   61679.26,
-   59858.34,
-   59158.08,
-   59266.17,
-   59093.25,
-   58677.81,
-   58075.44,
-   58385.49,
-   58299.95,
-   59241.04,
-   59026.51,
-   59045.49,
-   58817.93,
-   58963.53,
-   58897.21,
-   58936.39,
-   58510.28,
-   56726.53,
-   55692.38,
-   56262.16,
-   55711.45,
-   57096.17,
-   58082.37,
-   57715.13,
-   57716.79,
-   57899.77,
-   58026.23,
-   57883.95,
-   58122.07
+   59653.67,
+   59454.73,
+   58995.85,
+   58968.95,
+   58084.6,
+   58502.26,
+   58479.13,
+   58605.04,
+   59091.65,
+   59056.19,
+   58885.2,
+   58943.54,
+   59066.54,
+   58929.27,
+   58542.55,
+   58201.58,
+   55873.25,
+   56229.23,
+   55769.54,
+   56014.77,
+   58122.04,
+   57894.26,
+   57747.58,
+   57942.48,
+   57906.07,
+   57872.52,
+   58090.96,
+   58398.55,
+   59201.79,
+   60511.89,
+   60230.37,
+   59912.68
   ]
  },
  "weibo": [
+  {
+   "title": "2名在华日本人发生冲突1人死亡",
+   "link": "https://s.weibo.com/weibo?q=2%E5%90%8D%E5%9C%A8%E5%8D%8E%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%811%E4%BA%BA%E6%AD%BB%E4%BA%A1"
+  },
   {
    "title": "特朗普深圳不拉窗帘原因找到了",
    "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86"
   },
   {
-   "title": "村民性侵少女被判无罪最高检抗诉",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%91%E6%B0%91%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%97%E8%AF%89"
+   "title": "外媒高度关注中俄美元首会晤",
+   "link": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%AA%92%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4"
   },
   {
-   "title": "唱空中国经济者终会落空",
-   "link": "https://s.weibo.com/weibo?q=%E5%94%B1%E7%A9%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%80%85%E7%BB%88%E4%BC%9A%E8%90%BD%E7%A9%BA"
+   "title": "厉娜出场帅晕了",
+   "link": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%87%BA%E5%9C%BA%E5%B8%85%E6%99%95%E4%BA%86"
   },
   {
-   "title": "秦昊当着镜头直接数落伊能静",
-   "link": "https://s.weibo.com/weibo?q=%E7%A7%A6%E6%98%8A%E5%BD%93%E7%9D%80%E9%95%9C%E5%A4%B4%E7%9B%B4%E6%8E%A5%E6%95%B0%E8%90%BD%E4%BC%8A%E8%83%BD%E9%9D%99"
+   "title": "Bin背小书包是想退役",
+   "link": "https://s.weibo.com/weibo?q=Bin%E8%83%8C%E5%B0%8F%E4%B9%A6%E5%8C%85%E6%98%AF%E6%83%B3%E9%80%80%E5%BD%B9"
   },
   {
-   "title": "青海地震",
-   "link": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E5%9C%B0%E9%9C%87"
+   "title": "白小纯远点一穿二",
+   "link": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%BF%9C%E7%82%B9%E4%B8%80%E7%A9%BF%E4%BA%8C"
   },
   {
-   "title": "李嫣声音比窦靖童更像王菲",
-   "link": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A3%E5%A3%B0%E9%9F%B3%E6%AF%94%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%9B%B4%E5%83%8F%E7%8E%8B%E8%8F%B2"
+   "title": "原来转账是可以拦截的",
+   "link": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BD%AC%E8%B4%A6%E6%98%AF%E5%8F%AF%E4%BB%A5%E6%8B%A6%E6%88%AA%E7%9A%84"
   },
   {
-   "title": "AI剧打败真人剧的真正原因",
-   "link": "https://s.weibo.com/weibo?q=AI%E5%89%A7%E6%89%93%E8%B4%A5%E7%9C%9F%E4%BA%BA%E5%89%A7%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0"
+   "title": "韩国涉嫌作弊满分考生遗书公开",
+   "link": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%B6%89%E5%AB%8C%E4%BD%9C%E5%BC%8A%E6%BB%A1%E5%88%86%E8%80%83%E7%94%9F%E9%81%97%E4%B9%A6%E5%85%AC%E5%BC%80"
   },
   {
-   "title": "APEC带火荔枝冰酒负责人哽咽落泪",
-   "link": "https://s.weibo.com/weibo?q=APEC%E5%B8%A6%E7%81%AB%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA"
+   "title": "Viper直播",
+   "link": "https://s.weibo.com/weibo?q=Viper%E7%9B%B4%E6%92%AD"
   },
   {
-   "title": "特朗普在APEC晚宴跳YMCA",
-   "link": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA"
+   "title": "两京十五日真没把我们当外人",
+   "link": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%9C%9F%E6%B2%A1%E6%8A%8A%E6%88%91%E4%BB%AC%E5%BD%93%E5%A4%96%E4%BA%BA"
   },
   {
-   "title": "天霸PMC九局五鸡",
-   "link": "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8PMC%E4%B9%9D%E5%B1%80%E4%BA%94%E9%B8%A1"
+   "title": "周杰高情商回答穷人该不该生孩子",
+   "link": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E9%AB%98%E6%83%85%E5%95%86%E5%9B%9E%E7%AD%94%E7%A9%B7%E4%BA%BA%E8%AF%A5%E4%B8%8D%E8%AF%A5%E7%94%9F%E5%AD%A9%E5%AD%90"
   },
   {
-   "title": "张凌赫听到田曦薇说我杀猪养你的反应",
-   "link": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%AC%E5%88%B0%E7%94%B0%E6%9B%A6%E8%96%87%E8%AF%B4%E6%88%91%E6%9D%80%E7%8C%AA%E5%85%BB%E4%BD%A0%E7%9A%84%E5%8F%8D%E5%BA%94"
-  },
-  {
-   "title": "顺丰速运被暂停参加全军采购活动",
-   "link": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8"
+   "title": "刘宪华抽到亲妹妹",
+   "link": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E6%8A%BD%E5%88%B0%E4%BA%B2%E5%A6%B9%E5%A6%B9"
   }
  ],
  "zhihu": [],
  "baidu": [
   {
-   "title": "习近平主席的深圳APEC时间",
-   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4&sa=fyb_news"
+   "title": "看五十年的中国就来深圳",
+   "link": "https://m.baidu.com/s?word=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3&sa=fyb_news"
   },
   {
-   "title": "墨西哥总统的中方女保镖在外网火了",
-   "link": "https://m.baidu.com/s?word=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E7%9A%84%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86&sa=fyb_news"
+   "title": "2名日本人在上海发生冲突 1人死亡",
+   "link": "https://m.baidu.com/s?word=2%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81+1%E4%BA%BA%E6%AD%BB%E4%BA%A1&sa=fyb_news"
   },
   {
-   "title": "多地政务窗口提示工作需使用手机",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E6%8F%90%E7%A4%BA%E5%B7%A5%E4%BD%9C%E9%9C%80%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA&sa=fyb_news"
+   "title": "羽绒服生意变天了",
+   "link": "https://m.baidu.com/s?word=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86&sa=fyb_news"
   },
   {
    "title": "“深圳展望”为何成APEC新的里程碑",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91&sa=fyb_news"
   },
   {
+   "title": "村民性侵少女被判无罪 最高检抗诉",
+   "link": "https://m.baidu.com/s?word=%E6%9D%91%E6%B0%91%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA+%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%97%E8%AF%89&sa=fyb_news"
+  },
+  {
+   "title": "男子曾用八千赚百万 如今负债千万",
+   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%9B%BE%E7%94%A8%E5%85%AB%E5%8D%83%E8%B5%9A%E7%99%BE%E4%B8%87+%E5%A6%82%E4%BB%8A%E8%B4%9F%E5%80%BA%E5%8D%83%E4%B8%87&sa=fyb_news"
+  },
+  {
+   "title": "女生刷到“另一个自己”鉴定是亲姐妹",
+   "link": "https://m.baidu.com/s?word=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E2%80%9C%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E2%80%9D%E9%89%B4%E5%AE%9A%E6%98%AF%E4%BA%B2%E5%A7%90%E5%A6%B9&sa=fyb_news"
+  },
+  {
+   "title": "《两京十五日》成毅演技",
+   "link": "https://m.baidu.com/s?word=%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E6%88%90%E6%AF%85%E6%BC%94%E6%8A%80&sa=fyb_news"
+  },
+  {
    "title": "曝中方女保镖徐瑾曾战胜5名日本冠军",
    "link": "https://m.baidu.com/s?word=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B&sa=fyb_news"
   },
   {
-   "title": "青海德令哈地震",
-   "link": "https://m.baidu.com/s?word=%E9%9D%92%E6%B5%B7%E5%BE%B7%E4%BB%A4%E5%93%88%E5%9C%B0%E9%9C%87&sa=fyb_news"
+   "title": "王祖蓝46岁已经用上老花镜了",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E7%A5%96%E8%93%9D46%E5%B2%81%E5%B7%B2%E7%BB%8F%E7%94%A8%E4%B8%8A%E8%80%81%E8%8A%B1%E9%95%9C%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "黄景瑜腿绞泰国拳王",
-   "link": "https://m.baidu.com/s?word=%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B&sa=fyb_news"
-  },
-  {
-   "title": "老人手机落田间 小奶狗叼回家",
-   "link": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E6%89%8B%E6%9C%BA%E8%90%BD%E7%94%B0%E9%97%B4+%E5%B0%8F%E5%A5%B6%E7%8B%97%E5%8F%BC%E5%9B%9E%E5%AE%B6&sa=fyb_news"
-  },
-  {
-   "title": "亲妈不让女儿上学 自称示范在家教育",
-   "link": "https://m.baidu.com/s?word=%E4%BA%B2%E5%A6%88%E4%B8%8D%E8%AE%A9%E5%A5%B3%E5%84%BF%E4%B8%8A%E5%AD%A6+%E8%87%AA%E7%A7%B0%E7%A4%BA%E8%8C%83%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2&sa=fyb_news"
-  },
-  {
-   "title": "郎平谈执教美国女排",
-   "link": "https://m.baidu.com/s?word=%E9%83%8E%E5%B9%B3%E8%B0%88%E6%89%A7%E6%95%99%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%8E%92&sa=fyb_news"
-  },
-  {
-   "title": "久坐一整天 你的腰椎经历了什么",
-   "link": "https://m.baidu.com/s?word=%E4%B9%85%E5%9D%90%E4%B8%80%E6%95%B4%E5%A4%A9+%E4%BD%A0%E7%9A%84%E8%85%B0%E6%A4%8E%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news"
+   "title": "小雪节气来临 两类人要格外当心",
+   "link": "https://m.baidu.com/s?word=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E6%9D%A5%E4%B8%B4+%E4%B8%A4%E7%B1%BB%E4%BA%BA%E8%A6%81%E6%A0%BC%E5%A4%96%E5%BD%93%E5%BF%83&sa=fyb_news"
   },
   {
    "title": "“北京22名老师赴贵阳沉默”不实",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%97%E4%BA%AC22%E5%90%8D%E8%80%81%E5%B8%88%E8%B5%B4%E8%B4%B5%E9%98%B3%E6%B2%89%E9%BB%98%E2%80%9D%E4%B8%8D%E5%AE%9E&sa=fyb_news"
   },
   {
-   "title": "杨超越董思成喉结吻",
-   "link": "https://m.baidu.com/s?word=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E5%96%89%E7%BB%93%E5%90%BB&sa=fyb_news"
+   "title": "曝窦唯四婚四娃",
+   "link": "https://m.baidu.com/s?word=%E6%9B%9D%E7%AA%A6%E5%94%AF%E5%9B%9B%E5%A9%9A%E5%9B%9B%E5%A8%83&sa=fyb_news"
   },
   {
-   "title": "多家品牌宣布下调金饰克价",
-   "link": "https://m.baidu.com/s?word=%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E5%AE%A3%E5%B8%83%E4%B8%8B%E8%B0%83%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7&sa=fyb_news"
+   "title": "花2万存脐带血12年后发现公司已注销",
+   "link": "https://m.baidu.com/s?word=%E8%8A%B12%E4%B8%87%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%8012%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E9%94%80&sa=fyb_news"
   },
   {
-   "title": "刘嘉玲晒生日蛋糕舍不得吃",
-   "link": "https://m.baidu.com/s?word=%E5%88%98%E5%98%89%E7%8E%B2%E6%99%92%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E8%88%8D%E4%B8%8D%E5%BE%97%E5%90%83&sa=fyb_news"
+   "title": "爸爸拔管抱走生病孩子失联 已被找回",
+   "link": "https://m.baidu.com/s?word=%E7%88%B8%E7%88%B8%E6%8B%94%E7%AE%A1%E6%8A%B1%E8%B5%B0%E7%94%9F%E7%97%85%E5%AD%A9%E5%AD%90%E5%A4%B1%E8%81%94+%E5%B7%B2%E8%A2%AB%E6%89%BE%E5%9B%9E&sa=fyb_news"
   }
  ],
  "ai": [
