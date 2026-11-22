@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updatedAt": "2026-11-22 06:51",
+ "updatedAt": "2026-11-22 12:37",
  "stocks": [
   {
    "name": "上证指数",
@@ -178,172 +178,184 @@
  "forex": [
   {
    "name": "美元",
-   "value": "6.693"
+   "value": "6.693",
+   "change": "+0.0003",
+   "pct": "+0.00%",
+   "up": true
   },
   {
    "name": "欧元",
-   "value": "7.338"
+   "value": "7.338",
+   "change": "-0.0004",
+   "pct": "-0.01%",
+   "up": false
   },
   {
    "name": "港币",
-   "value": "0.854"
+   "value": "0.854",
+   "change": "+0.0001",
+   "pct": "+0.01%",
+   "up": true
   },
   {
    "name": "100日元",
-   "value": "4.208"
+   "value": "4.208",
+   "change": "+0.0003",
+   "pct": "+0.01%",
+   "up": true
   }
  ],
  "btc": {
-  "usd": "59,110",
-  "cny": "394,549",
-  "pct": "+2.75%",
+  "usd": "60,564",
+  "cny": "404,256",
+  "pct": "+2.95%",
   "up": true,
   "trend": [
-   57704.28,
-   58142.83,
-   57569.61,
-   57839.45,
-   57897.17,
-   57843.9,
-   57832.27,
-   58096.95,
-   58745.62,
-   60656.78,
-   60282.93,
-   60204.55,
-   59853.15,
-   59870.07,
-   60129.22,
-   60028.7,
-   60028.65,
-   60248.77,
-   60285.06,
-   60383.46,
-   60350.94,
-   60103.22,
-   60156.95,
-   60213.92,
-   60098.42,
-   59930.62,
-   59768.53,
-   59267.51,
-   59206.76,
-   59290.13,
-   58893.29,
-   59072.58
+   58784.63,
+   59377.67,
+   60286.88,
+   60247.66,
+   59768.99,
+   59897.64,
+   60090.64,
+   59937.9,
+   60137.04,
+   60184.95,
+   60309.18,
+   60311.88,
+   60317.29,
+   60219.56,
+   60105.35,
+   60185.9,
+   60197.26,
+   60103.41,
+   60006.77,
+   59440.23,
+   59124.3,
+   59118.18,
+   59037.14,
+   58875.92,
+   59138.72,
+   59071.21,
+   59073.66,
+   59663.85,
+   60093.69,
+   60798.31,
+   60829.87,
+   60997.5
   ]
  },
- "weibo": [
+ "weibo": [],
+ "zhihu": [
   {
-   "title": "主播私闯果园带货糟蹋一千多斤苹果",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C"
+   "title": "商务部回应美拟禁止中国运营商获取电话号码资源，称相关做法破坏中美经贸稳定局面，中方坚决反对，如何解读？",
+   "link": "https://www.zhihu.com/question/2107769225699746266"
   },
   {
-   "title": "女博士卧底当主播称至今心理阴影",
-   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E5%BD%93%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%87%B3%E4%BB%8A%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1"
+   "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+   "link": "https://www.zhihu.com/question/2107620110105932525"
   },
   {
-   "title": "小雪节气独有的浪漫",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%9B%AA%E8%8A%82%E6%B0%94%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB"
+   "title": "武汉一小学设牌劝返送水壶、作业的家长，让孩子自己承担忘带东西的后果，这种方式怎么样？值得效仿吗？",
+   "link": "https://www.zhihu.com/question/2107829110864966417"
   },
   {
-   "title": "羽绒服生意变天了",
-   "link": "https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86"
+   "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”？",
+   "link": "https://www.zhihu.com/question/2107408889713115755"
   },
   {
-   "title": "斗破苍穹双帝之战",
-   "link": "https://s.weibo.com/weibo?q=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9%E5%8F%8C%E5%B8%9D%E4%B9%8B%E6%88%98"
+   "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
+   "link": "https://www.zhihu.com/question/623251460"
   },
   {
-   "title": "成毅台词真得练了",
-   "link": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%8F%B0%E8%AF%8D%E7%9C%9F%E5%BE%97%E7%BB%83%E4%BA%86"
+   "title": "AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？",
+   "link": "https://www.zhihu.com/question/2107333891975599197"
   },
   {
-   "title": "荷兰法院禁售比亚迪钛7",
-   "link": "https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E7%A6%81%E5%94%AE%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%92%9B7"
+   "title": "特朗普称将与伊朗达成一项永久性协议，为何会在这一时间放出这一消息？永久性协议内可能包含哪些内容？",
+   "link": "https://www.zhihu.com/question/2107616621631988039"
   },
   {
-   "title": "曝BLG紧急飞韩挽留Viper",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9DBLG%E7%B4%A7%E6%80%A5%E9%A3%9E%E9%9F%A9%E6%8C%BD%E7%95%99Viper"
+   "title": "胖东来搬离后原址所开新商场几乎倒闭，一商场为何会如此依赖单一零售品牌？暴露出商业地产哪些经营问题？",
+   "link": "https://www.zhihu.com/question/2107157248426492187"
   },
   {
-   "title": "假期货交易平台骗走1.2亿元",
-   "link": "https://s.weibo.com/weibo?q=%E5%81%87%E6%9C%9F%E8%B4%A7%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%E9%AA%97%E8%B5%B01.2%E4%BA%BF%E5%85%83"
+   "title": "人能控制自己的长相吗？",
+   "link": "https://www.zhihu.com/question/26497360"
   },
   {
-   "title": "朱瞻基 扫黄",
-   "link": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA%20%E6%89%AB%E9%BB%84"
+   "title": "「望梅止渴」的「梅」和「墙角数枝梅」的「梅」是一种植物吗？",
+   "link": "https://www.zhihu.com/question/20246045"
   },
   {
-   "title": "英皇到底亏了多少陈伟霆要穿成这样",
-   "link": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%9A%87%E5%88%B0%E5%BA%95%E4%BA%8F%E4%BA%86%E5%A4%9A%E5%B0%91%E9%99%88%E4%BC%9F%E9%9C%86%E8%A6%81%E7%A9%BF%E6%88%90%E8%BF%99%E6%A0%B7"
+   "title": "有人说搞南水北调不如搞海水淡化，你是否同意？",
+   "link": "https://www.zhihu.com/question/390865312"
   },
   {
-   "title": "女子多次留言强奸罪服刑男友想你了",
-   "link": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%A4%9A%E6%AC%A1%E7%95%99%E8%A8%80%E5%BC%BA%E5%A5%B8%E7%BD%AA%E6%9C%8D%E5%88%91%E7%94%B7%E5%8F%8B%E6%83%B3%E4%BD%A0%E4%BA%86"
+   "title": "长安大学回应「14日面试13日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
+   "link": "https://www.zhihu.com/question/2107570779529529086"
   }
  ],
- "zhihu": [],
  "baidu": [
   {
-   "title": "为推动亚太合作行稳致远指明方向",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BA%E6%8E%A8%E5%8A%A8%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91&sa=fyb_news"
+   "title": "习主席的深圳APEC时间",
+   "link": "https://m.baidu.com/s?word=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4&sa=fyb_news"
   },
   {
-   "title": "后劲太大 特朗普连发30多张APEC照片",
-   "link": "https://m.baidu.com/s?word=%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0APEC%E7%85%A7%E7%89%87&sa=fyb_news"
+   "title": "A股利好来了 三箭齐发",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91&sa=fyb_news"
   },
   {
-   "title": "“状元”自首 韩国已人人自危",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%8A%B6%E5%85%83%E2%80%9D%E8%87%AA%E9%A6%96+%E9%9F%A9%E5%9B%BD%E5%B7%B2%E4%BA%BA%E4%BA%BA%E8%87%AA%E5%8D%B1&sa=fyb_news"
+   "title": "这个周末数学界吵翻了",
+   "link": "https://m.baidu.com/s?word=%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%E6%95%B0%E5%AD%A6%E7%95%8C%E5%90%B5%E7%BF%BB%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "APEC“中国年”留下这些珍贵瞬间",
-   "link": "https://m.baidu.com/s?word=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%95%99%E4%B8%8B%E8%BF%99%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4&sa=fyb_news"
+   "title": "智能穿戴打开消费新空间",
+   "link": "https://m.baidu.com/s?word=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4&sa=fyb_news"
   },
   {
-   "title": "主播私闯果园带货糟蹋一千多斤苹果",
-   "link": "https://m.baidu.com/s?word=%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C&sa=fyb_news"
+   "title": "大雪暴雪来了！明起大降温",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E9%9B%AA%E6%9A%B4%E9%9B%AA%E6%9D%A5%E4%BA%86%EF%BC%81%E6%98%8E%E8%B5%B7%E5%A4%A7%E9%99%8D%E6%B8%A9&sa=fyb_news"
   },
   {
-   "title": "荷兰法院禁售比亚迪Ti7",
-   "link": "https://m.baidu.com/s?word=%E8%8D%B7%E5%85%B0%E6%B3%95%E9%99%A2%E7%A6%81%E5%94%AE%E6%AF%94%E4%BA%9A%E8%BF%AATi7&sa=fyb_news"
+   "title": "韦东奕再获奖",
+   "link": "https://m.baidu.com/s?word=%E9%9F%A6%E4%B8%9C%E5%A5%95%E5%86%8D%E8%8E%B7%E5%A5%96&sa=fyb_news"
   },
   {
-   "title": "金价跌势凌厉 多家银行发紧急提示",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&sa=fyb_news"
+   "title": "母亲往返24小时火车给儿子开家长会",
+   "link": "https://m.baidu.com/s?word=%E6%AF%8D%E4%BA%B2%E5%BE%80%E8%BF%9424%E5%B0%8F%E6%97%B6%E7%81%AB%E8%BD%A6%E7%BB%99%E5%84%BF%E5%AD%90%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A&sa=fyb_news"
   },
   {
-   "title": "演唱会突发观众冲台 王力宏与其击掌",
-   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E5%8F%91%E8%A7%82%E4%BC%97%E5%86%B2%E5%8F%B0+%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%B8%8E%E5%85%B6%E5%87%BB%E6%8E%8C&sa=fyb_news"
+   "title": "古人的头发真有那么多吗",
+   "link": "https://m.baidu.com/s?word=%E5%8F%A4%E4%BA%BA%E7%9A%84%E5%A4%B4%E5%8F%91%E7%9C%9F%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E5%90%97&sa=fyb_news"
   },
   {
-   "title": "50岁女车迷穿马面裙支持张雪机车",
-   "link": "https://m.baidu.com/s?word=50%E5%B2%81%E5%A5%B3%E8%BD%A6%E8%BF%B7%E7%A9%BF%E9%A9%AC%E9%9D%A2%E8%A3%99%E6%94%AF%E6%8C%81%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6&sa=fyb_news"
+   "title": "“1991年张大爷”刷屏 该从哪里反思",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C1991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E2%80%9D%E5%88%B7%E5%B1%8F+%E8%AF%A5%E4%BB%8E%E5%93%AA%E9%87%8C%E5%8F%8D%E6%80%9D&sa=fyb_news"
   },
   {
-   "title": "岳麓书院从古至今都在开课讲学",
-   "link": "https://m.baidu.com/s?word=%E5%B2%B3%E9%BA%93%E4%B9%A6%E9%99%A2%E4%BB%8E%E5%8F%A4%E8%87%B3%E4%BB%8A%E9%83%BD%E5%9C%A8%E5%BC%80%E8%AF%BE%E8%AE%B2%E5%AD%A6&sa=fyb_news"
+   "title": "“所有金条都卖光了”",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%89%80%E6%9C%89%E9%87%91%E6%9D%A1%E9%83%BD%E5%8D%96%E5%85%89%E4%BA%86%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "十年后重看《欢乐颂》比恨海情天还好嗑",
-   "link": "https://m.baidu.com/s?word=%E5%8D%81%E5%B9%B4%E5%90%8E%E9%87%8D%E7%9C%8B%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E6%AF%94%E6%81%A8%E6%B5%B7%E6%83%85%E5%A4%A9%E8%BF%98%E5%A5%BD%E5%97%91&sa=fyb_news"
+   "title": "GTA6为何封神",
+   "link": "https://m.baidu.com/s?word=GTA6%E4%B8%BA%E4%BD%95%E5%B0%81%E7%A5%9E&sa=fyb_news"
   },
   {
-   "title": "“防非反诈”系列条漫",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E9%98%B2%E9%9D%9E%E5%8F%8D%E8%AF%88%E2%80%9D%E7%B3%BB%E5%88%97%E6%9D%A1%E6%BC%AB&sa=fyb_news"
+   "title": "“神仙岗位”涌现 广东多地辟谣",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A5%9E%E4%BB%99%E5%B2%97%E4%BD%8D%E2%80%9D%E6%B6%8C%E7%8E%B0+%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news"
   },
   {
-   "title": "特斯拉FSD V15实拍：如同GTA游戏",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%96%AF%E6%8B%89FSD+V15%E5%AE%9E%E6%8B%8D%EF%BC%9A%E5%A6%82%E5%90%8CGTA%E6%B8%B8%E6%88%8F&sa=fyb_news"
+   "title": "胡海泉：咬咬牙挺住",
+   "link": "https://m.baidu.com/s?word=%E8%83%A1%E6%B5%B7%E6%B3%89%EF%BC%9A%E5%92%AC%E5%92%AC%E7%89%99%E6%8C%BA%E4%BD%8F&sa=fyb_news"
   },
   {
-   "title": "男子想尝拘留所饭菜 警方：安排",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E6%83%B3%E5%B0%9D%E6%8B%98%E7%95%99%E6%89%80%E9%A5%AD%E8%8F%9C+%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%AE%89%E6%8E%92&sa=fyb_news"
+   "title": "69岁齐豫演唱会清唱《橄榄树》",
+   "link": "https://m.baidu.com/s?word=69%E5%B2%81%E9%BD%90%E8%B1%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B8%85%E5%94%B1%E3%80%8A%E6%A9%84%E6%A6%84%E6%A0%91%E3%80%8B&sa=fyb_news"
   },
   {
-   "title": "金价暴跌顾客挤不上电梯爬十几层抢购",
-   "link": "https://m.baidu.com/s?word=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%A1%BE%E5%AE%A2%E6%8C%A4%E4%B8%8D%E4%B8%8A%E7%94%B5%E6%A2%AF%E7%88%AC%E5%8D%81%E5%87%A0%E5%B1%82%E6%8A%A2%E8%B4%AD&sa=fyb_news"
+   "title": "中国女富商在菲律宾遭8名警察绑架",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%8C%E5%95%86%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%81%AD8%E5%90%8D%E8%AD%A6%E5%AF%9F%E7%BB%91%E6%9E%B6&sa=fyb_news"
   }
  ],
  "ai": [
