@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updatedAt": "2026-11-22 16:20",
+ "updatedAt": "2026-11-22 19:45",
  "stocks": [
   {
    "name": "上证指数",
@@ -177,43 +177,43 @@
  },
  "forex": [],
  "btc": {
-  "usd": "60,958",
-  "cny": "406,885",
-  "pct": "+1.98%",
+  "usd": "60,676",
+  "cny": "405,003",
+  "pct": "+0.63%",
   "up": true,
   "trend": [
-   59897.64,
-   60090.64,
-   59937.9,
-   60137.04,
-   60184.95,
-   60309.18,
-   60311.88,
-   60317.29,
-   60219.56,
-   60105.35,
-   60185.9,
-   60197.26,
-   60103.41,
-   60006.77,
-   59440.23,
-   59124.3,
-   59118.18,
-   59037.14,
-   58875.92,
-   59138.72,
-   59071.21,
-   59073.66,
-   59663.85,
-   60093.69,
-   60798.31,
-   60829.87,
-   60997.5,
-   60456.64,
-   60686.6,
-   60725.42,
-   60831.99,
-   60765.29
+   60316.84,
+   60350.97,
+   60396.02,
+   60246.59,
+   60068.89,
+   60184.72,
+   60236.92,
+   60078.23,
+   60087.57,
+   59529.25,
+   59222.45,
+   59464.47,
+   59215.48,
+   58832.47,
+   58993.01,
+   59006.36,
+   59041.54,
+   59786.92,
+   59868.01,
+   60869.3,
+   60769.54,
+   60975.39,
+   61371.81,
+   60671.61,
+   60541.51,
+   60591.85,
+   60762.41,
+   60879.71,
+   61197.66,
+   60770.84,
+   60690.46,
+   60685.58
   ]
  },
  "weibo": [],
@@ -244,40 +244,40 @@
    "link": "https://m.baidu.com/s?word=%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6%E2%80%9D&sa=fyb_news"
   },
   {
+   "title": "古代从南京跑到北京十五天够用吗",
+   "link": "https://m.baidu.com/s?word=%E5%8F%A4%E4%BB%A3%E4%BB%8E%E5%8D%97%E4%BA%AC%E8%B7%91%E5%88%B0%E5%8C%97%E4%BA%AC%E5%8D%81%E4%BA%94%E5%A4%A9%E5%A4%9F%E7%94%A8%E5%90%97&sa=fyb_news"
+  },
+  {
    "title": "做饭前一个改变 血压炎症指标降了",
    "link": "https://m.baidu.com/s?word=%E5%81%9A%E9%A5%AD%E5%89%8D%E4%B8%80%E4%B8%AA%E6%94%B9%E5%8F%98+%E8%A1%80%E5%8E%8B%E7%82%8E%E7%97%87%E6%8C%87%E6%A0%87%E9%99%8D%E4%BA%86&sa=fyb_news"
-  },
-  {
-   "title": "荔枝冰酒爆单 厂家忙到没空招人",
-   "link": "https://m.baidu.com/s?word=%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E7%88%86%E5%8D%95+%E5%8E%82%E5%AE%B6%E5%BF%99%E5%88%B0%E6%B2%A1%E7%A9%BA%E6%8B%9B%E4%BA%BA&sa=fyb_news"
-  },
-  {
-   "title": "深圳水贝商家800元囤货770元出",
-   "link": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%95%86%E5%AE%B6800%E5%85%83%E5%9B%A4%E8%B4%A7770%E5%85%83%E5%87%BA&sa=fyb_news"
-  },
-  {
-   "title": "建议焦虑的人听听这段话",
-   "link": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA%E5%90%AC%E5%90%AC%E8%BF%99%E6%AE%B5%E8%AF%9D&sa=fyb_news"
-  },
-  {
-   "title": "医生回应男子每天3瓶果汁几近失明",
-   "link": "https://m.baidu.com/s?word=%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A93%E7%93%B6%E6%9E%9C%E6%B1%81%E5%87%A0%E8%BF%91%E5%A4%B1%E6%98%8E&sa=fyb_news"
-  },
-  {
-   "title": "“神仙岗位”涌现 广东多地辟谣",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A5%9E%E4%BB%99%E5%B2%97%E4%BD%8D%E2%80%9D%E6%B6%8C%E7%8E%B0+%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news"
   },
   {
    "title": "“兄台”的“台”到底是什么台",
    "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%84%E5%8F%B0%E2%80%9D%E7%9A%84%E2%80%9C%E5%8F%B0%E2%80%9D%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E5%8F%B0&sa=fyb_news"
   },
   {
-   "title": "《多喜一家人》太烧心了",
-   "link": "https://m.baidu.com/s?word=%E3%80%8A%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA%E3%80%8B%E5%A4%AA%E7%83%A7%E5%BF%83%E4%BA%86&sa=fyb_news"
+   "title": "联合国会否诞生史上首位女掌门",
+   "link": "https://m.baidu.com/s?word=%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E5%90%A6%E8%AF%9E%E7%94%9F%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D%E5%A5%B3%E6%8E%8C%E9%97%A8&sa=fyb_news"
   },
   {
-   "title": "张雪出价300万拍下自己的冠军赛车",
-   "link": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E5%87%BA%E4%BB%B7300%E4%B8%87%E6%8B%8D%E4%B8%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%A0%E5%86%9B%E8%B5%9B%E8%BD%A6&sa=fyb_news"
+   "title": "诈骗话术手册写逼死客户一个不留",
+   "link": "https://m.baidu.com/s?word=%E8%AF%88%E9%AA%97%E8%AF%9D%E6%9C%AF%E6%89%8B%E5%86%8C%E5%86%99%E9%80%BC%E6%AD%BB%E5%AE%A2%E6%88%B7%E4%B8%80%E4%B8%AA%E4%B8%8D%E7%95%99&sa=fyb_news"
+  },
+  {
+   "title": "“神仙岗位”涌现 广东多地辟谣",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E7%A5%9E%E4%BB%99%E5%B2%97%E4%BD%8D%E2%80%9D%E6%B6%8C%E7%8E%B0+%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E8%BE%9F%E8%B0%A3&sa=fyb_news"
+  },
+  {
+   "title": "羽绒服到底该怎么洗",
+   "link": "https://m.baidu.com/s?word=%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%88%B0%E5%BA%95%E8%AF%A5%E6%80%8E%E4%B9%88%E6%B4%97&sa=fyb_news"
+  },
+  {
+   "title": "建议焦虑的人听听这段话",
+   "link": "https://m.baidu.com/s?word=%E5%BB%BA%E8%AE%AE%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA%E5%90%AC%E5%90%AC%E8%BF%99%E6%AE%B5%E8%AF%9D&sa=fyb_news"
+  },
+  {
+   "title": "实探普京下榻深圳酒店",
+   "link": "https://m.baidu.com/s?word=%E5%AE%9E%E6%8E%A2%E6%99%AE%E4%BA%AC%E4%B8%8B%E6%A6%BB%E6%B7%B1%E5%9C%B3%E9%85%92%E5%BA%97&sa=fyb_news"
   }
  ],
  "ai": [
