@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updatedAt": "2026-11-23 14:43",
+ "updatedAt": "2026-11-23 20:18",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3664.30",
+  "value": "3638.17",
   "unit": "美元/盎司",
-  "change": "+129.66",
-  "pct": "+3.67%",
+  "change": "+103.53",
+  "pct": "+2.93%",
   "up": true
  },
  "forex": [],
  "btc": {
-  "usd": "63,356",
-  "cny": "422,848",
-  "pct": "+4.42%",
+  "usd": "61,371",
+  "cny": "409,411",
+  "pct": "+1.27%",
   "up": true,
   "trend": [
-   60863.32,
-   60865.21,
-   61001.13,
-   61179.63,
-   60849.21,
-   60596.55,
-   60654.05,
-   60654.68,
-   60559.1,
-   60907.04,
-   60835.04,
-   61011.52,
-   61192.38,
-   61116.04,
-   61005.35,
-   60796.13,
-   60451.78,
-   61370.07,
-   61306.62,
-   61168.68,
-   61654.9,
-   61487.95,
-   61444.66,
-   61397.81,
-   61420.52,
-   61617.78,
-   61321.33,
-   61368.37,
-   61461.63,
-   61292.15,
-   61243.49,
-   63697.28
+   60568.31,
+   60930.4,
+   60929.97,
+   60752.97,
+   60994.36,
+   61127.0,
+   60989.67,
+   61124.47,
+   60699.5,
+   60802.86,
+   61160.51,
+   61008.37,
+   61290.97,
+   61546.57,
+   61386.36,
+   61419.82,
+   61112.03,
+   61465.21,
+   61379.49,
+   61362.95,
+   61311.78,
+   61292.47,
+   61102.61,
+   61101.53,
+   63565.38,
+   63126.59,
+   62723.94,
+   62678.78,
+   61955.78,
+   61579.4,
+   61368.1,
+   61344.03
   ]
  },
  "weibo": [],
@@ -224,60 +224,60 @@
    "link": "https://m.baidu.com/s?word=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA&sa=fyb_news"
   },
   {
-   "title": "英伟达董事会恢复黄仁勋CEO职务",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news"
+   "title": "胖东来一店将关闭 羽绒服亮成本价",
+   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD+%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news"
   },
   {
-   "title": "英伟达美股盘前暴涨",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E6%9A%B4%E6%B6%A8&sa=fyb_news"
+   "title": "英伟达董事会恢复黄仁勋CEO职务",
+   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%91%A3%E4%BA%8B%E4%BC%9A%E6%81%A2%E5%A4%8D%E9%BB%84%E4%BB%81%E5%8B%8BCEO%E8%81%8C%E5%8A%A1&sa=fyb_news"
   },
   {
    "title": "探秘中国高铁的强大“内核”",
    "link": "https://m.baidu.com/s?word=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "黄仁勋：很荣幸重返英伟达",
-   "link": "https://m.baidu.com/s?word=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E5%BE%88%E8%8D%A3%E5%B9%B8%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE&sa=fyb_news"
+   "title": "特朗普手持在深圳照片向众人展示",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E6%8C%81%E5%9C%A8%E6%B7%B1%E5%9C%B3%E7%85%A7%E7%89%87%E5%90%91%E4%BC%97%E4%BA%BA%E5%B1%95%E7%A4%BA&sa=fyb_news"
   },
   {
    "title": "蔡磊发文悼念廖建文",
    "link": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%BB%96%E5%BB%BA%E6%96%87&sa=fyb_news"
   },
   {
-   "title": "英伟达：黄仁勋复职无国家安全风险",
-   "link": "https://m.baidu.com/s?word=%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9A%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E6%97%A0%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9&sa=fyb_news"
-  },
-  {
-   "title": "特朗普：让黄仁勋复职正确且恰当",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E6%AD%A3%E7%A1%AE%E4%B8%94%E6%81%B0%E5%BD%93&sa=fyb_news"
+   "title": "谢军被查 中国石油表态",
+   "link": "https://m.baidu.com/s?word=%E8%B0%A2%E5%86%9B%E8%A2%AB%E6%9F%A5+%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%A1%A8%E6%80%81&sa=fyb_news"
   },
   {
    "title": "女子嫌对面楼老旧自费7.3万刷漆",
    "link": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%AB%8C%E5%AF%B9%E9%9D%A2%E6%A5%BC%E8%80%81%E6%97%A7%E8%87%AA%E8%B4%B97.3%E4%B8%87%E5%88%B7%E6%BC%86&sa=fyb_news"
   },
   {
-   "title": "青稚凌晨直播超30万人在线观看",
-   "link": "https://m.baidu.com/s?word=%E9%9D%92%E7%A8%9A%E5%87%8C%E6%99%A8%E7%9B%B4%E6%92%AD%E8%B6%8530%E4%B8%87%E4%BA%BA%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B&sa=fyb_news"
+   "title": "97岁老人寿宴结束 五代同堂喊妈妈",
+   "link": "https://m.baidu.com/s?word=97%E5%B2%81%E8%80%81%E4%BA%BA%E5%AF%BF%E5%AE%B4%E7%BB%93%E6%9D%9F+%E4%BA%94%E4%BB%A3%E5%90%8C%E5%A0%82%E5%96%8A%E5%A6%88%E5%A6%88&sa=fyb_news"
   },
   {
-   "title": "胖东来一店将关闭 羽绒服亮成本价",
-   "link": "https://m.baidu.com/s?word=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%80%E5%BA%97%E5%B0%86%E5%85%B3%E9%97%AD+%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%AE%E6%88%90%E6%9C%AC%E4%BB%B7&sa=fyb_news"
+   "title": "“月租”酒店划不划算",
+   "link": "https://m.baidu.com/s?word=%E2%80%9C%E6%9C%88%E7%A7%9F%E2%80%9D%E9%85%92%E5%BA%97%E5%88%92%E4%B8%8D%E5%88%92%E7%AE%97&sa=fyb_news"
+  },
+  {
+   "title": "金店挤成年末顶流",
+   "link": "https://m.baidu.com/s?word=%E9%87%91%E5%BA%97%E6%8C%A4%E6%88%90%E5%B9%B4%E6%9C%AB%E9%A1%B6%E6%B5%81&sa=fyb_news"
   },
   {
    "title": "网民发免费摘甘蔗谣言被拘",
    "link": "https://m.baidu.com/s?word=%E7%BD%91%E6%B0%91%E5%8F%91%E5%85%8D%E8%B4%B9%E6%91%98%E7%94%98%E8%94%97%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98&sa=fyb_news"
   },
   {
-   "title": "美股纳指高开近7% 英伟达大涨33%",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E9%AB%98%E5%BC%80%E8%BF%917%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E6%B6%A833%25&sa=fyb_news"
+   "title": "李嘉欣晒夫妻合照纪念结婚18周年",
+   "link": "https://m.baidu.com/s?word=%E6%9D%8E%E5%98%89%E6%AC%A3%E6%99%92%E5%A4%AB%E5%A6%BB%E5%90%88%E7%85%A7%E7%BA%AA%E5%BF%B5%E7%BB%93%E5%A9%9A18%E5%91%A8%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "许飞睡衣太幼稚自己都看不下去",
-   "link": "https://m.baidu.com/s?word=%E8%AE%B8%E9%A3%9E%E7%9D%A1%E8%A1%A3%E5%A4%AA%E5%B9%BC%E7%A8%9A%E8%87%AA%E5%B7%B1%E9%83%BD%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB&sa=fyb_news"
+   "title": "A股这波行情能走多远",
+   "link": "https://m.baidu.com/s?word=A%E8%82%A1%E8%BF%99%E6%B3%A2%E8%A1%8C%E6%83%85%E8%83%BD%E8%B5%B0%E5%A4%9A%E8%BF%9C&sa=fyb_news"
   },
   {
-   "title": "蔡琴首次辟谣无性婚姻",
-   "link": "https://m.baidu.com/s?word=%E8%94%A1%E7%90%B4%E9%A6%96%E6%AC%A1%E8%BE%9F%E8%B0%A3%E6%97%A0%E6%80%A7%E5%A9%9A%E5%A7%BB&sa=fyb_news"
+   "title": "演员刘雨欣自曝美国的家再被偷",
+   "link": "https://m.baidu.com/s?word=%E6%BC%94%E5%91%98%E5%88%98%E9%9B%A8%E6%AC%A3%E8%87%AA%E6%9B%9D%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AE%B6%E5%86%8D%E8%A2%AB%E5%81%B7&sa=fyb_news"
   }
  ],
  "ai": [
