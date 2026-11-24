@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updatedAt": "2026-11-24 14:54",
+ "updatedAt": "2026-11-24 19:32",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3626.45",
+  "value": "3559.64",
   "unit": "美元/盎司",
-  "change": "-8.78",
-  "pct": "-0.24%",
+  "change": "-75.59",
+  "pct": "-2.08%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "60,408",
-  "cny": "402,607",
-  "pct": "-3.68%",
+  "usd": "59,809",
+  "cny": "398,609",
+  "pct": "-2.54%",
   "up": false,
   "trend": [
-   62851.26,
-   63147.56,
-   62705.0,
-   61826.97,
-   61768.72,
-   61323.32,
-   61470.39,
-   61117.72,
-   61049.62,
-   61292.27,
-   61292.87,
-   61320.94,
-   61189.59,
-   61136.66,
-   61514.18,
-   60928.47,
-   60093.75,
-   60298.1,
-   60433.74,
-   60510.45,
-   60562.77,
-   60373.87,
-   60363.16,
-   60211.27,
-   60229.7,
-   60026.51,
-   59873.28,
-   59746.02,
-   60316.5,
-   60209.19,
-   60067.47,
-   60197.47
+   61344.03,
+   61178.35,
+   61204.59,
+   61112.49,
+   61111.39,
+   61444.73,
+   61167.01,
+   61210.62,
+   61464.39,
+   60716.39,
+   60031.46,
+   60242.23,
+   60490.38,
+   60558.31,
+   60420.47,
+   60409.65,
+   60421.58,
+   60292.03,
+   59939.8,
+   59985.55,
+   59776.22,
+   59597.98,
+   60283.97,
+   60399.85,
+   60019.99,
+   60305.89,
+   60269.98,
+   59740.93,
+   59492.29,
+   59700.63,
+   60145.24,
+   59993.08
   ]
  },
  "weibo": [],
@@ -236,24 +236,24 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5&sa=fyb_news"
   },
   {
-   "title": "中国城市 重排全球座次",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82+%E9%87%8D%E6%8E%92%E5%85%A8%E7%90%83%E5%BA%A7%E6%AC%A1&sa=fyb_news"
+   "title": "年产1500万根的“棍子” 卖出10亿元",
+   "link": "https://m.baidu.com/s?word=%E5%B9%B4%E4%BA%A71500%E4%B8%87%E6%A0%B9%E7%9A%84%E2%80%9C%E6%A3%8D%E5%AD%90%E2%80%9D+%E5%8D%96%E5%87%BA10%E4%BA%BF%E5%85%83&sa=fyb_news"
   },
   {
-   "title": "车企老板娘女装卖了30亿",
-   "link": "https://m.baidu.com/s?word=%E8%BD%A6%E4%BC%81%E8%80%81%E6%9D%BF%E5%A8%98%E5%A5%B3%E8%A3%85%E5%8D%96%E4%BA%8630%E4%BA%BF&sa=fyb_news"
+   "title": "19楼落地窗底部装无限位外凸窗",
+   "link": "https://m.baidu.com/s?word=19%E6%A5%BC%E8%90%BD%E5%9C%B0%E7%AA%97%E5%BA%95%E9%83%A8%E8%A3%85%E6%97%A0%E9%99%90%E4%BD%8D%E5%A4%96%E5%87%B8%E7%AA%97&sa=fyb_news"
   },
   {
-   "title": "纳指低开1.5% 英伟达跌超3%",
-   "link": "https://m.baidu.com/s?word=%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%801.5%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25&sa=fyb_news"
+   "title": "东北的洗浴已经这么卷了吗",
+   "link": "https://m.baidu.com/s?word=%E4%B8%9C%E5%8C%97%E7%9A%84%E6%B4%97%E6%B5%B4%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97&sa=fyb_news"
   },
   {
    "title": "外交部回应“黄仁勋重回英伟达”",
    "link": "https://m.baidu.com/s?word=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "东北的洗浴已经这么卷了吗",
-   "link": "https://m.baidu.com/s?word=%E4%B8%9C%E5%8C%97%E7%9A%84%E6%B4%97%E6%B5%B4%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97&sa=fyb_news"
+   "title": "国产可口可乐不再标生产日期",
+   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A7%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F&sa=fyb_news"
   },
   {
    "title": "注水长剧的“狼”来了",
@@ -268,16 +268,16 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%80%E6%A0%A1%E4%B8%80%E4%B8%BB%E9%A2%98+%E6%B6%88%E8%B0%A3%E8%82%B2%E9%9D%92%E5%B9%B4&sa=fyb_news"
   },
   {
-   "title": "美股AMD跌逾9% 美光跌近9%",
-   "link": "https://m.baidu.com/s?word=%E7%BE%8E%E8%82%A1AMD%E8%B7%8C%E9%80%BE9%25+%E7%BE%8E%E5%85%89%E8%B7%8C%E8%BF%919%25&sa=fyb_news"
+   "title": "特朗普对一道中国菜念念不忘",
+   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98&sa=fyb_news"
   },
   {
-   "title": "国产可口可乐不再标生产日期",
-   "link": "https://m.baidu.com/s?word=%E5%9B%BD%E4%BA%A7%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E4%B8%8D%E5%86%8D%E6%A0%87%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F&sa=fyb_news"
+   "title": "在胳膊上贴个“小圆片”火了",
+   "link": "https://m.baidu.com/s?word=%E5%9C%A8%E8%83%B3%E8%86%8A%E4%B8%8A%E8%B4%B4%E4%B8%AA%E2%80%9C%E5%B0%8F%E5%9C%86%E7%89%87%E2%80%9D%E7%81%AB%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "特朗普致电黄仁勋：答应我一件事",
-   "link": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E7%AD%94%E5%BA%94%E6%88%91%E4%B8%80%E4%BB%B6%E4%BA%8B&sa=fyb_news"
+   "title": "余承东：iPhone用户可考虑买台Mate X8",
+   "link": "https://m.baidu.com/s?word=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E5%8F%AF%E8%80%83%E8%99%91%E4%B9%B0%E5%8F%B0Mate+X8&sa=fyb_news"
   }
  ],
  "ai": [
