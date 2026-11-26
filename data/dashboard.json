@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "updatedAt": "2026-11-26 18:27",
+ "updatedAt": "2026-11-26 21:38",
  "stocks": [
   {
    "name": "上证指数",
@@ -169,51 +169,51 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3568.59",
+  "value": "3566.26",
   "unit": "美元/盎司",
-  "change": "-19.96",
-  "pct": "-0.56%",
+  "change": "-22.29",
+  "pct": "-0.62%",
   "up": false
  },
  "forex": [],
  "btc": {
-  "usd": "60,511",
-  "cny": "403,156",
-  "pct": "+1.51%",
+  "usd": "60,875",
+  "cny": "405,634",
+  "pct": "+0.97%",
   "up": true,
   "trend": [
-   59639.88,
-   59831.84,
-   59984.48,
-   59824.48,
-   60196.35,
-   60130.17,
-   60080.11,
-   60269.51,
-   60889.03,
-   60581.41,
-   60843.04,
-   60822.89,
-   60705.11,
-   60852.34,
-   60905.07,
-   60912.86,
-   60507.92,
-   60374.38,
-   60558.08,
-   60949.38,
-   60752.78,
-   60832.55,
-   60439.85,
-   60683.26,
-   60605.62,
-   60767.38,
-   60812.46,
-   60752.53,
-   60306.01,
-   60566.47,
-   60562.19,
-   60410.92
+   60255.61,
+   60040.77,
+   59981.27,
+   60273.06,
+   60727.26,
+   60672.18,
+   60707.62,
+   60942.15,
+   60607.35,
+   60880.52,
+   60888.11,
+   60741.65,
+   60562.43,
+   60505.46,
+   60543.17,
+   60842.0,
+   60883.21,
+   60766.52,
+   60540.01,
+   60645.73,
+   60852.75,
+   60795.32,
+   60804.97,
+   60692.58,
+   60387.84,
+   60381.33,
+   60495.82,
+   60462.75,
+   60579.59,
+   60559.01,
+   60676.34,
+   60702.33
   ]
  },
  "weibo": [],
@@ -244,12 +244,12 @@
    "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE80%E6%AF%9482%E4%B8%8D%E6%95%8C%E6%B2%99%E7%89%B9&sa=fyb_news"
   },
   {
-   "title": "印度豪华婚宴变“抢饭现场”",
-   "link": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E8%B1%AA%E5%8D%8E%E5%A9%9A%E5%AE%B4%E5%8F%98%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%8E%B0%E5%9C%BA%E2%80%9D&sa=fyb_news"
+   "title": "U17国足32分钟进4球",
+   "link": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B332%E5%88%86%E9%92%9F%E8%BF%9B4%E7%90%83&sa=fyb_news"
   },
   {
-   "title": "男子买饮料抽奖中了一辆机车",
-   "link": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E4%B9%B0%E9%A5%AE%E6%96%99%E6%8A%BD%E5%A5%96%E4%B8%AD%E4%BA%86%E4%B8%80%E8%BE%86%E6%9C%BA%E8%BD%A6&sa=fyb_news"
+   "title": "上海百亿养老集资诈骗案开庭",
+   "link": "https://m.baidu.com/s?word=%E4%B8%8A%E6%B5%B7%E7%99%BE%E4%BA%BF%E5%85%BB%E8%80%81%E9%9B%86%E8%B5%84%E8%AF%88%E9%AA%97%E6%A1%88%E5%BC%80%E5%BA%AD&sa=fyb_news"
   },
   {
    "title": "周琦肘击对手被驱逐",
@@ -260,24 +260,24 @@
    "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2&sa=fyb_news"
   },
   {
-   "title": "U17国足32分钟进4球",
-   "link": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B332%E5%88%86%E9%92%9F%E8%BF%9B4%E7%90%83&sa=fyb_news"
+   "title": "警方通报3人可可西里失联被找到",
+   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
   },
   {
    "title": "湖北一网民微信群内造谣被处罚",
    "link": "https://m.baidu.com/s?word=%E6%B9%96%E5%8C%97%E4%B8%80%E7%BD%91%E6%B0%91%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%86%85%E9%80%A0%E8%B0%A3%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
   },
   {
-   "title": "董明珠回应不招留学生争议",
-   "link": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%9B%E7%95%99%E5%AD%A6%E7%94%9F%E4%BA%89%E8%AE%AE&sa=fyb_news"
+   "title": "日媒曝高市早苗深圳遭“冷遇”内幕",
+   "link": "https://m.baidu.com/s?word=%E6%97%A5%E5%AA%92%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B7%B1%E5%9C%B3%E9%81%AD%E2%80%9C%E5%86%B7%E9%81%87%E2%80%9D%E5%86%85%E5%B9%95&sa=fyb_news"
   },
   {
-   "title": "警方通报3人可可西里失联被找到",
-   "link": "https://m.baidu.com/s?word=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E4%BA%BA%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E5%A4%B1%E8%81%94%E8%A2%AB%E6%89%BE%E5%88%B0&sa=fyb_news"
+   "title": "印度豪华婚宴变“抢饭现场”",
+   "link": "https://m.baidu.com/s?word=%E5%8D%B0%E5%BA%A6%E8%B1%AA%E5%8D%8E%E5%A9%9A%E5%AE%B4%E5%8F%98%E2%80%9C%E6%8A%A2%E9%A5%AD%E7%8E%B0%E5%9C%BA%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "中国U17男足vs斐济U17",
-   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B3vs%E6%96%90%E6%B5%8EU17&sa=fyb_news"
+   "title": "彩票店中出774.1万大奖至今无人领奖",
+   "link": "https://m.baidu.com/s?word=%E5%BD%A9%E7%A5%A8%E5%BA%97%E4%B8%AD%E5%87%BA774.1%E4%B8%87%E5%A4%A7%E5%A5%96%E8%87%B3%E4%BB%8A%E6%97%A0%E4%BA%BA%E9%A2%86%E5%A5%96&sa=fyb_news"
   }
  ],
  "ai": [
