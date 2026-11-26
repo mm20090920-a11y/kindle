@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "updatedAt": "2026-11-26 08:21",
+ "updatedAt": "2026-11-26 13:56",
  "stocks": [
   {
    "name": "上证指数",
@@ -127,9 +127,9 @@
   },
   {
    "name": "恒生指数",
-   "value": "22251.62",
-   "change": "+285.61",
-   "pct": "+1.30%",
+   "value": "22226.88",
+   "change": "+260.87",
+   "pct": "+1.19%",
    "up": true,
    "trend": [
     22234.89,
@@ -169,181 +169,115 @@
  ],
  "gold": {
   "name": "黄金·伦敦金",
-  "value": "3566.17",
+  "value": "3568.65",
   "unit": "美元/盎司",
-  "change": "-22.38",
-  "pct": "-0.62%",
+  "change": "-19.90",
+  "pct": "-0.55%",
   "up": false
  },
- "forex": [
-  {
-   "name": "美元",
-   "value": "6.678"
-  },
-  {
-   "name": "欧元",
-   "value": "7.308"
-  },
-  {
-   "name": "港币",
-   "value": "0.852"
-  },
-  {
-   "name": "100日元",
-   "value": "4.192"
-  }
- ],
+ "forex": [],
  "btc": {
-  "usd": "60,578",
-  "cny": "403,527",
-  "pct": "+2.90%",
+  "usd": "60,806",
+  "cny": "405,147",
+  "pct": "+4.63%",
   "up": true,
   "trend": [
-   58891.56,
-   59197.97,
-   58812.49,
-   58937.63,
-   58776.33,
-   58474.42,
-   58641.73,
-   58422.33,
-   58258.93,
-   58515.37,
-   58158.01,
-   58562.88,
-   59483.51,
-   59562.47,
-   59734.65,
-   60057.46,
-   59976.41,
-   60216.33,
-   60244.01,
-   60035.54,
-   60150.09,
-   60374.15,
-   60574.01,
-   60693.65,
-   60787.5,
-   60653.13,
-   60651.09,
-   60973.55,
-   60836.89,
-   60743.82,
-   60456.78,
-   60561.27
+   58012.72,
+   57768.71,
+   57844.76,
+   58369.19,
+   58330.71,
+   59513.67,
+   59694.07,
+   59831.84,
+   59984.48,
+   59824.48,
+   60196.35,
+   60130.17,
+   60080.11,
+   60269.51,
+   60889.03,
+   60581.41,
+   60843.04,
+   60884.26,
+   60738.7,
+   60847.0,
+   60932.26,
+   60958.13,
+   60360.59,
+   60454.83,
+   60468.22,
+   60682.45,
+   60697.24,
+   60890.22,
+   60459.52,
+   60681.72,
+   60575.64,
+   60763.86
   ]
  },
- "weibo": [
-  {
-   "title": "业主搜到咒自家小孩WiFi名后续",
-   "link": "https://s.weibo.com/weibo?q=%E4%B8%9A%E4%B8%BB%E6%90%9C%E5%88%B0%E5%92%92%E8%87%AA%E5%AE%B6%E5%B0%8F%E5%AD%A9WiFi%E5%90%8D%E5%90%8E%E7%BB%AD"
-  },
-  {
-   "title": "后会友期才播到第8天",
-   "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%89%8D%E6%92%AD%E5%88%B0%E7%AC%AC8%E5%A4%A9"
-  },
-  {
-   "title": "2026世界市长对话乌鲁木齐",
-   "link": "https://s.weibo.com/weibo?q=2026%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90"
-  },
-  {
-   "title": "A股得拿稳了",
-   "link": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%BE%97%E6%8B%BF%E7%A8%B3%E4%BA%86"
-  },
-  {
-   "title": "王子璇文吉儿雪山对谈被删",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%96%87%E5%90%89%E5%84%BF%E9%9B%AA%E5%B1%B1%E5%AF%B9%E8%B0%88%E8%A2%AB%E5%88%A0"
-  },
-  {
-   "title": "后会友期 天娱高层",
-   "link": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%A4%A9%E5%A8%B1%E9%AB%98%E5%B1%82"
-  },
-  {
-   "title": "小米1用户催更小米18",
-   "link": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B31%E7%94%A8%E6%88%B7%E5%82%AC%E6%9B%B4%E5%B0%8F%E7%B1%B318"
-  },
-  {
-   "title": "厉娜强直性脊柱炎",
-   "link": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E"
-  },
-  {
-   "title": "蔡磊已进渐冻症终末期",
-   "link": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F"
-  },
-  {
-   "title": "曝BLG挽留Daeny",
-   "link": "https://s.weibo.com/weibo?q=%E6%9B%9DBLG%E6%8C%BD%E7%95%99Daeny"
-  },
-  {
-   "title": "王楚然 美成这种程度的我只想下跪",
-   "link": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E7%BE%8E%E6%88%90%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%88%91%E5%8F%AA%E6%83%B3%E4%B8%8B%E8%B7%AA"
-  },
-  {
-   "title": "日本40层大楼拆除居民未察觉",
-   "link": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC40%E5%B1%82%E5%A4%A7%E6%A5%BC%E6%8B%86%E9%99%A4%E5%B1%85%E6%B0%91%E6%9C%AA%E5%AF%9F%E8%A7%89"
-  }
- ],
+ "weibo": [],
  "zhihu": [],
  "baidu": [
   {
-   "title": "展现公道正义 彰显大国担当",
-   "link": "https://m.baidu.com/s?word=%E5%B1%95%E7%8E%B0%E5%85%AC%E9%81%93%E6%AD%A3%E4%B9%89+%E5%BD%B0%E6%98%BE%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93&sa=fyb_news"
+   "title": "大河奔涌启新章",
+   "link": "https://m.baidu.com/s?word=%E5%A4%A7%E6%B2%B3%E5%A5%94%E6%B6%8C%E5%90%AF%E6%96%B0%E7%AB%A0&sa=fyb_news"
   },
   {
-   "title": "今晚国内油价下调",
-   "link": "https://m.baidu.com/s?word=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83&sa=fyb_news"
+   "title": "中纪委连打三“虎”",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BA%AA%E5%A7%94%E8%BF%9E%E6%89%93%E4%B8%89%E2%80%9C%E8%99%8E%E2%80%9D&sa=fyb_news"
   },
   {
-   "title": "商务部：坚决反对美对中国加征关税",
-   "link": "https://m.baidu.com/s?word=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&sa=fyb_news"
+   "title": "武大通报：教师曾某某被免职",
+   "link": "https://m.baidu.com/s?word=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%EF%BC%9A%E6%95%99%E5%B8%88%E6%9B%BE%E6%9F%90%E6%9F%90%E8%A2%AB%E5%85%8D%E8%81%8C&sa=fyb_news"
   },
   {
-   "title": "外国游客为啥爱上“中国购”",
-   "link": "https://m.baidu.com/s?word=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%95%A5%E7%88%B1%E4%B8%8A%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B4%AD%E2%80%9D&sa=fyb_news"
+   "title": "从世界经济版图看中国经济之韧",
+   "link": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E7%89%88%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B9%8B%E9%9F%A7&sa=fyb_news"
   },
   {
-   "title": "9岁孩子手写短文《奶奶的家》看哭全网",
-   "link": "https://m.baidu.com/s?word=9%E5%B2%81%E5%AD%A9%E5%AD%90%E6%89%8B%E5%86%99%E7%9F%AD%E6%96%87%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%AE%B6%E3%80%8B%E7%9C%8B%E5%93%AD%E5%85%A8%E7%BD%91&sa=fyb_news"
+   "title": "董明珠：某些车企就是瞎搞 该灭就灭",
+   "link": "https://m.baidu.com/s?word=%E8%91%A3%E6%98%8E%E7%8F%A0%EF%BC%9A%E6%9F%90%E4%BA%9B%E8%BD%A6%E4%BC%81%E5%B0%B1%E6%98%AF%E7%9E%8E%E6%90%9E+%E8%AF%A5%E7%81%AD%E5%B0%B1%E7%81%AD&sa=fyb_news"
   },
   {
-   "title": "初三男生被清华大学“预定”",
-   "link": "https://m.baidu.com/s?word=%E5%88%9D%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E2%80%9C%E9%A2%84%E5%AE%9A%E2%80%9D&sa=fyb_news"
+   "title": "彩票店中出774.1万大奖至今无人领奖",
+   "link": "https://m.baidu.com/s?word=%E5%BD%A9%E7%A5%A8%E5%BA%97%E4%B8%AD%E5%87%BA774.1%E4%B8%87%E5%A4%A7%E5%A5%96%E8%87%B3%E4%BB%8A%E6%97%A0%E4%BA%BA%E9%A2%86%E5%A5%96&sa=fyb_news"
   },
   {
-   "title": "普京在深圳下榻酒店留下亲笔签名",
-   "link": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E7%95%99%E4%B8%8B%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D&sa=fyb_news"
+   "title": "俄空天军副总司令被捕",
+   "link": "https://m.baidu.com/s?word=%E4%BF%84%E7%A9%BA%E5%A4%A9%E5%86%9B%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4%E8%A2%AB%E6%8D%95&sa=fyb_news"
   },
   {
-   "title": "980元摆件用7年被碰坏 酒店索赔3000",
-   "link": "https://m.baidu.com/s?word=980%E5%85%83%E6%91%86%E4%BB%B6%E7%94%A87%E5%B9%B4%E8%A2%AB%E7%A2%B0%E5%9D%8F+%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%943000&sa=fyb_news"
+   "title": "青海自驾失联的3名研究生已找到",
+   "link": "https://m.baidu.com/s?word=%E9%9D%92%E6%B5%B7%E8%87%AA%E9%A9%BE%E5%A4%B1%E8%81%94%E7%9A%843%E5%90%8D%E7%A0%94%E7%A9%B6%E7%94%9F%E5%B7%B2%E6%89%BE%E5%88%B0&sa=fyb_news"
   },
   {
-   "title": "杜兰特狄龙两人对喷",
-   "link": "https://m.baidu.com/s?word=%E6%9D%9C%E5%85%B0%E7%89%B9%E7%8B%84%E9%BE%99%E4%B8%A4%E4%BA%BA%E5%AF%B9%E5%96%B7&sa=fyb_news"
+   "title": "曾沛慈：浪会起也会落",
+   "link": "https://m.baidu.com/s?word=%E6%9B%BE%E6%B2%9B%E6%85%88%EF%BC%9A%E6%B5%AA%E4%BC%9A%E8%B5%B7%E4%B9%9F%E4%BC%9A%E8%90%BD&sa=fyb_news"
   },
   {
-   "title": "“史密斯夫妇”庭外和解",
-   "link": "https://m.baidu.com/s?word=%E2%80%9C%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87%E2%80%9D%E5%BA%AD%E5%A4%96%E5%92%8C%E8%A7%A3&sa=fyb_news"
+   "title": "周杰伦转发中国台北帖文绿媒破防",
+   "link": "https://m.baidu.com/s?word=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%BD%AC%E5%8F%91%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E5%B8%96%E6%96%87%E7%BB%BF%E5%AA%92%E7%A0%B4%E9%98%B2&sa=fyb_news"
   },
   {
-   "title": "空军33型主战装备参加中国航展",
-   "link": "https://m.baidu.com/s?word=%E7%A9%BA%E5%86%9B33%E5%9E%8B%E4%B8%BB%E6%88%98%E8%A3%85%E5%A4%87%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%B1%95&sa=fyb_news"
+   "title": "陪看男篮世预赛：中国男篮vs沙特",
+   "link": "https://m.baidu.com/s?word=%E9%99%AA%E7%9C%8B%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%B2%99%E7%89%B9&sa=fyb_news"
   },
   {
-   "title": "别被冲锋衣“无氟”营销带偏",
-   "link": "https://m.baidu.com/s?word=%E5%88%AB%E8%A2%AB%E5%86%B2%E9%94%8B%E8%A1%A3%E2%80%9C%E6%97%A0%E6%B0%9F%E2%80%9D%E8%90%A5%E9%94%80%E5%B8%A6%E5%81%8F&sa=fyb_news"
+   "title": "湖北一网民微信群内造谣被处罚",
+   "link": "https://m.baidu.com/s?word=%E6%B9%96%E5%8C%97%E4%B8%80%E7%BD%91%E6%B0%91%E5%BE%AE%E4%BF%A1%E7%BE%A4%E5%86%85%E9%80%A0%E8%B0%A3%E8%A2%AB%E5%A4%84%E7%BD%9A&sa=fyb_news"
   },
   {
-   "title": "马天宇想把遗产分给朋友",
-   "link": "https://m.baidu.com/s?word=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%83%B3%E6%8A%8A%E9%81%97%E4%BA%A7%E5%88%86%E7%BB%99%E6%9C%8B%E5%8F%8B&sa=fyb_news"
+   "title": "人才缺口超百万！又一批新职业来了",
+   "link": "https://m.baidu.com/s?word=%E4%BA%BA%E6%89%8D%E7%BC%BA%E5%8F%A3%E8%B6%85%E7%99%BE%E4%B8%87%EF%BC%81%E5%8F%88%E4%B8%80%E6%89%B9%E6%96%B0%E8%81%8C%E4%B8%9A%E6%9D%A5%E4%BA%86&sa=fyb_news"
   },
   {
-   "title": "U17国足冲击世界杯淘汰赛",
-   "link": "https://m.baidu.com/s?word=U17%E5%9B%BD%E8%B6%B3%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B&sa=fyb_news"
+   "title": "中宣部原副部长蔡赴朝被开除党籍",
+   "link": "https://m.baidu.com/s?word=%E4%B8%AD%E5%AE%A3%E9%83%A8%E5%8E%9F%E5%89%AF%E9%83%A8%E9%95%BF%E8%94%A1%E8%B5%B4%E6%9C%9D%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D&sa=fyb_news"
   },
   {
-   "title": "妻子打赏男主播519万 丈夫起诉返还",
-   "link": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E6%89%93%E8%B5%8F%E7%94%B7%E4%B8%BB%E6%92%AD519%E4%B8%87+%E4%B8%88%E5%A4%AB%E8%B5%B7%E8%AF%89%E8%BF%94%E8%BF%98&sa=fyb_news"
+   "title": "王忠林被罢免全国人大代表职务",
+   "link": "https://m.baidu.com/s?word=%E7%8E%8B%E5%BF%A0%E6%9E%97%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%81%8C%E5%8A%A1&sa=fyb_news"
   }
  ],
  "ai": [
